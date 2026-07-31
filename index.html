@@ -1175,6 +1175,8 @@ function renderSVG(svgId,legs,size){
 
     const evts = getMemberEvents(leg);
     const hasCargo = evts && evts.some(e => e.tipo === 'Cargo Oficial');
+    const score = getLegScore(leg);
+
     if (hasCargo) {
       const nr = Math.max(1.2, r * 0.38);
       const nc = document.createElementNS(ns, 'circle');
@@ -1186,6 +1188,35 @@ function renderSVG(svgId,legs,size){
       nc.setAttribute('stroke-width', '0.6');
       nc.setAttribute('class', 'noti-ring');
       g.appendChild(nc);
+    }
+
+    // Score badge in top-left corner
+    if (score > 0 && r >= 3) {
+      const badgeR = Math.max(1.8, r * 0.48);
+      const bx = (s.x - r * 0.62).toFixed(1);
+      const by = (s.y - r * 0.62).toFixed(1);
+
+      const badgeBg = document.createElementNS(ns, 'circle');
+      badgeBg.setAttribute('cx', bx);
+      badgeBg.setAttribute('cy', by);
+      badgeBg.setAttribute('r', badgeR.toFixed(1));
+      badgeBg.setAttribute('fill', 'rgba(0,0,0,0.65)');
+      badgeBg.setAttribute('stroke', 'rgba(255,255,255,0.4)');
+      badgeBg.setAttribute('stroke-width', '0.4');
+      badgeBg.setAttribute('pointer-events', 'none');
+      g.appendChild(badgeBg);
+
+      const badgeTxt = document.createElementNS(ns, 'text');
+      badgeTxt.setAttribute('x', bx);
+      badgeTxt.setAttribute('y', (parseFloat(by) + badgeR * 0.38).toFixed(1));
+      badgeTxt.setAttribute('text-anchor', 'middle');
+      badgeTxt.setAttribute('font-size', (Math.max(1.4, badgeR * 0.85)).toFixed(1));
+      badgeTxt.setAttribute('font-weight', '900');
+      badgeTxt.setAttribute('fill', '#ffd700');
+      badgeTxt.setAttribute('font-family', 'Inter,sans-serif');
+      badgeTxt.setAttribute('pointer-events', 'none');
+      badgeTxt.textContent = score > 99 ? '99+' : score;
+      g.appendChild(badgeTxt);
     }
     
     g.onclick = (e) => { e.stopPropagation(); openP(leg); };
