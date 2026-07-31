@@ -1,0 +1,1738 @@
+{
+  "P": {
+    "FP": {
+      "n": "Fuerza Popular",
+      "ldr": "K. Fujimori",
+      "c": "#e8680a",
+      "id": "Centro-derecha",
+      "ab": "FP"
+    },
+    "JP": {
+      "n": "Juntos por el Peru",
+      "ldr": "R. Sanchez",
+      "c": "#1d9152",
+      "id": "Centro-izquierda",
+      "ab": "JP"
+    },
+    "RP": {
+      "n": "Renovacion Popular",
+      "ldr": "R. Lopez Aliaga",
+      "c": "#1a6faa",
+      "id": "Derecha conservadora",
+      "ab": "RP"
+    },
+    "PBG": {
+      "n": "Partido del Buen Gobierno",
+      "ldr": "J. Nieto",
+      "c": "#b8940a",
+      "id": "Centro",
+      "ab": "PBG"
+    },
+    "PCO": {
+      "n": "Partido Civico Obras",
+      "ldr": "R. Belmont",
+      "c": "#0d8a74",
+      "id": "Derecha populista",
+      "ab": "PCO"
+    },
+    "AN": {
+      "n": "Ahora Nacion",
+      "ldr": "A. Lopez-Chau",
+      "c": "#a82820",
+      "id": "Socialdemocrata",
+      "ab": "AN"
+    }
+  },
+  "INFO_MAP": {
+    "Alejandro Aurelio Aguinaga Recuenco": {
+      "district": "Lambayeque",
+      "email": "aaguinaga@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/aguinaga-recuenco-alejandro-aurelio/",
+      "gender": "Masculino"
+    },
+    "María Lourdes Pia Luisa Alcorta Suero": {
+      "district": "Nacional (Distrito Único)",
+      "email": "malcorta@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/alcorta-suero-maria-lourdes-pia-luisa/",
+      "gender": "Femenino"
+    },
+    "Katherine Milagros Ampuero Meza": {
+      "district": "Nacional (Distrito Único)",
+      "email": "kampuero@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/ampuero-meza-katherine-milagros/",
+      "gender": "Femenino"
+    },
+    "Serafín Andrés Luján": {
+      "district": "Huánuco",
+      "email": "sandres@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/andres-lujan-serafin/",
+      "gender": "Masculino"
+    },
+    "José Berley Arista Arbildo": {
+      "district": "Amazonas",
+      "email": "jarista@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/arista-arbildo-jose-berley/",
+      "gender": "Masculino"
+    },
+    "Saul Andrés Armacanqui Morales": {
+      "district": "Nacional (Distrito Único)",
+      "email": "sarmacanqui@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/armacanqui-morales-saul-andres/",
+      "gender": "Masculino"
+    },
+    "Roger Miguel Astucuri Laura": {
+      "district": "Nacional (Distrito Único)",
+      "email": "rastucuri@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/astucuri-laura-roger-miguel/",
+      "gender": "Masculino"
+    },
+    "César Augusto Astudillo Salcedo": {
+      "district": "Nacional (Distrito Único)",
+      "email": "castudillo@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/astudillo-salcedo-cesar-augusto/",
+      "gender": "Masculino"
+    },
+    "Daniel Hugo Barragán Coloma": {
+      "district": "Nacional (Distrito Único)",
+      "email": "dbarragan@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/barragan-coloma-daniel-hugo/",
+      "gender": "Masculino"
+    },
+    "Nora Bonifaz Carmona": {
+      "district": "Lima Metropolitana",
+      "email": "nbonifaz@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/bonifaz-carmona-nora/",
+      "gender": "Femenino"
+    },
+    "Carlos David Caballero León": {
+      "district": "Nacional (Distrito Único)",
+      "email": "ccaballero@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/caballero-leon-carlos-david/",
+      "gender": "Masculino"
+    },
+    "Francisco José Calisto Giampietri": {
+      "district": "Lima Metropolitana",
+      "email": "fcalisto@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/calisto-giampietri-francisco-jose/",
+      "gender": "Masculino"
+    },
+    "José Mercedes Castillo Terrones": {
+      "district": "Nacional (Distrito Único)",
+      "email": "jcastillot@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/castillo-terrones-jose-mercedes/",
+      "gender": "Masculino"
+    },
+    "Hugo Isaac Ccahuana Aymachoque": {
+      "district": "Madre de Dios",
+      "email": "hccahuana@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/ccahuana-aymachoque-hugo-isaac/",
+      "gender": "Masculino"
+    },
+    "Nilza Merly Chacón Trujillo": {
+      "district": "Áncash",
+      "email": "nchacon@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/chacon-trujillo-nilza-merly/",
+      "gender": "Femenino"
+    },
+    "Martha Gladys Chavez Cossio": {
+      "district": "Nacional (Distrito Único)",
+      "email": "mchavez@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/chavez-cossio-martha-gladys/",
+      "gender": "Femenino"
+    },
+    "Jaime Moises Chipana Chipana": {
+      "district": "Puno",
+      "email": "jchipana@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/chipana-chipana-jaime-moises/",
+      "gender": "Masculino"
+    },
+    "Víctor Raúl Cutipa Ccama": {
+      "district": "Moquegua",
+      "email": "vcutipa@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/cutipa-ccama-victor-raul/",
+      "gender": "Masculino"
+    },
+    "Juan Carlos Del Aguila Cardenas": {
+      "district": "Loreto",
+      "email": "jdelaguila@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/del-aguila-cardenas-juan-carlos/",
+      "gender": "Masculino"
+    },
+    "Jaime Ricardo Delgado Zegarra": {
+      "district": "Nacional (Distrito Único)",
+      "email": "jdelgadoz@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/delgado-zegarra-jaime-ricardo/",
+      "gender": "Masculino"
+    },
+    "Flavio Felipe Figallo Rivadeneyra": {
+      "district": "Nacional (Distrito Único)",
+      "email": "ffigallo@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/figallo-rivadeneyra-flavio-felipe/",
+      "gender": "Masculino"
+    },
+    "Agripina María del Pilar Flores Córdova": {
+      "district": "Nacional (Distrito Único)",
+      "email": "aflores@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/flores-cordova-agripina-maria-del-pilar/",
+      "gender": "Femenino"
+    },
+    "Víctor Seferino Flores Ruiz": {
+      "district": "La Libertad",
+      "email": "vflores@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/flores-ruiz-victor-seferino/",
+      "gender": "Masculino"
+    },
+    "Juver Nilson Flores Suarez": {
+      "district": "Arequipa",
+      "email": "jflores@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/flores-suarez-juver-nilson/",
+      "gender": "Masculino"
+    },
+    "Walter Francisco Gago Rodríguez": {
+      "district": "Nacional (Distrito Único)",
+      "email": "wgago@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/gago-rodriguez-walter-francisco/",
+      "gender": "Masculino"
+    },
+    "Jorge Octavio Gavidia Rodríguez": {
+      "district": "Nacional (Distrito Único)",
+      "email": "jgavidia@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/gavidia-rodriguez-jorge-octavio/",
+      "gender": "Masculino"
+    },
+    "Patricia Milagros Iturregui Byrne": {
+      "district": "Nacional (Distrito Único)",
+      "email": "piturregui@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/iturregui-byrne-patricia-milagros/",
+      "gender": "Femenino"
+    },
+    "María de los Milagros Jauregui Martínez": {
+      "district": "Lima Metropolitana",
+      "email": "mjauregui@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/jauregui-martinez-maria-de-los-milagros/",
+      "gender": "Femenino"
+    },
+    "David Julio Jiménez Heredia": {
+      "district": "Junín",
+      "email": "djimenez@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/jimenez-heredia-david-julio/",
+      "gender": "Masculino"
+    },
+    "Carmen Patricia Juarez Gallegos": {
+      "district": "Nacional (Distrito Único)",
+      "email": "pjuarez@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/juarez-gallegos-carmen-patricia/",
+      "gender": "Femenino"
+    },
+    "Pablo Alfonso López Chau Nava": {
+      "district": "Nacional (Distrito Único)",
+      "email": "plopezchau@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/chau-nava-pablo-alfonso-lopez/",
+      "gender": "Masculino"
+    },
+    "Ruth Luque Ibarra": {
+      "district": "Nacional (Distrito Único)",
+      "email": "rluque@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/luque-ibarra-ruth/",
+      "gender": "Femenino"
+    },
+    "Estanislao Edgar Mancha Pineda": {
+      "district": "Nacional (Distrito Único)",
+      "email": "emancha@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/mancha-pineda-estanislao-edgar/",
+      "gender": "Masculino"
+    },
+    "Iber Antenor Maravi Olarte": {
+      "district": "Nacional (Distrito Único)",
+      "email": "imaravi@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/maravi-olarte-iber-antenor/",
+      "gender": "Masculino"
+    },
+    "Susana Flor de María Matute Charun": {
+      "district": "Nacional (Distrito Único)",
+      "email": "smatute@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/matute-charun-susana-flor-de-maria/",
+      "gender": "Femenino"
+    },
+    "Elard Galo Melgar Valdez": {
+      "district": "Lima Provincias",
+      "email": "emelgar@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/melgar-valdez-elard-galo/",
+      "gender": "Masculino"
+    },
+    "Carlos Fernando Mesía Ramírez": {
+      "district": "Nacional (Distrito Único)",
+      "email": "cmesia@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/mesia-ramirez-carlos-fernando/",
+      "gender": "Masculino"
+    },
+    "Marco Enrique Miyashiro Arashiro": {
+      "district": "Lima Metropolitana",
+      "email": "mmiyashiro@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/miyashiro-arashiro-marco-enrique/",
+      "gender": "Masculino"
+    },
+    "Edyson Humberto Morales Ramírez": {
+      "district": "Ayacucho",
+      "email": "emoralesr@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/morales-ramirez-edyson-humberto/",
+      "gender": "Masculino"
+    },
+    "Martha Lupe Moyano Delgado": {
+      "district": "Nacional (Distrito Único)",
+      "email": "mmoyano@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/moyano-delgado-martha-lupe/",
+      "gender": "Femenino"
+    },
+    "Alejandro Muñante Barrios": {
+      "district": "Nacional (Distrito Único)",
+      "email": "amunante@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/munante-barrios-alejandro/",
+      "gender": "Masculino"
+    },
+    "Víctor Manuel Noriega Reátegui": {
+      "district": "San Martín",
+      "email": "vnoriega@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/noriega-reategui-victor-manuel/",
+      "gender": "Masculino"
+    },
+    "Percy Herbert Osorio Palpán": {
+      "district": "Pasco",
+      "email": "posorio@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/osorio-palpan-percy-herbert/",
+      "gender": "Masculino"
+    },
+    "Bernardo Jaime Quito Sarmiento": {
+      "district": "Nacional (Distrito Único)",
+      "email": "bquito@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/quito-sarmiento-bernardo-jaime/",
+      "gender": "Masculino"
+    },
+    "Andrés Avelino Ramos Huillcas": {
+      "district": "Apurímac",
+      "email": "aramos@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/ramos-huillcas-andres-avelino/",
+      "gender": "Masculino"
+    },
+    "Silvana Emperatriz Robles Araujo": {
+      "district": "Nacional (Distrito Único)",
+      "email": "srobles@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/robles-araujo-silvana-emperatriz/",
+      "gender": "Femenino"
+    },
+    "Jacques Salomón Rodrich Ackerman": {
+      "district": "Callao",
+      "email": "jrodrich@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/rodrich-ackerman-jacques-salomon/",
+      "gender": "Masculino"
+    },
+    "Fernando Miguel Rospigliosi Capurro": {
+      "district": "Nacional (Distrito Único)",
+      "email": "frospigliosi@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/rospigliosi-capurro-fernando-miguel/",
+      "gender": "Masculino"
+    },
+    "Karla Melissa Schaefer Cuculiza": {
+      "district": "Piura",
+      "email": "kschaefer@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/schaefer-cuculiza-karla-melissa/",
+      "gender": "Femenino"
+    },
+    "Segundo Leocadio Tapia Bernal": {
+      "district": "Cajamarca",
+      "email": "stapia@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/tapia-bernal-segundo-leocadio/",
+      "gender": "Masculino"
+    },
+    "Juana Guisella Ticona Cohaila": {
+      "district": "Tacna",
+      "email": "jticona@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/ticona-cohaila-juana-guisella/",
+      "gender": "Femenino"
+    },
+    "Miguel Ángel Torres Morales": {
+      "district": "Nacional (Distrito Único)",
+      "email": "mtorres@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/torres-morales-miguel-angel/",
+      "gender": "Masculino"
+    },
+    "Mirtha Esther Vasquez Chuquilin": {
+      "district": "Nacional (Distrito Único)",
+      "email": "mvasquezc@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/vasquez-chuquilin-mirtha-esther/",
+      "gender": "Femenino"
+    },
+    "Absalón Vásquez Villanueva": {
+      "district": "Nacional (Distrito Único)",
+      "email": "avasquezv@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/vasquez-villanueva-absalon/",
+      "gender": "Masculino"
+    },
+    "Miguel Angel Velasquez García": {
+      "district": "Peruanos en el exterior",
+      "email": "mvelasquez@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/velasquez-garcia-miguel-angel/",
+      "gender": "Masculino"
+    },
+    "Jorge Velasquez Portocarrero": {
+      "district": "Ucayali",
+      "email": "jvelasquez@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/velasquez-portocarrero-jorge/",
+      "gender": "Masculino"
+    },
+    "Héctor José Ventura Angel": {
+      "district": "Tumbes",
+      "email": "hventura@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/ventura-angel-hector-jose/",
+      "gender": "Masculino"
+    },
+    "Wilfredo Verano Saravia": {
+      "district": "Cusco",
+      "email": "wverano@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/verano-saravia-wilfredo/",
+      "gender": "Masculino"
+    },
+    "Rafael Gustavo Yamashiro Ore": {
+      "district": "Ica",
+      "email": "ryamashiro@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/yamashiro-ore-rafael-gustavo/",
+      "gender": "Masculino"
+    },
+    "Joaquín Yauri Tunque": {
+      "district": "Huancavelica",
+      "email": "jyauri@congreso.gob.pe",
+      "url": "https://senado.congreso.gob.pe/senador/yauri-tunque-joaquin/",
+      "gender": "Masculino"
+    },
+    "Jaime Américo Abensur Pinasco": {
+      "district": "Ucayali",
+      "email": "jabensur@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/abensur-pinasco-jaime-americo/",
+      "gender": "Masculino"
+    },
+    "Marlon Alberto Aguirre Ramos": {
+      "district": "Junín",
+      "email": "maguirre@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/aguirre-ramos-marlon-alberto/",
+      "gender": "Masculino"
+    },
+    "Rossana Herminia Alayza Maccera": {
+      "district": "Lima Metropolitana",
+      "email": "ralayza@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/alayza-maccera-rossana-herminia/",
+      "gender": "Femenino"
+    },
+    "Henry Antonio Albañil Carmona": {
+      "district": "Piura",
+      "email": "halbanil@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/albanil-carmona-henry-antonio/",
+      "gender": "Masculino"
+    },
+    "Luis Arturo Alegría García": {
+      "district": "San Martín",
+      "email": "aalegria@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/alegria-garcia-luis-arturo/",
+      "gender": "Masculino"
+    },
+    "Edgar Adrián Alvaron De la Cruz": {
+      "district": "Áncash",
+      "email": "ealvaron@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/alvaron-de-la-cruz-edgar-adrian/",
+      "gender": "Masculino"
+    },
+    "Yuli Liliana Ambrosio Dominguez": {
+      "district": "Huánuco",
+      "email": "yambrosio@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/ambrosio-dominguez-yuli-liliana/",
+      "gender": "Femenino"
+    },
+    "Gladys Griselda Andrade Salguero de Alvarez": {
+      "district": "Lima Provincias",
+      "email": "gandrade@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/andrade-salguero-de-alvarez-gladys-griselda/",
+      "gender": "Femenino"
+    },
+    "Christian Aranda Vasquez": {
+      "district": "Arequipa",
+      "email": "caranda@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/aranda-vasquez-christian/",
+      "gender": "Masculino"
+    },
+    "Marleny Bibiana Arminta Valencia": {
+      "district": "Arequipa",
+      "email": "marminta@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/arminta-valencia-marleny-bibiana/",
+      "gender": "Femenino"
+    },
+    "Giannina Iris Avendaño Vilca": {
+      "district": "Lima Metropolitana",
+      "email": "gavendano@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/avendano-vilca-giannina-iris/",
+      "gender": "Femenino"
+    },
+    "José Isidro Baella Malca": {
+      "district": "Lima Metropolitana",
+      "email": "jbaella@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/baella-malca-jose-isidro/",
+      "gender": "Masculino"
+    },
+    "Rosangela Andrea Barbarán Reyes": {
+      "district": "Lima Metropolitana",
+      "email": "rbarbaran@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/barbaran-reyes-rosangela-andrea/",
+      "gender": "Femenino"
+    },
+    "Diego Alonso Fernando Bazán Calderón": {
+      "district": "La Libertad",
+      "email": "dbazan@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/bazan-calderon-diego-alonso-fernando/",
+      "gender": "Masculino"
+    },
+    "Jessica Benitez Barrionuevo": {
+      "district": "Lima Metropolitana",
+      "email": "jbenitez@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/benitez-barrionuevo-jessica/",
+      "gender": "Femenino"
+    },
+    "Karina Juliza Beteta Rubín": {
+      "district": "Huánuco",
+      "email": "kbeteta@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/beteta-rubin-karina-juliza/",
+      "gender": "Femenino"
+    },
+    "Angel Bruno Bobadilla Galindo": {
+      "district": "Callao",
+      "email": "abobadillag@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/bobadilla-galindo-angel-bruno/",
+      "gender": "Masculino"
+    },
+    "Aldo Antonio Bravo Quispe": {
+      "district": "Lima Metropolitana",
+      "email": "abravo@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/bravo-quispe-aldo-antonio/",
+      "gender": "Masculino"
+    },
+    "Freshman Buitron Martínez": {
+      "district": "Ayacucho",
+      "email": "fbuitron@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/buitron-martinez-freshman/",
+      "gender": "Masculino"
+    },
+    "Juan César Cabrera Nieto": {
+      "district": "Tacna",
+      "email": "jcabreran@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/cabrera-nieto-juan-cesar/",
+      "gender": "Masculino"
+    },
+    "Oswar Elbis Cahuaza Mitivire": {
+      "district": "Ucayali",
+      "email": "ocahuaza@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/cahuaza-mitivire-oswar-elbis/",
+      "gender": "Masculino"
+    },
+    "Raúl Jesús Camargo Porta": {
+      "district": "Lima Metropolitana",
+      "email": "rcamargo@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/camargo-porta-raul-jesus/",
+      "gender": "Masculino"
+    },
+    "Eduardo Enrique Castillo Rivas": {
+      "district": "Piura",
+      "email": "ecastillor@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/castillo-rivas-eduardo-enrique/",
+      "gender": "Masculino"
+    },
+    "Segundo Juan Castrejón Fernández": {
+      "district": "Lambayeque",
+      "email": "scastrejon@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/castrejon-fernandez-segundo-juan/",
+      "gender": "Masculino"
+    },
+    "Javier Alejandro Castro Cruz": {
+      "district": "Lambayeque",
+      "email": "jcastro@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/castro-cruz-javier-alejandro/",
+      "gender": "Masculino"
+    },
+    "Royser Castro Grandez": {
+      "district": "Amazonas",
+      "email": "rcastro@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/castro-grandez-royser/",
+      "gender": "Masculino"
+    },
+    "Rafael Aldo Celiz Castillo": {
+      "district": "Tumbes",
+      "email": "rceliz@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/celiz-castillo-rafael-aldo/",
+      "gender": "Masculino"
+    },
+    "Cecilia Isabel Chacón De Vettori": {
+      "district": "Lima Metropolitana",
+      "email": "cchacon@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/chacon-de-vettori-cecilia-isabel/",
+      "gender": "Femenino"
+    },
+    "Felix See Hung Chang Apuy": {
+      "district": "Piura",
+      "email": "fchang@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/chang-apuy-felix-see-hung/",
+      "gender": "Masculino"
+    },
+    "Graciela Chipana Condori": {
+      "district": "Moquegua",
+      "email": "gchipana@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/chipana-condori-graciela/",
+      "gender": "Femenino"
+    },
+    "Javier José María Cipriani Thorne": {
+      "district": "Lima Metropolitana",
+      "email": "jcipriani@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/cipriani-thorne-javier-jose-maria/",
+      "gender": "Masculino"
+    },
+    "Harvey Julio Colchado Huamani": {
+      "district": "Lima Metropolitana",
+      "email": "hcolchado@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/colchado-huamani-harvey-julio/",
+      "gender": "Masculino"
+    },
+    "Diethell Columbus Murata": {
+      "district": "Lima Metropolitana",
+      "email": "dcolumbus@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/columbus-murata-diethell/",
+      "gender": "Masculino"
+    },
+    "Remigio Condori Flores": {
+      "district": "Puno",
+      "email": "rcondori@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/condori-flores-remigio/",
+      "gender": "Masculino"
+    },
+    "Leo Miguel De Paz Lancho": {
+      "district": "Lima Metropolitana",
+      "email": "ldepaz@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/paz-lancho-leo-miguel-de/",
+      "gender": "Masculino"
+    },
+    "Pierangeli Daniela Dodero Jovich": {
+      "district": "Lima Metropolitana",
+      "email": "pdodero@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/dodero-jovich-pierangeli-daniela/",
+      "gender": "Masculino"
+    },
+    "Carlos Alberto Dominguez Herrera": {
+      "district": "Áncash",
+      "email": "cdominguez@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/dominguez-herrera-carlos-alberto/",
+      "gender": "Masculino"
+    },
+    "Georgina Duarte de Pezet": {
+      "district": "Junín",
+      "email": "gduartep@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/duarte-patino-de-pezet-carmen-georgina/",
+      "gender": "Femenino"
+    },
+    "Edwin Espinoza Huillca": {
+      "district": "Cusco",
+      "email": "eespinozah@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/espinoza-huillca-edwin/",
+      "gender": "Masculino"
+    },
+    "Arturo César Eusebio Padilla": {
+      "district": "Lima Provincias",
+      "email": "aeusebio@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/eusebio-padilla-arturo-cesar/",
+      "gender": "Masculino"
+    },
+    "Hilda Judit Fernández de la Torre": {
+      "district": "Lima Metropolitana",
+      "email": "hfernandez@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/fernandez-de-la-torre-hilda-judit/",
+      "gender": "Femenino"
+    },
+    "Svieta Valia Fernández Gonzalez": {
+      "district": "Tacna",
+      "email": "sfernandezg@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/fernandez-gonzalez-svieta-valia/",
+      "gender": "Femenino"
+    },
+    "Nery Rodolfo Fernández Nina": {
+      "district": "Moquegua",
+      "email": "nfernandezn@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/fernandez-nina-nery-rodolfo/",
+      "gender": "Masculino"
+    },
+    "Pier Paolo Figari Mendoza": {
+      "district": "Lima Metropolitana",
+      "email": "pfigari@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/figari-mendoza-pier-paolo/",
+      "gender": "Masculino"
+    },
+    "Marco Antonio Flores Valdizan": {
+      "district": "Huánuco",
+      "email": "mflores@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/flores-valdizan-marco-antonio/",
+      "gender": "Masculino"
+    },
+    "Luzmila María del Carmen Gamarra Pita": {
+      "district": "Áncash",
+      "email": "lgamarra@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/gamarra-pita-luzmila-maria-del-carmen/",
+      "gender": "Femenino"
+    },
+    "Fernando Alberto García Huby": {
+      "district": "Callao",
+      "email": "fgarcia@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/garcia-huby-fernando-alberto/",
+      "gender": "Masculino"
+    },
+    "Francisco Javier Gatica Vega": {
+      "district": "San Martín",
+      "email": "fgatica@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/gatica-vega-francisco-javier/",
+      "gender": "Masculino"
+    },
+    "Gabriel Robertino Gonzales Delgado": {
+      "district": "Cajamarca",
+      "email": "ggonzales@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/gonzales-delgado-gabriel-robertino/",
+      "gender": "Masculino"
+    },
+    "Edgar Dember Gonzales Polar": {
+      "district": "Arequipa",
+      "email": "egonzales@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/gonzales-polar-edgar-dember/",
+      "gender": "Masculino"
+    },
+    "Jessica Roxana Guevara Ramírez": {
+      "district": "Cajamarca",
+      "email": "jguevara@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/guevara-ramirez-jessica-roxana/",
+      "gender": "Femenino"
+    },
+    "Héctor Guillen Valencia": {
+      "district": "Huancavelica",
+      "email": "hguillen@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/guillen-valencia-hector/",
+      "gender": "Masculino"
+    },
+    "Dina Irene Hancco Hancco": {
+      "district": "Puno",
+      "email": "dhancco@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/hancco-hancco-dina-irene/",
+      "gender": "Femenino"
+    },
+    "Gloria Charito Hirache Pizarro": {
+      "district": "Arequipa",
+      "email": "ghirache@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/hirache-pizarro-gloria-charito/",
+      "gender": "Femenino"
+    },
+    "James Arturo Holguin Aguirre": {
+      "district": "Madre de Dios",
+      "email": "jholguin@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/holguin-aguirre-james-arturo/",
+      "gender": "Masculino"
+    },
+    "Cesar Augusto Holguin Loaiza": {
+      "district": "Cusco",
+      "email": "cholguin@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/holguin-loaiza-cesar-augusto/",
+      "gender": "Masculino"
+    },
+    "Miguel Felix Huamán Cornejo": {
+      "district": "Piura",
+      "email": "mhuamanc@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/huaman-cornejo-miguel-felix/",
+      "gender": "Masculino"
+    },
+    "Indira Isabel Huilca Flores": {
+      "district": "Lima Metropolitana",
+      "email": "ihuilca@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/huilca-flores-indira-isabel/",
+      "gender": "Femenino"
+    },
+    "Mery Eliana Infantes Castañeda": {
+      "district": "Amazonas",
+      "email": "minfantes@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/infantes-castaneda-mery-eliana/",
+      "gender": "Femenino"
+    },
+    "Azucena Isla Rojas": {
+      "district": "Loreto",
+      "email": "aisla@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/isla-rojas-azucena/",
+      "gender": "Femenino"
+    },
+    "Luis Angel Jibaja Ramos": {
+      "district": "Cajamarca",
+      "email": "ljibaja@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/jibaja-ramos-luis-angel/",
+      "gender": "Masculino"
+    },
+    "Frank Krklec Torres": {
+      "district": "Lima Metropolitana",
+      "email": "fkrklec@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/krklec-torres-frank/",
+      "gender": "Masculino"
+    },
+    "Marino Teofilo Lavado Valdivia": {
+      "district": "La Libertad",
+      "email": "mlavado@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/lavado-valdivia-marino-teofilo/",
+      "gender": "Masculino"
+    },
+    "Leticia Maruja Leiva Baylon": {
+      "district": "La Libertad",
+      "email": "lleivab@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/leiva-baylon-leticia-maruja/",
+      "gender": "Femenino"
+    },
+    "Nora María Llaque Linares": {
+      "district": "La Libertad",
+      "email": "nllaque@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/llaque-linares-nora-maria/",
+      "gender": "Femenino"
+    },
+    "Heber López Letona": {
+      "district": "Cusco",
+      "email": "hlopez@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/lopez-letona-heber/",
+      "gender": "Masculino"
+    },
+    "Alejandro José Manay Pillaca": {
+      "district": "Ayacucho",
+      "email": "amanay@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/manay-pillaca-alejandro-jose/",
+      "gender": "Masculino"
+    },
+    "Bernardino Jair Manrique Olivera": {
+      "district": "Lima Metropolitana",
+      "email": "bmanrique@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/manrique-olivera-bernardino-jair/",
+      "gender": "Masculino"
+    },
+    "José Miguel Marcelo Salazar": {
+      "district": "Áncash",
+      "email": "jmarcelo@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/marcelo-salazar-jose-miguel/",
+      "gender": "Masculino"
+    },
+    "Analí Marquez Huanca": {
+      "district": "Cusco",
+      "email": "amarquez@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/marquez-huanca-anali/",
+      "gender": "Femenino"
+    },
+    "Paola Isabel Martínez Paitán": {
+      "district": "Lima Metropolitana",
+      "email": "pmartinezp@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/martinez-paitan-paola-isabel/",
+      "gender": "Femenino"
+    },
+    "Luis Aurelio Masco Cáceres": {
+      "district": "Arequipa",
+      "email": "lmasco@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/masco-caceres-luis-aurelio/",
+      "gender": "Masculino"
+    },
+    "Andrea Dayna Medina Stein": {
+      "district": "Lima Metropolitana",
+      "email": "amedina@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/medina-stein-andrea-dayna/",
+      "gender": "Femenino"
+    },
+    "Liz Huli Mendoza Bernedo": {
+      "district": "Peruanos en el Extranjero",
+      "email": "lmendozab@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/mendoza-bernedo-liz-huli/",
+      "gender": "Femenino"
+    },
+    "Angel Renato Meneses Crispin": {
+      "district": "Lima Metropolitana",
+      "email": "ameneses@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/meneses-crispin-angel-renato/",
+      "gender": "Masculino"
+    },
+    "Flor de Jesús Meza Rivera": {
+      "district": "Lima Metropolitana",
+      "email": "fmeza@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/meza-rivera-flor-de-jesus/",
+      "gender": "Femenino"
+    },
+    "Nathaly Milagros Molina Soto": {
+      "district": "Lima Metropolitana",
+      "email": "nmolinas@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/molina-soto-nathaly-milagros/",
+      "gender": "Femenino"
+    },
+    "Cesar Augusto Muedas Balbiese": {
+      "district": "Junín",
+      "email": "cmuedas@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/muedas-balbiese-cesar-augusto/",
+      "gender": "Masculino"
+    },
+    "Kim Tami Muñoz Yurivilca": {
+      "district": "Pasco",
+      "email": "kmunoz@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/munoz-yurivilca-kim-tami/",
+      "gender": "Femenino"
+    },
+    "Jessica Lizbeth Navas Sánchez": {
+      "district": "Ucayali",
+      "email": "jnavas@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/navas-sanchez-jessica-lizbeth/",
+      "gender": "Femenino"
+    },
+    "Auristela Ana Obando Morgan": {
+      "district": "Callao",
+      "email": "aobando@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/obando-morgan-auristela-ana/",
+      "gender": "Femenino"
+    },
+    "Marco Antonio Pacheco Quispe": {
+      "district": "Lima Metropolitana",
+      "email": "mpachecoq@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/pacheco-quispe-marco-antonio/",
+      "gender": "Masculino"
+    },
+    "José Marvin Palma Mendoza": {
+      "district": "Lambayeque",
+      "email": "jpalma@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/palma-mendoza-jose-marvin/",
+      "gender": "Masculino"
+    },
+    "Catherin Norma Palomino Casavilca": {
+      "district": "Huancavelica",
+      "email": "cnpalomino@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/palomino-casavilca-catherin-norma/",
+      "gender": "Femenino"
+    },
+    "Amalia Emilia Palomino Pacheco": {
+      "district": "Arequipa",
+      "email": "apalomino@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/palomino-pacheco-amalia-emilia/",
+      "gender": "Femenino"
+    },
+    "Yenifer Noelia Paredes Navarro": {
+      "district": "Cajamarca",
+      "email": "yparedes@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/paredes-navarro-yenifer-noelia/",
+      "gender": "Femenino"
+    },
+    "Ana Bertha Patiño Urco": {
+      "district": "Junín",
+      "email": "apatino@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/patino-urco-ana-bertha/",
+      "gender": "Femenino"
+    },
+    "Carmela Paucara Paxi": {
+      "district": "Piura",
+      "email": "cpaucara@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/paucara-paxi-carmela/",
+      "gender": "Femenino"
+    },
+    "Olver Peña Córdova": {
+      "district": "San Martín",
+      "email": "opena@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/pena-cordova-olver/",
+      "gender": "Masculino"
+    },
+    "Máximo Peralta Jorpa": {
+      "district": "Junín",
+      "email": "mperaltaj@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/peralta-jorpa-maximo/",
+      "gender": "Masculino"
+    },
+    "Jesús Pérez Alccahuaman": {
+      "district": "Apurímac",
+      "email": "jperez@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/perez-alccahuaman-jesus/",
+      "gender": "Masculino"
+    },
+    "Julián Luis Pérez Mallqui": {
+      "district": "Cusco",
+      "email": "jperezm@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/perez-mallqui-julian-luis/",
+      "gender": "Masculino"
+    },
+    "Jessica Sadith Pérez Quispe": {
+      "district": "Puno",
+      "email": "jperezq@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/perez-quispe-jessica-sadith/",
+      "gender": "Femenino"
+    },
+    "Víctor Eduardo Piñán Mamani": {
+      "district": "Lima Metropolitana",
+      "email": "vpinan@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/pinan-mamani-victor-eduardo/",
+      "gender": "Masculino"
+    },
+    "Nary Benvinda Pinasco Montenegro": {
+      "district": "Loreto",
+      "email": "npinasco@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/pinasco-montenegro-nary-benvinda/",
+      "gender": "Femenino"
+    },
+    "Haydee Celinda Poma Huamaní": {
+      "district": "Madre de Dios",
+      "email": "hpoma@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/poma-huamani-haydee-celinda/",
+      "gender": "Femenino"
+    },
+    "Lila Marianela Prado Vallejos": {
+      "district": "Ica",
+      "email": "lprado@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/prado-vallejos-lila-marianela/",
+      "gender": "Femenino"
+    },
+    "Geanmarco Antonio Quezada Castro": {
+      "district": "La Libertad",
+      "email": "gquezada@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/quezada-castro-geanmarco-antonio/",
+      "gender": "Masculino"
+    },
+    "Luis Eliseo Quispe Candia": {
+      "district": "Lima Metropolitana",
+      "email": "lquispe@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/quispe-candia-luis-eliseo/",
+      "gender": "Masculino"
+    },
+    "María Candelaria Ramos Rosales": {
+      "district": "Tumbes",
+      "email": "mramos@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/ramos-rosales-maria-candelaria/",
+      "gender": "Femenino"
+    },
+    "Oscar de Jesús Reto Otero": {
+      "district": "Lima Metropolitana",
+      "email": "oreto@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/reto-otero-oscar-de-jesus/",
+      "gender": "Masculino"
+    },
+    "César Manuel Revilla Villanueva": {
+      "district": "Piura",
+      "email": "crevilla@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/revilla-villanueva-cesar-manuel/",
+      "gender": "Masculino"
+    },
+    "Roxana María Rocha Gallegos": {
+      "district": "Lima Metropolitana",
+      "email": "rrocha@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/rocha-gallegos-roxana-maria/",
+      "gender": "Femenino"
+    },
+    "Alexander Salas Rivera": {
+      "district": "Lima Provincias",
+      "email": "asalasri@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/salas-rivera-alexander/",
+      "gender": "Masculino"
+    },
+    "Jeenny Cristina Samanez Gonzales Vigil": {
+      "district": "Lima Metropolitana",
+      "email": "jsamanez@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/samanez-gonzales-vigil-jeenny-cristina/",
+      "gender": "Femenino"
+    },
+    "Milagros Karina Santana Vera": {
+      "district": "Lima Provincias",
+      "email": "msantana@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/santana-vera-milagros-karina/",
+      "gender": "Femenino"
+    },
+    "Gustavo Alexander Segura Figueroa": {
+      "district": "Lima Metropolitana",
+      "email": "asegura@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/segura-figueroa-gustavo-alexander/",
+      "gender": "Masculino"
+    },
+    "María Luisa Silupu Inga": {
+      "district": "Piura",
+      "email": "msilupu@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/silupu-inga-maria-luisa/",
+      "gender": "Femenino"
+    },
+    "Helard Bladimir Sonco Villanueva": {
+      "district": "Puno",
+      "email": "hsonco@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/sonco-villanueva-helard-bladimir/",
+      "gender": "Masculino"
+    },
+    "Luz Mérida Soto Ferrari": {
+      "district": "Apurímac",
+      "email": "lsoto@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/soto-ferrari-luz-merida/",
+      "gender": "Femenino"
+    },
+    "Pilar Sulca Castillo": {
+      "district": "Ayacucho",
+      "email": "psulca@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/sulca-castillo-pilar/",
+      "gender": "Femenino"
+    },
+    "Liliana Milagros Takayama Jimenez": {
+      "district": "Lambayeque",
+      "email": "ltakayama@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/takayama-jimenez-liliana-milagros/",
+      "gender": "Femenino"
+    },
+    "Jacqueline Viviana Tapullima Insapillo": {
+      "district": "San Martín",
+      "email": "jtapullimai@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/tapullima-insapillo-jacqueline-viviana/",
+      "gender": "Femenino"
+    },
+    "Segundo Senovio Ticlla Rafael": {
+      "district": "Cajamarca",
+      "email": "sticlla@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/ticlla-rafael-segundo-senovio/",
+      "gender": "Masculino"
+    },
+    "César Hugo Tito Rojas": {
+      "district": "Puno",
+      "email": "ctito@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/tito-rojas-cesar-hugo/",
+      "gender": "Masculino"
+    },
+    "Gilmer Trujillo Zegarra": {
+      "district": "La Libertad",
+      "email": "gtrujillo@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/trujillo-zegarra-gilmer/",
+      "gender": "Masculino"
+    },
+    "Romina Alejandra Uribe Saenz": {
+      "district": "Lima Metropolitana",
+      "email": "ruribe@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/uribe-saenz-romina-alejandra/",
+      "gender": "Femenino"
+    },
+    "Demetrio Flavio Valqui Calderón": {
+      "district": "La Libertad",
+      "email": "dvalqui@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/valqui-calderon-demetrio-flavio/",
+      "gender": "Masculino"
+    },
+    "Jhonn Brayam Valqui Ordoñez": {
+      "district": "Pasco",
+      "email": "jvalqui@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/valqui-ordonez-jhonn-brayam/",
+      "gender": "Masculino"
+    },
+    "Daniel Jefferson Varas Seguin": {
+      "district": "Áncash",
+      "email": "dvaras@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/varas-seguin-daniel-jefferson/",
+      "gender": "Masculino"
+    },
+    "César Manuel Vidaurre Floridas": {
+      "district": "Loreto",
+      "email": "cvidaurre@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/vidaurre-floridas-cesar-manuel/",
+      "gender": "Masculino"
+    },
+    "Juan Amilcar Villanueva Calderón": {
+      "district": "Cajamarca",
+      "email": "jvillanueva@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/villanueva-calderon-juan-amilcar/",
+      "gender": "Masculino"
+    },
+    "Carlos Alberto Yalta Sotelo": {
+      "district": "Callao",
+      "email": "cyalta@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/yalta-sotelo-carlos-alberto/",
+      "gender": "Masculino"
+    },
+    "Norma Martina Yarrow Lumbreras": {
+      "district": "Lima Metropolitana",
+      "email": "nyarrow@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/yarrow-lumbreras-norma-martina/",
+      "gender": "Femenino"
+    },
+    "José Ricardo Yataco Torrealva": {
+      "district": "Ica",
+      "email": "jyataco@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/yataco-torrealva-jose-ricardo/",
+      "gender": "Masculino"
+    },
+    "Mady Verónica Yonz Núñez": {
+      "district": "Ica",
+      "email": "myonz@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/yonz-nunez-mady-veronica/",
+      "gender": "Femenino"
+    },
+    "Ana Luisa Yuffra Lugo": {
+      "district": "Loreto",
+      "email": "ayuffra@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/yuffra-lugo-ana-luisa/",
+      "gender": "Femenino"
+    },
+    "Jorge Arturo Zeballos Aponte": {
+      "district": "Peruanos en el Extranjero",
+      "email": "jzeballos@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/zeballos-aponte-jorge-arturo/",
+      "gender": "Masculino"
+    },
+    "Carlos Alberto Zegarra Sánchez": {
+      "district": "Ica",
+      "email": "czegarra@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/zegarra-sanchez-carlos-alberto/",
+      "gender": "Masculino"
+    },
+    "Ernesto Alonso Zunini Yerren": {
+      "district": "Lambayeque",
+      "email": "ezunini@congreso.gob.pe",
+      "url": "https://diputados.congreso.gob.pe/diputado/zunini-yerren-ernesto-alonso/",
+      "gender": "Masculino"
+    }
+  },
+  "PHOTO_MAP": {
+    "Alejandro Aurelio Aguinaga Recuenco": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Aguinaga_Recuenco_Alejandro-150x150.png",
+    "María Lourdes Pia Luisa Alcorta Suero": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Alcorta-Suero-Lourdes-150x150.png",
+    "Katherine Milagros Ampuero Meza": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Ampuero_Meza_Katherine-1-150x150.png",
+    "Serafín Andrés Luján": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Andres_Lujan_Serafin-150x150.png",
+    "José Berley Arista Arbildo": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Arista_Arbildo_Jose-150x150.png",
+    "Saul Andrés Armacanqui Morales": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Saul-Andres-Armacanqui-Morales-150x150.jpg",
+    "Roger Miguel Astucuri Laura": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Roger-Miguel-Astucuri-Laura-150x150.jpg",
+    "César Augusto Astudillo Salcedo": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Astudillo_Salcedo_esar_Augusto-150x150.png",
+    "Daniel Hugo Barragán Coloma": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Barragan_Coloma_Daniel-150x150.png",
+    "Nora Bonifaz Carmona": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Bonifaz_Carmona_Nora-150x150.png",
+    "Carlos David Caballero León": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Caballero_Leon_Carlos-150x150.png",
+    "Francisco José Calisto Giampietri": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Calisto_Giampietri_Francisco-150x150.png",
+    "José Mercedes Castillo Terrones": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Castillo_Terrones_Jose-150x150.png",
+    "Hugo Isaac Ccahuana Aymachoque": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Ccahuana_Aymachoque_Hugo-150x150.png",
+    "Nilza Merly Chacón Trujillo": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Chacon_Trujillo_Nilza-150x150.png",
+    "Martha Gladys Chavez Cossio": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Martha-Gladys-Chavez-Cossio-150x150.jpg",
+    "Jaime Moises Chipana Chipana": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Chipana_Chipana_Moises-150x150.png",
+    "Víctor Raúl Cutipa Ccama": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Victor-Raul-Cutipa-Ccama-150x150.jpg",
+    "Juan Carlos Del Aguila Cardenas": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Del-Aguila-Cardenas-Juan-150x150.png",
+    "Jaime Ricardo Delgado Zegarra": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Delgado-Zegarra-Jaime-150x150.png",
+    "Flavio Felipe Figallo Rivadeneyra": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Flavio-Felipe-Figallo-Rivadeneyra-150x150.jpg",
+    "Agripina María del Pilar Flores Córdova": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Flores-Cordova-Agripina-150x150.png",
+    "Víctor Seferino Flores Ruiz": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Flores-Ruiz-Victor-150x150.png",
+    "Juver Nilson Flores Suarez": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Flores-Suarez-Juver-150x150.png",
+    "Walter Francisco Gago Rodríguez": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Walter-Francisco-Gago-Rodriguez-150x150.jpg",
+    "Jorge Octavio Gavidia Rodríguez": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Gavidia-Rodriguez-Jorge-150x150.png",
+    "Patricia Milagros Iturregui Byrne": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Iturregui-Byrne-Patricia-150x150.png",
+    "María de los Milagros Jauregui Martínez": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Maria-de-los-Milagros-Jackeline-Jauregui-Martinez-de-Aguayo-150x150.jpg",
+    "David Julio Jiménez Heredia": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/David-Julio-Jimenez-Heredia-150x150.jpg",
+    "Carmen Patricia Juarez Gallegos": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Juarez-Gallegos-Patricia-150x150.png",
+    "Pablo Alfonso López Chau Nava": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Lopez-Chau-Alfonso-150x150.png",
+    "Ruth Luque Ibarra": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Luque-Ibarra-Ruth-150x150.png",
+    "Estanislao Edgar Mancha Pineda": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Estanislao-Edgar-Mancha-Pineda-150x150.jpg",
+    "Iber Antenor Maravi Olarte": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Maravi-Olarte-Iber-150x150.png",
+    "Susana Flor de María Matute Charun": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Matute-Charun-Susana-150x150.png",
+    "Elard Galo Melgar Valdez": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Elard-Galo-Melgar-Valdez-150x150.jpg",
+    "Carlos Fernando Mesía Ramírez": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Carlos-Fernando-Mesia-Ramirez-150x150.jpg",
+    "Marco Enrique Miyashiro Arashiro": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Marco-Enrique-Miyashiro-Arashiro-150x150.jpg",
+    "Edyson Humberto Morales Ramírez": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Edyson-Humberto-Morales-Ramirez-150x150.jpg",
+    "Martha Lupe Moyano Delgado": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Martha-Lupe-Moyano-Delgado-150x150.jpg",
+    "Alejandro Muñante Barrios": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Alejandro-Munante-Barrios-150x150.jpg",
+    "Víctor Manuel Noriega Reátegui": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Victor-Manuel-Noriega-Reategui-150x150.jpg",
+    "Percy Herbert Osorio Palpán": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Percy-Herbert-Osorio-Palpan-150x150.jpg",
+    "Bernardo Jaime Quito Sarmiento": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Bernardo-Jaime-Quito-Sarmiento-150x150.jpg",
+    "Andrés Avelino Ramos Huillcas": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Andres-Avelino-Ramos-Huillcas-150x150.jpg",
+    "Silvana Emperatriz Robles Araujo": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Silvana-Emperatriz-Robles-Araujo-150x150.jpg",
+    "Jacques Salomón Rodrich Ackerman": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Jacques-Salomon-Rodrich-Ackerman-150x150.jpg",
+    "Fernando Miguel Rospigliosi Capurro": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Fernando-Miguel-Rospigliosi-Capurro-150x150.jpg",
+    "Karla Melissa Schaefer Cuculiza": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Karla-Melissa-Schaefer-Cuculiza-150x150.jpg",
+    "Segundo Leocadio Tapia Bernal": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Tapia_Bernal_Segundo-150x150.png",
+    "Juana Guisella Ticona Cohaila": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Juana-Guisella-Ticona-Cohaila-150x150.jpg",
+    "Miguel Ángel Torres Morales": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/presidente-2026-2027-150x150.jpg",
+    "Mirtha Esther Vasquez Chuquilin": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Vasquez_Chuqulin_Mirtha-150x150.png",
+    "Absalón Vásquez Villanueva": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Vasquez_Villanueva_Absalon-150x150.png",
+    "Miguel Angel Velasquez García": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Velasquez_Garcia_Miguel_Angel-150x150.png",
+    "Jorge Velasquez Portocarrero": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Velasquez_Portocarrero_Jorge-150x150.png",
+    "Héctor José Ventura Angel": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Hector-Jose-Ventura-Angel-150x150.jpg",
+    "Wilfredo Verano Saravia": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Verano_Saravia_Wilfredo-150x150.png",
+    "Rafael Gustavo Yamashiro Ore": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Yamasiro_Ore_Rafael-150x150.png",
+    "Joaquín Yauri Tunque": "https://senado.congreso.gob.pe/wp-content/uploads/2026/07/Yauri_Tunque_Joaquin-150x150.png",
+    "Jaime Américo Abensur Pinasco": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jaime-Americo-Abensur-Pinasco-150x150.jpg",
+    "Marlon Alberto Aguirre Ramos": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Marlon-Alberto-Aguirre-Ramos-150x150.jpg",
+    "Rossana Herminia Alayza Maccera": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Rossana-Herminia-Alayza-Maccera-150x150.jpg",
+    "Henry Antonio Albañil Carmona": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Henry-Antonio-Albanil-Carmona-150x150.jpg",
+    "Luis Arturo Alegría García": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Luis-Arturo-Alegria-Garcia-150x150.jpg",
+    "Edgar Adrián Alvaron De la Cruz": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Edgar-Adrian-Alvaron-de-la-Cruz-150x150.jpg",
+    "Yuli Liliana Ambrosio Dominguez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Yuli-Liliana-Ambrosio-Dominguez-150x150.jpg",
+    "Gladys Griselda Andrade Salguero de Alvarez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Gladys-Griselda-Andrade-Salguero-de-Alvarez-150x150.jpg",
+    "Christian Aranda Vasquez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Christian-Aranda-Vasquez-150x150.jpg",
+    "Marleny Bibiana Arminta Valencia": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Marleny-Bibiana-Arminta-Valencia-150x150.jpg",
+    "Giannina Iris Avendaño Vilca": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Giannina-Iris-Avendano-Vilca-150x150.jpg",
+    "José Isidro Baella Malca": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jose-Isidro-Baella-Malca-150x150.jpg",
+    "Rosangela Andrea Barbarán Reyes": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Rosangella-Andrea-Barbaran-Reyes-150x150.jpg",
+    "Diego Alonso Fernando Bazán Calderón": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Diego-Alonso-Fernando-Bazan-Calderon-150x150.jpg",
+    "Jessica Benitez Barrionuevo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jessica-Benitez-Barrionuevo-150x150.jpg",
+    "Karina Juliza Beteta Rubín": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Karina-Juliza-Beteta-Rubin-150x150.jpg",
+    "Angel Bruno Bobadilla Galindo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Angel-Bruno-Bobadilla-Galindo-150x150.jpg",
+    "Aldo Antonio Bravo Quispe": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Aldo-Antonio-Bravo-Quispe-150x150.jpg",
+    "Freshman Buitron Martínez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Freshman-Buitron-Martinez-150x150.jpg",
+    "Juan César Cabrera Nieto": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Juan-Cesar-Cabrera-Nieto-150x150.jpg",
+    "Oswar Elbis Cahuaza Mitivire": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Oswar-Elbis-Cahuaza-Mitivire-150x150.jpg",
+    "Raúl Jesús Camargo Porta": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Raul-Jesus-Camargo-Porta-150x150.jpg",
+    "Eduardo Enrique Castillo Rivas": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Eduardo-Enrique-Castillo-Rivas-150x150.jpg",
+    "Segundo Juan Castrejón Fernández": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Segundo-Juan-Castrejon-Fernandez-150x150.jpg",
+    "Javier Alejandro Castro Cruz": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Javier-Alejandro-Castro-Cruz-150x150.jpg",
+    "Royser Castro Grandez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Royser-Castro-Grandez-150x150.jpg",
+    "Rafael Aldo Celiz Castillo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Rafael-Aldo-Celiz-Castillo-150x150.jpg",
+    "Cecilia Isabel Chacón De Vettori": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Cecilia-Isabel-Chacon-de-Vettori-150x150.jpg",
+    "Felix See Hung Chang Apuy": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Felix-See-Hung-Chang-Apuy-150x150.jpg",
+    "Graciela Chipana Condori": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Graciela-Chipana-Condori-150x150.jpg",
+    "Javier José María Cipriani Thorne": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Javier-Jose-Maria-Cipriani-Thorne-150x150.jpg",
+    "Harvey Julio Colchado Huamani": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Harvey-Julio-Colchado-Huamani-150x150.jpg",
+    "Diethell Columbus Murata": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Columbus-Murata-Diethell-150x150.png",
+    "Remigio Condori Flores": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Remigio-Condori-Flores-150x150.jpg",
+    "Leo Miguel De Paz Lancho": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Leo-Miguel-de-Paz-Lancho-150x150.jpg",
+    "Pierangeli Daniela Dodero Jovich": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Pierangeli-Daniela-Dodero-Jovich-150x150.jpg",
+    "Carlos Alberto Dominguez Herrera": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Carlos-Alberto-Dominguez-Herrera-150x150.jpg",
+    "Georgina Duarte de Pezet": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Duarte-Patino-de-Pezet-Carmen-150x150.png",
+    "Edwin Espinoza Huillca": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Edwin-Espinoza-Huillca-150x150.jpg",
+    "Arturo César Eusebio Padilla": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Arturo-Cesar-Eusebio-Padilla-150x150.jpg",
+    "Hilda Judit Fernández de la Torre": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Hilda-Judit-Fernandez-de-la-Torre-150x150.jpg",
+    "Svieta Valia Fernández Gonzalez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Svieta-Valia-Fernandez-Gonzalez-150x150.jpg",
+    "Nery Rodolfo Fernández Nina": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Nery-Rodolfo-Fernandez-Nina-150x150.jpg",
+    "Pier Paolo Figari Mendoza": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Pier-Paolo-Figari-Mendoza-150x150.jpg",
+    "Marco Antonio Flores Valdizan": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Marco-Antonio-Flores-Valdizan-150x150.jpg",
+    "Luzmila María del Carmen Gamarra Pita": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Luzmila-Maria-del-Carmen-Gamarra-Pita-150x150.jpg",
+    "Fernando Alberto García Huby": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Fernando-Alberto-Garcia-Huby-150x150.jpg",
+    "Francisco Javier Gatica Vega": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Francisco-Javier-Gatica-Vega-150x150.jpg",
+    "Gabriel Robertino Gonzales Delgado": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Gabriel-Robertino-Gonzales-Delgado-150x150.jpg",
+    "Edgar Dember Gonzales Polar": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Edgar-Dember-Gonzales-Polar-150x150.jpg",
+    "Jessica Roxana Guevara Ramírez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jessica-Roxana-Guevara-Ramirez-150x150.jpg",
+    "Héctor Guillen Valencia": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Hector-Guillen-Valencia-150x150.jpg",
+    "Dina Irene Hancco Hancco": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Dina-Irene-Hancco-Hancco-150x150.jpg",
+    "Gloria Charito Hirache Pizarro": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Gloria-Charito-Hirache-Pizarro-150x150.jpg",
+    "James Arturo Holguin Aguirre": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/James-Arturo-Holguin-Aguirre-150x150.jpg",
+    "Cesar Augusto Holguin Loaiza": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Cesar-Augusto-Holguin-Loaiza-150x150.jpg",
+    "Miguel Felix Huamán Cornejo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Miguel-Felix-Huaman-Cornejo-150x150.jpg",
+    "Indira Isabel Huilca Flores": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Indira-Isabel-Huilca-Flores-150x150.jpg",
+    "Mery Eliana Infantes Castañeda": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Mery-Eliana-Infantes-Castaneda-150x150.jpg",
+    "Azucena Isla Rojas": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Azucena-Isla-Rojas-150x150.jpg",
+    "Luis Angel Jibaja Ramos": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Luis-Angel-Jibaja-Ramos-150x150.jpg",
+    "Frank Krklec Torres": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Frank-Krklec-Torres-150x150.jpg",
+    "Marino Teofilo Lavado Valdivia": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Marino-Teofilo-Lavado-Valdivia-150x150.jpg",
+    "Leticia Maruja Leiva Baylon": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Leticia-Maruja-Leiva-Baylon-150x150.jpg",
+    "Nora María Llaque Linares": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Nora-Maria-Llaque-Linares-150x150.jpg",
+    "Heber López Letona": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Heber-Lopez-Letona-150x150.jpg",
+    "Alejandro José Manay Pillaca": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Alejandro-Jose-Manay-Pillaca-150x150.jpg",
+    "Bernardino Jair Manrique Olivera": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Bernardino-Jair-Manrique-Olivera-150x150.jpg",
+    "José Miguel Marcelo Salazar": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jose-Miguel-Marcelo-Salazar-150x150.jpg",
+    "Analí Marquez Huanca": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Anali-Marquez-Huanca-150x150.jpg",
+    "Paola Isabel Martínez Paitán": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Paola-Isabel-Martinez-Paitan-150x150.jpg",
+    "Luis Aurelio Masco Cáceres": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Luis-Aurelio-Masco-Caceres-150x150.jpg",
+    "Andrea Dayna Medina Stein": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Andrea-Dayna-Medina-Stein-150x150.jpg",
+    "Liz Huli Mendoza Bernedo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Liz-Huli-Mendoza-Bernedo-150x150.jpg",
+    "Angel Renato Meneses Crispin": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Angel-Renato-Meneses-Crispin-150x150.jpg",
+    "Flor de Jesús Meza Rivera": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Flor-de-Jesus-Meza-Rivera-150x150.jpg",
+    "Nathaly Milagros Molina Soto": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Nathaly-Milagros-Molina-Soto-150x150.jpg",
+    "Cesar Augusto Muedas Balbiese": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Cesar-Augusto-Muedas-Balbiese-150x150.jpg",
+    "Kim Tami Muñoz Yurivilca": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Kim_Tami_Munoz_Yurivilca-150x150.jpg",
+    "Jessica Lizbeth Navas Sánchez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jessica-Lizbeth-Navas-Sanchez-150x150.jpg",
+    "Auristela Ana Obando Morgan": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Auristela-Ana-Obando-Morgan-150x150.jpg",
+    "Marco Antonio Pacheco Quispe": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Marco-Antonio-Pacheco-Quispe-150x150.jpg",
+    "José Marvin Palma Mendoza": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jose-Marvin-Palma-MendozaJose-Marvin-Palma-Mendoza-150x150.jpg",
+    "Catherin Norma Palomino Casavilca": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Catherin-Norma-Palomino-Casavilca-150x150.jpg",
+    "Amalia Emilia Palomino Pacheco": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Amalia-Emilia-Palomino-Pacheco-150x150.jpg",
+    "Yenifer Noelia Paredes Navarro": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Yenifer-Noelia-Paredes-Navarro-150x150.jpg",
+    "Ana Bertha Patiño Urco": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Ana-Bertha-Patino-Urco-150x150.jpg",
+    "Carmela Paucara Paxi": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Carmela-Paucara-Paxi-150x150.jpg",
+    "Olver Peña Córdova": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Olver-Pena-Cordova-150x150.jpg",
+    "Máximo Peralta Jorpa": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Maximo-Peralta-Jorpa-150x150.jpg",
+    "Jesús Pérez Alccahuaman": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jesus-Perez-Alccahuaman-150x150.jpg",
+    "Julián Luis Pérez Mallqui": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Julian-Luis-Perez-Mallqui-150x150.jpg",
+    "Jessica Sadith Pérez Quispe": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jessica-Sadith-Perez-Quispe-150x150.jpg",
+    "Víctor Eduardo Piñán Mamani": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Victor-Eduardo-Pinan-Mamani-150x150.jpg",
+    "Nary Benvinda Pinasco Montenegro": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Nary-Benvinda-Pinasco-Montenegro-150x150.jpg",
+    "Haydee Celinda Poma Huamaní": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Haydee-Celinda-Poma-Huamani-150x150.jpg",
+    "Lila Marianela Prado Vallejos": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Lila-Marianela-Prado-Vallejos-150x150.jpg",
+    "Geanmarco Antonio Quezada Castro": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Geanmarco-Antonio-Quezada-Castro-150x150.jpg",
+    "Luis Eliseo Quispe Candia": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Luis-Eliseo-Quispe-Candia-150x150.jpg",
+    "María Candelaria Ramos Rosales": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Maria-Candelaria-Ramos-Rosales-150x150.jpg",
+    "Oscar de Jesús Reto Otero": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/presidente-diputados-2026-2027-150x150.png",
+    "César Manuel Revilla Villanueva": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Cesar-Manuel-Revilla-Villanueva-150x150.jpg",
+    "Roxana María Rocha Gallegos": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Roxana-Maria-Rocha-Gallegos-150x150.jpg",
+    "Alexander Salas Rivera": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Alexander-Salas-Rivera-150x150.jpg",
+    "Jeenny Cristina Samanez Gonzales Vigil": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jeenny-Cristina-Samanez-Gonzales-Vigil-150x150.jpg",
+    "Milagros Karina Santana Vera": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Milagros-Karina-Santana-Vera-150x150.jpg",
+    "Gustavo Alexander Segura Figueroa": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Gustavo-Alexander-Segura-Figueroa-150x150.jpg",
+    "María Luisa Silupu Inga": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Maria-Luisa-Silupu-Inga-150x150.jpg",
+    "Helard Bladimir Sonco Villanueva": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Helard-Bladimir-Sonco-Villanueva-150x150.jpg",
+    "Luz Mérida Soto Ferrari": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Luz-Merida-Soto-Ferrari-150x150.jpg",
+    "Pilar Sulca Castillo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Pilar-Sulca-Castillo-150x150.jpg",
+    "Liliana Milagros Takayama Jimenez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Liliana-Milagros-Takayama-Jimenez-150x150.jpg",
+    "Jacqueline Viviana Tapullima Insapillo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jacqueline-Viviana-Tapullima-Insapillo-150x150.jpg",
+    "Segundo Senovio Ticlla Rafael": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Segundo-Senovio-Ticlla-Rafael-150x150.jpg",
+    "César Hugo Tito Rojas": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Cesar-Hugo-Tito-Rojas-150x150.jpg",
+    "Gilmer Trujillo Zegarra": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Gilmer-Trujillo-Zegarra-150x150.jpg",
+    "Romina Alejandra Uribe Saenz": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Romina-Alejandra-Uribe-Saenz-150x150.jpg",
+    "Demetrio Flavio Valqui Calderón": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Demetrio-Flavio-Valqui-Calderon-150x150.jpg",
+    "Jhonn Brayam Valqui Ordoñez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jhonn-Brayam-Valqui-Ordonez-150x150.jpg",
+    "Daniel Jefferson Varas Seguin": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Daniel-Jefferson-Varas-Seguin-150x150.jpg",
+    "César Manuel Vidaurre Floridas": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Cesar-Manuel-Vidaurre-Floridas-150x150.jpg",
+    "Juan Amilcar Villanueva Calderón": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Juan-Amilcar-Villanueva-Calderon-150x150.jpg",
+    "Carlos Alberto Yalta Sotelo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Carlos-Alberto-Yalta-Sotelo-150x150.jpg",
+    "Norma Martina Yarrow Lumbreras": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Diputados-presidenta-2026-2027-150x150.png",
+    "José Ricardo Yataco Torrealva": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jose-Ricardo-Yataco-Torrealva-150x150.jpg",
+    "Mady Verónica Yonz Núñez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Mady-Veronica-Yonz-Nunez-150x150.jpg",
+    "Ana Luisa Yuffra Lugo": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Ana-Luisa-Yuffra-Lugo-150x150.jpg",
+    "Jorge Arturo Zeballos Aponte": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Jorge-Arturo-Zeballos-Aponte-150x150.jpg",
+    "Carlos Alberto Zegarra Sánchez": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Carlos-Alberto-Zegarra-Sanchez-150x150.jpg",
+    "Ernesto Alonso Zunini Yerren": "https://diputados.congreso.gob.pe/wp-content/uploads/2026/07/Ernesto-Alonzo-Zunini-Yerren-150x150.jpg"
+  },
+  "SNMS": {
+    "FP": [
+      "Alejandro Aurelio Aguinaga Recuenco",
+      "José Berley Arista Arbildo",
+      "César Augusto Astudillo Salcedo",
+      "Nilza Merly Chacón Trujillo",
+      "Martha Gladys Chavez Cossio",
+      "Juan Carlos Del Aguila Cardenas",
+      "Víctor Seferino Flores Ruiz",
+      "David Julio Jiménez Heredia",
+      "Carmen Patricia Juarez Gallegos",
+      "Elard Galo Melgar Valdez",
+      "Carlos Fernando Mesía Ramírez",
+      "Marco Enrique Miyashiro Arashiro",
+      "Martha Lupe Moyano Delgado",
+      "Víctor Manuel Noriega Reátegui",
+      "Jacques Salomón Rodrich Ackerman",
+      "Fernando Miguel Rospigliosi Capurro",
+      "Karla Melissa Schaefer Cuculiza",
+      "Segundo Leocadio Tapia Bernal",
+      "Miguel Ángel Torres Morales",
+      "Jorge Velasquez Portocarrero",
+      "Héctor José Ventura Angel",
+      "Rafael Gustavo Yamashiro Ore"
+    ],
+    "RP": [
+      "María Lourdes Pia Luisa Alcorta Suero",
+      "Katherine Milagros Ampuero Meza",
+      "Francisco José Calisto Giampietri",
+      "María de los Milagros Jauregui Martínez",
+      "Estanislao Edgar Mancha Pineda",
+      "Alejandro Muñante Barrios",
+      "Absalón Vásquez Villanueva",
+      "Miguel Angel Velasquez García"
+    ],
+    "JP": [
+      "Serafín Andrés Luján",
+      "Saul Andrés Armacanqui Morales",
+      "José Mercedes Castillo Terrones",
+      "Hugo Isaac Ccahuana Aymachoque",
+      "Jaime Moises Chipana Chipana",
+      "Víctor Raúl Cutipa Ccama",
+      "Iber Antenor Maravi Olarte",
+      "Edyson Humberto Morales Ramírez",
+      "Percy Herbert Osorio Palpán",
+      "Bernardo Jaime Quito Sarmiento",
+      "Andrés Avelino Ramos Huillcas",
+      "Silvana Emperatriz Robles Araujo",
+      "Wilfredo Verano Saravia",
+      "Joaquín Yauri Tunque"
+    ],
+    "PCO": [
+      "Roger Miguel Astucuri Laura",
+      "Daniel Hugo Barragán Coloma",
+      "Agripina María del Pilar Flores Córdova",
+      "Walter Francisco Gago Rodríguez",
+      "Juana Guisella Ticona Cohaila"
+    ],
+    "PBG": [
+      "Nora Bonifaz Carmona",
+      "Carlos David Caballero León",
+      "Flavio Felipe Figallo Rivadeneyra",
+      "Juver Nilson Flores Suarez",
+      "Jorge Octavio Gavidia Rodríguez",
+      "Patricia Milagros Iturregui Byrne",
+      "Susana Flor de María Matute Charun"
+    ],
+    "AN": [
+      "Jaime Ricardo Delgado Zegarra",
+      "Pablo Alfonso López Chau Nava",
+      "Ruth Luque Ibarra",
+      "Mirtha Esther Vasquez Chuquilin"
+    ]
+  },
+  "DNMS": {
+    "FP": [
+      "Jaime Américo Abensur Pinasco",
+      "Luis Arturo Alegría García",
+      "Gladys Griselda Andrade Salguero de Alvarez",
+      "Rosangela Andrea Barbarán Reyes",
+      "Karina Juliza Beteta Rubín",
+      "Angel Bruno Bobadilla Galindo",
+      "Eduardo Enrique Castillo Rivas",
+      "Javier Alejandro Castro Cruz",
+      "Royser Castro Grandez",
+      "Rafael Aldo Celiz Castillo",
+      "Cecilia Isabel Chacón De Vettori",
+      "Diethell Columbus Murata",
+      "Pierangeli Daniela Dodero Jovich",
+      "Carlos Alberto Dominguez Herrera",
+      "Pier Paolo Figari Mendoza",
+      "Luzmila María del Carmen Gamarra Pita",
+      "Francisco Javier Gatica Vega",
+      "Mery Eliana Infantes Castañeda",
+      "Leticia Maruja Leiva Baylon",
+      "Liz Huli Mendoza Bernedo",
+      "Flor de Jesús Meza Rivera",
+      "Kim Tami Muñoz Yurivilca",
+      "Jessica Lizbeth Navas Sánchez",
+      "Auristela Ana Obando Morgan",
+      "Marco Antonio Pacheco Quispe",
+      "José Marvin Palma Mendoza",
+      "Ana Bertha Patiño Urco",
+      "Carmela Paucara Paxi",
+      "Nary Benvinda Pinasco Montenegro",
+      "Geanmarco Antonio Quezada Castro",
+      "María Candelaria Ramos Rosales",
+      "César Manuel Revilla Villanueva",
+      "Alexander Salas Rivera",
+      "María Luisa Silupu Inga",
+      "Liliana Milagros Takayama Jimenez",
+      "Segundo Senovio Ticlla Rafael",
+      "Gilmer Trujillo Zegarra",
+      "Jhonn Brayam Valqui Ordoñez",
+      "César Manuel Vidaurre Floridas",
+      "Ana Luisa Yuffra Lugo",
+      "Carlos Alberto Zegarra Sánchez"
+    ],
+    "JP": [
+      "Marlon Alberto Aguirre Ramos",
+      "Yuli Liliana Ambrosio Dominguez",
+      "Giannina Iris Avendaño Vilca",
+      "Oswar Elbis Cahuaza Mitivire",
+      "Graciela Chipana Condori",
+      "Remigio Condori Flores",
+      "Svieta Valia Fernández Gonzalez",
+      "Marco Antonio Flores Valdizan",
+      "Gabriel Robertino Gonzales Delgado",
+      "Jessica Roxana Guevara Ramírez",
+      "Héctor Guillen Valencia",
+      "James Arturo Holguin Aguirre",
+      "Azucena Isla Rojas",
+      "Luis Angel Jibaja Ramos",
+      "Marino Teofilo Lavado Valdivia",
+      "Alejandro José Manay Pillaca",
+      "Analí Marquez Huanca",
+      "Catherin Norma Palomino Casavilca",
+      "Amalia Emilia Palomino Pacheco",
+      "Yenifer Noelia Paredes Navarro",
+      "Olver Peña Córdova",
+      "Jesús Pérez Alccahuaman",
+      "Julián Luis Pérez Mallqui",
+      "Jessica Sadith Pérez Quispe",
+      "Haydee Celinda Poma Huamaní",
+      "Luz Mérida Soto Ferrari",
+      "Pilar Sulca Castillo",
+      "Jacqueline Viviana Tapullima Insapillo",
+      "César Hugo Tito Rojas",
+      "Daniel Jefferson Varas Seguin",
+      "Juan Amilcar Villanueva Calderón",
+      "Ernesto Alonso Zunini Yerren"
+    ],
+    "PBG": [
+      "Rossana Herminia Alayza Maccera",
+      "Jessica Benitez Barrionuevo",
+      "Segundo Juan Castrejón Fernández",
+      "Georgina Duarte de Pezet",
+      "Edwin Espinoza Huillca",
+      "Hilda Judit Fernández de la Torre",
+      "Nery Rodolfo Fernández Nina",
+      "Fernando Alberto García Huby",
+      "Edgar Dember Gonzales Polar",
+      "Gloria Charito Hirache Pizarro",
+      "Miguel Felix Huamán Cornejo",
+      "Nora María Llaque Linares",
+      "Nathaly Milagros Molina Soto",
+      "Lila Marianela Prado Vallejos",
+      "Luis Eliseo Quispe Candia",
+      "Oscar de Jesús Reto Otero",
+      "Milagros Karina Santana Vera",
+      "Romina Alejandra Uribe Saenz"
+    ],
+    "PCO": [
+      "Henry Antonio Albañil Carmona",
+      "Edgar Adrián Alvaron De la Cruz",
+      "Juan César Cabrera Nieto",
+      "Raúl Jesús Camargo Porta",
+      "Arturo César Eusebio Padilla",
+      "Dina Irene Hancco Hancco",
+      "Heber López Letona",
+      "Luis Aurelio Masco Cáceres",
+      "Andrea Dayna Medina Stein",
+      "Máximo Peralta Jorpa",
+      "Víctor Eduardo Piñán Mamani",
+      "Jeenny Cristina Samanez Gonzales Vigil",
+      "Demetrio Flavio Valqui Calderón",
+      "José Ricardo Yataco Torrealva"
+    ],
+    "RP": [
+      "Christian Aranda Vasquez",
+      "José Isidro Baella Malca",
+      "Diego Alonso Fernando Bazán Calderón",
+      "Aldo Antonio Bravo Quispe",
+      "Felix See Hung Chang Apuy",
+      "Javier José María Cipriani Thorne",
+      "Leo Miguel De Paz Lancho",
+      "Frank Krklec Torres",
+      "Paola Isabel Martínez Paitán",
+      "Roxana María Rocha Gallegos",
+      "Gustavo Alexander Segura Figueroa",
+      "Carlos Alberto Yalta Sotelo",
+      "Norma Martina Yarrow Lumbreras",
+      "Mady Verónica Yonz Núñez",
+      "Jorge Arturo Zeballos Aponte"
+    ],
+    "AN": [
+      "Marleny Bibiana Arminta Valencia",
+      "Freshman Buitron Martínez",
+      "Harvey Julio Colchado Huamani",
+      "Cesar Augusto Holguin Loaiza",
+      "Indira Isabel Huilca Flores",
+      "Bernardino Jair Manrique Olivera",
+      "José Miguel Marcelo Salazar",
+      "Angel Renato Meneses Crispin",
+      "Cesar Augusto Muedas Balbiese",
+      "Helard Bladimir Sonco Villanueva"
+    ]
+  },
+  "senado_news": [
+    {
+      "title": "Presidente del Congreso participó en la XXI Ceremonia de Acción de Gracias por el Perú",
+      "source": "Portal del Congreso",
+      "date": "30 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-xxi-ceremonia-de-accion-de-gracias-por-el-peru/"
+    },
+    {
+      "title": "Llama a la unidad en el Congreso para enfrentar la criminalidad y el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "30 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/llama-a-la-unidad-en-el-congreso-para-enfrentar-la-criminalidad-y-el-fenomeno-el-nino/"
+    },
+    {
+      "title": "Presidente del Congreso, Miguel Torres, asistió al Gran Desfile Cívico Militar",
+      "source": "Portal del Congreso",
+      "date": "29 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-torres-asistio-al-gran-desfile-civico-militar/"
+    },
+    {
+      "title": "Presidenta de la república dirigió su primer mensaje al Congreso",
+      "source": "Portal del Congreso",
+      "date": "28 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-la-republica-dirigio-su-primer-mensaje-al-congreso/"
+    },
+    {
+      "title": "Keiko Fujimori juró como presidenta constitucional de la república",
+      "source": "Portal del Congreso",
+      "date": "28 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/keiko-fujimori-juro-como-presidenta-constitucional-de-la-republica/"
+    },
+    {
+      "title": "Inició Sesión Solemne para transmisión del mando presidencial",
+      "source": "Portal del Congreso",
+      "date": "28 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/inicio-sesion-solemne-para-transmision-del-mando-presidencial/"
+    },
+    {
+      "title": "Senadores y diputados asistieron a la Misa y Te Deum por aniversario patrio",
+      "source": "Portal del Congreso",
+      "date": "28 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-asistieron-a-la-misa-y-te-deum-por-aniversario-patrio/"
+    },
+    {
+      "title": "Giovanni Forno Flórez fue designado oficial mayor del Senado y por ende cumplirá el rol de oficial mayor del Congreso de la República",
+      "source": "Portal del Congreso",
+      "date": "27 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/giovanni-forno-florez-fue-designado-oficial-mayor-del-senado-y-por-ende-cumplira-el-rol-de-oficial-mayor-del-congreso-de-la-republica/"
+    },
+    {
+      "title": "Parlamentarios andinos juraron el cargo para el periodo 2026-2031",
+      "source": "Portal del Congreso",
+      "date": "27 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-andinos-juraron-el-cargo-para-el-periodo-2026-2031/"
+    }
+  ],
+  "diputados_news": [
+    {
+      "title": "Presidente de la Cámara de Diputados recibió a gobernadora regional de Tumbes",
+      "source": "Portal del Congreso",
+      "date": "30 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-a-gobernadora-regional-de-tumbes/"
+    },
+    {
+      "title": "Presidenta de la república dirigió su primer mensaje al Congreso",
+      "source": "Portal del Congreso",
+      "date": "28 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-la-republica-dirigio-su-primer-mensaje-al-congreso/"
+    },
+    {
+      "title": "Keiko Fujimori juró como presidenta constitucional de la república",
+      "source": "Portal del Congreso",
+      "date": "28 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/keiko-fujimori-juro-como-presidenta-constitucional-de-la-republica/"
+    },
+    {
+      "title": "Inició Sesión Solemne para transmisión del mando presidencial",
+      "source": "Portal del Congreso",
+      "date": "28 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/inicio-sesion-solemne-para-transmision-del-mando-presidencial/"
+    },
+    {
+      "title": "Senadores y diputados asistieron a la Misa y Te Deum por aniversario patrio",
+      "source": "Portal del Congreso",
+      "date": "28 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-asistieron-a-la-misa-y-te-deum-por-aniversario-patrio/"
+    },
+    {
+      "title": "Parlamentarios andinos juraron el cargo para el periodo 2026-2031",
+      "source": "Portal del Congreso",
+      "date": "27 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-andinos-juraron-el-cargo-para-el-periodo-2026-2031/"
+    }
+  ],
+  "events_override": {
+    "Oscar de Jesús Reto Otero": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados recibió a gobernadora regional de Tumbes",
+        "d": "30/07/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-a-gobernadora-regional-de-tumbes/",
+        "pts": 2
+      }
+    ],
+    "Miguel Ángel Torres Morales": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en la XXI Ceremonia de Acción de Gracias por el Perú",
+        "d": "30/07/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-xxi-ceremonia-de-accion-de-gracias-por-el-peru/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Llama a la unidad en el Congreso para enfrentar la criminalidad y el fenómeno El Niño",
+        "d": "30/07/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/llama-a-la-unidad-en-el-congreso-para-enfrentar-la-criminalidad-y-el-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso, Miguel Torres, asistió al Gran Desfile Cívico Militar",
+        "d": "29/07/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-torres-asistio-al-gran-desfile-civico-militar/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores y diputados asistieron a la Misa y Te Deum por aniversario patrio",
+        "d": "28/07/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-asistieron-a-la-misa-y-te-deum-por-aniversario-patrio/",
+        "pts": 2
+      }
+    ]
+  }
+}
