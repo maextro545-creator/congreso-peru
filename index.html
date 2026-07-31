@@ -1243,6 +1243,40 @@ function renderLeg(cid,dist,ch){
     item.addEventListener('click',()=>hlParty(pk,ch));
     el.appendChild(item);
   }
+
+  // Mini ranking top-5
+  const list = ch === 's' ? senators : deputies;
+  if(!list || list.length === 0) return;
+  const ranked = [...list].map(l=>({...l, score: getLegScore(l)}))
+    .filter(l=>l.score > 0)
+    .sort((a,b)=>b.score-a.score)
+    .slice(0,5);
+  if(ranked.length === 0) return;
+
+  const sep = document.createElement('div');
+  sep.className = 'leghdr';
+  sep.style.marginTop = '12px';
+  sep.textContent = '🏆 Top Chambómetro';
+  el.appendChild(sep);
+
+  ranked.forEach((leg, i) => {
+    const row = document.createElement('div');
+    row.className = 'legrow';
+    row.style.cursor = 'pointer';
+    const medals = ['🥇','🥈','🥉','4°','5°'];
+    row.innerHTML = `
+      <div class="legleft">
+        <span style="font-size:0.9rem;flex-shrink:0">${medals[i]}</span>
+        <div>
+          <div class="legname" style="font-size:0.65rem">${leg.name}</div>
+          <div class="legsub">${leg.partyName}</div>
+        </div>
+      </div>
+      <span class="legn" style="font-size:0.78rem;color:var(--accent)">${leg.score}</span>
+    `;
+    row.onclick = () => openP(leg);
+    el.appendChild(row);
+  });
 }
 
 function onSizeChange(val){
