@@ -1200,9 +1200,9 @@ function renderSVG(svgId,legs,size){
       badgeBg.setAttribute('cx', bx);
       badgeBg.setAttribute('cy', by);
       badgeBg.setAttribute('r', badgeR.toFixed(1));
-      badgeBg.setAttribute('fill', 'rgba(0,0,0,0.65)');
-      badgeBg.setAttribute('stroke', 'rgba(255,255,255,0.4)');
-      badgeBg.setAttribute('stroke-width', '0.4');
+      badgeBg.setAttribute('fill', '#ffffff');
+      badgeBg.setAttribute('stroke', 'rgba(0,0,0,0.3)');
+      badgeBg.setAttribute('stroke-width', '0.5');
       badgeBg.setAttribute('pointer-events', 'none');
       g.appendChild(badgeBg);
 
@@ -1212,7 +1212,7 @@ function renderSVG(svgId,legs,size){
       badgeTxt.setAttribute('text-anchor', 'middle');
       badgeTxt.setAttribute('font-size', (Math.max(1.4, badgeR * 0.85)).toFixed(1));
       badgeTxt.setAttribute('font-weight', '900');
-      badgeTxt.setAttribute('fill', '#ffd700');
+      badgeTxt.setAttribute('fill', '#000000');
       badgeTxt.setAttribute('font-family', 'Inter,sans-serif');
       badgeTxt.setAttribute('pointer-events', 'none');
       badgeTxt.textContent = score > 99 ? '99+' : score;
