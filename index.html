@@ -1151,6 +1151,7 @@ function renderSVG(svgId,legs,size){
     const leg=legs[i];if(!leg)return;
     const g=document.createElementNS('http://www.w3.org/2000/svg','g');
     g.setAttribute('class','seat');
+    g.setAttribute('data-idx', i);
     g.style.cursor='pointer';
     
     const c=document.createElementNS('http://www.w3.org/2000/svg','circle');
@@ -1404,12 +1405,41 @@ function filter(ch,q){
   const sid='svg-'+ch,legs=ch==='s'?senators:deputies;
   const sq=q.toLowerCase().trim();af[ch]=null;
   document.querySelectorAll('#leg-'+ch+' .legrow').forEach(l=>l.classList.remove('hl'));
+
+  // Remove any old search highlight rings
+  document.querySelectorAll('#'+sid+' .search-hl-ring').forEach(el=>el.remove());
+
+  let firstMatch = null;
   document.querySelectorAll('#'+sid+' .seat').forEach(g=>{
     const leg=legs[parseInt(g.dataset.idx)];if(!leg)return;
     if(!sq){g.classList.remove('dim');g.style.pointerEvents='';return;}
     const m=leg.name.toLowerCase().includes(sq)||leg.partyName.toLowerCase().includes(sq)||leg.reg.toLowerCase().includes(sq);
     g.classList.toggle('dim',!m);g.style.pointerEvents=m?'':'none';
+    if(m && !firstMatch) firstMatch = {g, leg};
   });
+
+  // If there's a unique match, add a glowing ring around the seat and scroll to the SVG
+  if(sq && firstMatch){
+    const svgEl = document.getElementById(sid);
+    // Scroll the panel into view smoothly
+    svgEl.closest('.pbox')?.scrollIntoView({behavior:'smooth', block:'center'});
+
+    // Add pulsing ring around first match
+    const circle = firstMatch.g.querySelector('circle');
+    if(circle){
+      const ns='http://www.w3.org/2000/svg';
+      const ring = document.createElementNS(ns,'circle');
+      ring.setAttribute('cx', circle.getAttribute('cx'));
+      ring.setAttribute('cy', circle.getAttribute('cy'));
+      ring.setAttribute('r', parseFloat(circle.getAttribute('r')) + 2.5);
+      ring.setAttribute('fill','none');
+      ring.setAttribute('stroke','#facc15');
+      ring.setAttribute('stroke-width','1.8');
+      ring.setAttribute('class','search-hl-ring noti-ring');
+      ring.setAttribute('pointer-events','none');
+      firstMatch.g.appendChild(ring);
+    }
+  }
 }
 function switchTab(t){
   document.querySelectorAll('.tab').forEach(b=>b.classList.remove('on'));
