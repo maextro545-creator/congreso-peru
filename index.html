@@ -1491,6 +1491,8 @@ function renderNews(containerId, newsList) {
       <a href="${n.url}" target="_blank" class="news-card-link">Ver Noticia Oficial &rarr;</a>
     </div>
   `).join('');
+}
+
 function toggleTheme() {
   const isDark = document.body.classList.toggle('dark-mode');
   localStorage.setItem('theme', isDark ? 'dark' : 'light');
