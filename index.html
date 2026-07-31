@@ -26,13 +26,60 @@
       --fp:#e8680a;--jp:#1d9152;--rp:#1a6faa;
       --pbg:#b8940a;--pco:#0d8a74;--an:#a82820;
       --r:10px;
+      --panel-bg-s: linear-gradient(180deg, #fff 0%, #fffbfb 100%);
+      --panel-bg-d: linear-gradient(180deg, #fff 0%, #fbfcfe 100%);
+      --panel-bg-r: linear-gradient(180deg, #fff 0%, #fffdfa 100%);
+      --col-grad: linear-gradient(90deg, #d2cbb8 0%, #ffffff 25%, #eae5db 60%, #beb6a3 100%);
+    }
+
+    body.dark-mode {
+      --bg: #180406; /* Velvet dark red carpet background */
+      --card: #2a090d; /* Rich dark red card */
+      --card2: #381015; /* Lighter burgundy card */
+      --dark: #ff4d6d; /* Bright red accents */
+      --dark2: #5c8aff; /* Bright blue accents */
+      --accent: #d9b873; /* Metallic gold */
+      --accent2: #f3d493; /* Bright gold */
+      --text: #fbfaf8; /* Neoclassical cream text */
+      --sub: #e5c088; /* Pale gold subtext */
+      --sub2: #bfa373;
+      --border: #4d151c; /* Deep burgundy border */
+      --border2: #6b1f28;
+      --shadow: 0 4px 20px rgba(0,0,0,0.6), 0 1px 4px rgba(0,0,0,0.4);
+      --shadow2: 0 12px 40px rgba(0,0,0,0.8);
+      --panel-bg-s: linear-gradient(180deg, #2e0b0f 0%, #180406 100%);
+      --panel-bg-d: linear-gradient(180deg, #101c33 0%, #0a1122 100%);
+      --panel-bg-r: linear-gradient(180deg, #2a2010 0%, #1c150a 100%);
+      --col-grad: linear-gradient(90deg, #3a0e12 0%, #d9b873 25%, #5a191f 60%, #2a0509 100%);
+    }
+
+    .theme-toggle {
+      background: var(--card2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 5px 12px;
+      border-radius: 50px;
+      font-size: 0.68rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s ease;
+      font-family: inherit;
+      box-shadow: var(--shadow);
+    }
+    .theme-toggle:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+      transform: translateY(-1px);
     }
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{font-size:15px;scroll-behavior:smooth}
     body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;line-height:1.5}
     img{display:block;max-width:100%}
 
-    .hdr{background:#ffffff;padding:0 clamp(14px,4vw,44px);
+    .hdr{background:var(--card);padding:0 clamp(14px,4vw,44px);
       display:flex;align-items:center;justify-content:space-between;
       position:sticky;top:0;z-index:800;height:58px;
       border-bottom:3px solid var(--accent);
@@ -115,7 +162,7 @@
       top: 58px;
       bottom: 0;
       width: 48px;
-      background: linear-gradient(90deg, #d2cbb8 0%, #ffffff 25%, #eae5db 60%, #beb6a3 100%);
+      background: var(--col-grad);
       box-shadow: inset 2px 0 5px rgba(0,0,0,0.1), inset -2px 0 5px rgba(0,0,0,0.15), 5px 0 25px rgba(0,0,0,0.1);
       z-index: 100;
       display: none;
@@ -198,21 +245,21 @@
     #panel-s {
       border-top: 6px solid #8a1526; /* Crimson Red carpet border */
       box-shadow: 0 10px 30px rgba(138,21,38,0.06);
-      background: linear-gradient(180deg, #fff 0%, #fffbfb 100%);
+      background: var(--panel-bg-s);
       border-radius: 12px;
       padding: clamp(14px, 2vw, 24px);
     }
     #panel-d {
       border-top: 6px solid #1a2b49; /* Royal Blue carpet border */
       box-shadow: 0 10px 30px rgba(26,43,73,0.06);
-      background: linear-gradient(180deg, #fff 0%, #fbfcfe 100%);
+      background: var(--panel-bg-d);
       border-radius: 12px;
       padding: clamp(14px, 2vw, 24px);
     }
     #panel-r {
       border-top: 6px solid #c5a059; /* Gold carpet border */
       box-shadow: 0 10px 30px rgba(197,160,89,0.06);
-      background: linear-gradient(180deg, #fff 0%, #fffdfa 100%);
+      background: var(--panel-bg-r);
       border-radius: 12px;
       padding: clamp(14px, 2vw, 24px);
     }
@@ -331,7 +378,7 @@
     #prof.on{right:0}
     .ptbar{position:sticky;top:0;z-index:5;display:flex;align-items:center;
       justify-content:space-between;padding:10px 16px;
-      background:rgba(255,255,255,.95);backdrop-filter:blur(10px);
+      background:var(--card);backdrop-filter:blur(10px);
       border-bottom:1px solid var(--border);flex-shrink:0}
     .ptlbl{font-size:.65rem;font-weight:700;color:var(--sub);text-transform:uppercase;letter-spacing:.06em}
     .ptclose{display:flex;align-items:center;gap:4px;background:var(--card2);
@@ -758,6 +805,9 @@
     <div><h1>Congreso del Peru 2026</h1><p>Mapa interactivo &middot; Bicameral 2026-2031</p></div>
   </div>
   <div class="hdr-right">
+    <button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()">
+      <span id="theme-toggle-icon">🍷</span> <span id="theme-toggle-text">Modo Terciopelo</span>
+    </button>
     <div class="live"><span class="live-dot"></span><span>En sesion</span></div>
   </div>
 </header>
@@ -1441,7 +1491,30 @@ function renderNews(containerId, newsList) {
       <a href="${n.url}" target="_blank" class="news-card-link">Ver Noticia Oficial &rarr;</a>
     </div>
   `).join('');
+function toggleTheme() {
+  const isDark = document.body.classList.toggle('dark-mode');
+  localStorage.setItem('theme', isDark ? 'dark' : 'light');
+  updateThemeUI();
 }
+
+function updateThemeUI() {
+  const isDark = document.body.classList.contains('dark-mode');
+  const btnIcon = document.getElementById('theme-toggle-icon');
+  const btnText = document.getElementById('theme-toggle-text');
+  
+  if (isDark) {
+    if (btnIcon) btnIcon.innerText = '☀️';
+    if (btnText) btnText.innerText = 'Modo Claro';
+  } else {
+    if (btnIcon) btnIcon.innerText = '🍷';
+    if (btnText) btnText.innerText = 'Modo Terciopelo';
+  }
+}
+
+if (localStorage.getItem('theme') === 'dark') {
+  document.body.classList.add('dark-mode');
+}
+updateThemeUI();
 
 async function init() {
   try {
