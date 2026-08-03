@@ -824,36 +824,15 @@
 
 <div class="main">
 
-  <div class="size-bar">
-    <span class="size-lbl">&#9711; Tamano escanios:</span>
-    <input type="range" class="size-slider" id="size-slider" min="1" max="10" value="5" step="0.5"
-      oninput="onSizeChange(this.value)"/>
-    <span class="size-val" id="size-val">5</span>
-    <div class="size-presets">
-      <button class="szp" id="szp-xs" onclick="setSize(2.5)">XS</button>
-      <button class="szp" id="szp-s"  onclick="setSize(3.5)">S</button>
-      <button class="szp on" id="szp-m"  onclick="setSize(5)">M</button>
-      <button class="szp" id="szp-l"  onclick="setSize(7)">L</button>
-      <button class="szp" id="szp-xl" onclick="setSize(9)">XL</button>
-    </div>
-  </div>
-
-  <div class="tabs">
-    <button class="tab on" id="tab-s" onclick="switchTab('s')">&#127894;&#65039; Cámara de Senadores <span class="badge">60</span></button>
-    <button class="tab" id="tab-d" onclick="switchTab('d')">&#127963;&#65039; Cámara de Diputados <span class="badge">130</span></button>
-    <button class="tab" id="tab-r" onclick="switchTab('r')">🏆 Ranking de Trabajo ("Chambómetro")</button>
-  </div>
-
   <div class="panel on" id="panel-s">
-    <div class="tbar">
-      <div class="swrap">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-        <input class="sin" id="srch-s" placeholder="Buscar senador..." oninput="filter('s',this.value)"/>
-      </div>
-      <div class="info">&#128197; Senado 2026-2031</div>
-    </div>
     <div class="grid">
-      <div class="pbox" id="pbox-s"><svg class="parl" id="svg-s"></svg></div>
+      <div class="pbox" id="pbox-s" style="position:relative;">
+        <div class="swrap" style="position:absolute;top:12px;right:14px;z-index:20;width:200px;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input class="sin" id="srch-s" placeholder="Buscar senador..." oninput="filter('s',this.value)"/>
+        </div>
+        <svg class="parl" id="svg-s"></svg>
+      </div>
       <div class="legcard" id="leg-s"></div>
     </div>
     
@@ -866,15 +845,14 @@
   </div>
 
   <div class="panel" id="panel-d">
-    <div class="tbar">
-      <div class="swrap">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
-        <input class="sin" id="srch-d" placeholder="Buscar diputado..." oninput="filter('d',this.value)"/>
-      </div>
-      <div class="info">&#128197; Diputados 2026-2031</div>
-    </div>
     <div class="grid">
-      <div class="pbox" id="pbox-d"><svg class="parl" id="svg-d"></svg></div>
+      <div class="pbox" id="pbox-d" style="position:relative;">
+        <div class="swrap" style="position:absolute;top:12px;right:14px;z-index:20;width:200px;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+          <input class="sin" id="srch-d" placeholder="Buscar diputado..." oninput="filter('d',this.value)"/>
+        </div>
+        <svg class="parl" id="svg-d"></svg>
+      </div>
       <div class="legcard" id="leg-d"></div>
     </div>
     
