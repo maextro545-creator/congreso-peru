@@ -1263,17 +1263,19 @@ function renderLeg(cid,dist,ch){
   ranked.forEach((leg, i) => {
     const row = document.createElement('div');
     row.className = 'legrow';
-    row.style.cssText = 'cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:7px;margin-bottom:4px;padding:6px 8px;';
+    row.style.cssText = 'cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:7px;margin-bottom:4px;padding:5px 8px;display:flex;align-items:center;justify-content:space-between;';
     const medals = ['🥇','🥈','🥉','4°','5°'];
+    const loc = photoSrc(leg), fb = fallbackSrc(leg);
     row.innerHTML = `
-      <div class="legleft">
-        <span style="font-size:0.9rem;flex-shrink:0">${medals[i]}</span>
+      <div class="legleft" style="display:flex;align-items:center;gap:6px;">
+        <span style="font-size:0.85rem;flex-shrink:0">${medals[i]}</span>
+        <img src="${loc || fb}" alt="${leg.name}" onerror="this.src='${fb}'" style="width:26px;height:26px;border-radius:50%;object-fit:cover;border:1px solid #ccc;flex-shrink:0;"/>
         <div>
-          <div style="font-size:0.65rem;font-weight:700;color:#111;line-height:1.3">${leg.name}</div>
-          <div style="font-size:0.57rem;color:#555">${leg.partyName}</div>
+          <div style="font-size:0.65rem;font-weight:700;color:#111;line-height:1.2">${leg.name}</div>
+          <div style="font-size:0.55rem;color:#555">${leg.partyName}</div>
         </div>
       </div>
-      <span style="font-size:0.82rem;font-weight:800;color:#111;margin-left:4px;flex-shrink:0">${leg.score} pts</span>
+      <span style="font-size:0.8rem;font-weight:800;color:#111;margin-left:4px;flex-shrink:0">${leg.score} pts</span>
     `;
     row.onclick = () => openP(leg);
     el.appendChild(row);
