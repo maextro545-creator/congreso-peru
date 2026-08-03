@@ -1052,8 +1052,8 @@ function hemi(total,scale){
   const rows_s=5, rows_d=7;
   const isD=total>100;
   const rows=isD?rows_d:rows_s;
-  const rMin=isD?(50*sc):(58*sc), rMax=isD?(155*sc):(142*sc);
-  const cx=isD?210:210, cy=isD?(202*sc+8):(188*sc+8);
+  const rMin=isD?(65*sc):(75*sc), rMax=isD?(195*sc):(185*sc);
+  const cx=isD?220:220, cy=isD?(230*sc+8):(215*sc+8);
   const radii=[];
   for(let i=0;i<rows;i++)radii.push(rMin+(rMax-rMin)*(i/(rows-1)));
   const perRow=distR(total,rows,radii);
@@ -1061,7 +1061,7 @@ function hemi(total,scale){
   for(let r=0;r<rows;r++){const n=perRow[r],rad=radii[r];
     for(let i=0;i<n;i++){const a=Math.PI+(Math.PI*i)/(n-1||1);
       seats.push({x:cx+rad*Math.cos(a),y:cy+rad*Math.sin(a),idx});idx++;}}
-  return {seats,cx,cy:cy+4,viewW:cx*2,viewH:cy+rMin*0.2+10};
+  return {seats,cx,cy:cy+4,viewW:cx*2,viewH:cy+20};
 }
 
 function renderSVG(svgId,legs,size){
@@ -1071,7 +1071,7 @@ function renderSVG(svgId,legs,size){
   const {seats,cx,cy,viewW,viewH}=hemi(legs.length,size);
   svg.setAttribute('viewBox',`0 0 ${viewW.toFixed(0)} ${viewH.toFixed(0)}`);
   svg.style.width='100%';svg.style.height='auto';svg.style.maxWidth='100%';
-  const r=Math.max(1.5,size*0.82);
+  const r=Math.max(2.0,size*1.08);
   const SEAT_LBL={FP:'K',JP:'J',RP:'R',PBG:'B',PCO:'O',AN:'A'};
   const ns='http://www.w3.org/2000/svg';
   const lbl=document.createElementNS('http://www.w3.org/2000/svg','text');
@@ -1085,7 +1085,7 @@ function renderSVG(svgId,legs,size){
   const rows_s = 5, rows_d = 7;
   const isD = legs.length > 100;
   const rows = isD ? rows_d : rows_s;
-  const rMin = isD ? (50 * sc) : (58 * sc), rMax = isD ? (155 * sc) : (142 * sc);
+  const rMin = isD ? (65 * sc) : (75 * sc), rMax = isD ? (195 * sc) : (185 * sc);
   const radii = [];
   for (let i = 0; i < rows; i++) {
     radii.push(rMin + (rMax - rMin) * (i / (rows - 1)));
@@ -1161,7 +1161,7 @@ function renderSVG(svgId,legs,size){
     
     g.appendChild(c);
 
-    const fs=Math.max(1.6, r*1.1);
+    const fs=Math.max(1.8, r*1.1);
     const t=document.createElementNS('http://www.w3.org/2000/svg','text');
     t.setAttribute('x',s.x.toFixed(1));
     t.setAttribute('y',(s.y+fs*0.36).toFixed(1));
@@ -1179,10 +1179,10 @@ function renderSVG(svgId,legs,size){
     const score = getLegScore(leg);
 
     if (hasCargo) {
-      const nr = Math.max(1.2, r * 0.38);
+      const nr = Math.max(1.5, r * 0.42);
       const nc = document.createElementNS(ns, 'circle');
-      nc.setAttribute('cx', (s.x + r * 0.65).toFixed(1));
-      nc.setAttribute('cy', (s.y - r * 0.65).toFixed(1));
+      nc.setAttribute('cx', (s.x + r * 0.72).toFixed(1));
+      nc.setAttribute('cy', (s.y - r * 0.72).toFixed(1));
       nc.setAttribute('r', nr);
       nc.setAttribute('fill', '#facc15');
       nc.setAttribute('stroke', '#1a2140');
@@ -1191,19 +1191,19 @@ function renderSVG(svgId,legs,size){
       g.appendChild(nc);
     }
 
-    // Score badge in top-left corner
-    if (score > 0 && r >= 3) {
-      const badgeR = Math.max(1.8, r * 0.48);
-      const bx = (s.x - r * 0.62).toFixed(1);
-      const by = (s.y - r * 0.62).toFixed(1);
+    // Score badge in top-left corner (enlarged & clear)
+    if (score > 0) {
+      const badgeR = Math.max(2.4, r * 0.62);
+      const bx = (s.x - r * 0.72).toFixed(1);
+      const by = (s.y - r * 0.72).toFixed(1);
 
       const badgeBg = document.createElementNS(ns, 'circle');
       badgeBg.setAttribute('cx', bx);
       badgeBg.setAttribute('cy', by);
       badgeBg.setAttribute('r', badgeR.toFixed(1));
       badgeBg.setAttribute('fill', '#ffffff');
-      badgeBg.setAttribute('stroke', 'rgba(0,0,0,0.3)');
-      badgeBg.setAttribute('stroke-width', '0.5');
+      badgeBg.setAttribute('stroke', '#111111');
+      badgeBg.setAttribute('stroke-width', '0.6');
       badgeBg.setAttribute('pointer-events', 'none');
       g.appendChild(badgeBg);
 
@@ -1211,7 +1211,7 @@ function renderSVG(svgId,legs,size){
       badgeTxt.setAttribute('x', bx);
       badgeTxt.setAttribute('y', (parseFloat(by) + badgeR * 0.38).toFixed(1));
       badgeTxt.setAttribute('text-anchor', 'middle');
-      badgeTxt.setAttribute('font-size', (Math.max(1.4, badgeR * 0.85)).toFixed(1));
+      badgeTxt.setAttribute('font-size', (Math.max(2.0, badgeR * 1.05)).toFixed(1));
       badgeTxt.setAttribute('font-weight', '900');
       badgeTxt.setAttribute('fill', '#000000');
       badgeTxt.setAttribute('font-family', 'Inter,sans-serif');
