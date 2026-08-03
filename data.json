@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso: “Debemos cerrar filas para enfrentar amenazas de la delincuencia y El Niño”",
+      "source": "Portal del Congreso",
+      "date": "03 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-debemos-cerrar-filas-para-enfrentar-amenazas-de-la-delincuencia-y-el-nino/"
+    },
+    {
+      "title": "Presidente del Congreso participó en ceremonia por el 205.° aniversario de creación del Ministerio de RR.EE.",
+      "source": "Portal del Congreso",
+      "date": "03 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-creacion-del-ministerio-de-rr-ee/"
+    },
+    {
       "title": "Presidente del Congreso participó en la XXI Ceremonia de Acción de Gracias por el Perú",
       "source": "Portal del Congreso",
       "date": "30 Jul 2026",
@@ -1637,18 +1649,6 @@
       "source": "Portal del Congreso",
       "date": "28 Jul 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-asistieron-a-la-misa-y-te-deum-por-aniversario-patrio/"
-    },
-    {
-      "title": "Giovanni Forno Flórez fue designado oficial mayor del Senado y por ende cumplirá el rol de oficial mayor del Congreso de la República",
-      "source": "Portal del Congreso",
-      "date": "27 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/giovanni-forno-florez-fue-designado-oficial-mayor-del-senado-y-por-ende-cumplira-el-rol-de-oficial-mayor-del-congreso-de-la-republica/"
-    },
-    {
-      "title": "Parlamentarios andinos juraron el cargo para el periodo 2026-2031",
-      "source": "Portal del Congreso",
-      "date": "27 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-andinos-juraron-el-cargo-para-el-periodo-2026-2031/"
     }
   ],
   "diputados_news": [
@@ -1657,6 +1657,12 @@
       "source": "Portal del Congreso",
       "date": "30 Jul 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-a-gobernadora-regional-de-tumbes/"
+    },
+    {
+      "title": "Presidente del Congreso participó en la XXI Ceremonia de Acción de Gracias por el Perú",
+      "source": "Portal del Congreso",
+      "date": "30 Jul 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-xxi-ceremonia-de-accion-de-gracias-por-el-peru/"
     },
     {
       "title": "Presidenta de la república dirigió su primer mensaje al Congreso",
@@ -1681,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "28 Jul 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-asistieron-a-la-misa-y-te-deum-por-aniversario-patrio/"
-    },
-    {
-      "title": "Parlamentarios andinos juraron el cargo para el periodo 2026-2031",
-      "source": "Portal del Congreso",
-      "date": "27 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-andinos-juraron-el-cargo-para-el-periodo-2026-2031/"
     }
   ],
   "events_override": {
@@ -1731,6 +1731,22 @@
         "d": "28/07/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-asistieron-a-la-misa-y-te-deum-por-aniversario-patrio/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso: “Debemos cerrar filas para enfrentar amenazas de la delincuencia y El Niño”",
+        "d": "03/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-debemos-cerrar-filas-para-enfrentar-amenazas-de-la-delincuencia-y-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en ceremonia por el 205.° aniversario de creación del Ministerio de RR.EE.",
+        "d": "03/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-creacion-del-ministerio-de-rr-ee/",
         "pts": 2
       }
     ]
