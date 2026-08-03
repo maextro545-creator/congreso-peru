@@ -1034,11 +1034,32 @@ function hemi(total,scale){
   const cx=isD?220:220, cy=isD?(230*sc+8):(215*sc+8);
   const radii=[];
   for(let i=0;i<rows;i++)radii.push(rMin+(rMax-rMin)*(i/(rows-1)));
-  const perRow=distR(total,rows,radii);
-  const seats=[];let idx=0;
-  for(let r=0;r<rows;r++){const n=perRow[r],rad=radii[r];
-    for(let i=0;i<n;i++){const a=Math.PI+(Math.PI*i)/(n-1||1);
-      seats.push({x:cx+rad*Math.cos(a),y:cy+rad*Math.sin(a),idx});idx++;}}
+  
+  // Calculate total positions along radial rays (wedges left to right)
+  const angleSteps = total;
+  const rawSeats = [];
+  
+  // Generate seats in arc order, but sort/group them radially so party blocks form vertical wedges from left to right
+  const perRow = distR(total, rows, radii);
+  const arcPositions = [];
+  for(let r=0;r<rows;r++){
+    const n=perRow[r], rad=radii[r];
+    for(let i=0;i<n;i++){
+      const normAngle = i / (n - 1 || 1); // 0 (left) to 1 (right)
+      const a = Math.PI + Math.PI * normAngle;
+      arcPositions.push({ x: cx + rad * Math.cos(a), y: cy + rad * Math.sin(a), normAngle, row: r, rad });
+    }
+  }
+
+  // Sort seats primarily by normalized angle (left to right) and secondarily by radius (inner to outer)
+  arcPositions.sort((a,b) => {
+    if (Math.abs(a.normAngle - b.normAngle) > 0.001) {
+      return a.normAngle - b.normAngle;
+    }
+    return a.rad - b.rad;
+  });
+
+  const seats = arcPositions.map((pos, idx) => ({ ...pos, idx }));
   return {seats,cx,cy:cy+4,viewW:cx*2,viewH:cy+20};
 }
 
