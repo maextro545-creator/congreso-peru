@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Comisiones ordinarias legislativas del Senado tendrán 12 integrantes",
+      "source": "Portal del Congreso",
+      "date": "04 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-ordinarias-legislativas-del-senado-tendran-12-integrantes/"
+    },
+    {
       "title": "Este martes 4 sesionará la Junta de Portavoces del Senado",
       "source": "Portal del Congreso",
       "date": "03 Ago 2026",
@@ -1625,27 +1631,21 @@
       "source": "Portal del Congreso",
       "date": "30 Jul 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/llama-a-la-unidad-en-el-congreso-para-enfrentar-la-criminalidad-y-el-fenomeno-el-nino/"
-    },
-    {
-      "title": "Presidente del Congreso, Miguel Torres, asistió al Gran Desfile Cívico Militar",
-      "source": "Portal del Congreso",
-      "date": "29 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-torres-asistio-al-gran-desfile-civico-militar/"
-    },
-    {
-      "title": "Presidenta de la república dirigió su primer mensaje al Congreso",
-      "source": "Portal del Congreso",
-      "date": "28 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-la-republica-dirigio-su-primer-mensaje-al-congreso/"
-    },
-    {
-      "title": "Keiko Fujimori juró como presidenta constitucional de la república",
-      "source": "Portal del Congreso",
-      "date": "28 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/keiko-fujimori-juro-como-presidenta-constitucional-de-la-republica/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente de la Cámara de Diputados recibe a representantes de la organización internacional ASEZ WAO",
+      "source": "Portal del Congreso",
+      "date": "04 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibe-a-representantes-de-la-organizacion-internacional-asez-wao/"
+    },
+    {
+      "title": "Definen número de integrantes de comisiones ordinarias de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "04 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-comisiones-ordinarias-de-la-camara-de-diputados/"
+    },
     {
       "title": "Junta de Portavoces de la Cámara de Diputados sesionará este martes 4",
       "source": "Portal del Congreso",
@@ -1663,18 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "30 Jul 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-xxi-ceremonia-de-accion-de-gracias-por-el-peru/"
-    },
-    {
-      "title": "Presidenta de la república dirigió su primer mensaje al Congreso",
-      "source": "Portal del Congreso",
-      "date": "28 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-la-republica-dirigio-su-primer-mensaje-al-congreso/"
-    },
-    {
-      "title": "Keiko Fujimori juró como presidenta constitucional de la república",
-      "source": "Portal del Congreso",
-      "date": "28 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/keiko-fujimori-juro-como-presidenta-constitucional-de-la-republica/"
     }
   ],
   "events_override": {
@@ -1685,6 +1673,14 @@
         "d": "30/07/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-a-gobernadora-regional-de-tumbes/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados recibe a representantes de la organización internacional ASEZ WAO",
+        "d": "04/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibe-a-representantes-de-la-organizacion-internacional-asez-wao/",
         "pts": 2
       }
     ],
