@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Este martes 4 sesionará la Junta de Portavoces del Senado",
+      "source": "Portal del Congreso",
+      "date": "03 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/este-martes-4-sesionara-la-junta-de-portavoces-del-senado/"
+    },
+    {
       "title": "Presidente del Congreso: “Debemos cerrar filas para enfrentar amenazas de la delincuencia y El Niño”",
       "source": "Portal del Congreso",
       "date": "03 Ago 2026",
@@ -1637,21 +1643,15 @@
       "source": "Portal del Congreso",
       "date": "28 Jul 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/keiko-fujimori-juro-como-presidenta-constitucional-de-la-republica/"
-    },
-    {
-      "title": "Inició Sesión Solemne para transmisión del mando presidencial",
-      "source": "Portal del Congreso",
-      "date": "28 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/inicio-sesion-solemne-para-transmision-del-mando-presidencial/"
-    },
-    {
-      "title": "Senadores y diputados asistieron a la Misa y Te Deum por aniversario patrio",
-      "source": "Portal del Congreso",
-      "date": "28 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-asistieron-a-la-misa-y-te-deum-por-aniversario-patrio/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Junta de Portavoces de la Cámara de Diputados sesionará este martes 4",
+      "source": "Portal del Congreso",
+      "date": "03 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/junta-de-portavoces-de-la-camara-de-diputados-sesionara-este-martes-4/"
+    },
     {
       "title": "Presidente de la Cámara de Diputados recibió a gobernadora regional de Tumbes",
       "source": "Portal del Congreso",
@@ -1675,18 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "28 Jul 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/keiko-fujimori-juro-como-presidenta-constitucional-de-la-republica/"
-    },
-    {
-      "title": "Inició Sesión Solemne para transmisión del mando presidencial",
-      "source": "Portal del Congreso",
-      "date": "28 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/inicio-sesion-solemne-para-transmision-del-mando-presidencial/"
-    },
-    {
-      "title": "Senadores y diputados asistieron a la Misa y Te Deum por aniversario patrio",
-      "source": "Portal del Congreso",
-      "date": "28 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-asistieron-a-la-misa-y-te-deum-por-aniversario-patrio/"
     }
   ],
   "events_override": {
@@ -1747,6 +1735,14 @@
         "d": "03/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-creacion-del-ministerio-de-rr-ee/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Este martes 4 sesionará la Junta de Portavoces del Senado",
+        "d": "03/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/este-martes-4-sesionara-la-junta-de-portavoces-del-senado/",
         "pts": 2
       }
     ]
