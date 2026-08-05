@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso participó en ceremonia por Día del Juez",
+      "source": "Portal del Congreso",
+      "date": "04 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-dia-del-juez/"
+    },
+    {
       "title": "Comisiones ordinarias legislativas del Senado tendrán 12 integrantes",
       "source": "Portal del Congreso",
       "date": "04 Ago 2026",
@@ -1625,12 +1631,6 @@
       "source": "Portal del Congreso",
       "date": "30 Jul 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-xxi-ceremonia-de-accion-de-gracias-por-el-peru/"
-    },
-    {
-      "title": "Llama a la unidad en el Congreso para enfrentar la criminalidad y el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "30 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/llama-a-la-unidad-en-el-congreso-para-enfrentar-la-criminalidad-y-el-fenomeno-el-nino/"
     }
   ],
   "diputados_news": [
@@ -1739,6 +1739,14 @@
         "d": "03/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/este-martes-4-sesionara-la-junta-de-portavoces-del-senado/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en ceremonia por Día del Juez",
+        "d": "04/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-dia-del-juez/",
         "pts": 2
       }
     ]
