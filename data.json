@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Senado anuncia acceso de periodistas a galería del hemiciclo",
+      "source": "Portal del Congreso",
+      "date": "05 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-anuncia-acceso-de-periodistas-a-galeria-del-hemiciclo/"
+    },
+    {
+      "title": "Pleno del Senado aprueba número de integrantes de comisiones ordinarias para periodo 2026-2027",
+      "source": "Portal del Congreso",
+      "date": "05 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-aprueba-numero-de-integrantes-de-comisiones-ordinarias-para-periodo-2026-2027/"
+    },
+    {
       "title": "Presidente del Congreso participó en ceremonia por Día del Juez",
       "source": "Portal del Congreso",
       "date": "04 Ago 2026",
@@ -1625,12 +1637,6 @@
       "source": "Portal del Congreso",
       "date": "03 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-creacion-del-ministerio-de-rr-ee/"
-    },
-    {
-      "title": "Presidente del Congreso participó en la XXI Ceremonia de Acción de Gracias por el Perú",
-      "source": "Portal del Congreso",
-      "date": "30 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-xxi-ceremonia-de-accion-de-gracias-por-el-peru/"
     }
   ],
   "diputados_news": [
@@ -1651,18 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "03 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/junta-de-portavoces-de-la-camara-de-diputados-sesionara-este-martes-4/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados recibió a gobernadora regional de Tumbes",
-      "source": "Portal del Congreso",
-      "date": "30 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-a-gobernadora-regional-de-tumbes/"
-    },
-    {
-      "title": "Presidente del Congreso participó en la XXI Ceremonia de Acción de Gracias por el Perú",
-      "source": "Portal del Congreso",
-      "date": "30 Jul 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-xxi-ceremonia-de-accion-de-gracias-por-el-peru/"
     }
   ],
   "events_override": {
@@ -1747,6 +1741,14 @@
         "d": "04/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-dia-del-juez/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Senado anuncia acceso de periodistas a galería del hemiciclo",
+        "d": "05/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-anuncia-acceso-de-periodistas-a-galeria-del-hemiciclo/",
         "pts": 2
       }
     ]
