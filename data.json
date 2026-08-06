@@ -1625,21 +1625,27 @@
       "source": "Portal del Congreso",
       "date": "03 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/este-martes-4-sesionara-la-junta-de-portavoces-del-senado/"
-    },
-    {
-      "title": "Presidente del Congreso: “Debemos cerrar filas para enfrentar amenazas de la delincuencia y El Niño”",
-      "source": "Portal del Congreso",
-      "date": "03 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-debemos-cerrar-filas-para-enfrentar-amenazas-de-la-delincuencia-y-el-nino/"
-    },
-    {
-      "title": "Presidente del Congreso participó en ceremonia por el 205.° aniversario de creación del Ministerio de RR.EE.",
-      "source": "Portal del Congreso",
-      "date": "03 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-creacion-del-ministerio-de-rr-ee/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Pleno de la Cámara de Diputados aprueba número de integrantes de comisiones ordinarias",
+      "source": "Portal del Congreso",
+      "date": "05 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-aprueba-numero-de-integrantes-de-comisiones-ordinarias/"
+    },
+    {
+      "title": "Cámara de Diputados guarda un minuto de silencio por víctimas del accidente aéreo en Nazca",
+      "source": "Portal del Congreso",
+      "date": "05 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-guarda-un-minuto-de-silencio-por-victimas-del-accidente-aereo-en-nazca/"
+    },
+    {
+      "title": "Definen número de integrantes de las comisiones ordinarias de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "05 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-las-comisiones-ordinarias-de-la-camara-de-diputados/"
+    },
     {
       "title": "Presidente de la Cámara de Diputados recibe a representantes de la organización internacional ASEZ WAO",
       "source": "Portal del Congreso",
@@ -1651,12 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "04 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-comisiones-ordinarias-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Junta de Portavoces de la Cámara de Diputados sesionará este martes 4",
-      "source": "Portal del Congreso",
-      "date": "03 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/junta-de-portavoces-de-la-camara-de-diputados-sesionara-este-martes-4/"
     }
   ],
   "events_override": {
@@ -1675,6 +1675,22 @@
         "d": "04/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibe-a-representantes-de-la-organizacion-internacional-asez-wao/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Pleno de la Cámara de Diputados aprueba número de integrantes de comisiones ordinarias",
+        "d": "05/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-aprueba-numero-de-integrantes-de-comisiones-ordinarias/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Cámara de Diputados guarda un minuto de silencio por víctimas del accidente aéreo en Nazca",
+        "d": "05/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-guarda-un-minuto-de-silencio-por-victimas-del-accidente-aereo-en-nazca/",
         "pts": 2
       }
     ],
@@ -1749,6 +1765,16 @@
         "d": "05/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-anuncia-acceso-de-periodistas-a-galeria-del-hemiciclo/",
+        "pts": 2
+      }
+    ],
+    "Mady Verónica Yonz Núñez": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Cámara de Diputados guarda un minuto de silencio por víctimas del accidente aéreo en Nazca",
+        "d": "05/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-guarda-un-minuto-de-silencio-por-victimas-del-accidente-aereo-en-nazca/",
         "pts": 2
       }
     ]
