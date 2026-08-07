@@ -1766,6 +1766,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-anuncia-acceso-de-periodistas-a-galeria-del-hemiciclo/",
         "pts": 2
+      },
+      {
+        "t": "🚨",
+        "a": "Sanción por postura polémica: Defensa de la virtualidad parlamentaria",
+        "d": "07/08/2026",
+        "tipo": "Sanción / Postura Polémica",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/",
+        "pts": -10
       }
     ],
     "Mady Verónica Yonz Núñez": [
