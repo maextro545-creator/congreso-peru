@@ -1366,7 +1366,17 @@ function openP(leg){
         if(evts && evts.length){
           return evts.map(e=>{
             const href = e.url ? ' href="' + e.url + '" target="_blank" style="text-decoration:none;display:block;transition:all 0.15s;cursor:pointer;" class="evt-card"' : ' style="display:block;text-decoration:none;"';
-            return '<a' + href + '><div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:12px 14px;margin-bottom:8px;transition:all 0.15s;" class="evt-inner"><div style="display:flex;justify-content:space-between;align-items:center"><div style="font-size:.78rem;font-weight:700;color:#166534;text-align:left;line-height:1.4;">'+e.t+' '+e.a+' &rarr;</div><div style="display:flex;gap:4px;flex-shrink:0;"><span style="font-size:.58rem;padding:2px 8px;border-radius:50px;background:#dcfce7;color:#166534;font-weight:600">'+e.tipo+'</span>' + (e.pts ? '<span style="font-size:.58rem;padding:2px 8px;border-radius:50px;background:#e0f2fe;color:#0369a1;font-weight:600">+' + e.pts + ' Pts</span>' : '') + '</div></div><div style="font-size:.62rem;color:#4ade80;margin-top:3px">&#128197; '+e.d+'</div></div></a>';
+            const isNeg = (e.pts && e.pts < 0) || (e.tipo && (e.tipo.includes('Sanción') || e.tipo.includes('Polémica')));
+            const cardBg = isNeg ? '#fef2f2' : '#f0fdf4';
+            const cardBorder = isNeg ? '#fecaca' : '#bbf7d0';
+            const txtColor = isNeg ? '#991b1b' : '#166534';
+            const dateColor = isNeg ? '#ef4444' : '#4ade80';
+            const badgeBg = isNeg ? '#fee2e2' : '#dcfce7';
+            const ptsBg = isNeg ? '#fee2e2' : '#e0f2fe';
+            const ptsColor = isNeg ? '#991b1b' : '#0369a1';
+            const ptsLabel = e.pts ? (e.pts > 0 ? '+' + e.pts : e.pts) + ' Pts' : '';
+
+            return '<a' + href + '><div style="background:' + cardBg + ';border:1px solid ' + cardBorder + ';border-radius:10px;padding:12px 14px;margin-bottom:8px;transition:all 0.15s;" class="evt-inner"><div style="display:flex;justify-content:space-between;align-items:center"><div style="font-size:.78rem;font-weight:700;color:' + txtColor + ';text-align:left;line-height:1.4;">'+e.t+' '+e.a+' &rarr;</div><div style="display:flex;gap:4px;flex-shrink:0;"><span style="font-size:.58rem;padding:2px 8px;border-radius:50px;background:' + badgeBg + ';color:' + txtColor + ';font-weight:600">'+e.tipo+'</span>' + (ptsLabel ? '<span style="font-size:.58rem;padding:2px 8px;border-radius:50px;background:' + ptsBg + ';color:' + ptsColor + ';font-weight:700">' + ptsLabel + '</span>' : '') + '</div></div><div style="font-size:.62rem;color:' + dateColor + ';margin-top:3px">&#128197; '+e.d+'</div></div></a>';
           }).join('');
         }
         return '<div style="background:#fef9c3;border:1px solid #fde68a;border-radius:10px;padding:16px 18px;text-align:center">'+
