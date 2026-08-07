@@ -97,6 +97,64 @@ def fetch_spley_bills(events_override, all_names):
     except Exception as e:
         print(f"Error fetching SPLEY bills: {e}")
 
+def fetch_smociones_mociones(events_override, all_names):
+    url = "https://api.congreso.gob.pe/smociones-portal-service/mocion/lista-con-filtros"
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+
+    for camara, tag in [("S", "Senado"), ("D", "Diputados")]:
+        payload = json.dumps({"codTipoParl": camara, "perParId": 2026, "rowStart": 0, "pageSize": 50}).encode('utf-8')
+        req = urllib.request.Request(
+            url,
+            data=payload,
+            headers={"User-Agent": "Mozilla/5.0", "Content-Type": "application/json"},
+            method="POST"
+        )
+
+        try:
+            print(f"Fetching official motions ({tag}) from SMOCIONES API...")
+            with urllib.request.urlopen(req, context=ctx, timeout=15) as resp:
+                res = json.loads(resp.read().decode('utf-8'))
+                mociones = res.get("data", {}).get("mociones", [])
+                print(f"Successfully fetched {len(mociones)} motions for {tag}.")
+
+                for m in mociones:
+                    num_mocion = m.get('mocionNum', '')
+                    tipo = clean_text(m.get('desTipoMocion', 'Moción'))
+                    sumilla = clean_text(m.get('sumilla', ''))
+                    autores_raw = m.get('autores', '') or ''
+                    fec = m.get('fecPresentacion', '')[:10]
+                    if fec:
+                        parts = fec.split("-")
+                        if len(parts) == 3:
+                            fec = f"{parts[2]}/{parts[1]}/{parts[0]}"
+                    else:
+                        fec = "07/08/2026"
+
+                    mocion_url = f"https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/{camara}/search"
+
+                    for leg_name in all_names:
+                        aliases = get_aliases(leg_name)
+                        if any(alias.lower() in autores_raw.lower() for alias in aliases):
+                            if leg_name not in events_override:
+                                events_override[leg_name] = []
+                            
+                            title_event = f"Moción N° {num_mocion} ({tipo}): {sumilla[:120]}..." if len(sumilla) > 120 else f"Moción N° {num_mocion} ({tipo}): {sumilla}"
+                            already_added = any(ev.get("a") == title_event for ev in events_override[leg_name])
+                            if not already_added:
+                                events_override[leg_name].append({
+                                    "t": "📌",
+                                    "a": title_event,
+                                    "d": fec,
+                                    "tipo": "Moción de Orden del Día",
+                                    "url": mocion_url,
+                                    "pts": 3
+                                })
+                                print(f"Added motion event (+3 Pts) for: {leg_name} -> Moción N° {num_mocion}")
+        except Exception as e:
+            print(f"Error fetching SMOCIONES motions for {tag}: {e}")
+
 def main():
     if not os.path.exists(DATA_PATH):
         print(f"Error: {DATA_PATH} not found.")
@@ -221,7 +279,10 @@ def main():
     # 4. Fetch official bills from SPLEY API
     fetch_spley_bills(events_override, all_senators + all_deputies)
 
-    # 5. Save updated data
+    # 5. Fetch official motions from SMOCIONES API
+    fetch_smociones_mociones(events_override, all_senators + all_deputies)
+
+    # 6. Save updated data
     data["senado_news"] = senado_news[:10]
     data["diputados_news"] = diputados_news[:10]
     data["events_override"] = events_override
