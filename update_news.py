@@ -2,16 +2,14 @@ import urllib.request
 import re
 import html
 import json
+import ssl
 import os
 
-# Paths
-# Path relative to script location
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(SCRIPT_DIR, "data.json")
 
 def clean_text(text):
     text = html.unescape(text)
-    # Remove multiple spaces
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
@@ -44,6 +42,60 @@ def get_aliases(display_name):
         aliases.append(f"{parts[0]} {parts[-2]}")
         aliases.append(f"{parts[-2]} {parts[-1]}")
     return list(set(aliases))
+def fetch_spley_bills(events_override, all_names):
+    url = "https://api.congreso.gob.pe/spley-portal-service/proyecto-ley/lista-con-filtro"
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+
+    payload = json.dumps({"perParId": 2026, "pagina": 1, "registros": 100}).encode('utf-8')
+    req = urllib.request.Request(
+        url,
+        data=payload,
+        headers={"User-Agent": "Mozilla/5.0", "Content-Type": "application/json"},
+        method="POST"
+    )
+
+    try:
+        print("Fetching official bills from SPLEY API...")
+        with urllib.request.urlopen(req, context=ctx, timeout=15) as resp:
+            res = json.loads(resp.read().decode('utf-8'))
+            proyectos = res.get("data", {}).get("proyectos", [])
+            print(f"Successfully fetched {len(proyectos)} bills from SPLEY API.")
+
+            for p in proyectos:
+                num_pley = p.get('proyectoLey', 'Proyecto de Ley')
+                titulo = clean_text(p.get('titulo', ''))
+                autores_raw = p.get('autores', '') or ''
+                fec = p.get('fecPresentacion', '')[:10]
+                if fec:
+                    parts = fec.split("-")
+                    if len(parts) == 3:
+                        fec = f"{parts[2]}/{parts[1]}/{parts[0]}"
+                else:
+                    fec = "05/08/2026"
+
+                pley_url = f"https://wb2server.congreso.gob.pe/spley-portal/#/expediente/{p.get('perParId', 2026)}/{p.get('pleyNum', '')}"
+
+                for leg_name in all_names:
+                    aliases = get_aliases(leg_name)
+                    if any(alias.lower() in autores_raw.lower() for alias in aliases):
+                        if leg_name not in events_override:
+                            events_override[leg_name] = []
+                        
+                        already_added = any(ev.get("a") == f"Proyecto de Ley {num_pley}: {titulo}" for ev in events_override[leg_name])
+                        if not already_added:
+                            events_override[leg_name].append({
+                                "t": "📜",
+                                "a": f"Proyecto de Ley {num_pley}: {titulo}",
+                                "d": fec,
+                                "tipo": "Proyecto de Ley",
+                                "url": pley_url,
+                                "pts": 5
+                            })
+                            print(f"Added bill event (+5 Pts) for: {leg_name} -> {num_pley}")
+    except Exception as e:
+        print(f"Error fetching SPLEY bills: {e}")
 
 def main():
     if not os.path.exists(DATA_PATH):
@@ -106,8 +158,6 @@ def main():
     senado_news = []
     diputados_news = []
     
-    # We will build maps of senators/deputies display names
-    # data["SNMS"] is {"FP": [...], "JP": [...]}
     all_senators = []
     for party, names in data["SNMS"].items():
         all_senators.extend(names)
@@ -121,7 +171,6 @@ def main():
     for art in articles:
         title_and_summary = f"{art['title']} {art['summary']}"
         
-        # Check mentions
         mentioned_senators = []
         for sen in all_senators:
             aliases = get_aliases(sen)
@@ -134,16 +183,13 @@ def main():
             if any(alias.lower() in title_and_summary.lower() for alias in aliases):
                 mentioned_deputies.append(dep)
 
-        # Categorize article
         is_senate = len(mentioned_senators) > 0 or any(w in title_and_summary.lower() for w in ["senador", "senado", "cámara alta"])
         is_deputies = len(mentioned_deputies) > 0 or any(w in title_and_summary.lower() for w in ["diputado", "diputada", "cámara de diputados", "cámara baja"])
         
-        # If neither or both, check keywords or default to both
         if not is_senate and not is_deputies:
             is_senate = True
             is_deputies = True
 
-        # Append to respective news arrays
         news_item = {
             "title": art["title"],
             "source": "Portal del Congreso",
@@ -156,12 +202,10 @@ def main():
         if is_deputies:
             diputados_news.append(news_item)
 
-        # Update scoring (events_override) for mentioned legislators
         for leg_name in set(mentioned_senators + mentioned_deputies):
             if leg_name not in events_override:
                 events_override[leg_name] = []
             
-            # Check if this article is already added
             already_added = any(ev.get("url") == art["url"] for ev in events_override[leg_name])
             if not already_added:
                 events_override[leg_name].append({
@@ -174,8 +218,10 @@ def main():
                 })
                 print(f"Added scoring event (+2 Pts) for: {leg_name}")
 
-    # 4. Save updated data
-    # Keep only the top 10 news items per chamber to avoid bloat
+    # 4. Fetch official bills from SPLEY API
+    fetch_spley_bills(events_override, all_senators + all_deputies)
+
+    # 5. Save updated data
     data["senado_news"] = senado_news[:10]
     data["diputados_news"] = diputados_news[:10]
     data["events_override"] = events_override
@@ -183,7 +229,7 @@ def main():
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print("Successfully updated data.json with crawled news and scoring events.")
+    print("Successfully updated data.json with crawled news, SPLEY bills, and scoring events.")
 
 if __name__ == "__main__":
     main()
