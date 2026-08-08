@@ -1619,15 +1619,15 @@
       "source": "Portal del Congreso",
       "date": "04 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-ordinarias-legislativas-del-senado-tendran-12-integrantes/"
-    },
-    {
-      "title": "Este martes 4 sesionará la Junta de Portavoces del Senado",
-      "source": "Portal del Congreso",
-      "date": "03 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/este-martes-4-sesionara-la-junta-de-portavoces-del-senado/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente de la Cámara de Diputados recibió a colectivo de personas con discapacidad",
+      "source": "Portal del Congreso",
+      "date": "07 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-a-colectivo-de-personas-con-discapacidad/"
+    },
     {
       "title": "Pleno de la Cámara de Diputados aprueba número de integrantes de comisiones ordinarias",
       "source": "Portal del Congreso",
@@ -1691,6 +1691,14 @@
         "d": "05/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-guarda-un-minuto-de-silencio-por-victimas-del-accidente-aereo-en-nazca/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados recibió a colectivo de personas con discapacidad",
+        "d": "07/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-a-colectivo-de-personas-con-discapacidad/",
         "pts": 2
       }
     ],
@@ -2250,6 +2258,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00007-2026-2031-CD: LEY QUE DEROGA DIVERSAS REFORMAS LEGISLATIVAS QUE HAN GENERADO RETROCESOS NORMATIVOS EN LA LUCHA CONTRA EL CRIMEN ORGANIZADO",
+        "d": "07/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/7",
+        "pts": 5
       }
     ],
     "Pierangeli Daniela Dodero Jovich": [
@@ -2267,6 +2283,22 @@
         "t": "📌",
         "a": "Moción N° 11 (Mociones de Saludo): EXPRESAR UN EFUSIVO SALUDO Y RECONOCIMIENTO AL GLORIOSO COLEGIO NACIONAL SAN CARLOS DE PUNO, AL CONMEMORARSE EL 7 DE AGO...",
         "d": "05/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00007-2026-2031-CD: LEY QUE DEROGA DIVERSAS REFORMAS LEGISLATIVAS QUE HAN GENERADO RETROCESOS NORMATIVOS EN LA LUCHA CONTRA EL CRIMEN ORGANIZADO",
+        "d": "07/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/7",
+        "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 15 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LAS ACCIONES DE LOS TRES NIVELES DE GOBIERNO FRENTE AL ...",
+        "d": "07/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
@@ -2305,6 +2337,116 @@
         "t": "📌",
         "a": "Moción N° 4 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
         "d": "04/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Azucena Isla Rojas": [
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00007-2026-2031-CD: LEY QUE DEROGA DIVERSAS REFORMAS LEGISLATIVAS QUE HAN GENERADO RETROCESOS NORMATIVOS EN LA LUCHA CONTRA EL CRIMEN ORGANIZADO",
+        "d": "07/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/7",
+        "pts": 5
+      }
+    ],
+    "Catherin Norma Palomino Casavilca": [
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00007-2026-2031-CD: LEY QUE DEROGA DIVERSAS REFORMAS LEGISLATIVAS QUE HAN GENERADO RETROCESOS NORMATIVOS EN LA LUCHA CONTRA EL CRIMEN ORGANIZADO",
+        "d": "07/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/7",
+        "pts": 5
+      }
+    ],
+    "Olver Peña Córdova": [
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00007-2026-2031-CD: LEY QUE DEROGA DIVERSAS REFORMAS LEGISLATIVAS QUE HAN GENERADO RETROCESOS NORMATIVOS EN LA LUCHA CONTRA EL CRIMEN ORGANIZADO",
+        "d": "07/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/7",
+        "pts": 5
+      }
+    ],
+    "Daniel Jefferson Varas Seguin": [
+      {
+        "t": "📌",
+        "a": "Moción N° 22 (Mociones de Saludo): EXPRESAR CORDIAL SALUDO Y FELICITACIÓN A LA DRA. JANET OFELIA LOURDES TELLO GILARDI, PRESIDENTA DEL PODER JUDICIAL Y DE ...",
+        "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 21 (Mociones de Saludo): EXPRESAR CORDIAL SALUDO Y FELICITACIÓN AL COLEGIO DE TECNÓLOGOS MÉDICOS DEL PERÚ, CON MOTIVO DE CONMEMORAR ESTE 10 DE AG...",
+        "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 20 (Mociones de Saludo): EXPRESAR CORDIAL SALUDO Y FELICITACIÓN AL COLEGIO DE OBSTETRAS DEL PERÚ, CON MOTIVO DE CONMEMORAR ÉSTE 31 DE AGOSTO EL D...",
+        "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 19 (Mociones de Saludo): EXPRESAR CORDIAL SALUDO Y FELICITACIÓN A LA REGIÓN DE JUNÍN CON MOTIVO DE CONMEMORAR ÉSTE 06 DE AGOSTO EL 202° ANIERSARI...",
+        "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 18 (Mociones de Saludo): EXPRESAR CORDIAL SALUDO Y FELICITACIÓN AL COLEGIO DE ENFERMEROS DEL PERÚ CON MOTIVO DE CONMEMORAR ÉSTE 30 DE AGOSTO EL D...",
+        "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 17 (Mociones de Saludo): EXPRESAR CORDIAL SALUDO Y FELICITACIÓN AL SEÑOR DR. LUIS CHAVARRY MAXIMILIANO, DIRECTOR DEL HOSPITAL I - CONO SUR CON MO...",
+        "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Amalia Emilia Palomino Pacheco": [
+      {
+        "t": "📌",
+        "a": "Moción N° 15 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LAS ACCIONES DE LOS TRES NIVELES DE GOBIERNO FRENTE AL ...",
+        "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Jesús Pérez Alccahuaman": [
+      {
+        "t": "📌",
+        "a": "Moción N° 15 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LAS ACCIONES DE LOS TRES NIVELES DE GOBIERNO FRENTE AL ...",
+        "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Ernesto Alonso Zunini Yerren": [
+      {
+        "t": "📌",
+        "a": "Moción N° 15 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LAS ACCIONES DE LOS TRES NIVELES DE GOBIERNO FRENTE AL ...",
+        "d": "07/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
