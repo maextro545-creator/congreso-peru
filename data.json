@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Miguel Torres: «La población debe estar tranquila porque la bicameralidad le dará estabilidad al país»",
+      "source": "Portal del Congreso",
+      "date": "09 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-la-poblacion-debe-estar-tranquila-porque-la-bicameralidad-le-dara-estabilidad-al-pais/"
+    },
+    {
       "title": "Presidente del Senado anuncia acceso de periodistas a galería del hemiciclo",
       "source": "Portal del Congreso",
       "date": "05 Ago 2026",
@@ -1613,12 +1619,6 @@
       "source": "Portal del Congreso",
       "date": "04 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-dia-del-juez/"
-    },
-    {
-      "title": "Comisiones ordinarias legislativas del Senado tendrán 12 integrantes",
-      "source": "Portal del Congreso",
-      "date": "04 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-ordinarias-legislativas-del-senado-tendran-12-integrantes/"
     }
   ],
   "diputados_news": [
@@ -1782,6 +1782,14 @@
         "tipo": "Sanción / Postura Polémica",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/",
         "pts": -10
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres: «La población debe estar tranquila porque la bicameralidad le dará estabilidad al país»",
+        "d": "09/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-la-poblacion-debe-estar-tranquila-porque-la-bicameralidad-le-dara-estabilidad-al-pais/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
