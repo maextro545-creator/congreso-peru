@@ -2462,11 +2462,11 @@
     ]
   },
   "config": {
-    "mobile_size": 7,
-    "mobile_scale_x": 1.05,
-    "mobile_scale_y": 0.95,
-    "mobile_r_mult": 1.6,
-    "desktop_size": 7.4,
+    "mobile_size": 3.8,
+    "mobile_scale_x": 0.8,
+    "mobile_scale_y": 1.38,
+    "mobile_r_mult": 2.2,
+    "desktop_size": 5.2,
     "desktop_scale_x": 0.8,
     "desktop_scale_y": 0.97,
     "desktop_r_mult": 1.8,
