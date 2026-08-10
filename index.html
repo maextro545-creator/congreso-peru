@@ -892,13 +892,52 @@
       display: flex;
       flex-direction: column;
       box-shadow: 12px 0 50px rgba(0,0,0,.25);
-      transition: left .3s cubic-bezier(.4,0,.2,1);
+      transition: left .3s cubic-bezier(.4,0,.2,1), bottom .3s cubic-bezier(.4,0,.2,1), height .3s, width .3s, background .2s, backdrop-filter .2s;
       padding: 22px;
       color: var(--text);
       overflow-y: auto;
       gap: 16px;
     }
     #admin-panel.on { left: 0; }
+    
+    /* Glass / Transparent Mode */
+    #admin-panel.glass-mode {
+      background: rgba(10, 15, 40, 0.16) !important;
+      backdrop-filter: blur(1.5px) !important;
+      border-color: rgba(197, 160, 89, 0.4) !important;
+      box-shadow: none !important;
+    }
+    
+    /* Minimized state on PC */
+    #admin-panel.minimized {
+      left: -340px !important;
+    }
+    
+    /* Mobile bottom docking layout */
+    @media (max-width: 600px) {
+      #admin-panel {
+        top: auto;
+        left: 0;
+        bottom: -60vh;
+        width: 100vw;
+        height: 52vh;
+        max-height: 460px;
+        border-right: none;
+        border-top: 3px solid var(--accent);
+        box-shadow: 0 -12px 50px rgba(0,0,0,.35);
+        padding: 14px;
+      }
+      #admin-panel.on {
+        bottom: 0;
+        left: 0;
+      }
+      #admin-panel.minimized {
+        height: 52px !important;
+        bottom: 0 !important;
+        left: 0 !important;
+        overflow: hidden;
+      }
+    }
     .admin-header {
       display: flex;
       justify-content: space-between;
@@ -1134,8 +1173,12 @@
 <!-- Admin Dashboard Sidebar -->
 <div id="admin-panel">
     <div class="admin-header">
-      <div class="admin-title">🔒 Dashboard de Control del Congreso</div>
-      <button class="admin-close" onclick="closeAdmin()">&#10005;</button>
+      <div class="admin-title" style="font-size: 0.95rem; font-weight: 800; color: var(--accent);">🔒 Dashboard</div>
+      <div style="display: flex; gap: 6px; align-items: center;">
+        <button id="admin-glass-btn" onclick="toggleAdminGlass()" title="Modo Transparente" style="background: none; border: 1px solid var(--border); border-radius: 4px; padding: 3px 6px; font-size: .62rem; color: var(--text); cursor: pointer;">👁️ Transparente</button>
+        <button id="admin-min-btn" onclick="toggleAdminMin()" title="Minimizar / Expandir" style="background: none; border: 1px solid var(--border); border-radius: 4px; padding: 3px 7px; font-size: .62rem; color: var(--text); cursor: pointer;">➖</button>
+        <button class="admin-close" onclick="closeAdmin()" style="margin-left: 2px;">&#10005;</button>
+      </div>
     </div>
     
     <!-- Login Screen -->
@@ -2174,7 +2217,36 @@ function openAdmin() {
 }
 
 function closeAdmin() {
-  document.getElementById('admin-panel').classList.remove('on');
+  const panel = document.getElementById('admin-panel');
+  panel.classList.remove('on');
+  panel.classList.remove('glass-mode');
+  panel.classList.remove('minimized');
+  document.getElementById('admin-glass-btn').innerText = '👁️ Transparente';
+  document.getElementById('admin-min-btn').innerText = '➖';
+}
+
+function toggleAdminGlass() {
+  const panel = document.getElementById('admin-panel');
+  panel.classList.toggle('glass-mode');
+  const btn = document.getElementById('admin-glass-btn');
+  if (panel.classList.contains('glass-mode')) {
+    btn.innerText = '👁️ Sólido';
+    btn.style.borderColor = 'var(--accent)';
+  } else {
+    btn.innerText = '👁️ Transparente';
+    btn.style.borderColor = 'var(--border)';
+  }
+}
+
+function toggleAdminMin() {
+  const panel = document.getElementById('admin-panel');
+  panel.classList.toggle('minimized');
+  const btn = document.getElementById('admin-min-btn');
+  if (panel.classList.contains('minimized')) {
+    btn.innerText = '➕';
+  } else {
+    btn.innerText = '➖';
+  }
 }
 
 function submitAdminLogin() {
