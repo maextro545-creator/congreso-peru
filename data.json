@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Congreso rindió homenaje a Ecuador por aniversario de su Primer Grito de Independencia",
+      "source": "Portal del Congreso",
+      "date": "10 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rindio-homenaje-a-ecuador-por-aniversario-de-su-primer-grito-de-independencia/"
+    },
+    {
+      "title": "Juntas de Portavoces del Senado y de la Cámara de Diputados sesionarán este martes 11",
+      "source": "Portal del Congreso",
+      "date": "10 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-sesionaran-este-martes-11/"
+    },
+    {
       "title": "Miguel Torres: «La población debe estar tranquila porque la bicameralidad le dará estabilidad al país»",
       "source": "Portal del Congreso",
       "date": "09 Ago 2026",
@@ -1613,15 +1625,27 @@
       "source": "Portal del Congreso",
       "date": "05 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-aprueba-numero-de-integrantes-de-comisiones-ordinarias-para-periodo-2026-2027/"
-    },
-    {
-      "title": "Presidente del Congreso participó en ceremonia por Día del Juez",
-      "source": "Portal del Congreso",
-      "date": "04 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-dia-del-juez/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Congreso rindió homenaje a Ecuador por aniversario de su Primer Grito de Independencia",
+      "source": "Portal del Congreso",
+      "date": "10 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rindio-homenaje-a-ecuador-por-aniversario-de-su-primer-grito-de-independencia/"
+    },
+    {
+      "title": "Comisión de Ética de la Cámara de Diputados elegirá este martes 11 a su mesa directiva",
+      "source": "Portal del Congreso",
+      "date": "10 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-de-la-camara-de-diputados-elegira-este-martes-11-a-su-mesa-directiva/"
+    },
+    {
+      "title": "Juntas de Portavoces del Senado y de la Cámara de Diputados sesionarán este martes 11",
+      "source": "Portal del Congreso",
+      "date": "10 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-sesionaran-este-martes-11/"
+    },
     {
       "title": "Presidente de la Cámara de Diputados recibió a colectivo de personas con discapacidad",
       "source": "Portal del Congreso",
@@ -1645,18 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "05 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-las-comisiones-ordinarias-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados recibe a representantes de la organización internacional ASEZ WAO",
-      "source": "Portal del Congreso",
-      "date": "04 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibe-a-representantes-de-la-organizacion-internacional-asez-wao/"
-    },
-    {
-      "title": "Definen número de integrantes de comisiones ordinarias de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "04 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-comisiones-ordinarias-de-la-camara-de-diputados/"
     }
   ],
   "events_override": {
@@ -1834,6 +1846,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/1",
         "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00011-2026-2031-CD: LEY QUE PROMUEVE LA INOCUIDAD DE LOS ALIMENTOS A FAVOR DE LOS CONSUMIDORES MEDIANTE EL FORTALECIMIENTO DEL SISTEMA DE CONTROL Y VIGILANCIA SANITARIA",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/11",
+        "pts": 5
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -1878,6 +1898,30 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/2",
         "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00011-2026-2031-CD: LEY QUE PROMUEVE LA INOCUIDAD DE LOS ALIMENTOS A FAVOR DE LOS CONSUMIDORES MEDIANTE EL FORTALECIMIENTO DEL SISTEMA DE CONTROL Y VIGILANCIA SANITARIA",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/11",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00010-2026-2031-CD: LEY QUE PROTEGE EL VEHÍCULO DEL TAXISTA INDEPENDIENTE COMO ÚNICA HERRAMIENTA DE TRABAJO Y REGULA LA PROPORCIONALIDAD DEL INTERNAMIENTO VEHICULAR",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/10",
+        "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 26 (Conformación de Comisiones de Investigación): CREAR UNA COMISIÓN INVESTIGADORA QUE ANALICE LOS HECHOS SUSCITADOS Y DETERMINE LAS RESPONSABILIDADES POLÍTICAS Y, DE SER...",
+        "d": "10/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -1912,6 +1956,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00011-2026-2031-CD: LEY QUE PROMUEVE LA INOCUIDAD DE LOS ALIMENTOS A FAVOR DE LOS CONSUMIDORES MEDIANTE EL FORTALECIMIENTO DEL SISTEMA DE CONTROL Y VIGILANCIA SANITARIA",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/11",
+        "pts": 5
       }
     ],
     "Helard Bladimir Sonco Villanueva": [
@@ -1945,6 +1997,22 @@
         "d": "04/08/2026",
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/2",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00011-2026-2031-CD: LEY QUE PROMUEVE LA INOCUIDAD DE LOS ALIMENTOS A FAVOR DE LOS CONSUMIDORES MEDIANTE EL FORTALECIMIENTO DEL SISTEMA DE CONTROL Y VIGILANCIA SANITARIA",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/11",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00010-2026-2031-CD: LEY QUE PROTEGE EL VEHÍCULO DEL TAXISTA INDEPENDIENTE COMO ÚNICA HERRAMIENTA DE TRABAJO Y REGULA LA PROPORCIONALIDAD DEL INTERNAMIENTO VEHICULAR",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/10",
         "pts": 5
       }
     ],
@@ -2114,6 +2182,22 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/1",
         "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00011-2026-2031-CD: LEY QUE PROMUEVE LA INOCUIDAD DE LOS ALIMENTOS A FAVOR DE LOS CONSUMIDORES MEDIANTE EL FORTALECIMIENTO DEL SISTEMA DE CONTROL Y VIGILANCIA SANITARIA",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/11",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00010-2026-2031-CD: LEY QUE PROTEGE EL VEHÍCULO DEL TAXISTA INDEPENDIENTE COMO ÚNICA HERRAMIENTA DE TRABAJO Y REGULA LA PROPORCIONALIDAD DEL INTERNAMIENTO VEHICULAR",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/10",
+        "pts": 5
       }
     ],
     "Harvey Julio Colchado Huamani": [
@@ -2140,6 +2224,30 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/1",
         "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00011-2026-2031-CD: LEY QUE PROMUEVE LA INOCUIDAD DE LOS ALIMENTOS A FAVOR DE LOS CONSUMIDORES MEDIANTE EL FORTALECIMIENTO DEL SISTEMA DE CONTROL Y VIGILANCIA SANITARIA",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/11",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00010-2026-2031-CD: LEY QUE PROTEGE EL VEHÍCULO DEL TAXISTA INDEPENDIENTE COMO ÚNICA HERRAMIENTA DE TRABAJO Y REGULA LA PROPORCIONALIDAD DEL INTERNAMIENTO VEHICULAR",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/10",
+        "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 26 (Conformación de Comisiones de Investigación): CREAR UNA COMISIÓN INVESTIGADORA QUE ANALICE LOS HECHOS SUSCITADOS Y DETERMINE LAS RESPONSABILIDADES POLÍTICAS Y, DE SER...",
+        "d": "10/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "José Miguel Marcelo Salazar": [
@@ -2158,6 +2266,30 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/1",
         "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00011-2026-2031-CD: LEY QUE PROMUEVE LA INOCUIDAD DE LOS ALIMENTOS A FAVOR DE LOS CONSUMIDORES MEDIANTE EL FORTALECIMIENTO DEL SISTEMA DE CONTROL Y VIGILANCIA SANITARIA",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/11",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00010-2026-2031-CD: LEY QUE PROTEGE EL VEHÍCULO DEL TAXISTA INDEPENDIENTE COMO ÚNICA HERRAMIENTA DE TRABAJO Y REGULA LA PROPORCIONALIDAD DEL INTERNAMIENTO VEHICULAR",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/10",
+        "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 26 (Conformación de Comisiones de Investigación): CREAR UNA COMISIÓN INVESTIGADORA QUE ANALICE LOS HECHOS SUSCITADOS Y DETERMINE LAS RESPONSABILIDADES POLÍTICAS Y, DE SER...",
+        "d": "10/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -2256,6 +2388,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -2310,6 +2458,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
       }
     ],
     "Roxana María Rocha Gallegos": [
@@ -2358,6 +2522,22 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/7",
         "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
       }
     ],
     "Catherin Norma Palomino Casavilca": [
@@ -2378,6 +2558,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/7",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 23 (Mociones de Saludo): EXPRESAR UN EMOTIVO SALUDO A LA CIUDAD DE TARAPOTO CON MOTIVO DE CONMEMORARSE, EL 20 DE AGOSTO DE 2026, EL 244.º ANIVERS...",
+        "d": "10/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Daniel Jefferson Varas Seguin": [
@@ -2428,6 +2616,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -2448,6 +2652,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
       }
     ],
     "Ernesto Alonso Zunini Yerren": [
@@ -2455,6 +2675,132 @@
         "t": "📌",
         "a": "Moción N° 15 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LAS ACCIONES DE LOS TRES NIVELES DE GOBIERNO FRENTE AL ...",
         "d": "07/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
+      }
+    ],
+    "Javier José María Cipriani Thorne": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética de la Cámara de Diputados elegirá este martes 11 a su mesa directiva",
+        "d": "10/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-de-la-camara-de-diputados-elegira-este-martes-11-a-su-mesa-directiva/",
+        "pts": 2
+      }
+    ],
+    "Jessica Roxana Guevara Ramírez": [
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
+      }
+    ],
+    "Yenifer Noelia Paredes Navarro": [
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
+      }
+    ],
+    "Luz Mérida Soto Ferrari": [
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
+      }
+    ],
+    "Pilar Sulca Castillo": [
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
+      }
+    ],
+    "Juan Amilcar Villanueva Calderón": [
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00009-2026-2031-CD: LEY QUE DEROGA LA LEY 31751 Y LA LEY 32104, QUE MODIFICAN LA SUSPENSIÓN DEL PLAZO DE PRESCRIPCIÓN DE LA ACCIÓN PENAL",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/9",
+        "pts": 5
+      },
+      {
+        "t": "📜",
+        "a": "Proyecto de Ley 00008-2026-2031-CD: LEY QUE DEROGA LA LEY 32108 Y LA LEY 32138, SOBRE EL CRIMEN ORGANIZADO",
+        "d": "10/08/2026",
+        "tipo": "Proyecto de Ley",
+        "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
+        "pts": 5
+      }
+    ],
+    "José Isidro Baella Malca": [
+      {
+        "t": "📌",
+        "a": "Moción N° 25 (Mociones de Saludo): RECONOCER Y ENALTECER LA ABNEGADA, Y TRASCENDENTAL LABOR QUE DESEMPEÑA LA DIRINCRI PNP EN LA PREVENCIÓN, COMBATE E INVES...",
+        "d": "10/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
