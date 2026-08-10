@@ -879,35 +879,26 @@
       text-transform: uppercase;
     }
 
-    /* Dashboard Admin UI */
+    /* Dashboard Admin UI - Left Sidebar */
     #admin-panel {
       position: fixed;
-      inset: 0;
-      background: rgba(10,15,40,.82);
-      backdrop-filter: blur(8px);
-      z-index: 10000;
-      display: none;
-      align-items: center;
-      justify-content: center;
-      padding: 16px;
-    }
-    #admin-panel.on { display: flex; }
-    .admin-card {
+      top: 0;
+      left: -420px;
+      bottom: 0;
+      width: min(400px, 100vw);
       background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      width: 100%;
-      max-width: 580px;
-      max-height: 90vh;
-      overflow-y: auto;
-      box-shadow: 0 10px 40px rgba(0,0,0,.5);
-      border-top: 5px solid var(--accent);
-      padding: 22px;
+      border-right: 3px solid var(--accent);
+      z-index: 10000;
       display: flex;
       flex-direction: column;
-      gap: 16px;
+      box-shadow: 12px 0 50px rgba(0,0,0,.25);
+      transition: left .3s cubic-bezier(.4,0,.2,1);
+      padding: 22px;
       color: var(--text);
+      overflow-y: auto;
+      gap: 16px;
     }
+    #admin-panel.on { left: 0; }
     .admin-header {
       display: flex;
       justify-content: space-between;
@@ -1140,9 +1131,8 @@
   <div class="pbody" id="pbody"></div>
 </div>
 
-<!-- Admin Dashboard Modal -->
+<!-- Admin Dashboard Sidebar -->
 <div id="admin-panel">
-  <div class="admin-card">
     <div class="admin-header">
       <div class="admin-title">🔒 Dashboard de Control del Congreso</div>
       <button class="admin-close" onclick="closeAdmin()">&#10005;</button>
@@ -1263,6 +1253,10 @@
             <label>Multiplicador de Radio de Puntos (<span id="val-d-rm">0</span>)</label>
             <input type="range" class="admin-input" id="cfg-d-rm" min="0.4" max="2.2" step="0.05" oninput="updateGeom('desktop_r_mult', this.value)" />
           </div>
+          <div class="admin-form-group">
+            <label>Ancho Máximo del Contenedor (<span id="val-d-bw">0</span>px)</label>
+            <input type="range" class="admin-input" id="cfg-d-bw" min="500" max="1100" step="10" oninput="updateGeom('desktop_box_width', this.value)" />
+          </div>
         </div>
 
         <!-- Mobile controls group -->
@@ -1342,7 +1336,6 @@
       </div>
 
     </div>
-  </div>
 </div>
 
 <footer>
@@ -1716,6 +1709,13 @@ function renderSVG(svgId,legs,size){
 }
 
 function renderAll(size){
+  const isMobile = window.innerWidth <= 600;
+  const boxWidth = isMobile ? '100%' : (config.desktop_box_width || 680) + 'px';
+  const boxS = document.getElementById('pbox-s');
+  const boxD = document.getElementById('pbox-d');
+  if (boxS) boxS.style.maxWidth = boxWidth;
+  if (boxD) boxD.style.maxWidth = boxWidth;
+  
   renderSVG('svg-s',senators,size);
   renderSVG('svg-d',deputies,size);
 }
@@ -2237,6 +2237,9 @@ function setupAdminDashboard() {
   document.getElementById('cfg-d-rm').value = config.desktop_r_mult;
   document.getElementById('val-d-rm').innerText = config.desktop_r_mult;
 
+  document.getElementById('cfg-d-bw').value = config.desktop_box_width || 680;
+  document.getElementById('val-d-bw').innerText = config.desktop_box_width || 680;
+
   document.getElementById('cfg-m-size').value = config.mobile_size;
   document.getElementById('val-m-size').innerText = config.mobile_size;
   
@@ -2266,6 +2269,7 @@ function updateGeom(key, value) {
   if (key === 'desktop_scale_x') document.getElementById('val-d-sx').innerText = value;
   if (key === 'desktop_scale_y') document.getElementById('val-d-sy').innerText = value;
   if (key === 'desktop_r_mult') document.getElementById('val-d-rm').innerText = value;
+  if (key === 'desktop_box_width') document.getElementById('val-d-bw').innerText = value;
   
   if (key === 'mobile_size') document.getElementById('val-m-size').innerText = value;
   if (key === 'mobile_scale_x') document.getElementById('val-m-sx').innerText = value;
