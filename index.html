@@ -1132,7 +1132,7 @@ const DD=[["FP", 41], ["JP", 32], ["PBG", 18], ["RP", 15], ["PCO", 14], ["AN", 1
 let senators=[];
 let deputies=[];
 
-let currentSize=5;
+let currentSize=7;
 const SIZE_PRESETS={2.5:'xs',3.5:'s',5:'m',7:'l',9:'xl'};
 
 function distR(total,rows,radii){
@@ -1186,7 +1186,7 @@ function renderSVG(svgId,legs,size){
   const {seats,cx,cy,viewW,viewH}=hemi(legs.length,size);
   svg.setAttribute('viewBox',`0 0 ${viewW.toFixed(0)} ${viewH.toFixed(0)}`);
   svg.style.width='100%';svg.style.height='auto';svg.style.maxWidth='100%';
-  const r=Math.max(2.5,size*1.35);
+  const r=Math.max(3.5,size*1.6);
   const SEAT_LBL={FP:'K',JP:'J',RP:'R',PBG:'B',PCO:'O',AN:'A'};
   const ns='http://www.w3.org/2000/svg';
   const lbl=document.createElementNS('http://www.w3.org/2000/svg','text');
