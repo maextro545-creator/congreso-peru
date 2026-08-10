@@ -877,6 +877,120 @@
       color: var(--sub);
       text-transform: uppercase;
     }
+
+    /* Dashboard Admin UI */
+    #admin-panel {
+      position: fixed;
+      inset: 0;
+      background: rgba(10,15,40,.82);
+      backdrop-filter: blur(8px);
+      z-index: 10000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+    }
+    #admin-panel.on { display: flex; }
+    .admin-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      width: 100%;
+      max-width: 580px;
+      max-height: 90vh;
+      overflow-y: auto;
+      box-shadow: 0 10px 40px rgba(0,0,0,.5);
+      border-top: 5px solid var(--accent);
+      padding: 22px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      color: var(--text);
+    }
+    .admin-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 12px;
+    }
+    .admin-title { font-size: 1.1rem; font-weight: 800; color: var(--accent); }
+    .admin-close { background: none; border: none; color: var(--sub); cursor: pointer; font-size: 1.2rem; transition: color .15s; }
+    .admin-close:hover { color: var(--dark); }
+    .admin-tabs { display: flex; gap: 8px; border-bottom: 1px solid var(--border); padding-bottom: 8px; margin-bottom: 4px; }
+    .admin-tab { background: none; border: none; padding: 6px 12px; font-size: .75rem; font-weight: 700; color: var(--sub); cursor: pointer; border-radius: 6px; transition: all .15s; }
+    .admin-tab:hover { background: var(--card2); }
+    .admin-tab.active { background: var(--accent); color: #fff; }
+    .admin-body { display: flex; flex-direction: column; gap: 14px; }
+    .admin-form-group { display: flex; flex-direction: column; gap: 6px; }
+    .admin-form-group label { font-size: .72rem; font-weight: 700; color: var(--sub); text-transform: uppercase; letter-spacing: .05em; }
+    .admin-input, .admin-select { 
+      background: var(--card2); 
+      border: 1px solid var(--border); 
+      border-radius: 6px; 
+      padding: 8px 10px; 
+      font-size: .8rem; 
+      color: var(--text); 
+      outline: none; 
+      font-family: inherit;
+      transition: border-color .15s;
+    }
+    .admin-input:focus, .admin-select:focus { border-color: var(--accent); }
+    .admin-btn {
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      padding: 10px;
+      border-radius: 6px;
+      font-size: .8rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+      transition: background-color .15s, transform .1s;
+    }
+    .admin-btn:hover { background: var(--accent2); }
+    .admin-btn:active { transform: translateY(1px); }
+    .admin-btn-secondary {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: .72rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background-color .15s;
+    }
+    .admin-btn-secondary:hover { background: var(--card2); }
+    .admin-evt-list {
+      max-height: 180px;
+      overflow-y: auto;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 6px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      background: var(--card2);
+    }
+    .admin-evt-item {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 6px 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      font-size: .7rem;
+    }
+    .admin-evt-info { display: flex; flex-direction: column; gap: 2px; text-align: left; }
+    .admin-evt-title { font-weight: 700; color: var(--text); }
+    .admin-evt-meta { font-size: .62rem; color: var(--sub); }
+    .admin-evt-del { background: none; border: none; color: #ef4444; cursor: pointer; font-size: .85rem; padding: 2px 4px; }
+    .admin-evt-del:hover { font-weight: bold; }
+    .admin-loading { font-size: .85rem; font-weight: 700; text-align: center; color: var(--accent); padding: 20px 0; }
+    .admin-error { color: #ef4444; font-size: .75rem; text-align: center; margin-top: 4px; font-weight: 600; }
   </style>
 </head>
 <body>
@@ -898,6 +1012,9 @@
     <div><h1>Congreso del Peru 2026</h1><p>Mapa interactivo &middot; Bicameral 2026-2031</p></div>
   </div>
   <div class="hdr-right">
+    <button id="admin-toggle" class="theme-toggle" onclick="openAdmin()" style="margin-right: 4px;">
+      <span>🔒</span> <span>Dashboard</span>
+    </button>
     <button id="theme-toggle" class="theme-toggle" onclick="toggleTheme()">
       <span id="theme-toggle-icon">🍷</span> <span id="theme-toggle-text">Modo Terciopelo</span>
     </button>
@@ -1020,6 +1137,161 @@
   </div>
   <div class="phero" id="phero"></div>
   <div class="pbody" id="pbody"></div>
+</div>
+
+<!-- Admin Dashboard Modal -->
+<div id="admin-panel">
+  <div class="admin-card">
+    <div class="admin-header">
+      <div class="admin-title">🔒 Dashboard de Control del Congreso</div>
+      <button class="admin-close" onclick="closeAdmin()">&#10005;</button>
+    </div>
+    
+    <!-- Login Screen -->
+    <div id="admin-login-view" style="display: flex; flex-direction: column; gap: 14px;">
+      <div style="font-size: .8rem; color: var(--sub); text-align: center;">Por favor ingresa tus credenciales de administrador para desbloquear el control.</div>
+      <div class="admin-form-group">
+        <label>Usuario</label>
+        <input type="text" class="admin-input" id="admin-user-input" placeholder="Nombre de usuario" />
+      </div>
+      <div class="admin-form-group">
+        <label>Clave</label>
+        <input type="password" class="admin-input" id="admin-pass-input" placeholder="Contraseña de control" />
+      </div>
+      <div id="admin-login-error" class="admin-error" style="display: none;"></div>
+      <button class="admin-btn" onclick="submitAdminLogin()">Ingresar al Sistema</button>
+    </div>
+
+    <!-- Main Dashboard Screen -->
+    <div id="admin-main-view" style="display: none; flex-direction: column; gap: 14px;">
+      <div class="admin-tabs">
+        <button class="admin-tab active" id="atab-pts" onclick="switchAdminTab('pts')">⚡ Escaños y Puntos</button>
+        <button class="admin-tab" id="atab-design" onclick="switchAdminTab('design')">🎨 Diseño y Partidos</button>
+        <button class="admin-tab" id="atab-save" onclick="switchAdminTab('save')">💾 Guardar Cambios</button>
+      </div>
+
+      <!-- Tab: Puntos y Escaños -->
+      <div class="admin-body-tab" id="view-pts-tab" style="display: flex; flex-direction: column; gap: 12px;">
+        <div class="admin-form-group">
+          <label>Buscar / Seleccionar Parlamentario</label>
+          <select class="admin-select" id="admin-member-select" onchange="onAdminMemberChange()">
+            <!-- Populated dynamically -->
+          </select>
+        </div>
+
+        <div id="admin-member-details" style="display: none; flex-direction: column; gap: 12px;">
+          <div style="background: var(--card2); border: 1px solid var(--border); border-radius: 8px; padding: 10px; font-size: .75rem; text-align: left;">
+            <div style="font-weight: 800; font-size: .85rem; color: var(--accent);" id="admin-m-name">Nombre</div>
+            <div id="admin-m-party" style="font-weight: 600; font-size: .7rem; margin-top: 2px;">Partido</div>
+            <div style="margin-top: 6px; font-weight: 700;">Puntaje total: <span id="admin-m-score" style="color: var(--dark); font-size: .9rem;">0</span> Pts</div>
+          </div>
+
+          <div>
+            <div style="font-size: .7rem; font-weight: 800; color: var(--sub); text-transform: uppercase; margin-bottom: 4px;">Historial de Eventos del Miembro</div>
+            <div class="admin-evt-list" id="admin-evt-list-container">
+              <!-- Populated dynamically -->
+            </div>
+          </div>
+
+          <!-- Add custom event form -->
+          <div style="border-top: 1px solid var(--border); padding-top: 10px; display: flex; flex-direction: column; gap: 8px;">
+            <div style="font-size: .72rem; font-weight: 800; color: var(--accent); text-transform: uppercase;">Añadir Evento o Ajuste de Puntos</div>
+            <div style="display: grid; grid-template-columns: 80px 1fr; gap: 8px;">
+              <div class="admin-form-group">
+                <label>Icono</label>
+                <select class="admin-select" id="ae-icon">
+                  <option value="📰">📰 Noticia</option>
+                  <option value="📜">📜 Ley</option>
+                  <option value="📌">📌 Moción</option>
+                  <option value="🚨">🚨 Sanción</option>
+                  <option value="🏆">🏆 Premio</option>
+                  <option value="❌">❌ Falta</option>
+                </select>
+              </div>
+              <div class="admin-form-group">
+                <label>Descripción del Hecho</label>
+                <input type="text" class="admin-input" id="ae-desc" placeholder="Ej. Defensa de la virtualidad o Presentó Ley 102" />
+              </div>
+            </div>
+            <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px;">
+              <div class="admin-form-group">
+                <label>Puntos (+/-)</label>
+                <input type="number" class="admin-input" id="ae-pts" value="5" placeholder="Puntos" />
+              </div>
+              <div class="admin-form-group">
+                <label>Tipo de Evento</label>
+                <input type="text" class="admin-input" id="ae-tipo" value="Proyecto de Ley" placeholder="Ej. Proyecto de Ley" />
+              </div>
+              <div class="admin-form-group">
+                <label>Fecha</label>
+                <input type="text" class="admin-input" id="ae-date" placeholder="DD/MM/AAAA" />
+              </div>
+            </div>
+            <div class="admin-form-group">
+              <label>Enlace / URL de la fuente</label>
+              <input type="text" class="admin-input" id="ae-url" placeholder="https://..." value="https://comunicaciones.congreso.gob.pe/noticias/" />
+            </div>
+            <button class="admin-btn" style="padding: 8px;" onclick="addAdminEvent()">＋ Agregar Evento al Miembro</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab: Diseño y Partidos -->
+      <div class="admin-body-tab" id="view-design-tab" style="display: none; flex-direction: column; gap: 12px;">
+        <div class="admin-form-group">
+          <label>Seleccionar Partido para Editar</label>
+          <select class="admin-select" id="admin-party-select" onchange="onAdminPartyChange()">
+            <option value="FP">Fuerza Popular (FP)</option>
+            <option value="JP">Juntos por el Perú (JP)</option>
+            <option value="RP">Renovación Popular (RP)</option>
+            <option value="PBG">Partido del Buen Gobierno (PBG)</option>
+            <option value="PCO">Partido Cívico Obras (PCO)</option>
+            <option value="AN">Ahora Nación (AN)</option>
+          </select>
+        </div>
+
+        <div style="background: var(--card2); border: 1px solid var(--border); border-radius: 8px; padding: 12px; display: flex; flex-direction: column; gap: 10px;">
+          <div class="admin-form-group">
+            <label>Nombre del Partido</label>
+            <input type="text" class="admin-input" id="ap-name" />
+          </div>
+          <div class="admin-form-group">
+            <label>Líder del Partido</label>
+            <input type="text" class="admin-input" id="ap-leader" />
+          </div>
+          <div style="display: grid; grid-template-columns: 1fr 100px; gap: 8px;">
+            <div class="admin-form-group">
+              <label>Color (Hexadecimal)</label>
+              <input type="text" class="admin-input" id="ap-color" oninput="document.getElementById('ap-color-preview').style.background=this.value" />
+            </div>
+            <div class="admin-form-group">
+              <label>Vista Previa</label>
+              <div id="ap-color-preview" style="height: 34px; border-radius: 6px; border: 1px solid var(--border);"></div>
+            </div>
+          </div>
+          <div class="admin-form-group">
+            <label>Ideología / Identidad</label>
+            <input type="text" class="admin-input" id="ap-ideology" />
+          </div>
+          <button class="admin-btn" style="padding: 8px;" onclick="updateAdminParty()">Actualizar Datos del Partido</button>
+        </div>
+      </div>
+
+      <!-- Tab: Guardar Cambios -->
+      <div class="admin-body-tab" id="view-save-tab" style="display: none; flex-direction: column; gap: 14px; text-align: center; padding: 10px 0;">
+        <div style="font-size: 1.8rem;">💾</div>
+        <div style="font-size: .85rem; font-weight: 700; color: var(--text);">Guardar Cambios Permanentemente</div>
+        <div style="font-size: .75rem; color: var(--sub); line-height: 1.5; padding: 0 10px;">
+          Al presionar el botón de abajo, los cambios se enviarán a la base de datos de control. 
+          <br/><br/>
+          Si estás en producción (Vercel), los datos se guardarán directamente en GitHub y Vercel reconstruirá la página web automáticamente en unos 30 segundos.
+        </div>
+        <div id="admin-save-status" style="font-size: .75rem; font-weight: bold; margin-top: 10px;"></div>
+        <button class="admin-btn" style="padding: 12px;" onclick="saveAdminChanges()">💾 Guardar Cambios en Servidor</button>
+      </div>
+
+    </div>
+  </div>
 </div>
 
 <footer>
@@ -1797,6 +2069,285 @@ if (localStorage.getItem('theme') === 'dark') {
   document.body.classList.add('dark-mode');
 }
 updateThemeUI();
+
+/* ADMIN DASHBOARD CODE */
+function openAdmin() {
+  const panel = document.getElementById('admin-panel');
+  panel.classList.add('on');
+  
+  // Clear any inputs
+  document.getElementById('admin-user-input').value = '';
+  document.getElementById('admin-pass-input').value = '';
+  document.getElementById('admin-login-error').style.display = 'none';
+
+  // Check login status
+  if (sessionStorage.getItem('admin_logged') === 'true') {
+    document.getElementById('admin-login-view').style.display = 'none';
+    document.getElementById('admin-main-view').style.display = 'flex';
+    setupAdminDashboard();
+  } else {
+    document.getElementById('admin-login-view').style.display = 'flex';
+    document.getElementById('admin-main-view').style.display = 'none';
+  }
+}
+
+function closeAdmin() {
+  document.getElementById('admin-panel').classList.remove('on');
+}
+
+function submitAdminLogin() {
+  const u = document.getElementById('admin-user-input').value.trim();
+  const p = document.getElementById('admin-pass-input').value.trim();
+  const errEl = document.getElementById('admin-login-error');
+  
+  if (u === 'KEVIN' && p === '987077308') {
+    sessionStorage.setItem('admin_logged', 'true');
+    errEl.style.display = 'none';
+    document.getElementById('admin-login-view').style.display = 'none';
+    document.getElementById('admin-main-view').style.display = 'flex';
+    setupAdminDashboard();
+  } else {
+    errEl.innerText = 'Usuario o clave de control incorrectos.';
+    errEl.style.display = 'block';
+  }
+}
+
+function switchAdminTab(tab) {
+  document.querySelectorAll('.admin-tab').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.admin-body-tab').forEach(t => t.style.display = 'none');
+  
+  document.getElementById('atab-' + tab).classList.add('active');
+  document.getElementById('view-' + tab + '-tab').style.display = 'flex';
+}
+
+function setupAdminDashboard() {
+  // 1. Populate Members select sorted alphabetically
+  const sel = document.getElementById('admin-member-select');
+  sel.innerHTML = '<option value="">-- Seleccionar Parlamentario --</option>';
+  
+  // Combine senators and deputies
+  const all = [...senators, ...deputies];
+  all.sort((a,b) => a.name.localeCompare(b.name));
+  
+  all.forEach(leg => {
+    const opt = document.createElement('option');
+    opt.value = leg.name;
+    opt.dataset.type = leg.type;
+    opt.innerText = `[${leg.type.toUpperCase()}] ${leg.name} (${leg.party})`;
+    sel.appendChild(opt);
+  });
+  
+  document.getElementById('admin-member-details').style.display = 'none';
+
+  // 2. Setup Party design defaults
+  onAdminPartyChange();
+
+  // Set default date to today for event adding
+  const today = new Date();
+  const d = String(today.getDate()).padStart(2, '0');
+  const m = String(today.getMonth() + 1).padStart(2, '0');
+  const y = today.getFullYear();
+  document.getElementById('ae-date').value = `${d}/${m}/${y}`;
+}
+
+let activeAdminMember = null;
+
+function onAdminMemberChange() {
+  const name = document.getElementById('admin-member-select').value;
+  const details = document.getElementById('admin-member-details');
+  
+  if (!name) {
+    details.style.display = 'none';
+    activeAdminMember = null;
+    return;
+  }
+  
+  const all = [...senators, ...deputies];
+  activeAdminMember = all.find(leg => leg.name === name);
+  
+  if (!activeAdminMember) return;
+  
+  document.getElementById('admin-m-name').innerText = activeAdminMember.name;
+  document.getElementById('admin-m-party').innerText = `${activeAdminMember.partyName} (${activeAdminMember.party})`;
+  document.getElementById('admin-m-party').style.color = activeAdminMember.color;
+  
+  renderAdminEvents();
+  details.style.display = 'flex';
+}
+
+function renderAdminEvents() {
+  const name = activeAdminMember.name;
+  const listEl = document.getElementById('admin-evt-list-container');
+  listEl.innerHTML = '';
+  
+  // Recalculate score on the fly
+  const score = getLegScore(activeAdminMember);
+  document.getElementById('admin-m-score').innerText = score;
+  
+  const evts = eventsOverride[name] || [];
+  if (evts.length === 0) {
+    listEl.innerHTML = '<div style="font-size: .65rem; color: var(--sub2); text-align: center; padding: 10px;">Sin eventos o modificaciones registradas</div>';
+    return;
+  }
+  
+  evts.forEach((ev, idx) => {
+    const item = document.createElement('div');
+    item.className = 'admin-evt-item';
+    
+    const info = document.createElement('div');
+    info.className = 'admin-evt-info';
+    
+    const tit = document.createElement('span');
+    tit.className = 'admin-evt-title';
+    tit.innerText = `${ev.t} ${ev.a}`;
+    
+    const meta = document.createElement('span');
+    meta.className = 'admin-evt-meta';
+    meta.innerText = `${ev.d} | ${ev.tipo} | ${ev.pts > 0 ? '+' : ''}${ev.pts} Pts`;
+    
+    info.appendChild(tit);
+    info.appendChild(meta);
+    
+    const delBtn = document.createElement('button');
+    delBtn.className = 'admin-evt-del';
+    delBtn.innerHTML = '✕';
+    delBtn.onclick = () => deleteAdminEvent(idx);
+    
+    item.appendChild(info);
+    item.appendChild(delBtn);
+    listEl.appendChild(item);
+  });
+}
+
+function addAdminEvent() {
+  if (!activeAdminMember) return;
+  const name = activeAdminMember.name;
+  
+  const icon = document.getElementById('ae-icon').value;
+  const desc = document.getElementById('ae-desc').value.trim();
+  const pts = parseInt(document.getElementById('ae-pts').value) || 0;
+  const tipo = document.getElementById('ae-tipo').value.trim();
+  const date = document.getElementById('ae-date').value.trim();
+  const url = document.getElementById('ae-url').value.trim();
+  
+  if (!desc || !tipo || !date) {
+    alert('Por favor completa todos los campos del evento.');
+    return;
+  }
+  
+  if (!eventsOverride[name]) {
+    eventsOverride[name] = [];
+  }
+  
+  eventsOverride[name].push({
+    t: icon,
+    a: desc,
+    d: date,
+    tipo: tipo,
+    url: url,
+    pts: pts
+  });
+  
+  // Refresh UI
+  rebuildListsAndRefresh();
+  renderAdminEvents();
+  
+  // Reset form desc
+  document.getElementById('ae-desc').value = '';
+}
+
+function deleteAdminEvent(idx) {
+  if (!activeAdminMember) return;
+  const name = activeAdminMember.name;
+  
+  if (eventsOverride[name]) {
+    eventsOverride[name].splice(idx, 1);
+    if (eventsOverride[name].length === 0) {
+      delete eventsOverride[name];
+    }
+  }
+  
+  rebuildListsAndRefresh();
+  renderAdminEvents();
+}
+
+function onAdminPartyChange() {
+  const pk = document.getElementById('admin-party-select').value;
+  const party = P[pk];
+  if (!party) return;
+  
+  document.getElementById('ap-name').value = party.n;
+  document.getElementById('ap-leader').value = party.ldr;
+  document.getElementById('ap-color').value = party.c;
+  document.getElementById('ap-color-preview').style.background = party.c;
+  document.getElementById('ap-ideology').value = party.id || '';
+}
+
+function updateAdminParty() {
+  const pk = document.getElementById('admin-party-select').value;
+  const party = P[pk];
+  if (!party) return;
+  
+  party.n = document.getElementById('ap-name').value.trim();
+  party.ldr = document.getElementById('ap-leader').value.trim();
+  party.c = document.getElementById('ap-color').value.trim();
+  party.id = document.getElementById('ap-ideology').value.trim();
+  
+  rebuildListsAndRefresh();
+  alert(`Partido ${pk} actualizado correctamente en memoria. No olvides guardar permanentemente en la pestaña de Guardar Cambios.`);
+}
+
+function rebuildListsAndRefresh() {
+  // Re-generate list items with updated P colors, names, and event overrides
+  senators = buildList(SD, SNMS, 's');
+  deputies = buildList(DD, DNMS, 'd');
+  
+  // Re-render
+  renderAll(currentSize);
+  renderLeg('leg-s', SD, 's');
+  renderLeg('leg-d', DD, 'd');
+}
+
+async function saveAdminChanges() {
+  const statusEl = document.getElementById('admin-save-status');
+  statusEl.style.color = 'var(--accent)';
+  statusEl.innerText = 'Guardando cambios...';
+  
+  const payload = {
+    P,
+    INFO_MAP,
+    PHOTO_MAP,
+    SNMS,
+    DNMS,
+    senado_news: senadoNews,
+    diputados_news: diputadosNews,
+    events_override: eventsOverride
+  };
+  
+  try {
+    const res = await fetch('/api/save', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        username: 'KEVIN',
+        password: '987077308',
+        data: payload
+      })
+    });
+    
+    const result = await res.json();
+    if (res.ok) {
+      statusEl.style.color = '#166534';
+      statusEl.innerText = result.message;
+    } else {
+      statusEl.style.color = '#ef4444';
+      statusEl.innerText = result.error || 'Error al guardar cambios.';
+    }
+  } catch (err) {
+    statusEl.style.color = '#ef4444';
+    statusEl.innerText = 'Error de red: ' + err.message;
+  }
+}
 
 async function init() {
   try {
