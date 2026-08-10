@@ -147,60 +147,44 @@
     .szp.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 
     .tabs-wrapper {
-      position: relative;
-      margin-bottom: 14px;
+      background: var(--card2);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 6px;
     }
-    .tabs{display:flex;gap:7px;flex-wrap:wrap;transition:all 0.25s ease;}
+    .tab-dropdown-btn {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      padding: 12px 16px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font-size: 0.85rem;
+      font-weight: 800;
+      color: var(--text);
+      cursor: pointer;
+      font-family: inherit;
+      box-shadow: var(--shadow);
+    }
+    .tabs {
+      display: none;
+      flex-direction: column;
+      gap: 6px;
+      margin-top: 8px;
+    }
+    .tabs.open { display: flex; }
     .tab{display:flex;align-items:center;justify-content:space-between;gap:7px;padding:10px 16px;
-      background:var(--card);border:1px solid var(--border);border-radius:var(--r);
+      background:var(--card);border:1px solid var(--border);border-radius:8px;
       font-size:.8rem;font-weight:700;cursor:pointer;transition:all .18s;color:var(--sub);
       box-shadow:var(--shadow);font-family:inherit;width:100%;box-sizing:border-box;}
-    @media (min-width: 681px) {
-      .tab { width: auto; justify-content: flex-start; }
-      .tab-dropdown-btn { display: none !important; }
-      .tabs { display: flex !important; }
-    }
     .tab:hover{border-color:var(--border2);color:var(--text)}
     .tab.on{background:var(--accent);color:#fff;border-color:var(--accent)}
     .tab .badge{border-radius:50px;padding:2px 7px;font-size:.62rem;font-weight:800;background:rgba(255,255,255,.2);color:#fff}
     .tab:not(.on) .badge{background:var(--border);color:var(--sub)}
 
-    @media (max-width: 680px) {
-      .tabs-wrapper {
-        background: var(--card2);
-        border: 1px solid var(--border);
-        border-radius: 12px;
-        padding: 6px;
-      }
-      .tab-dropdown-btn {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        width: 100%;
-        padding: 12px 16px;
-        background: var(--card);
-        border: 1px solid var(--border);
-        border-radius: 8px;
-        font-size: 0.85rem;
-        font-weight: 800;
-        color: var(--text);
-        cursor: pointer;
-        font-family: inherit;
-        box-shadow: var(--shadow);
-      }
-      .tabs {
-        display: none;
-        flex-direction: column;
-        gap: 6px;
-        margin-top: 8px;
-      }
-      .tabs.open {
-        display: flex;
-      }
-      .tab {
-        border-radius: 8px;
-      }
-    }
+
 
     /* Roman columns styling */
     .roman-col {
