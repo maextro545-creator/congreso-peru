@@ -1167,6 +1167,7 @@
     <div id="admin-main-view" style="display: none; flex-direction: column; gap: 14px;">
       <div class="admin-tabs">
         <button class="admin-tab active" id="atab-pts" onclick="switchAdminTab('pts')">⚡ Escaños y Puntos</button>
+        <button class="admin-tab" id="atab-geom" onclick="switchAdminTab('geom')">📐 Geometría Hemiciclo</button>
         <button class="admin-tab" id="atab-design" onclick="switchAdminTab('design')">🎨 Diseño y Partidos</button>
         <button class="admin-tab" id="atab-save" onclick="switchAdminTab('save')">💾 Guardar Cambios</button>
       </div>
@@ -1233,6 +1234,55 @@
               <input type="text" class="admin-input" id="ae-url" placeholder="https://..." value="https://comunicaciones.congreso.gob.pe/noticias/" />
             </div>
             <button class="admin-btn" style="padding: 8px;" onclick="addAdminEvent()">＋ Agregar Evento al Miembro</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab: Geometría Hemiciclo -->
+      <div class="admin-body-tab" id="view-geom-tab" style="display: none; flex-direction: column; gap: 12px;">
+        <div style="font-size: .75rem; color: var(--sub); line-height: 1.4; margin-bottom: 6px;">
+          Ajusta en tiempo real la forma, tamaño y esparcimiento de los escaños en el hemiciclo para ambas plataformas.
+        </div>
+        
+        <!-- Desktop controls group -->
+        <div style="border: 1px solid var(--border); border-radius: 8px; padding: 12px; background: var(--card2); display: flex; flex-direction: column; gap: 10px;">
+          <div style="font-size: .75rem; font-weight: 800; color: var(--accent); text-transform: uppercase;">🖥️ Configuración para PC / Escritorio</div>
+          <div class="admin-form-group">
+            <label>Tamaño de Escaños (Base: <span id="val-d-size">0</span>)</label>
+            <input type="range" class="admin-input" id="cfg-d-size" min="2" max="10" step="0.1" oninput="updateGeom('desktop_size', this.value)" />
+          </div>
+          <div class="admin-form-group">
+            <label>Escala Horizontal / Ancho (<span id="val-d-sx">0</span>)</label>
+            <input type="range" class="admin-input" id="cfg-d-sx" min="0.8" max="2.0" step="0.01" oninput="updateGeom('desktop_scale_x', this.value)" />
+          </div>
+          <div class="admin-form-group">
+            <label>Escala Vertical / Alto (<span id="val-d-sy">0</span>)</label>
+            <input type="range" class="admin-input" id="cfg-d-sy" min="0.3" max="1.5" step="0.01" oninput="updateGeom('desktop_scale_y', this.value)" />
+          </div>
+          <div class="admin-form-group">
+            <label>Multiplicador de Radio de Puntos (<span id="val-d-rm">0</span>)</label>
+            <input type="range" class="admin-input" id="cfg-d-rm" min="0.4" max="2.2" step="0.05" oninput="updateGeom('desktop_r_mult', this.value)" />
+          </div>
+        </div>
+
+        <!-- Mobile controls group -->
+        <div style="border: 1px solid var(--border); border-radius: 8px; padding: 12px; background: var(--card2); display: flex; flex-direction: column; gap: 10px;">
+          <div style="font-size: .75rem; font-weight: 800; color: var(--accent); text-transform: uppercase;">📱 Configuración para Móvil / Celular</div>
+          <div class="admin-form-group">
+            <label>Tamaño de Escaños (Base: <span id="val-m-size">0</span>)</label>
+            <input type="range" class="admin-input" id="cfg-m-size" min="2" max="10" step="0.1" oninput="updateGeom('mobile_size', this.value)" />
+          </div>
+          <div class="admin-form-group">
+            <label>Escala Horizontal / Ancho (<span id="val-m-sx">0</span>)</label>
+            <input type="range" class="admin-input" id="cfg-m-sx" min="0.8" max="2.0" step="0.01" oninput="updateGeom('mobile_scale_x', this.value)" />
+          </div>
+          <div class="admin-form-group">
+            <label>Escala Vertical / Alto (<span id="val-m-sy">0</span>)</label>
+            <input type="range" class="admin-input" id="cfg-m-sy" min="0.3" max="1.5" step="0.01" oninput="updateGeom('mobile_scale_y', this.value)" />
+          </div>
+          <div class="admin-form-group">
+            <label>Multiplicador de Radio de Puntos (<span id="val-m-rm">0</span>)</label>
+            <input type="range" class="admin-input" id="cfg-m-rm" min="0.4" max="2.2" step="0.05" oninput="updateGeom('mobile_r_mult', this.value)" />
           </div>
         </div>
       </div>
@@ -1405,6 +1455,16 @@ let senators=[];
 let deputies=[];
 
 let currentSize=7;
+let config = {
+  mobile_size: 7.0,
+  mobile_scale_x: 1.05,
+  mobile_scale_y: 0.95,
+  mobile_r_mult: 1.6,
+  desktop_size: 6.2,
+  desktop_scale_x: 1.34,
+  desktop_scale_y: 0.64,
+  desktop_r_mult: 0.95
+};
 const SIZE_PRESETS={2.5:'xs',3.5:'s',5:'m',7:'l',9:'xl'};
 
 function distR(total,rows,radii){
@@ -1429,8 +1489,8 @@ function hemi(total,scale){
   
   // Responsive elliptical shape factors
   const isMobile = window.innerWidth <= 600;
-  const scaleX = isMobile ? 1.05 : 1.34;
-  const scaleY = isMobile ? 0.95 : 0.64;
+  const scaleX = isMobile ? config.mobile_scale_x : config.desktop_scale_x;
+  const scaleY = isMobile ? config.mobile_scale_y : config.desktop_scale_y;
   
   // Generate seats in arc order, but sort/group them radially so party blocks form vertical wedges from left to right
   const perRow = distR(total, rows, radii);
@@ -1461,13 +1521,13 @@ function renderSVG(svgId,legs,size){
   if(!svg)return;
   svg.innerHTML='';
   
-  // Responsive sizing: smaller on PC/Desktop, large on Mobile
+  // Responsive sizing and parameters from global config
   const isMobile = window.innerWidth <= 600;
-  const activeSize = isMobile ? size : (size * 0.62);
-  const r = isMobile ? Math.max(3.5, size * 1.6) : Math.max(2.0, size * 0.95);
+  const activeSize = isMobile ? config.mobile_size : config.desktop_size;
+  const r = Math.max(2.0, activeSize * (isMobile ? config.mobile_r_mult : config.desktop_r_mult));
   
-  const scaleX = isMobile ? 1.05 : 1.34;
-  const scaleY = isMobile ? 0.95 : 0.64;
+  const scaleX = isMobile ? config.mobile_scale_x : config.desktop_scale_x;
+  const scaleY = isMobile ? config.mobile_scale_y : config.desktop_scale_y;
   
   const {seats,cx,cy,viewW,viewH}=hemi(legs.length,activeSize);
   
@@ -1709,7 +1769,13 @@ function renderLeg(cid,dist,ch){
 }
 
 function onSizeChange(val){
-  val=parseFloat(val);currentSize=val;
+  val=parseFloat(val);
+  const isMobile = window.innerWidth <= 600;
+  if (isMobile) {
+    config.mobile_size = val;
+  } else {
+    config.desktop_size = val;
+  }
   document.getElementById('size-val').textContent=val;
   const pct=((val-1)/9*100).toFixed(0)+'%';
   document.getElementById('size-slider').style.setProperty('--pct',pct);
@@ -2158,12 +2224,55 @@ function setupAdminDashboard() {
   // 2. Setup Party design defaults
   onAdminPartyChange();
 
+  // 3. Setup Geometry sliders
+  document.getElementById('cfg-d-size').value = config.desktop_size;
+  document.getElementById('val-d-size').innerText = config.desktop_size;
+  
+  document.getElementById('cfg-d-sx').value = config.desktop_scale_x;
+  document.getElementById('val-d-sx').innerText = config.desktop_scale_x;
+  
+  document.getElementById('cfg-d-sy').value = config.desktop_scale_y;
+  document.getElementById('val-d-sy').innerText = config.desktop_scale_y;
+  
+  document.getElementById('cfg-d-rm').value = config.desktop_r_mult;
+  document.getElementById('val-d-rm').innerText = config.desktop_r_mult;
+
+  document.getElementById('cfg-m-size').value = config.mobile_size;
+  document.getElementById('val-m-size').innerText = config.mobile_size;
+  
+  document.getElementById('cfg-m-sx').value = config.mobile_scale_x;
+  document.getElementById('val-m-sx').innerText = config.mobile_scale_x;
+  
+  document.getElementById('cfg-m-sy').value = config.mobile_scale_y;
+  document.getElementById('val-m-sy').innerText = config.mobile_scale_y;
+  
+  document.getElementById('cfg-m-rm').value = config.mobile_r_mult;
+  document.getElementById('val-m-rm').innerText = config.mobile_r_mult;
+
   // Set default date to today for event adding
   const today = new Date();
   const d = String(today.getDate()).padStart(2, '0');
   const m = String(today.getMonth() + 1).padStart(2, '0');
   const y = today.getFullYear();
   document.getElementById('ae-date').value = `${d}/${m}/${y}`;
+}
+
+function updateGeom(key, value) {
+  value = parseFloat(value);
+  config[key] = value;
+  
+  // Update UI label
+  if (key === 'desktop_size') document.getElementById('val-d-size').innerText = value;
+  if (key === 'desktop_scale_x') document.getElementById('val-d-sx').innerText = value;
+  if (key === 'desktop_scale_y') document.getElementById('val-d-sy').innerText = value;
+  if (key === 'desktop_r_mult') document.getElementById('val-d-rm').innerText = value;
+  
+  if (key === 'mobile_size') document.getElementById('val-m-size').innerText = value;
+  if (key === 'mobile_scale_x') document.getElementById('val-m-sx').innerText = value;
+  if (key === 'mobile_scale_y') document.getElementById('val-m-sy').innerText = value;
+  if (key === 'mobile_r_mult') document.getElementById('val-m-rm').innerText = value;
+  
+  rebuildListsAndRefresh();
 }
 
 let activeAdminMember = null;
@@ -2337,7 +2446,8 @@ async function saveAdminChanges() {
     DNMS,
     senado_news: senadoNews,
     diputados_news: diputadosNews,
-    events_override: eventsOverride
+    events_override: eventsOverride,
+    config: config
   };
   
   try {
@@ -2378,6 +2488,9 @@ async function init() {
     senadoNews = data.senado_news || [];
     diputadosNews = data.diputados_news || [];
     eventsOverride = data.events_override || {};
+    if (data.config) {
+      config = data.config;
+    }
 
     senators = buildList(SD, SNMS, 's');
     deputies = buildList(DD, DNMS, 'd');
