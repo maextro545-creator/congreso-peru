@@ -329,63 +329,61 @@
       padding:12px;box-shadow:var(--shadow);overflow:hidden;
       display:flex;flex-direction:column;align-items:center;justify-content:center;}
 
-    .pbox-topbar {
-      position: relative;
-      margin-top: 10px;
-      width: 100%;
-      z-index: 25;
+    /* Floating search icon */
+    .pbox-search-float {
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      z-index: 30;
       display: flex;
-      justify-content: space-between;
       align-items: center;
-      gap: 8px;
-      flex-wrap: wrap;
-      box-sizing: border-box;
+      gap: 0;
     }
-    .pbox-btns {
-      display: flex;
-      gap: 6px;
-      flex-shrink: 0;
-    }
-    .pbox-btn {
-      background: var(--card2);
-      color: var(--text);
-      border: 1px solid var(--border);
-      padding: 6px 12px;
-      border-radius: 6px;
-      font-size: 0.72rem;
-      font-weight: 700;
-      cursor: pointer;
-      font-family: inherit;
-      transition: all 0.15s;
-    }
-    .pbox-btn.active {
+    .pbox-search-icon {
+      width: 36px; height: 36px;
+      border-radius: 50%;
       background: var(--accent);
-      color: #ffffff;
-      border-color: var(--accent);
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,.35);
+      transition: transform .2s, box-shadow .2s;
+      flex-shrink: 0;
+      z-index: 2;
     }
+    .pbox-search-icon:hover { transform: scale(1.1); box-shadow: 0 4px 16px rgba(0,0,0,.4); }
+    .pbox-search-input {
+      display: none;
+      align-items: center;
+      gap: 4px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 4px 6px 4px 12px;
+      box-shadow: 0 2px 12px rgba(0,0,0,.3);
+      position: absolute;
+      right: 40px;
+      white-space: nowrap;
+      min-width: 180px;
+    }
+    .pbox-search-input.open { display: flex; }
+    .pbox-search-input .sin {
+      border: none;
+      background: transparent;
+      padding: 4px 2px;
+      font-size: .75rem;
+      min-width: 140px;
+      box-shadow: none;
+    }
+    .pbox-search-close {
+      background: none; border: none; color: var(--sub); cursor: pointer;
+      font-size: .85rem; padding: 2px 4px; line-height: 1;
+    }
+
     @media (max-width: 600px) {
-      .pbox-topbar {
-        margin-top: 10px;
-        flex-direction: column;
-        align-items: stretch;
-      }
-      .pbox-btns {
-        width: 100%;
-        justify-content: space-between;
-      }
-      .pbox-btn {
-        flex: 1;
-        text-align: center;
-      }
-      .pbox .swrap {
-        width: 100% !important;
-      }
-      #pbox-s, #pbox-d {
-        padding-top: 10px !important;
-      }
-      #pbox-s::after, #pbox-d::after {
-        display: none;
-      }
+      #pbox-s, #pbox-d { padding-top: 10px !important; }
+      #pbox-s::after, #pbox-d::after { display: none; }
     }
 
     .grid{display:grid;grid-template-columns:1fr 210px;gap:14px;align-items:start}
@@ -949,14 +947,13 @@
     <div class="grid">
       <div class="pbox" id="pbox-s" style="position:relative;">
         <svg class="parl" id="svg-s"></svg>
-        <div class="pbox-topbar">
-          <div class="pbox-btns">
-            <button onclick="switchTab('s')" class="pbox-btn active">🎖️ Senado (60)</button>
-            <button onclick="switchTab('d')" class="pbox-btn">🏛️ Diputados (130)</button>
-          </div>
-          <div class="swrap">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <div class="pbox-search-float">
+          <button class="pbox-search-icon" onclick="togglePboxSearch('s')" title="Buscar senador">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="18" height="18"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+          </button>
+          <div class="pbox-search-input" id="pbox-search-s">
             <input class="sin" id="srch-s" placeholder="Buscar senador..." oninput="filter('s',this.value)"/>
+            <button class="pbox-search-close" onclick="togglePboxSearch('s')">✕</button>
           </div>
         </div>
       </div>
@@ -975,14 +972,13 @@
     <div class="grid">
       <div class="pbox" id="pbox-d" style="position:relative;">
         <svg class="parl" id="svg-d"></svg>
-        <div class="pbox-topbar">
-          <div class="pbox-btns">
-            <button onclick="switchTab('s')" class="pbox-btn">🎖️ Senado (60)</button>
-            <button onclick="switchTab('d')" class="pbox-btn active">🏛️ Diputados (130)</button>
-          </div>
-          <div class="swrap">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+        <div class="pbox-search-float">
+          <button class="pbox-search-icon" onclick="togglePboxSearch('d')" title="Buscar diputado">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" width="18" height="18"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+          </button>
+          <div class="pbox-search-input" id="pbox-search-d">
             <input class="sin" id="srch-d" placeholder="Buscar diputado..." oninput="filter('d',this.value)"/>
+            <button class="pbox-search-close" onclick="togglePboxSearch('d')">✕</button>
           </div>
         </div>
       </div>
@@ -1591,6 +1587,19 @@ function toggleTabsMenu() {
   if (!menu) return;
   const isOpen = menu.classList.toggle('open');
   if (arrow) arrow.style.transform = isOpen ? 'rotate(180deg)' : 'rotate(0deg)';
+}
+
+function togglePboxSearch(ch) {
+  const box = document.getElementById('pbox-search-' + ch);
+  if (!box) return;
+  const isOpen = box.classList.toggle('open');
+  if (isOpen) {
+    const inp = box.querySelector('.sin');
+    if (inp) inp.focus();
+  } else {
+    const inp = box.querySelector('.sin');
+    if (inp) { inp.value = ''; filter(ch, ''); }
+  }
 }
 
 function switchTab(t){
