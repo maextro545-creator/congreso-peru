@@ -146,15 +146,61 @@
     .szp:hover{background:var(--border);color:var(--text)}
     .szp.on{background:var(--accent);color:#fff;border-color:var(--accent)}
 
-    .tabs{display:flex;gap:7px;margin-bottom:14px;flex-wrap:wrap}
-    .tab{display:flex;align-items:center;gap:7px;padding:8px 16px;
+    .tabs-wrapper {
+      position: relative;
+      margin-bottom: 14px;
+    }
+    .tabs{display:flex;gap:7px;flex-wrap:wrap;transition:all 0.25s ease;}
+    .tab{display:flex;align-items:center;justify-content:space-between;gap:7px;padding:10px 16px;
       background:var(--card);border:1px solid var(--border);border-radius:var(--r);
-      font-size:.76rem;font-weight:700;cursor:pointer;transition:all .18s;color:var(--sub);
-      box-shadow:var(--shadow);font-family:inherit}
+      font-size:.8rem;font-weight:700;cursor:pointer;transition:all .18s;color:var(--sub);
+      box-shadow:var(--shadow);font-family:inherit;width:100%;box-sizing:border-box;}
+    @media (min-width: 681px) {
+      .tab { width: auto; justify-content: flex-start; }
+      .tab-dropdown-btn { display: none !important; }
+      .tabs { display: flex !important; }
+    }
     .tab:hover{border-color:var(--border2);color:var(--text)}
     .tab.on{background:var(--accent);color:#fff;border-color:var(--accent)}
-    .tab .badge{border-radius:50px;padding:2px 7px;font-size:.6rem;font-weight:800;background:rgba(255,255,255,.15);color:#fff}
+    .tab .badge{border-radius:50px;padding:2px 7px;font-size:.62rem;font-weight:800;background:rgba(255,255,255,.2);color:#fff}
     .tab:not(.on) .badge{background:var(--border);color:var(--sub)}
+
+    @media (max-width: 680px) {
+      .tabs-wrapper {
+        background: var(--card2);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 6px;
+      }
+      .tab-dropdown-btn {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 12px 16px;
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 8px;
+        font-size: 0.85rem;
+        font-weight: 800;
+        color: var(--text);
+        cursor: pointer;
+        font-family: inherit;
+        box-shadow: var(--shadow);
+      }
+      .tabs {
+        display: none;
+        flex-direction: column;
+        gap: 6px;
+        margin-top: 8px;
+      }
+      .tabs.open {
+        display: flex;
+      }
+      .tab {
+        border-radius: 8px;
+      }
+    }
 
     /* Roman columns styling */
     .roman-col {
@@ -885,10 +931,16 @@
 
 <div class="main">
 
-  <div class="tabs" style="margin-bottom:14px;">
-    <button class="tab on" id="tab-s" onclick="switchTab('s')">🎖️ Cámara de Senadores <span class="badge">60</span></button>
-    <button class="tab" id="tab-d" onclick="switchTab('d')">🏛️ Cámara de Diputados <span class="badge">130</span></button>
-    <button class="tab" id="tab-r" onclick="switchTab('r')">🏆 Ranking de Trabajo ("Chambómetro")</button>
+  <div class="tabs-wrapper">
+    <button class="tab-dropdown-btn" id="tab-dropdown-label" onclick="toggleTabsMenu()">
+      <span id="tab-dropdown-text">🎖️ Cámara de Senadores (60)</span>
+      <span style="font-size:0.8rem;transition:transform 0.2s;" id="tab-dropdown-arrow">▼</span>
+    </button>
+    <div class="tabs" id="tabs-menu">
+      <button class="tab on" id="tab-s" onclick="switchTab('s')"><span>🎖️ Cámara de Senadores</span> <span class="badge">60</span></button>
+      <button class="tab" id="tab-d" onclick="switchTab('d')"><span>🏛️ Cámara de Diputados</span> <span class="badge">130</span></button>
+      <button class="tab" id="tab-r" onclick="switchTab('r')"><span>🏆 Ranking de Trabajo ("Chambómetro")</span></button>
+    </div>
   </div>
 
   <div class="panel on" id="panel-s">
@@ -1531,11 +1583,33 @@ function filter(ch,q){
     }
   }
 }
+function toggleTabsMenu() {
+  const menu = document.getElementById('tabs-menu');
+  const arrow = document.getElementById('tab-dropdown-arrow');
+  if (!menu) return;
+  const isOpen = menu.classList.toggle('open');
+  if (arrow) arrow.style.transform = isOpen ? 'rotate(180deg)' : 'rotate(0deg)';
+}
+
 function switchTab(t){
   document.querySelectorAll('.tab').forEach(b=>b.classList.remove('on'));
   document.querySelectorAll('.panel').forEach(p=>p.classList.remove('on'));
-  document.getElementById('tab-'+t).classList.add('on');
+  const activeTabBtn = document.getElementById('tab-'+t);
+  if (activeTabBtn) activeTabBtn.classList.add('on');
   document.getElementById('panel-'+t).classList.add('on');
+  
+  // Update mobile dropdown label text
+  const labelEl = document.getElementById('tab-dropdown-text');
+  if (labelEl && activeTabBtn) {
+    labelEl.innerHTML = activeTabBtn.innerHTML;
+  }
+  
+  // Close mobile dropdown if open
+  const menu = document.getElementById('tabs-menu');
+  const arrow = document.getElementById('tab-dropdown-arrow');
+  if (menu) menu.classList.remove('open');
+  if (arrow) arrow.style.transform = 'rotate(0deg)';
+
   if (t === 'r') {
     renderRanking();
   }
