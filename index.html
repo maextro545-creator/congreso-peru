@@ -1427,6 +1427,11 @@ function hemi(total,scale){
   const angleSteps = total;
   const rawSeats = [];
   
+  // Responsive elliptical shape factors
+  const isMobile = window.innerWidth <= 600;
+  const scaleX = isMobile ? 1.05 : 1.34;
+  const scaleY = isMobile ? 0.95 : 0.64;
+  
   // Generate seats in arc order, but sort/group them radially so party blocks form vertical wedges from left to right
   const perRow = distR(total, rows, radii);
   const arcPositions = [];
@@ -1435,7 +1440,7 @@ function hemi(total,scale){
     for(let i=0;i<n;i++){
       const normAngle = i / (n - 1 || 1); // 0 (left) to 1 (right)
       const a = Math.PI + Math.PI * normAngle;
-      arcPositions.push({ x: cx + rad * Math.cos(a), y: cy + rad * Math.sin(a), normAngle, row: r, rad });
+      arcPositions.push({ x: cx + rad * scaleX * Math.cos(a), y: cy + rad * scaleY * Math.sin(a), normAngle, row: r, rad });
     }
   }
 
@@ -1458,8 +1463,11 @@ function renderSVG(svgId,legs,size){
   
   // Responsive sizing: smaller on PC/Desktop, large on Mobile
   const isMobile = window.innerWidth <= 600;
-  const activeSize = isMobile ? size : (size * 0.46);
-  const r = isMobile ? Math.max(3.5, size * 1.6) : Math.max(2.0, size * 0.85);
+  const activeSize = isMobile ? size : (size * 0.62);
+  const r = isMobile ? Math.max(3.5, size * 1.6) : Math.max(2.0, size * 0.95);
+  
+  const scaleX = isMobile ? 1.05 : 1.34;
+  const scaleY = isMobile ? 0.95 : 0.64;
   
   const {seats,cx,cy,viewW,viewH}=hemi(legs.length,activeSize);
   
@@ -1506,10 +1514,12 @@ function renderSVG(svgId,legs,size){
   for (let i = 0; i < rows; i++) {
     radii.push(rMin + (rMax - rMin) * (i / (rows - 1)));
   }
-
+ 
   radii.forEach(rad => {
+    const rx = rad * scaleX;
+    const ry = rad * scaleY;
     const arc = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-    const d = `M ${(cx - rad).toFixed(1)} ${cy.toFixed(1)} A ${rad.toFixed(1)} ${rad.toFixed(1)} 0 0 1 ${(cx + rad).toFixed(1)} ${cy.toFixed(1)}`;
+    const d = `M ${(cx - rx).toFixed(1)} ${cy.toFixed(1)} A ${rx.toFixed(1)} ${ry.toFixed(1)} 0 0 1 ${(cx + rx).toFixed(1)} ${cy.toFixed(1)}`;
     arc.setAttribute('d', d);
     arc.setAttribute('fill', 'none');
     arc.setAttribute('stroke', '#3d200c'); // Dark wood desk color
