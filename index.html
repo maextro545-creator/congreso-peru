@@ -374,7 +374,6 @@
     @media(max-width:820px){.grid{grid-template-columns:1fr}}
 
     @media(max-width:600px){
-      .pbox svg.parl { min-height: 46vh; }
       .pbox { padding: 2px; border-radius: 8px; }
       .main { padding: 8px 4px; }
       .grid { gap: 8px; }
@@ -1184,13 +1183,37 @@ function renderSVG(svgId,legs,size){
   if(!svg)return;
   svg.innerHTML='';
   const {seats,cx,cy,viewW,viewH}=hemi(legs.length,size);
-  svg.setAttribute('viewBox',`0 0 ${viewW.toFixed(0)} ${viewH.toFixed(0)}`);
-  svg.style.width='100%';svg.style.height='auto';svg.style.maxWidth='100%';
   const r=Math.max(3.5,size*1.6);
+  
+  // Calculate dynamic bounding box of all seats and elements to fit perfectly
+  let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+  seats.forEach(s => {
+    if (s.x - r < minX) minX = s.x - r;
+    if (s.x + r > maxX) maxX = s.x + r;
+    if (s.y - r < minY) minY = s.y - r;
+    if (s.y + r > maxY) maxY = s.y + r;
+  });
+  const mesaMinX = cx - 40, mesaMaxX = cx + 40, mesaMinY = cy - 3, mesaMaxY = cy + 18;
+  if (mesaMinX < minX) minX = mesaMinX;
+  if (mesaMaxX > maxX) maxX = mesaMaxX;
+  if (mesaMinY < minY) minY = mesaMinY;
+  if (mesaMaxY > maxY) maxY = mesaMaxY;
+  
+  const labelY = cy + 25;
+  if (labelY > maxY) maxY = labelY;
+  
+  // Add margin around the bounds
+  const pad = 6;
+  minX -= pad; maxX += pad; minY -= pad; maxY += pad;
+  const width = maxX - minX;
+  const height = maxY - minY;
+  
+  svg.setAttribute('viewBox', `${minX.toFixed(1)} ${minY.toFixed(1)} ${width.toFixed(1)} ${height.toFixed(1)}`);
+  svg.style.width='100%';svg.style.height='auto';svg.style.maxWidth='100%';
   const SEAT_LBL={FP:'K',JP:'J',RP:'R',PBG:'B',PCO:'O',AN:'A'};
   const ns='http://www.w3.org/2000/svg';
   const lbl=document.createElementNS('http://www.w3.org/2000/svg','text');
-  lbl.setAttribute('x',cx);lbl.setAttribute('y',viewH-3);
+  lbl.setAttribute('x',cx);lbl.setAttribute('y',(cy + 22).toFixed(1));
   lbl.setAttribute('text-anchor','middle');lbl.setAttribute('font-size','9');
   lbl.setAttribute('fill','#c5a059');lbl.setAttribute('font-family','Inter,sans-serif');
   lbl.textContent='Total: '+legs.length+' escanios';svg.appendChild(lbl);
