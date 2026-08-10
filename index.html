@@ -325,17 +325,21 @@
       border-radius:7px;padding:6px 11px;font-size:.67rem;color:var(--sub);white-space:nowrap;
       box-shadow:var(--shadow);flex-shrink:0}
 
+    .pbox{background:var(--card);border:1px solid var(--border);border-radius:var(--r);
+      padding:12px;box-shadow:var(--shadow);overflow:hidden;
+      display:flex;flex-direction:column;align-items:center;justify-content:center;}
+
     .pbox-topbar {
-      position: absolute;
-      top: 10px;
-      left: 12px;
-      right: 12px;
+      position: relative;
+      margin-top: 10px;
+      width: 100%;
       z-index: 25;
       display: flex;
       justify-content: space-between;
       align-items: center;
       gap: 8px;
       flex-wrap: wrap;
+      box-sizing: border-box;
     }
     .pbox-btns {
       display: flex;
@@ -346,9 +350,9 @@
       background: var(--card2);
       color: var(--text);
       border: 1px solid var(--border);
-      padding: 5px 10px;
+      padding: 6px 12px;
       border-radius: 6px;
-      font-size: 0.7rem;
+      font-size: 0.72rem;
       font-weight: 700;
       cursor: pointer;
       font-family: inherit;
@@ -361,9 +365,7 @@
     }
     @media (max-width: 600px) {
       .pbox-topbar {
-        position: relative;
-        top: 0; left: 0; right: 0;
-        margin-bottom: 8px;
+        margin-top: 10px;
         flex-direction: column;
         align-items: stretch;
       }
@@ -946,6 +948,7 @@
   <div class="panel on" id="panel-s">
     <div class="grid">
       <div class="pbox" id="pbox-s" style="position:relative;">
+        <svg class="parl" id="svg-s"></svg>
         <div class="pbox-topbar">
           <div class="pbox-btns">
             <button onclick="switchTab('s')" class="pbox-btn active">🎖️ Senado (60)</button>
@@ -956,7 +959,6 @@
             <input class="sin" id="srch-s" placeholder="Buscar senador..." oninput="filter('s',this.value)"/>
           </div>
         </div>
-        <svg class="parl" id="svg-s"></svg>
       </div>
       <div class="legcard" id="leg-s"></div>
     </div>
@@ -972,6 +974,7 @@
   <div class="panel" id="panel-d">
     <div class="grid">
       <div class="pbox" id="pbox-d" style="position:relative;">
+        <svg class="parl" id="svg-d"></svg>
         <div class="pbox-topbar">
           <div class="pbox-btns">
             <button onclick="switchTab('s')" class="pbox-btn">🎖️ Senado (60)</button>
@@ -982,7 +985,6 @@
             <input class="sin" id="srch-d" placeholder="Buscar diputado..." oninput="filter('d',this.value)"/>
           </div>
         </div>
-        <svg class="parl" id="svg-d"></svg>
       </div>
       <div class="legcard" id="leg-d"></div>
     </div>
