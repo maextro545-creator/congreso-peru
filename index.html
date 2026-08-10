@@ -1454,8 +1454,13 @@ function renderSVG(svgId,legs,size){
   const svg=document.getElementById(svgId);
   if(!svg)return;
   svg.innerHTML='';
-  const {seats,cx,cy,viewW,viewH}=hemi(legs.length,size);
-  const r=Math.max(3.5,size*1.6);
+  
+  // Responsive sizing: smaller on PC/Desktop, large on Mobile
+  const isMobile = window.innerWidth <= 600;
+  const activeSize = isMobile ? size : (size * 0.72);
+  const r = isMobile ? Math.max(3.5, size * 1.6) : Math.max(2.5, size * 1.05);
+  
+  const {seats,cx,cy,viewW,viewH}=hemi(legs.length,activeSize);
   
   // Calculate dynamic bounding box of all seats and elements to fit perfectly
   let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
@@ -1489,9 +1494,9 @@ function renderSVG(svgId,legs,size){
   lbl.setAttribute('text-anchor','middle');lbl.setAttribute('font-size','9');
   lbl.setAttribute('fill','#c5a059');lbl.setAttribute('font-family','Inter,sans-serif');
   lbl.textContent='Total: '+legs.length+' escanios';svg.appendChild(lbl);
-
+ 
   // Draw concentric wood desks under the seats
-  const sc = size / 5;
+  const sc = activeSize / 5;
   const rows_s = 5, rows_d = 7;
   const isD = legs.length > 100;
   const rows = isD ? rows_d : rows_s;
@@ -2379,6 +2384,10 @@ async function init() {
 }
 
 init();
+
+window.addEventListener('resize', () => {
+  renderAll(currentSize);
+});
 </script>
 </body>
 </html>
