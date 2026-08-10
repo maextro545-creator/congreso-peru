@@ -2466,10 +2466,10 @@
     "mobile_scale_x": 1.05,
     "mobile_scale_y": 0.95,
     "mobile_r_mult": 1.6,
-    "desktop_size": 10,
-    "desktop_scale_x": 1.26,
-    "desktop_scale_y": 1.34,
-    "desktop_r_mult": 1.6,
-    "desktop_box_width": 1100
+    "desktop_size": 5.5,
+    "desktop_scale_x": 1.01,
+    "desktop_scale_y": 1.22,
+    "desktop_r_mult": 2.2,
+    "desktop_box_width": 980
   }
 }
