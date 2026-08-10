@@ -152,6 +152,13 @@
       border-radius: 12px;
       padding: 6px;
     }
+    .carousel-nav-arrow:hover {
+      opacity: 1 !important;
+      transform: scale(1.2);
+    }
+    .carousel-nav-arrow:active {
+      transform: scale(0.95);
+    }
     .tab-dropdown-btn {
       display: flex;
       align-items: center;
@@ -1065,11 +1072,17 @@
 
 <div class="main">
 
-  <div class="tabs-wrapper">
-    <button class="tab-dropdown-btn" id="tab-dropdown-label" onclick="toggleTabsMenu()">
-      <span id="tab-dropdown-text">🎖️ Cámara de Senadores (60)</span>
-      <span style="font-size:0.8rem;transition:transform 0.2s;" id="tab-dropdown-arrow">▼</span>
-    </button>
+  <div class="tabs-wrapper" style="user-select: none;">
+    <div class="carousel-nav" style="display: flex; align-items: center; justify-content: space-between; width: 100%; background: var(--card); border: 1px solid var(--border); border-radius: 8px; box-shadow: var(--shadow); box-sizing: border-box; overflow: hidden;">
+      <button class="carousel-nav-arrow" onclick="slideChamber(-1)" style="background: none; border: none; color: var(--accent); padding: 12px 18px; cursor: pointer; font-size: 0.95rem; font-weight: bold; transition: opacity .15s, transform .15s; outline: none; user-select: none;">◀</button>
+      
+      <button class="tab-dropdown-btn" id="tab-dropdown-label" onclick="toggleTabsMenu()" style="display: flex; align-items: center; justify-content: center; gap: 8px; flex: 1; border: none; background: none; box-shadow: none; padding: 12px 0; margin: 0; outline: none; font-size: 0.85rem; font-weight: 800; color: var(--text); cursor: pointer; font-family: inherit;">
+        <span id="tab-dropdown-text">🎖️ Cámara de Senadores (60)</span>
+        <span style="font-size:0.68rem;transition:transform 0.2s;opacity: 0.7;" id="tab-dropdown-arrow">▼</span>
+      </button>
+      
+      <button class="carousel-nav-arrow" onclick="slideChamber(1)" style="background: none; border: none; color: var(--accent); padding: 12px 18px; cursor: pointer; font-size: 0.95rem; font-weight: bold; transition: opacity .15s, transform .15s; outline: none; user-select: none;">▶</button>
+    </div>
     <div class="tabs" id="tabs-menu">
       <button class="tab on" id="tab-s" onclick="switchTab('s')"><span>🎖️ Cámara de Senadores</span> <span class="badge">60</span></button>
       <button class="tab" id="tab-d" onclick="switchTab('d')"><span>🏛️ Cámara de Diputados</span> <span class="badge">130</span></button>
@@ -2032,6 +2045,60 @@ function switchTab(t){
     renderRanking();
   }
 }
+
+function slideChamber(dir) {
+  const tabs = ['s', 'd', 'r'];
+  let activeTab = 's';
+  for (const t of tabs) {
+    const el = document.getElementById('panel-' + t);
+    if (el && el.classList.contains('on')) {
+      activeTab = t;
+      break;
+    }
+  }
+  let index = tabs.indexOf(activeTab);
+  index = (index + dir + tabs.length) % tabs.length;
+  switchTab(tabs[index]);
+}
+
+// Global Touch Swipe Gesture Detection for Chamber Swiping
+let touchStartX = 0;
+let touchStartY = 0;
+let touchEndX = 0;
+let touchEndY = 0;
+
+function handleSwipeGesture() {
+  const thresholdX = 65;
+  const thresholdY = 40;
+  
+  const diffX = touchEndX - touchStartX;
+  const diffY = Math.abs(touchEndY - touchStartY);
+  
+  if (Math.abs(diffX) > thresholdX && diffY < thresholdY) {
+    if (diffX < 0) {
+      slideChamber(1); // Swipe left -> Next
+    } else {
+      slideChamber(-1); // Swipe right -> Previous
+    }
+  }
+}
+
+document.addEventListener('touchstart', e => {
+  touchStartX = e.changedTouches[0].clientX;
+  touchStartY = e.changedTouches[0].clientY;
+}, {passive: true});
+
+document.addEventListener('touchend', e => {
+  touchEndX = e.changedTouches[0].clientX;
+  touchEndY = e.changedTouches[0].clientY;
+  
+  // Ignore swipe gestures inside sliders, input boxes, or active admin panel
+  if (e.target.closest('#admin-panel') || e.target.closest('input[type="range"]') || e.target.closest('.sin') || e.target.closest('#admin-evt-list-container')) {
+    return;
+  }
+  
+  handleSwipeGesture();
+}, {passive: true});
 
 function openLegById(type, seatNum) {
   const list = type === 's' ? senators : deputies;
