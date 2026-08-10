@@ -311,7 +311,8 @@
 
     .pbox{background:var(--card);border:1px solid var(--border);border-radius:var(--r);
       padding:12px;box-shadow:var(--shadow);overflow:hidden;
-      display:flex;flex-direction:column;align-items:center;justify-content:center;}
+      display:flex;flex-direction:column;align-items:center;justify-content:center;
+      width:100%; max-width:680px; margin:0 auto;}
 
     /* Floating search icon */
     .pbox-search-float {
@@ -1457,8 +1458,8 @@ function renderSVG(svgId,legs,size){
   
   // Responsive sizing: smaller on PC/Desktop, large on Mobile
   const isMobile = window.innerWidth <= 600;
-  const activeSize = isMobile ? size : (size * 0.72);
-  const r = isMobile ? Math.max(3.5, size * 1.6) : Math.max(2.5, size * 1.05);
+  const activeSize = isMobile ? size : (size * 0.46);
+  const r = isMobile ? Math.max(3.5, size * 1.6) : Math.max(2.0, size * 0.85);
   
   const {seats,cx,cy,viewW,viewH}=hemi(legs.length,activeSize);
   
