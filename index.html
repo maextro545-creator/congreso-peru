@@ -2574,10 +2574,32 @@ async function init() {
     renderNews('news-grid-s', senadoNews);
     renderNews('news-grid-d', diputadosNews);
 
-    renderAll(currentSize);
+    // Select initial size based on platform config loaded
+    const isMobile = window.innerWidth <= 600;
+    const initialSize = isMobile ? config.mobile_size : config.desktop_size;
+    currentSize = initialSize;
+
+    // Synchronize the main page size slider UI
+    const slider = document.getElementById('size-slider');
+    if (slider) {
+      slider.value = initialSize;
+      document.getElementById('size-val').textContent = initialSize;
+      const pct = ((initialSize - 1) / 9 * 100).toFixed(0) + '%';
+      slider.style.setProperty('--pct', pct);
+    }
+    
+    // Highlight correct preset button on main page
+    document.querySelectorAll('.szp').forEach(b => b.classList.remove('on'));
+    for (const [v, id] of Object.entries(SIZE_PRESETS)) {
+      if (Math.abs(parseFloat(v) - initialSize) < 0.1) {
+        const btn = document.getElementById('szp-' + id);
+        if (btn) btn.classList.add('on');
+      }
+    }
+
+    renderAll(initialSize);
     renderLeg('leg-s', SD, 's');
     renderLeg('leg-d', DD, 'd');
-    onSizeChange(currentSize);
   } catch (err) {
     console.error("Error loading data.json:", err);
   }
