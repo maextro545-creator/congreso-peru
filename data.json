@@ -2460,5 +2460,16 @@
         "pts": 3
       }
     ]
+  },
+  "config": {
+    "mobile_size": 7,
+    "mobile_scale_x": 1.05,
+    "mobile_scale_y": 0.95,
+    "mobile_r_mult": 1.6,
+    "desktop_size": 10,
+    "desktop_scale_x": 1.26,
+    "desktop_scale_y": 1.34,
+    "desktop_r_mult": 1.6,
+    "desktop_box_width": 1100
   }
 }
