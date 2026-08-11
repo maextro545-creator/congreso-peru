@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Pleno del Senado verá el cuadro nominativo de las comisiones para el periodo 2026 – 2027",
+      "source": "Portal del Congreso",
+      "date": "11 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-vera-el-cuadro-nominativo-de-las-comisiones-para-el-periodo-2026-2027/"
+    },
+    {
+      "title": "Aprueban distribución de las mesas directivas de las comisiones del Senado",
+      "source": "Portal del Congreso",
+      "date": "11 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-distribucion-de-las-mesas-directivas-de-las-comisiones-del-senado/"
+    },
+    {
       "title": "Presentan proyecto de ley para promover la inocuidad de los alimentos",
       "source": "Portal del Congreso",
       "date": "10 Ago 2026",
@@ -1622,6 +1634,12 @@
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputado Leo De Paz organiza primera mesa de trabajo con líderes y pastores de Lima",
+      "source": "Portal del Congreso",
+      "date": "11 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-leo-de-paz-organiza-primera-mesa-de-trabajo-con-lideres-y-pastores-de-lima/"
+    },
     {
       "title": "Presidente de la Cámara de Diputados recibió saludo del embajador de China",
       "source": "Portal del Congreso",
@@ -1657,24 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "10 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-sesionaran-este-martes-11/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados recibió a colectivo de personas con discapacidad",
-      "source": "Portal del Congreso",
-      "date": "07 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-a-colectivo-de-personas-con-discapacidad/"
-    },
-    {
-      "title": "Pleno de la Cámara de Diputados aprueba número de integrantes de comisiones ordinarias",
-      "source": "Portal del Congreso",
-      "date": "05 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-aprueba-numero-de-integrantes-de-comisiones-ordinarias/"
-    },
-    {
-      "title": "Cámara de Diputados guarda un minuto de silencio por víctimas del accidente aéreo en Nazca",
-      "source": "Portal del Congreso",
-      "date": "05 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-guarda-un-minuto-de-silencio-por-victimas-del-accidente-aereo-en-nazca/"
     }
   ],
   "events_override": {
@@ -1823,6 +1823,14 @@
         "d": "09/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-la-poblacion-debe-estar-tranquila-porque-la-bicameralidad-le-dara-estabilidad-al-pais/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Pleno del Senado verá el cuadro nominativo de las comisiones para el periodo 2026 – 2027",
+        "d": "11/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-vera-el-cuadro-nominativo-de-las-comisiones-para-el-periodo-2026-2027/",
         "pts": 2
       }
     ],
@@ -2538,6 +2546,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -2626,6 +2642,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 43 (Mociones de Saludo): EXPRESAR EL MÁS SINCERO Y AFECTUOSO SALUDO Y FELICITACIÓN A LA CIUDAD DE AREQUIPA, CON MOTIVO DE CONMEMORAR, EL 15 DE AG...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -2654,6 +2678,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Leo De Paz organiza primera mesa de trabajo con líderes y pastores de Lima",
+        "d": "11/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-leo-de-paz-organiza-primera-mesa-de-trabajo-con-lideres-y-pastores-de-lima/",
+        "pts": 2
       }
     ],
     "Azucena Isla Rojas": [
@@ -2705,6 +2737,14 @@
         "t": "📌",
         "a": "Moción N° 23 (Mociones de Saludo): EXPRESAR UN EMOTIVO SALUDO A LA CIUDAD DE TARAPOTO CON MOTIVO DE CONMEMORARSE, EL 20 DE AGOSTO DE 2026, EL 244.º ANIVERS...",
         "d": "10/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
@@ -2860,6 +2900,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -2886,6 +2934,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Luz Mérida Soto Ferrari": [
@@ -3046,6 +3102,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/8",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -3105,6 +3169,54 @@
         "t": "📌",
         "a": "Moción N° 25 (Mociones de Saludo): RECONOCER Y ENALTECER LA ABNEGADA, Y TRASCENDENTAL LABOR QUE DESEMPEÑA LA DIRINCRI PNP EN LA PREVENCIÓN, COMBATE E INVES...",
         "d": "10/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Nary Benvinda Pinasco Montenegro": [
+      {
+        "t": "📌",
+        "a": "Moción N° 42 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN A LA POBLACIÓN DEL DISTRITO DE YURIMAGUAS, PROVINCIA DE ALTO AMAZONAS, DEPARTA...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 41 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO Y RECONOCIMIENTO CON MOTIVO DE CONMEMORARSE, EL 13 DE AGOSTO DE 2026, EL 14.º ANIVERSAR...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Giannina Iris Avendaño Vilca": [
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Marco Antonio Flores Valdizan": [
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Luis Angel Jibaja Ramos": [
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
