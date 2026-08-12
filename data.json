@@ -1619,21 +1619,27 @@
       "source": "Portal del Congreso",
       "date": "10 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rindio-homenaje-a-ecuador-por-aniversario-de-su-primer-grito-de-independencia/"
-    },
-    {
-      "title": "Juntas de Portavoces del Senado y de la Cámara de Diputados sesionarán este martes 11",
-      "source": "Portal del Congreso",
-      "date": "10 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-sesionaran-este-martes-11/"
-    },
-    {
-      "title": "Miguel Torres: «La población debe estar tranquila porque la bicameralidad le dará estabilidad al país»",
-      "source": "Portal del Congreso",
-      "date": "09 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-la-poblacion-debe-estar-tranquila-porque-la-bicameralidad-le-dara-estabilidad-al-pais/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Titular de la Cámara de Diputados recibió saludo de embajador de Brasil",
+      "source": "Portal del Congreso",
+      "date": "11 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titular-de-la-camara-de-diputados-recibio-saludo-de-embajador-de-brasil/"
+    },
+    {
+      "title": "La diputada Roxana Rocha recibe en el Congreso a voluntarios de ASEZ",
+      "source": "Portal del Congreso",
+      "date": "11 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/la-diputada-roxana-rocha-recibe-en-el-congreso-a-voluntarios-de-asez/"
+    },
+    {
+      "title": "Presidente de la Cámara de Diputados escuchó problemática de gestión en el Seguro Social",
+      "source": "Portal del Congreso",
+      "date": "11 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gestion-en-el-seguro-social/"
+    },
     {
       "title": "Diputado Leo De Paz organiza primera mesa de trabajo con líderes y pastores de Lima",
       "source": "Portal del Congreso",
@@ -1663,18 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "10 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rindio-homenaje-a-ecuador-por-aniversario-de-su-primer-grito-de-independencia/"
-    },
-    {
-      "title": "Comisión de Ética de la Cámara de Diputados elegirá este martes 11 a su mesa directiva",
-      "source": "Portal del Congreso",
-      "date": "10 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-de-la-camara-de-diputados-elegira-este-martes-11-a-su-mesa-directiva/"
-    },
-    {
-      "title": "Juntas de Portavoces del Senado y de la Cámara de Diputados sesionarán este martes 11",
-      "source": "Portal del Congreso",
-      "date": "10 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-sesionaran-este-martes-11/"
     }
   ],
   "events_override": {
@@ -1733,6 +1727,22 @@
         "d": "10/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-recibio-a-jueza-peruana-de-la-corte-penal-internacional/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Titular de la Cámara de Diputados recibió saludo de embajador de Brasil",
+        "d": "11/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/titular-de-la-camara-de-diputados-recibio-saludo-de-embajador-de-brasil/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados escuchó problemática de gestión en el Seguro Social",
+        "d": "11/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gestion-en-el-seguro-social/",
         "pts": 2
       }
     ],
@@ -1900,6 +1910,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 46 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN PARLAMENTARIA DE LAS INVERSIONES Y RECURSOS PÚBLICOS DESTINADO...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -1981,6 +1999,14 @@
         "t": "📌",
         "a": "Moción N° 26 (Conformación de Comisiones de Investigación): CREAR UNA COMISIÓN INVESTIGADORA QUE ANALICE LOS HECHOS SUSCITADOS Y DETERMINE LAS RESPONSABILIDADES POLÍTICAS Y, DE SER...",
         "d": "10/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 46 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN PARLAMENTARIA DE LAS INVERSIONES Y RECURSOS PÚBLICOS DESTINADO...",
+        "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
@@ -2116,6 +2142,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/10",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 46 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN PARLAMENTARIA DE LAS INVERSIONES Y RECURSOS PÚBLICOS DESTINADO...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Edgar Adrián Alvaron De la Cruz": [
@@ -2240,6 +2274,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 45 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO Y FELICITACIÓN AL INSTITUTO SUPERIOR TECNOLÓGICO PÚBLICO “MANUEL SEOANE CORRALE...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -2313,6 +2355,14 @@
         "t": "📌",
         "a": "Moción N° 38 (Pedidos para que el pleno se pronuncie sobre interes nacional): EXHORTAR AL PODER EJECUTIVO, A TRAVÉS DE LA PRESIDENCIA DEL CONSEJO DE MINISTROS A IMPLEMENTAR, POR SER DE NECESIDAD E I...",
         "d": "10/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 46 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN PARLAMENTARIA DE LAS INVERSIONES Y RECURSOS PÚBLICOS DESTINADO...",
+        "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
@@ -2650,6 +2700,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: La diputada Roxana Rocha recibe en el Congreso a voluntarios de ASEZ",
+        "d": "11/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/la-diputada-roxana-rocha-recibe-en-el-congreso-a-voluntarios-de-asez/",
+        "pts": 2
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -2686,6 +2744,22 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-leo-de-paz-organiza-primera-mesa-de-trabajo-con-lideres-y-pastores-de-lima/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 48 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 47 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Azucena Isla Rojas": [
@@ -2832,6 +2906,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 44 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN A LA CIUDAD DE AREQUIPA, AL CELEBRARSE EL DÍA 15 DE AGOSTO DEL 2026, EL 486...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Jesús Pérez Alccahuaman": [
@@ -2904,6 +2986,14 @@
       {
         "t": "📌",
         "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 46 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN PARLAMENTARIA DE LAS INVERSIONES Y RECURSOS PÚBLICOS DESTINADO...",
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
@@ -3219,6 +3309,34 @@
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Karla Melissa Schaefer Cuculiza": [
+      {
+        "t": "📌",
+        "a": "Moción N° 6 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD PROVINCIAL DE PIURA, CON MOTIV...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 5 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD DISTRITAL DE CASTILLA, PROVINC...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/search",
+        "pts": 3
+      }
+    ],
+    "Roger Miguel Astucuri Laura": [
+      {
+        "t": "📌",
+        "a": "Moción N° 4 (MOCIÓN DE SALUDO): EXPRESAR EL SALUDO Y RECONOCIMIENTO DE LA CÁMARA DE SENADORES DEL CONGRESO DE LA REPÚBLICA DEL PERÚ AL CONMEMORARSE EL P...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/search",
         "pts": 3
       }
     ]
