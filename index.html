@@ -1782,8 +1782,6 @@ function renderSVG(svgId,legs,size){
     t.setAttribute('pointer-events','none');
     t.textContent=SEAT_LBL[leg.party]||leg.party[0];
     g.appendChild(t);
-
-    const evts = getMemberEvents(leg);
     const hasCargo = evts && evts.some(e => e.tipo === 'Cargo Oficial');
     const score = getLegScore(leg);
 
