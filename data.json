@@ -2200,6 +2200,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/5",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 49 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN A LA PROVINCIA DE AZÁNGARO, TIERRA PRÓCER Y CUNA DE LA REVOLUCIÓN EMANCIPADORA DE PEDR...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Heber López Letona": [
