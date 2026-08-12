@@ -458,6 +458,31 @@
     .seat:hover circle{filter:brightness(1.2) drop-shadow(0 0 5px rgba(0,0,0,.3))!important}
     .seat.dim{opacity:.08;pointer-events:none}
 
+    /* Pulsing glow ring for newly scored congressmen */
+    @keyframes seat-glow-ring {
+      0% {
+        transform: scale(0.95);
+        opacity: 0.18;
+        stroke: var(--accent);
+      }
+      50% {
+        opacity: 0.95;
+        stroke: #ffffff;
+        filter: drop-shadow(0 0 2px #ffffff) drop-shadow(0 0 6px var(--accent));
+      }
+      100% {
+        transform: scale(1.15);
+        opacity: 0.18;
+        stroke: var(--accent);
+      }
+    }
+    .seat-recent-pulse {
+      animation: seat-glow-ring 2.2s infinite ease-in-out;
+      transform-origin: center;
+      transform-box: fill-box;
+      pointer-events: none;
+    }
+
     #tip{position:fixed;z-index:8500;pointer-events:none;opacity:0;transition:opacity .1s;max-width:210px}
     #tip.on{opacity:1}
     .tipin{background:var(--dark);border-radius:9px;padding:9px 11px;
@@ -1424,6 +1449,13 @@ function fallbackSrc(leg){
   return 'https://api.dicebear.com/7.x/initials/svg?seed='+encodeURIComponent(ini)+'&backgroundColor='+leg.color.replace('#','')+'&textColor=ffffff&radius=50&fontSize=38';
 }
 
+function parseDate(str) {
+  if(!str) return 0;
+  const parts = str.split('/');
+  if(parts.length !== 3) return 0;
+  return new Date(parseInt(parts[2]), parseInt(parts[1]) - 1, parseInt(parts[0])).getTime();
+}
+
 function getMemberEvents(leg) {
   const list = [];
   const name = leg.name;
@@ -1579,6 +1611,30 @@ function renderSVG(svgId,legs,size){
   const scaleY = isMobile ? config.mobile_scale_y : config.desktop_scale_y;
   
   const {seats,cx,cy,viewW,viewH}=hemi(legs.length,activeSize);
+
+  // Dynamic reference time calculation for highlighting new events
+  let referenceTime = Date.now();
+  let maxEventTime = 0;
+  
+  // Combine all members to find the latest event date in the entire database
+  const allMembers = [...senators, ...deputies];
+  allMembers.forEach(m => {
+    const evts = getMemberEvents(m);
+    if (evts && evts.length > 0) {
+      evts.forEach(evt => {
+        const t = parseDate(evt.d);
+        if (t > maxEventTime) maxEventTime = t;
+      });
+    }
+  });
+
+  // If the database has events, and the latest event is older than 5 days from now,
+  // we fallback to using that maxEventTime as reference to highlight the latest batch!
+  const fiveDays = 5 * 24 * 60 * 60 * 1000;
+  if (maxEventTime > 0 && (Date.now() - maxEventTime) > fiveDays) {
+    referenceTime = maxEventTime;
+  }
+  const glowThreshold = 3 * 24 * 60 * 60 * 1000; // 3 days window
   
   // Calculate dynamic bounding box of all seats and elements to fit perfectly
   let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
@@ -1688,7 +1744,25 @@ function renderSVG(svgId,legs,size){
     g.setAttribute('class','seat');
     g.setAttribute('data-idx', i);
     g.style.cursor='pointer';
-    
+    // Pulse Ring for recent activity
+    const evts = getMemberEvents(leg);
+    const hasRecentEvent = evts && evts.some(evt => {
+      const t = parseDate(evt.d);
+      return t > 0 && (referenceTime - t) <= glowThreshold && (referenceTime - t) >= -86400000;
+    });
+
+    if (hasRecentEvent) {
+      const pulseRing = document.createElementNS(ns, 'circle');
+      pulseRing.setAttribute('cx', s.x.toFixed(1));
+      pulseRing.setAttribute('cy', s.y.toFixed(1));
+      pulseRing.setAttribute('r', (r * 1.42).toFixed(1));
+      pulseRing.setAttribute('fill', 'none');
+      pulseRing.setAttribute('stroke', '#ffffff');
+      pulseRing.setAttribute('stroke-width', '1.1');
+      pulseRing.setAttribute('class', 'seat-recent-pulse');
+      g.appendChild(pulseRing);
+    }
+
     const c=document.createElementNS('http://www.w3.org/2000/svg','circle');
     c.setAttribute('cx',s.x.toFixed(1));c.setAttribute('cy',s.y.toFixed(1));
     c.setAttribute('r',r);c.setAttribute('fill',leg.color);
