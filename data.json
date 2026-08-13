@@ -1603,7 +1603,7 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-propone-una-agenda-mype-en-celebracion-por-el-dia-de-los-bodegueros/"
     },
     {
-      "title": "Senado: Este jueves 13 se inician las instalaciones de sus comisiones",
+      "title": "Senado: Este jueves 13 se inicia la instalación de sus comisiones",
       "source": "Portal del Congreso",
       "date": "12 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-este-jueves-13-se-inician-las-instalaciones-de-sus-comisiones/"
@@ -1619,15 +1619,21 @@
       "source": "Portal del Congreso",
       "date": "12 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-guarda-minuto-de-silencio-por-victimas-del-terremoto-en-colombia/"
-    },
-    {
-      "title": "Pleno del Senado verá el cuadro nominativo de las comisiones para el periodo 2026 – 2027",
-      "source": "Portal del Congreso",
-      "date": "11 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-vera-el-cuadro-nominativo-de-las-comisiones-para-el-periodo-2026-2027/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente de la Cámara de Diputados escuchó problemática de gremio de trabajadores",
+      "source": "Portal del Congreso",
+      "date": "13 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gremio-de-trabajadores/"
+    },
+    {
+      "title": "Organizan foro sobre “Juventudes: Oportunidades y Futuro”",
+      "source": "Portal del Congreso",
+      "date": "13 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-foro-sobre-juventudes-oportunidades-y-futuro/"
+    },
     {
       "title": "Bancada Juntos Por el Perú anuncia acciones para enfrentar la inseguridad ciudadana",
       "source": "Portal del Congreso",
@@ -1651,12 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "11 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/la-diputada-roxana-rocha-recibe-en-el-congreso-a-voluntarios-de-asez/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados escuchó problemática de gestión en el Seguro Social",
-      "source": "Portal del Congreso",
-      "date": "11 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gestion-en-el-seguro-social/"
     }
   ],
   "events_override": {
@@ -1731,6 +1731,14 @@
         "d": "11/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gestion-en-el-seguro-social/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados escuchó problemática de gremio de trabajadores",
+        "d": "13/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gremio-de-trabajadores/",
         "pts": 2
       }
     ],
@@ -2310,6 +2318,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 69 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL, EFUSIVO Y FERVIENTE SALUDO A LA REGIÓN HUÁNUCO, CON OCASIÓN DE CONMEMORARSE UN NUEVO ANIVERSARI...",
+        "d": "13/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 68 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL, EFUSIVO Y FERVIENTE SALUDO A LA ILUSTRE PROVINCIA DE AREQUIPA, CUNA DE JURISTAS, POETAS Y LÍDER...",
+        "d": "13/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -2502,6 +2526,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 75 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO DE PROYECTOS ESTRATÉGICOS DE INFRAESTRUCTURA E IDENTIFICACIÓN DE BARRERAS ...",
+        "d": "13/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -2547,6 +2579,14 @@
         "t": "📌",
         "a": "Moción N° 2 (Pedido de invitación al Consejo de Ministros o a los ministros en forma individual para informar): INVITAR A ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, EN SU CALIDAD DE MINISTRO DE RELACIONES EXTERIORES, CON LA FINALIDAD DE I...",
         "d": "04/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 9 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS FERVOROSO SALUDO A LOS CIUDADANOS, AUTORIDADES Y ORGANIZACIONES SOCIALES DE LA CIUDAD DE AREQUIPA, AL CE...",
+        "d": "13/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/search",
         "pts": 3
@@ -2792,6 +2832,22 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/la-diputada-roxana-rocha-recibe-en-el-congreso-a-voluntarios-de-asez/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 77 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO Y HOMENAJE A SANTA ROSA DE LIMA, AL CONMEMORARSE EL 30 DE AGOSTO DE 2026 SU FESTIVIDAD,...",
+        "d": "13/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 74 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FERVIENTE FELICITACIÓN AL DISTRITO DE PUEBLO LIBRE, PROVINCIA Y DEPARTAMENTO DE LIMA, C...",
+        "d": "13/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -3207,6 +3263,14 @@
         "t": "📌",
         "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
         "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 75 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO DE PROYECTOS ESTRATÉGICOS DE INFRAESTRUCTURA E IDENTIFICACIÓN DE BARRERAS ...",
+        "d": "13/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
@@ -3780,6 +3844,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 76 (Mociones de Saludo): EXPRESAR UN CORDIAL Y FRATERNO SALUDO A TODOS LOS PUEBLOS INDÍGENAS U ORIGINARIOS DEL PERÚ, CON MOTIVO DE LA CONMEMORACI...",
+        "d": "13/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Graciela Chipana Condori": [
@@ -3897,6 +3969,34 @@
         "t": "📌",
         "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
         "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Romina Alejandra Uribe Saenz": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Organizan foro sobre “Juventudes: Oportunidades y Futuro”",
+        "d": "13/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-foro-sobre-juventudes-oportunidades-y-futuro/",
+        "pts": 2
+      }
+    ],
+    "Javier Alejandro Castro Cruz": [
+      {
+        "t": "📌",
+        "a": "Moción N° 67 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EFUSIVO SALUDO Y RECONOCIMIENTO A LA MUNICIPALIDAD DEL CENTRO POBLADO LA CAPILLA CENTRAL, DIST...",
+        "d": "13/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 66 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EFUSIVO SALUDO Y RECONOCIMIENTO A LA INSTITUCIÓN EDUCATIVA PÚBLICA N° 10062 SAN JUAN DE KAÑARI...",
+        "d": "13/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
