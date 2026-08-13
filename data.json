@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Senado propone una agenda mype en celebración por el Día de los Bodegueros",
+      "source": "Portal del Congreso",
+      "date": "12 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-propone-una-agenda-mype-en-celebracion-por-el-dia-de-los-bodegueros/"
+    },
+    {
+      "title": "Senado: Este jueves 13 se inician las instalaciones de sus comisiones",
+      "source": "Portal del Congreso",
+      "date": "12 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-este-jueves-13-se-inician-las-instalaciones-de-sus-comisiones/"
+    },
+    {
       "title": "Senado avanza en su organización e iniciará instalación de comisiones",
       "source": "Portal del Congreso",
       "date": "12 Ago 2026",
@@ -1613,15 +1625,15 @@
       "source": "Portal del Congreso",
       "date": "11 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-vera-el-cuadro-nominativo-de-las-comisiones-para-el-periodo-2026-2027/"
-    },
-    {
-      "title": "Aprueban distribución de las mesas directivas de las comisiones del Senado",
-      "source": "Portal del Congreso",
-      "date": "11 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-distribucion-de-las-mesas-directivas-de-las-comisiones-del-senado/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Bancada Juntos Por el Perú anuncia acciones para enfrentar la inseguridad ciudadana",
+      "source": "Portal del Congreso",
+      "date": "12 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-juntos-por-el-peru-anuncia-acciones-para-enfrentar-la-inseguridad-ciudadana/"
+    },
     {
       "title": "Aprueban distribución de mesas directivas de comisiones de la Cámara de Diputados",
       "source": "Portal del Congreso",
@@ -1645,18 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "11 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gestion-en-el-seguro-social/"
-    },
-    {
-      "title": "Diputado Leo De Paz organiza primera mesa de trabajo con líderes y pastores de Lima",
-      "source": "Portal del Congreso",
-      "date": "11 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-leo-de-paz-organiza-primera-mesa-de-trabajo-con-lideres-y-pastores-de-lima/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados recibió saludo del embajador de China",
-      "source": "Portal del Congreso",
-      "date": "10 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-saludo-del-embajador-de-china/"
     }
   ],
   "events_override": {
@@ -1837,6 +1837,14 @@
         "d": "12/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-avanza-en-su-organizacion-e-iniciara-instalacion-de-comisiones/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Senado propone una agenda mype en celebración por el Día de los Bodegueros",
+        "d": "12/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-propone-una-agenda-mype-en-celebracion-por-el-dia-de-los-bodegueros/",
         "pts": 2
       }
     ],
@@ -2242,6 +2250,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/5",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 64 (Mociones de Saludo): EXPRESAR EL SALUDO Y LA MÁS CORDIAL FELICITACIÓN DE LA DIPUTADA ANDREA MEDINA STEIN, INTEGRANTE DEL GRUPO PARLAMENTARIO ...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Máximo Peralta Jorpa": [
@@ -2624,6 +2640,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -2646,6 +2678,14 @@
       {
         "t": "📌",
         "a": "Moción N° 50 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LOS HECHOS CONSTITUCIONALES, INSTITUCIONALES, POLÍTICOS Y S...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
@@ -2838,6 +2878,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Catherin Norma Palomino Casavilca": [
@@ -2895,6 +2943,14 @@
         "t": "📌",
         "a": "Moción N° 50 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LOS HECHOS CONSTITUCIONALES, INSTITUCIONALES, POLÍTICOS Y S...",
         "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
+        "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
@@ -2988,6 +3044,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -3003,6 +3067,14 @@
         "t": "📌",
         "a": "Moción N° 44 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN A LA CIUDAD DE AREQUIPA, AL CELEBRARSE EL DÍA 15 DE AGOSTO DEL 2026, EL 486...",
         "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
@@ -3122,6 +3194,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -3152,6 +3240,14 @@
       {
         "t": "📌",
         "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA “COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MU...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
@@ -3198,6 +3294,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Jacqueline Viviana Tapullima Insapillo": [
@@ -3208,6 +3312,22 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/expediente/2026/15",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 61 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO Y RECONOCIMIENTO A LA CIUDADANÍA DE LA CIUDAD DE TARAPOTO, CON OCASIÓN DE CONMEMORARSE,...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Juan Amilcar Villanueva Calderón": [
@@ -3356,6 +3476,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -3378,6 +3506,14 @@
       {
         "t": "📌",
         "a": "Moción N° 51 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO, ACOMPAÑAMIENTO Y ESCLARECIMIENTO DE LOS CASOS DE VÍCTIMAS DE ...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
@@ -3486,6 +3622,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Marco Antonio Flores Valdizan": [
@@ -3504,6 +3648,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
+        "d": "11/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Luis Angel Jibaja Ramos": [
@@ -3519,6 +3679,14 @@
         "t": "📌",
         "a": "Moción N° 50 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LOS HECHOS CONSTITUCIONALES, INSTITUCIONALES, POLÍTICOS Y S...",
         "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA DENOMINADA COMISIÓN DE LA VERDAD Y JUSTICIA PARA ESCLARECER LAS MUE...",
+        "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
@@ -3550,6 +3718,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 8 (MOCIÓN DE SALUDO): EXPRESAR EL SALUDO Y FELICITACIÓN DEL SENADO DE LA REPÚBLICA, A LA COMUNIDAD CAMPESINA SAN ANTONIO DE RANCAS, EN EL DIST...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/search",
+        "pts": 3
       }
     ],
     "Felix See Hung Chang Apuy": [
@@ -3574,6 +3750,14 @@
       {
         "t": "📌",
         "a": "Moción N° 51 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO, ACOMPAÑAMIENTO Y ESCLARECIMIENTO DE LOS CASOS DE VÍCTIMAS DE ...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
@@ -3614,6 +3798,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -3638,6 +3830,72 @@
       {
         "t": "📌",
         "a": "Moción N° 50 (Conformación de Comisiones de Investigación): CONSTITUIR LA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LOS HECHOS CONSTITUCIONALES, INSTITUCIONALES, POLÍTICOS Y S...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Rosangela Andrea Barbarán Reyes": [
+      {
+        "t": "📌",
+        "a": "Moción N° 65 (Mociones de Saludo): EXPRESAR EL SALUDO Y RECONOCIMIENTO DEL CONGRESO DE LA REPÚBLICA A TODOS LOS BODEGUEROS DEL PERÚ, CON MOTIVO DE LA CONME...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Eduardo Enrique Castillo Rivas": [
+      {
+        "t": "📌",
+        "a": "Moción N° 62 (Mociones de Saludo): Expresar su más cálido saludo y felicitación a los ciudadanos de la provincia de Piura, departamento de Piura, al celebr...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Gloria Charito Hirache Pizarro": [
+      {
+        "t": "📌",
+        "a": "Moción N° 60 (Mociones de Saludo): EXPRESAR EL SALUDO INSTITUCIONAL Y LA MÁS CORDIAL FELICITACIÓN DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A ...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Carmela Paucara Paxi": [
+      {
+        "t": "📌",
+        "a": "Moción N° 59 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y ESPECIAL RECONOCIMIENTO AL DISTRITO DE CASTILLA, PROVINCIA Y DEPARTAMENTO DE PIURA, CON MOTIVO...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 58 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO A LA CIUDAD DE SAN MIGUEL DE PIURA, CON MOTIVO DE CONMEMORARSE, EL 15 DE AGOSTO DE 2026, ...",
+        "d": "12/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
+        "pts": 3
+      }
+    ],
+    "Gabriel Robertino Gonzales Delgado": [
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA, POR EL PLAZO DE CIENTO OCHENTA DÍAS (180) HÁBILES, ENCARGADA DE INVESTIGAR Y ESCL...",
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/search",
