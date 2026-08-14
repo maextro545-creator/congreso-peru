@@ -132,7 +132,7 @@ def fetch_smociones_mociones(events_override, all_names):
                     else:
                         fec = "07/08/2026"
 
-                    mocion_url = f"https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/{camara}/search"
+                    mocion_url = f"https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/{camara}/2026/{num_mocion}"
 
                     for leg_name in all_names:
                         aliases = get_aliases(leg_name)
