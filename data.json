@@ -1597,6 +1597,42 @@
   },
   "senado_news": [
     {
+      "title": "Francisco Calisto Giampietri presidirá Comisión de Defensa Nacional y Orden Interno del Senado",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/francisco-calisto-giampietri-presidira-comision-de-defensa-nacional-y-orden-interno-del-senado/"
+    },
+    {
+      "title": "Senador Ccahuana Aymachoque presidirá la Comisión de Procedimientos Especiales",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-ccahuana-aymachoque-presidira-la-comision-de-procedimientos-especiales/"
+    },
+    {
+      "title": "Presidente del Congreso y embajador de EE. UU. coordinan acciones para prevenir efectos del fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajador-de-ee-uu-coordinan-acciones-para-prevenir-efectos-del-fenomeno-el-nino/"
+    },
+    {
+      "title": "Katherine Ampuero presidirá la Comisión de Justicia y Derechos Humanos del Senado",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/katherine-ampuero-presidira-la-comision-de-justicia-y-derechos-humanos-del-senado/"
+    },
+    {
+      "title": "Senadora Susana Matute es elegida presidenta de Comisión en asuntos de Salud y Mujer",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-susana-matute-es-elegida-presidenta-de-comision-en-asuntos-de-salud-y-mujer/"
+    },
+    {
+      "title": "Senador Alfonso López Chau presidirá la Comisión de Economía",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-alfonso-lopez-chau-presidira-la-comision-de-economia/"
+    },
+    {
       "title": "Senadora Martha Moyano Delgado es elegida presidenta de la Comisión de Control Político del Senado",
       "source": "Portal del Congreso",
       "date": "13 Ago 2026",
@@ -1607,56 +1643,20 @@
       "source": "Portal del Congreso",
       "date": "13 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-percy-osorio-es-elegido-presidente-de-la-comision-de-gestion-del-estado-y-contraloria/"
-    },
-    {
-      "title": "Fernando Rospigliosi presidirá la Comisión de Inteligencia",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fernando-rospigliosi-presidira-la-comision-de-inteligencia/"
-    },
-    {
-      "title": "Senador Daniel Barragán es elegido presidente de Comisión de Asuntos de Desarrollo Productivo",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-daniel-barragan-es-elegido-presidente-de-comision-de-asuntos-de-desarrollo-productivo/"
-    },
-    {
-      "title": "Senador Carlos Mesía presidirá la Comisión de Constitución",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-carlos-mesia-presidira-la-comision-de-constitucion/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Henry Albañil presidirá la Comisión de Ética de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/henry-albanil-presidira-la-comision-de-etica-de-la-camara-de-diputados/"
+    },
     {
       "title": "Cámara de Diputados trabajará de manera presencial",
       "source": "Portal del Congreso",
       "date": "13 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-trabajara-de-manera-presencial/"
-    },
-    {
-      "title": "Cámara de Diputados ratifica cuadro nominativo de comisiones",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-ratifica-cuadro-nominativo-de-comisiones/"
-    },
-    {
-      "title": "Proponen crear un Sistema Nacional de Becas para ampliar el acceso a educación superior",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-crear-un-sistema-nacional-de-becas-para-ampliar-el-acceso-a-educacion-superior/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados recibió la visita del alcalde de Tacna",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recibio-la-visita-del-alcalde-de-tacna/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados escuchó problemática de gremio de trabajadores",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gremio-de-trabajadores/"
     }
   ],
   "events_override": {
@@ -1861,6 +1861,14 @@
         "d": "12/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-propone-una-agenda-mype-en-celebracion-por-el-dia-de-los-bodegueros/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso y embajador de EE. UU. coordinan acciones para prevenir efectos del fenómeno El Niño",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajador-de-ee-uu-coordinan-acciones-para-prevenir-efectos-del-fenomeno-el-nino/",
         "pts": 2
       }
     ],
@@ -2342,6 +2350,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/68",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 87 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS QUE ESTA INTEGRADA POR UN MIEMBRO T...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/87",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -2744,6 +2760,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/40",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -2777,6 +2801,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -2853,6 +2885,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/50",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -2990,6 +3030,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Catherin Norma Palomino Casavilca": [
@@ -3007,6 +3055,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/50",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -3057,6 +3113,14 @@
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/40",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -3156,6 +3220,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -3181,6 +3253,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -3322,6 +3402,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/75",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -3363,6 +3451,14 @@
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/40",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -3439,6 +3535,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -3596,6 +3700,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/40",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -3629,6 +3741,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -3776,6 +3896,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/40",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Luis Angel Jibaja Ramos": [
@@ -3801,6 +3929,14 @@
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/40",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -3900,6 +4036,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/76",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Graciela Chipana Condori": [
@@ -3926,6 +4070,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -3944,6 +4096,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/50",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
       }
     ],
     "Remigio Condori Flores": [
@@ -3961,6 +4121,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -4027,6 +4195,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE DEFENSA, SEÑOR RAFAEL BELAÚNDE LLOSA, A FIN DE QUE CONCURRA AL PLENO DEL CONGRESO DE LA REPÚBL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
       }
     ],
@@ -4162,6 +4338,64 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/66",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 88 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO Y RECONOCIMIENTO A LA PARROQUIA SANTO DOMINGO DE GUZMÁN DE OLMOS, A LA COMISIÓN CENTRAL...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/88",
+        "pts": 3
+      }
+    ],
+    "Francisco José Calisto Giampietri": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Francisco Calisto Giampietri presidirá Comisión de Defensa Nacional y Orden Interno del Senado",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/francisco-calisto-giampietri-presidira-comision-de-defensa-nacional-y-orden-interno-del-senado/",
+        "pts": 2
+      }
+    ],
+    "Hugo Isaac Ccahuana Aymachoque": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senador Ccahuana Aymachoque presidirá la Comisión de Procedimientos Especiales",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-ccahuana-aymachoque-presidira-la-comision-de-procedimientos-especiales/",
+        "pts": 2
+      }
+    ],
+    "Henry Antonio Albañil Carmona": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Henry Albañil presidirá la Comisión de Ética de la Cámara de Diputados",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/henry-albanil-presidira-la-comision-de-etica-de-la-camara-de-diputados/",
+        "pts": 2
+      }
+    ],
+    "Katherine Milagros Ampuero Meza": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Katherine Ampuero presidirá la Comisión de Justicia y Derechos Humanos del Senado",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/katherine-ampuero-presidira-la-comision-de-justicia-y-derechos-humanos-del-senado/",
+        "pts": 2
+      }
+    ],
+    "Susana Flor de María Matute Charun": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadora Susana Matute es elegida presidenta de Comisión en asuntos de Salud y Mujer",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-susana-matute-es-elegida-presidenta-de-comision-en-asuntos-de-salud-y-mujer/",
+        "pts": 2
       }
     ]
   },
