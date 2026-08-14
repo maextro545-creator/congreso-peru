@@ -75,7 +75,8 @@ def fetch_spley_bills(events_override, all_names):
                 else:
                     fec = "05/08/2026"
 
-                pley_url = f"https://wb2server.congreso.gob.pe/spley-portal/#/expediente/{p.get('perParId', 2026)}/{p.get('pleyNum', '')}"
+                cod_camara = "senado" if p.get('codTipoParl') == 'S' else "diputados"
+                pley_url = f"https://wb2server.congreso.gob.pe/spley-portal/#/{cod_camara}/expediente/{p.get('perParId', 2026)}/{p.get('pleyNum', '')}"
 
                 for leg_name in all_names:
                     aliases = get_aliases(leg_name)
