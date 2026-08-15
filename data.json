@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Congreso de la República participa con éxito el II Simulacro Nacional Multipeligro 2026",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-participa-con-exito-el-ii-simulacro-nacional-multipeligro-2026/"
+    },
+    {
+      "title": "Congreso convoca a sesión del Pleno para este lunes 17 de agosto",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-convoca-a-sesion-del-pleno-para-este-lunes-17-de-agosto/"
+    },
+    {
+      "title": "Presidente del Congreso supervisó protocolos de respuesta ante emergencia en el Hospital Dos de Mayo",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-superviso-protocolos-de-respuesta-ante-emergencia-en-el-hospital-dos-de-mayo/"
+    },
+    {
+      "title": "El senador Andrés Ramos presidirá la Comisión de Ética Parlamentaria del Senado",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/el-senador-andres-ramos-presidira-la-comision-de-etica-parlamentaria-del-senado/"
+    },
+    {
       "title": "Francisco Calisto Giampietri presidirá Comisión de Defensa Nacional y Orden Interno del Senado",
       "source": "Portal del Congreso",
       "date": "14 Ago 2026",
@@ -1619,44 +1643,26 @@
       "source": "Portal del Congreso",
       "date": "14 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/katherine-ampuero-presidira-la-comision-de-justicia-y-derechos-humanos-del-senado/"
-    },
-    {
-      "title": "Senadora Susana Matute es elegida presidenta de Comisión en asuntos de Salud y Mujer",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-susana-matute-es-elegida-presidenta-de-comision-en-asuntos-de-salud-y-mujer/"
-    },
-    {
-      "title": "Senador Alfonso López Chau presidirá la Comisión de Economía",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-alfonso-lopez-chau-presidira-la-comision-de-economia/"
-    },
-    {
-      "title": "Senadora Martha Moyano Delgado es elegida presidenta de la Comisión de Control Político del Senado",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-martha-moyano-delgado-es-elegida-presidenta-de-la-comision-de-control-politico-del-senado/"
-    },
-    {
-      "title": "Senador Percy Osorio es elegido presidente de la Comisión de Gestión del Estado y Contraloría",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-percy-osorio-es-elegido-presidente-de-la-comision-de-gestion-del-estado-y-contraloria/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisiones ordinarias de la Cámara de Diputados inician sus instalaciones este martes 18",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-ordinarias-de-la-camara-de-diputados-inician-sus-instalaciones-este-martes-18/"
+    },
+    {
+      "title": "Congreso de la República participa con éxito el II Simulacro Nacional Multipeligro 2026",
+      "source": "Portal del Congreso",
+      "date": "14 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-participa-con-exito-el-ii-simulacro-nacional-multipeligro-2026/"
+    },
     {
       "title": "Henry Albañil presidirá la Comisión de Ética de la Cámara de Diputados",
       "source": "Portal del Congreso",
       "date": "14 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/henry-albanil-presidira-la-comision-de-etica-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Cámara de Diputados trabajará de manera presencial",
-      "source": "Portal del Congreso",
-      "date": "13 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-trabajara-de-manera-presencial/"
     }
   ],
   "events_override": {
@@ -1869,6 +1875,22 @@
         "d": "14/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajador-de-ee-uu-coordinan-acciones-para-prevenir-efectos-del-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso convoca a sesión del Pleno para este lunes 17 de agosto",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-convoca-a-sesion-del-pleno-para-este-lunes-17-de-agosto/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso supervisó protocolos de respuesta ante emergencia en el Hospital Dos de Mayo",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-superviso-protocolos-de-respuesta-ante-emergencia-en-el-hospital-dos-de-mayo/",
         "pts": 2
       }
     ],
@@ -2185,6 +2207,14 @@
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/46",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 89 (Mociones de Saludo): EXPRESAR UN CÁLIDO, FERVIENTE Y EFUSIVO SALUDO Y FELICITACIÓN A LAS AUTORIDADES LOCALES, LÍDERES COMUNITARIOS Y A TODA L...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/89",
         "pts": 3
       }
     ],
@@ -2936,6 +2966,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/74",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 92 (Mociones de Saludo): EXPRESAR EL RECONOCIMIENTO, SALUDO Y FELICITACIÓN A LA COMPAÑÍA DE BOMBEROS VOLUNTARIOS “MARISCAL NIETO” N.° 74, DE LA C...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/92",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 90 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA PREVENCIÓN Y RESPUESTA ANTE EL FENÓMENO DE EL NIÑO Y A LA...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/90",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -3037,6 +3083,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 93 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO SALUDO Y HOMENAJE A LA REGIÓN LORETO Y A LA CIUDADANÍA LORETANA, CON MOTIVO DE CONMEMORARSE, ESTE...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/93",
         "pts": 3
       }
     ],
@@ -3630,6 +3684,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/12",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 91 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA ADOPCIÓN DE MEDIDAS URGENTES DESTINADAS A GARANTIZAR EL ABASTECIMEIN...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/91",
+        "pts": 3
       }
     ],
     "Nora María Llaque Linares": [
@@ -4168,6 +4230,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/60",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 91 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA ADOPCIÓN DE MEDIDAS URGENTES DESTINADAS A GARANTIZAR EL ABASTECIMEIN...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/91",
+        "pts": 3
       }
     ],
     "Carmela Paucara Paxi": [
@@ -4264,6 +4334,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/11",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: El senador Andrés Ramos presidirá la Comisión de Ética Parlamentaria del Senado",
+        "d": "14/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/el-senador-andres-ramos-presidira-la-comision-de-etica-parlamentaria-del-senado/",
+        "pts": 2
       }
     ],
     "Silvana Emperatriz Robles Araujo": [
@@ -4396,6 +4474,36 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-susana-matute-es-elegida-presidenta-de-comision-en-asuntos-de-salud-y-mujer/",
         "pts": 2
+      }
+    ],
+    "Elard Galo Melgar Valdez": [
+      {
+        "t": "📌",
+        "a": "Moción N° 14 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL Y EFUSIVO SALUDO A LA POBLACIÓN DE LA CIUDAD Y PROVINCIA DE AREQUIPA, DEPARTAMENTO DE AREQUIPA, ...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/14",
+        "pts": 3
+      }
+    ],
+    "Nathaly Milagros Molina Soto": [
+      {
+        "t": "📌",
+        "a": "Moción N° 91 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA ADOPCIÓN DE MEDIDAS URGENTES DESTINADAS A GARANTIZAR EL ABASTECIMEIN...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/91",
+        "pts": 3
+      }
+    ],
+    "Lila Marianela Prado Vallejos": [
+      {
+        "t": "📌",
+        "a": "Moción N° 91 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA ADOPCIÓN DE MEDIDAS URGENTES DESTINADAS A GARANTIZAR EL ABASTECIMEIN...",
+        "d": "14/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/91",
+        "pts": 3
       }
     ]
   },
