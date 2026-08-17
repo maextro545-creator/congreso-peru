@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Definen número de integrantes de Comisión Bicameral de Presupuesto y de Comisión Permanente",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-comision-bicameral-de-presupuesto-y-de-comision-permanente/"
+    },
+    {
       "title": "Congreso de la República participa con éxito el II Simulacro Nacional Multipeligro 2026",
       "source": "Portal del Congreso",
       "date": "14 Ago 2026",
@@ -1637,15 +1643,15 @@
       "source": "Portal del Congreso",
       "date": "14 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajador-de-ee-uu-coordinan-acciones-para-prevenir-efectos-del-fenomeno-el-nino/"
-    },
-    {
-      "title": "Katherine Ampuero presidirá la Comisión de Justicia y Derechos Humanos del Senado",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/katherine-ampuero-presidira-la-comision-de-justicia-y-derechos-humanos-del-senado/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Definen número de integrantes de Comisión Bicameral de Presupuesto y de Comisión Permanente",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-comision-bicameral-de-presupuesto-y-de-comision-permanente/"
+    },
     {
       "title": "Comisiones ordinarias de la Cámara de Diputados inician sus instalaciones este martes 18",
       "source": "Portal del Congreso",
@@ -2694,6 +2700,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/7",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 16 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DEL SENADO",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
       }
     ],
     "Pablo Alfonso López Chau Nava": [
@@ -2704,6 +2718,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/2",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 16 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DEL SENADO",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
       }
     ],
     "Ruth Luque Ibarra": [
@@ -2713,6 +2735,14 @@
         "d": "04/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/2",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 16 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DEL SENADO",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
         "pts": 3
       }
     ],
@@ -4314,6 +4344,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-daniel-barragan-es-elegido-presidente-de-comision-de-asuntos-de-desarrollo-productivo/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 16 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DEL SENADO",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
       }
     ],
     "Carlos Fernando Mesía Ramírez": [
@@ -4454,6 +4492,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/henry-albanil-presidira-la-comision-de-etica-de-la-camara-de-diputados/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 95 (Mociones de Saludo): EXPRESAR EL SALUDO INSTITUCIONAL DEL CONGRESO DE LA REPÚBLICA A LA CIUDAD DE PIURA, A SUS AUTORIDADES Y A TODA SU POBLAC...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/95",
+        "pts": 3
       }
     ],
     "Katherine Milagros Ampuero Meza": [
@@ -4503,6 +4549,66 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/91",
+        "pts": 3
+      }
+    ],
+    "Nora Bonifaz Carmona": [
+      {
+        "t": "📌",
+        "a": "Moción N° 16 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DEL SENADO",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
+      }
+    ],
+    "Carlos David Caballero León": [
+      {
+        "t": "📌",
+        "a": "Moción N° 16 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DEL SENADO",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
+      }
+    ],
+    "Flavio Felipe Figallo Rivadeneyra": [
+      {
+        "t": "📌",
+        "a": "Moción N° 16 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DEL SENADO",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
+      }
+    ],
+    "Patricia Milagros Iturregui Byrne": [
+      {
+        "t": "📌",
+        "a": "Moción N° 16 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL DE REVISIÓN DEL REGLAMENTO DEL SENADO",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
+      }
+    ],
+    "Serafín Andrés Luján": [
+      {
+        "t": "📌",
+        "a": "Moción N° 15 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CALUROSO Y FRATERNAL SALUDO A LA CIUDAD DE HUÁNUCO, PROVINCIA Y DEPARTAMENTO DE HUÁNUCO, CON MOTIVO DE C...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/15",
+        "pts": 3
+      }
+    ],
+    "Marco Antonio Pacheco Quispe": [
+      {
+        "t": "📌",
+        "a": "Moción N° 94 (Mociones de Saludo): EXPRESAR UN EMOTIVO SALUDO Y FELICITACIÓN AL HOSPITAL EMERGENCIAS GRAU DE ESSALUD DE NIVEL III, CON MOTIVO DE HABERSE CO...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/94",
         "pts": 3
       }
     ]
