@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Constitución del Senado citará al canciller Espá y a representante de la APCI",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-citara-al-canciller-espa-y-a-representante-de-la-apci/"
+    },
+    {
       "title": "Senado de la República se reúne este martes 18 de agosto",
       "source": "Portal del Congreso",
       "date": "17 Ago 2026",
@@ -1619,21 +1625,21 @@
       "source": "Portal del Congreso",
       "date": "17 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ratifica-numero-de-integrantes-de-la-comision-permanente/"
-    },
-    {
-      "title": "Juntas de Portavoces del Senado y de la Cámara de Diputados abordarán conformación de comisiones para el periodo 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-abordaran-conformacion-de-comisiones-para-el-periodo-2026-2027/"
-    },
-    {
-      "title": "Definen número de integrantes de Comisión Bicameral de Presupuesto y de Comisión Permanente",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-comision-bicameral-de-presupuesto-y-de-comision-permanente/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Consejo de Ministros que preside Luis Galarreta expondrá este jueves 20 la política general de Gobierno",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/consejo-de-ministros-que-preside-luis-galarreta-expondra-este-jueves-20-la-politica-general-de-gobierno/"
+    },
+    {
+      "title": "Diputado Daniel Varas es elegido presidente de la Comisión de Acusaciones Constitucionales",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-daniel-varas-es-elegido-presidente-de-la-comision-de-acusaciones-constitucionales/"
+    },
     {
       "title": "Diputado Gustavo Segura presidirá la Comisión de Defensa Nacional",
       "source": "Portal del Congreso",
@@ -1669,24 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "17 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ratifica-numero-de-integrantes-de-la-comision-permanente/"
-    },
-    {
-      "title": "Juntas de Portavoces del Senado y de la Cámara de Diputados abordarán conformación de comisiones para el periodo 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-abordaran-conformacion-de-comisiones-para-el-periodo-2026-2027/"
-    },
-    {
-      "title": "Definen número de integrantes de Comisión Bicameral de Presupuesto y de Comisión Permanente",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-comision-bicameral-de-presupuesto-y-de-comision-permanente/"
-    },
-    {
-      "title": "Comisiones ordinarias de la Cámara de Diputados inician sus instalaciones este martes 18",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-ordinarias-de-la-camara-de-diputados-inician-sus-instalaciones-este-martes-18/"
     }
   ],
   "events_override": {
@@ -2268,6 +2256,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/5",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 113 (Mociones de Saludo): SALUDAR, CON EL AFECTO Y EL ORGULLO DE QUIEN REPRESENTA A SU PROPIA TIERRA, A LA HEROICA CIUDAD DE TACNA, CON MOTIVO DEL...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/113",
+        "pts": 3
       }
     ],
     "Raúl Jesús Camargo Porta": [
@@ -2305,6 +2301,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/49",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 114 (Mociones de Saludo): MOCIÓN DE SALUDO Y FELICITACIÓN A LA PROVINCIA DE AZÁNGAROREGIÓN PUNO, TIERRA PRÓCER Y CUNA DE LA REVOLUCIÓN EMANCIPADOR...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/114",
         "pts": 3
       }
     ],
@@ -2419,6 +2423,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/87",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 115 (Conformación de Comisiones Especiales): CONSTITÚYASE LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LA ORGANIZACIÓN DE LOS XX JUEGOS PANAMERICANOS Y VII...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
         "pts": 3
       }
     ],
@@ -3038,6 +3050,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/90",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 115 (Conformación de Comisiones Especiales): CONSTITÚYASE LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LA ORGANIZACIÓN DE LOS XX JUEGOS PANAMERICANOS Y VII...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -3362,6 +3382,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Daniel Varas es elegido presidente de la Comisión de Acusaciones Constitucionales",
+        "d": "18/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-daniel-varas-es-elegido-presidente-de-la-comision-de-acusaciones-constitucionales/",
+        "pts": 2
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -3543,6 +3571,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 115 (Conformación de Comisiones Especiales): CONSTITÚYASE LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LA ORGANIZACIÓN DE LOS XX JUEGOS PANAMERICANOS Y VII...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
         "pts": 3
       }
     ],
@@ -4468,6 +4504,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-carlos-mesia-presidira-la-comision-de-constitucion/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Constitución del Senado citará al canciller Espá y a representante de la APCI",
+        "d": "18/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-citara-al-canciller-espa-y-a-representante-de-la-apci/",
+        "pts": 2
       }
     ],
     "Andrés Avelino Ramos Huillcas": [
@@ -4778,6 +4822,26 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-gustavo-segura-presidira-la-comision-de-defensa-nacional/",
         "pts": 2
+      }
+    ],
+    "Jeenny Cristina Samanez Gonzales Vigil": [
+      {
+        "t": "📌",
+        "a": "Moción N° 115 (Conformación de Comisiones Especiales): CONSTITÚYASE LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LA ORGANIZACIÓN DE LOS XX JUEGOS PANAMERICANOS Y VII...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
+        "pts": 3
+      }
+    ],
+    "Javier José María Cipriani Thorne": [
+      {
+        "t": "📌",
+        "a": "Moción N° 115 (Conformación de Comisiones Especiales): CONSTITÚYASE LA COMISIÓN ESPECIAL DE SEGUIMIENTO Y FISCALIZACIÓN DE LA ORGANIZACIÓN DE LOS XX JUEGOS PANAMERICANOS Y VII...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
+        "pts": 3
       }
     ]
   },
