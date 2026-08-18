@@ -1597,6 +1597,36 @@
   },
   "senado_news": [
     {
+      "title": "Senado de la República se reúne este martes 18 de agosto",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-de-la-republica-se-reune-este-martes-18-de-agosto/"
+    },
+    {
+      "title": "Pleno del Congreso aprueba distribución proporcional de la Comisión Bicameral de Presupuesto",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-distribucion-proporcional-de-la-comision-bicameral-de-presupuesto/"
+    },
+    {
+      "title": "Comisión Bicameral fortalecerá la vigilancia del presupuesto y el uso responsable de los recursos públicos",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-fortalecera-la-vigilancia-del-presupuesto-y-el-uso-responsable-de-los-recursos-publicos/"
+    },
+    {
+      "title": "Congreso ratifica número de integrantes de la Comisión Permanente",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ratifica-numero-de-integrantes-de-la-comision-permanente/"
+    },
+    {
+      "title": "Juntas de Portavoces del Senado y de la Cámara de Diputados abordarán conformación de comisiones para el periodo 2026-2027",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-abordaran-conformacion-de-comisiones-para-el-periodo-2026-2027/"
+    },
+    {
       "title": "Definen número de integrantes de Comisión Bicameral de Presupuesto y de Comisión Permanente",
       "source": "Portal del Congreso",
       "date": "17 Ago 2026",
@@ -1607,45 +1637,45 @@
       "source": "Portal del Congreso",
       "date": "14 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-participa-con-exito-el-ii-simulacro-nacional-multipeligro-2026/"
-    },
-    {
-      "title": "Congreso convoca a sesión del Pleno para este lunes 17 de agosto",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-convoca-a-sesion-del-pleno-para-este-lunes-17-de-agosto/"
-    },
-    {
-      "title": "Presidente del Congreso supervisó protocolos de respuesta ante emergencia en el Hospital Dos de Mayo",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-superviso-protocolos-de-respuesta-ante-emergencia-en-el-hospital-dos-de-mayo/"
-    },
-    {
-      "title": "El senador Andrés Ramos presidirá la Comisión de Ética Parlamentaria del Senado",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/el-senador-andres-ramos-presidira-la-comision-de-etica-parlamentaria-del-senado/"
-    },
-    {
-      "title": "Francisco Calisto Giampietri presidirá Comisión de Defensa Nacional y Orden Interno del Senado",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/francisco-calisto-giampietri-presidira-comision-de-defensa-nacional-y-orden-interno-del-senado/"
-    },
-    {
-      "title": "Senador Ccahuana Aymachoque presidirá la Comisión de Procedimientos Especiales",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-ccahuana-aymachoque-presidira-la-comision-de-procedimientos-especiales/"
-    },
-    {
-      "title": "Presidente del Congreso y embajador de EE. UU. coordinan acciones para prevenir efectos del fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajador-de-ee-uu-coordinan-acciones-para-prevenir-efectos-del-fenomeno-el-nino/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Cámara de Diputados inicia instalación de comisiones para el periodo 2026-2027",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-inicia-instalacion-de-comisiones-para-el-periodo-2026-2027/"
+    },
+    {
+      "title": "Cámara de Diputados convoca a sesión del Pleno este martes 18 de agosto",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-convoca-a-sesion-del-pleno-este-martes-18-de-agosto/"
+    },
+    {
+      "title": "Pleno del Congreso aprueba distribución proporcional de la Comisión Bicameral de Presupuesto",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-distribucion-proporcional-de-la-comision-bicameral-de-presupuesto/"
+    },
+    {
+      "title": "Comisión Bicameral fortalecerá la vigilancia del presupuesto y el uso responsable de los recursos públicos",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-fortalecera-la-vigilancia-del-presupuesto-y-el-uso-responsable-de-los-recursos-publicos/"
+    },
+    {
+      "title": "Congreso ratifica número de integrantes de la Comisión Permanente",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ratifica-numero-de-integrantes-de-la-comision-permanente/"
+    },
+    {
+      "title": "Juntas de Portavoces del Senado y de la Cámara de Diputados abordarán conformación de comisiones para el periodo 2026-2027",
+      "source": "Portal del Congreso",
+      "date": "17 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/juntas-de-portavoces-del-senado-y-de-la-camara-de-diputados-abordaran-conformacion-de-comisiones-para-el-periodo-2026-2027/"
+    },
     {
       "title": "Definen número de integrantes de Comisión Bicameral de Presupuesto y de Comisión Permanente",
       "source": "Portal del Congreso",
@@ -1663,12 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "14 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-participa-con-exito-el-ii-simulacro-nacional-multipeligro-2026/"
-    },
-    {
-      "title": "Henry Albañil presidirá la Comisión de Ética de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/henry-albanil-presidira-la-comision-de-etica-de-la-camara-de-diputados/"
     }
   ],
   "events_override": {
@@ -1759,6 +1783,14 @@
         "d": "13/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-escucho-problematica-de-gremio-de-trabajadores/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Cámara de Diputados convoca a sesión del Pleno este martes 18 de agosto",
+        "d": "17/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-convoca-a-sesion-del-pleno-este-martes-18-de-agosto/",
         "pts": 2
       }
     ],
@@ -3064,6 +3096,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/47",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 97 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/97",
+        "pts": 3
       }
     ],
     "Azucena Isla Rojas": [
@@ -3147,6 +3187,22 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 101 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL CENTRO POBLADO DE AMBATO, DISTRITO DE YAULI, PROVINCIA Y DEPARTAMENTO D...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/101",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 100 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE CUENCA, PROVINCIA Y DEPARTAMENTO DE HUANCAVELICA, CON OCASI...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/100",
         "pts": 3
       }
     ],
@@ -3920,6 +3976,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/41",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 112 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA CIUDAD DE REQUENA, CAPITAL DE LA PROVINCIA DEL MISMO NOMBRE, DEPARTAMEN...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/112",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 111 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA PROVINCIA CONSTITUCIONAL DEL CALLAO, A SUS AUTORIDADES Y A TODA LA POBL...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/111",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 110 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA CIUDAD DE TARAPOTO, CAPITAL DEL DISTRITO DE TARAPOTO Y DE LA PROVINCIA ...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/110",
+        "pts": 3
       }
     ],
     "Giannina Iris Avendaño Vilca": [
@@ -4286,6 +4366,38 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/58",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 105 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y ESPECIAL SALUDO AL DISTRITO DE VICHAYAL, PROVINCIA DE PAITA, DEPARTAMENTO DE PIURA, CON MOTIVO...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/105",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 104 (Mociones de Saludo): LA DIPUTADA DE LA REPÚBLICA, CARMELA PAUCARA PAXI, EXPRESA SU MÁS CORDIAL Y DISTINGUIDO SALUDO Y FELICITACIÓN AL INSTITU...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/104",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 103 (Mociones de Saludo): SALUDAR Y RENDIR HOMENAJE AL DISTRITO DE SÍCCHEZ, PROVINCIA DE AYABACA, DEPARTAMENTO DE PIURA, CON MOTIVO DE SU 90.º ANI...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/103",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 102 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO Y RECONOCIMIENTO AL EJÉRCITO DEL PERÚ Y A LA LEGIÓN PERUANA DE LA GUARDIA, CON MOTIVO D...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/102",
+        "pts": 3
       }
     ],
     "Gabriel Robertino Gonzales Delgado": [
@@ -4609,6 +4721,60 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/94",
+        "pts": 3
+      }
+    ],
+    "Kim Tami Muñoz Yurivilca": [
+      {
+        "t": "📌",
+        "a": "Moción N° 109 (Mociones de Saludo): SALUDAR Y FELICITAR A LA COMUNIDAD CAMPESINA SAN PEDRO DE YANAHUANCA AL CELEBRAR, ESTE 2 DE SEPTIEMBRE DE 2026, SU NOVEN...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/109",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 108 (Mociones de Saludo): SALUDAR Y FELICITAR A LA COMUNIDAD CAMPESINA SAN ANTONIO DE RANCAS AL CELEBRAR, ESTE 27 DE AGOSTO, ELCENTENARIO DE RECON...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/108",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 107 (Mociones de Saludo): SALUDAR Y FELICITAR A LA CIUDAD DE OXAPAMPA CON MOTIVO DE CELEBRAR, ESTE 30 DE AGOSTO DE 2026, SU CENTÉSIMO TRIGÉSIMO QU...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/107",
+        "pts": 3
+      }
+    ],
+    "Gladys Griselda Andrade Salguero de Alvarez": [
+      {
+        "t": "📌",
+        "a": "Moción N° 106 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y AFECTUOSO SALUDO A LA PROVINCIA DE CAÑETE, DEPARTAMENTO DE LIMA, CON MOTIVO DE CONMEMORARSE, E...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/106",
+        "pts": 3
+      }
+    ],
+    "Gustavo Alexander Segura Figueroa": [
+      {
+        "t": "📌",
+        "a": "Moción N° 99 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE, EMOTIVO Y PATRIÓTICO SALUDO AL INMORTAL Y HEROICO PUEBLO DE TACNA, AL CONMEMORARSE ESTE 28 DE...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/99",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 98 (Mociones de Saludo): EXPRESA SU CORDIAL SALUDO Y RECONOCIMIENTO A TODOS LOS CIUDADANOS DE TARAPOTO, CON MOTIVO DE CONMEMORARSE EL 244.º ANIVE...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/98",
         "pts": 3
       }
     ]
