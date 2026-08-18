@@ -1631,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "17 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-numero-de-integrantes-de-comision-bicameral-de-presupuesto-y-de-comision-permanente/"
-    },
-    {
-      "title": "Congreso de la República participa con éxito el II Simulacro Nacional Multipeligro 2026",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-participa-con-exito-el-ii-simulacro-nacional-multipeligro-2026/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputado Gustavo Segura presidirá la Comisión de Defensa Nacional",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-gustavo-segura-presidira-la-comision-de-defensa-nacional/"
+    },
     {
       "title": "Cámara de Diputados inicia instalación de comisiones para el periodo 2026-2027",
       "source": "Portal del Congreso",
@@ -1687,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "14 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-ordinarias-de-la-camara-de-diputados-inician-sus-instalaciones-este-martes-18/"
-    },
-    {
-      "title": "Congreso de la República participa con éxito el II Simulacro Nacional Multipeligro 2026",
-      "source": "Portal del Congreso",
-      "date": "14 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-participa-con-exito-el-ii-simulacro-nacional-multipeligro-2026/"
     }
   ],
   "events_override": {
@@ -4776,6 +4770,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/98",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Gustavo Segura presidirá la Comisión de Defensa Nacional",
+        "d": "18/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-gustavo-segura-presidira-la-comision-de-defensa-nacional/",
+        "pts": 2
       }
     ]
   },
