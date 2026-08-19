@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso y parlamentarios andinos articulan esfuerzos para atender impacto del fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-parlamentarios-andinos-articulan-esfuerzos-para-atender-impacto-del-fenomeno-el-nino/"
+    },
+    {
       "title": "Comisión Bicameral de Presupuesto y Cuenta General de la República se instalará este jueves 20",
       "source": "Portal del Congreso",
       "date": "18 Ago 2026",
@@ -1619,21 +1625,27 @@
       "source": "Portal del Congreso",
       "date": "18 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-permanente-se-instalara-este-miercoles-19/"
-    },
-    {
-      "title": "Comisión de Constitución del Senado citará al canciller Espá y a representante de la APCI",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-citara-al-canciller-espa-y-a-representante-de-la-apci/"
-    },
-    {
-      "title": "Consejo de Ministros que preside Luis Galarreta expondrá este jueves 20 la política general de Gobierno",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/consejo-de-ministros-que-preside-luis-galarreta-expondra-este-jueves-20-la-politica-general-de-gobierno/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Yenifer Paredes presidirá Comisión de Energía y Minas de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/yenifer-paredes-presidira-comision-de-energia-y-minas-de-la-camara-de-diputados/"
+    },
+    {
+      "title": "Diputado Arturo Alegría presidirá la Comisión de Medio Ambiente y Sostenibilidad",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-arturo-alegria-presidira-la-comision-de-medio-ambiente-y-sostenibilidad/"
+    },
+    {
+      "title": "Giannina Avendaño presidirá la Comisión de Constitución de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/giannina-avendano-presidira-la-comision-de-constitucion-de-la-camara-de-diputados/"
+    },
     {
       "title": "Aprueban nómina de la Comisión Permanente y de la Comisión Bicameral de Presupuesto",
       "source": "Portal del Congreso",
@@ -1651,24 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "18 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-permanente-se-instalara-este-miercoles-19/"
-    },
-    {
-      "title": "Diputado José Palma Mendoza presidirá la Comisión de Producción, Comercio Exterior y Turismo",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jose-palma-mendoza-presidira-la-comision-de-produccion-comercio-exterior-y-turismo/"
-    },
-    {
-      "title": "Diputado Eduardo Castillo presidirá Comisión de Trabajo y Seguridad Social",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-eduardo-castillo-presidira-comision-de-trabajo-y-seguridad-social/"
-    },
-    {
-      "title": "Consejo de Ministros que preside Luis Galarreta expondrá este jueves 20 la política general de Gobierno",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/consejo-de-ministros-que-preside-luis-galarreta-expondra-este-jueves-20-la-politica-general-de-gobierno/"
     }
   ],
   "events_override": {
@@ -1922,6 +1916,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-su-lista-de-integrantes-en-la-comision-bicameral-de-presupuesto/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso y parlamentarios andinos articulan esfuerzos para atender impacto del fenómeno El Niño",
+        "d": "19/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-parlamentarios-andinos-articulan-esfuerzos-para-atender-impacto-del-fenomeno-el-nino/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -2098,6 +2100,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 125 (Conformación de Comisiones Especiales): CONFORMAR, LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DEL VALLE DE LOS RÍOS APURÍMAC, ENE Y MANTARO-VRAEM, POR EL PLAZ...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/125",
+        "pts": 3
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -2253,6 +2263,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/89",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 125 (Conformación de Comisiones Especiales): CONFORMAR, LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DEL VALLE DE LOS RÍOS APURÍMAC, ENE Y MANTARO-VRAEM, POR EL PLAZ...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/125",
         "pts": 3
       }
     ],
@@ -2674,6 +2692,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/75",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 125 (Conformación de Comisiones Especiales): CONFORMAR, LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DEL VALLE DE LOS RÍOS APURÍMAC, ENE Y MANTARO-VRAEM, POR EL PLAZ...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/125",
+        "pts": 3
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -2707,6 +2733,14 @@
         "d": "13/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/10",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 19 (Pedido de invitación al Consejo de Ministros o a los ministros en forma individual para informar): INVITAR AL MINISTRO DE DESARROLLO AGRARIO Y RIEGO, SEÑOR MARCO ANTONIO VINELLI RUIZ, A CONCURRIR AL PLENO DEL SENADO DE ...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/19",
         "pts": 3
       }
     ],
@@ -3694,6 +3728,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 125 (Conformación de Comisiones Especiales): CONFORMAR, LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DEL VALLE DE LOS RÍOS APURÍMAC, ENE Y MANTARO-VRAEM, POR EL PLAZ...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/125",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -4064,6 +4106,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Yenifer Paredes presidirá Comisión de Energía y Minas de la Cámara de Diputados",
+        "d": "19/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/yenifer-paredes-presidira-comision-de-energia-y-minas-de-la-camara-de-diputados/",
+        "pts": 2
       }
     ],
     "Pilar Sulca Castillo": [
@@ -4258,6 +4308,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/40",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Giannina Avendaño presidirá la Comisión de Constitución de la Cámara de Diputados",
+        "d": "19/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/giannina-avendano-presidira-la-comision-de-constitucion-de-la-camara-de-diputados/",
+        "pts": 2
       }
     ],
     "Marco Antonio Flores Valdizan": [
@@ -4796,6 +4854,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/el-senador-andres-ramos-presidira-la-comision-de-etica-parlamentaria-del-senado/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 19 (Pedido de invitación al Consejo de Ministros o a los ministros en forma individual para informar): INVITAR AL MINISTRO DE DESARROLLO AGRARIO Y RIEGO, SEÑOR MARCO ANTONIO VINELLI RUIZ, A CONCURRIR AL PLENO DEL SENADO DE ...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/19",
+        "pts": 3
       }
     ],
     "Silvana Emperatriz Robles Araujo": [
