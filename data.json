@@ -1597,84 +1597,78 @@
   },
   "senado_news": [
     {
+      "title": "Comisión Bicameral de Presupuesto y Cuenta General de la República se instalará este jueves 20",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-y-cuenta-general-de-la-republica-se-instalara-este-jueves-20/"
+    },
+    {
+      "title": "Senado ratifica nómina de la Comisión Permanente",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-ratifica-nomina-de-la-comision-permanente/"
+    },
+    {
+      "title": "Senado aprueba su lista de integrantes en la Comisión Bicameral de Presupuesto",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-su-lista-de-integrantes-en-la-comision-bicameral-de-presupuesto/"
+    },
+    {
+      "title": "Comisión Permanente se instalará este miércoles 19",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-permanente-se-instalara-este-miercoles-19/"
+    },
+    {
       "title": "Comisión de Constitución del Senado citará al canciller Espá y a representante de la APCI",
       "source": "Portal del Congreso",
       "date": "18 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-citara-al-canciller-espa-y-a-representante-de-la-apci/"
     },
     {
-      "title": "Senado de la República se reúne este martes 18 de agosto",
+      "title": "Consejo de Ministros que preside Luis Galarreta expondrá este jueves 20 la política general de Gobierno",
       "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-de-la-republica-se-reune-este-martes-18-de-agosto/"
-    },
-    {
-      "title": "Pleno del Congreso aprueba distribución proporcional de la Comisión Bicameral de Presupuesto",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-distribucion-proporcional-de-la-comision-bicameral-de-presupuesto/"
-    },
-    {
-      "title": "Comisión Bicameral fortalecerá la vigilancia del presupuesto y el uso responsable de los recursos públicos",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-fortalecera-la-vigilancia-del-presupuesto-y-el-uso-responsable-de-los-recursos-publicos/"
-    },
-    {
-      "title": "Congreso ratifica número de integrantes de la Comisión Permanente",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ratifica-numero-de-integrantes-de-la-comision-permanente/"
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/consejo-de-ministros-que-preside-luis-galarreta-expondra-este-jueves-20-la-politica-general-de-gobierno/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Aprueban nómina de la Comisión Permanente y de la Comisión Bicameral de Presupuesto",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-nomina-de-la-comision-permanente-y-de-la-comision-bicameral-de-presupuesto/"
+    },
+    {
+      "title": "Diputada Catherin Palomino presidirá Comisión de Justicia y Derechos Humanos",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-catherin-palomino-presidira-comision-de-justicia-y-derechos-humanos/"
+    },
+    {
+      "title": "Comisión Permanente se instalará este miércoles 19",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-permanente-se-instalara-este-miercoles-19/"
+    },
+    {
+      "title": "Diputado José Palma Mendoza presidirá la Comisión de Producción, Comercio Exterior y Turismo",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jose-palma-mendoza-presidira-la-comision-de-produccion-comercio-exterior-y-turismo/"
+    },
+    {
+      "title": "Diputado Eduardo Castillo presidirá Comisión de Trabajo y Seguridad Social",
+      "source": "Portal del Congreso",
+      "date": "18 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-eduardo-castillo-presidira-comision-de-trabajo-y-seguridad-social/"
+    },
     {
       "title": "Consejo de Ministros que preside Luis Galarreta expondrá este jueves 20 la política general de Gobierno",
       "source": "Portal del Congreso",
       "date": "18 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/consejo-de-ministros-que-preside-luis-galarreta-expondra-este-jueves-20-la-politica-general-de-gobierno/"
-    },
-    {
-      "title": "Diputado Daniel Varas es elegido presidente de la Comisión de Acusaciones Constitucionales",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-daniel-varas-es-elegido-presidente-de-la-comision-de-acusaciones-constitucionales/"
-    },
-    {
-      "title": "Diputado Gustavo Segura presidirá la Comisión de Defensa Nacional",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-gustavo-segura-presidira-la-comision-de-defensa-nacional/"
-    },
-    {
-      "title": "Cámara de Diputados inicia instalación de comisiones para el periodo 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-inicia-instalacion-de-comisiones-para-el-periodo-2026-2027/"
-    },
-    {
-      "title": "Cámara de Diputados convoca a sesión del Pleno este martes 18 de agosto",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-convoca-a-sesion-del-pleno-este-martes-18-de-agosto/"
-    },
-    {
-      "title": "Pleno del Congreso aprueba distribución proporcional de la Comisión Bicameral de Presupuesto",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-distribucion-proporcional-de-la-comision-bicameral-de-presupuesto/"
-    },
-    {
-      "title": "Comisión Bicameral fortalecerá la vigilancia del presupuesto y el uso responsable de los recursos públicos",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-fortalecera-la-vigilancia-del-presupuesto-y-el-uso-responsable-de-los-recursos-publicos/"
-    },
-    {
-      "title": "Congreso ratifica número de integrantes de la Comisión Permanente",
-      "source": "Portal del Congreso",
-      "date": "17 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ratifica-numero-de-integrantes-de-la-comision-permanente/"
     }
   ],
   "events_override": {
@@ -1912,6 +1906,22 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-superviso-protocolos-de-respuesta-ante-emergencia-en-el-hospital-dos-de-mayo/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión Bicameral de Presupuesto y Cuenta General de la República se instalará este jueves 20",
+        "d": "18/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-y-cuenta-general-de-la-republica-se-instalara-este-jueves-20/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senado aprueba su lista de integrantes en la Comisión Bicameral de Presupuesto",
+        "d": "18/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-su-lista-de-integrantes-en-la-comision-bicameral-de-presupuesto/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -2079,6 +2089,14 @@
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/46",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 119 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA REHABILITACIÓN Y RECONSTRUCCIÓN DE LAS ZONAS AFECTADAS POR LOS FENÓM...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
         "pts": 3
       }
     ],
@@ -2310,6 +2328,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/114",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 114 (Mociones de Saludo): MOCIÓN DE SALUDO Y FELICITACIÓN A LA PROVINCIA DE AZÁNGARO REGIÓN PUNO, TIERRA PRÓCER Y CUNA DE LA REVOLUCIÓN EMANCIPADO...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/114",
+        "pts": 3
       }
     ],
     "Heber López Letona": [
@@ -2432,6 +2458,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 119 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA REHABILITACIÓN Y RECONSTRUCCIÓN DE LAS ZONAS AFECTADAS POR LOS FENÓM...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -2515,6 +2549,14 @@
         "d": "11/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/46",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -2764,6 +2806,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 18 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CREAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO, PREVENCIÓN Y RESPUESTA ANTE EL FENÓMENO EL NIÑO Y A LA GESTIÓN DEL RIESGO DE ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/18",
+        "pts": 3
       }
     ],
     "Ruth Luque Ibarra": [
@@ -2866,6 +2916,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -2907,6 +2965,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -2991,6 +3057,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -3176,6 +3250,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/93",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Catherin Norma Palomino Casavilca": [
@@ -3218,6 +3300,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/100",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputada Catherin Palomino presidirá Comisión de Justicia y Derechos Humanos",
+        "d": "18/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-catherin-palomino-presidira-comision-de-justicia-y-derechos-humanos/",
+        "pts": 2
       }
     ],
     "Olver Peña Córdova": [
@@ -3275,6 +3365,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -3390,6 +3488,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-daniel-varas-es-elegido-presidente-de-la-comision-de-acusaciones-constitucionales/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -3580,6 +3686,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -3629,6 +3743,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -3680,6 +3802,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Jacqueline Viviana Tapullima Insapillo": [
@@ -3714,6 +3844,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Juan Amilcar Villanueva Calderón": [
@@ -3740,6 +3878,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/8",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Rossana Herminia Alayza Maccera": [
@@ -3750,6 +3896,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/12",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 119 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA REHABILITACIÓN Y RECONSTRUCCIÓN DE LAS ZONAS AFECTADAS POR LOS FENÓM...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
+        "pts": 3
       }
     ],
     "Georgina Duarte de Pezet": [
@@ -3760,6 +3914,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/12",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 119 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA REHABILITACIÓN Y RECONSTRUCCIÓN DE LAS ZONAS AFECTADAS POR LOS FENÓM...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
+        "pts": 3
       }
     ],
     "Edwin Espinoza Huillca": [
@@ -3790,6 +3952,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/12",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 119 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA REHABILITACIÓN Y RECONSTRUCCIÓN DE LAS ZONAS AFECTADAS POR LOS FENÓM...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
+        "pts": 3
       }
     ],
     "Edgar Dember Gonzales Polar": [
@@ -3886,6 +4056,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -3927,6 +4105,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -3987,6 +4173,14 @@
         "d": "10/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/25",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 123 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA PROVINCIA CONSTITUCIONAL DEL CALLAO, CON MOTIVO DE CO...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/123",
         "pts": 3
       }
     ],
@@ -4106,6 +4300,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Luis Angel Jibaja Ramos": [
@@ -4139,6 +4341,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -4211,6 +4421,22 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/57",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 119 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA REHABILITACIÓN Y RECONSTRUCCIÓN DE LAS ZONAS AFECTADAS POR LOS FENÓM...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
         "pts": 3
       }
     ],
@@ -4306,6 +4532,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
       }
     ],
     "Remigio Condori Flores": [
@@ -4331,6 +4565,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -4359,6 +4601,22 @@
         "d": "13/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/81",
+        "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Eduardo Castillo presidirá Comisión de Trabajo y Seguridad Social",
+        "d": "18/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-eduardo-castillo-presidira-comision-de-trabajo-y-seguridad-social/",
+        "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 122 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN ALA ASOCIACIÓN DE EXALUMNOS DEL COLEGIO SANTA ROSA DE SULLANA, AL CONMEMORA...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/122",
         "pts": 3
       }
     ],
@@ -4445,6 +4703,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 124 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DEL CERRO ILUCÁN, UBICADO EN LA PROVINCIA DE CUTERVO, DEPARTAMENTO DE CAJ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
       }
     ],
@@ -4700,6 +4966,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/91",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 119 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA REHABILITACIÓN Y RECONSTRUCCIÓN DE LAS ZONAS AFECTADAS POR LOS FENÓM...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
+        "pts": 3
       }
     ],
     "Nora Bonifaz Carmona": [
@@ -4729,6 +5003,14 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 18 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CREAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO, PREVENCIÓN Y RESPUESTA ANTE EL FENÓMENO EL NIÑO Y A LA GESTIÓN DEL RIESGO DE ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/18",
         "pts": 3
       }
     ],
@@ -4786,6 +5068,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/107",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 108 (Mociones de Saludo): SALUDAR Y FELICITAR A LA COMUNIDAD CAMPESINA SAN ANTONIO DE RANCAS AL CELEBRAR, ESTE 27 DE AGOSTO, EL CENTENARIO DE RECO...",
+        "d": "17/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/108",
+        "pts": 3
       }
     ],
     "Gladys Griselda Andrade Salguero de Alvarez": [
@@ -4795,6 +5085,14 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/106",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 118 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y AFECTUOSO SALUDO AL DISTRITO DE VÉGUETA, PROVINCIA DE HUAURA, DEPARTAMENTO DE LIMA, CON MOTIVO...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/118",
         "pts": 3
       }
     ],
@@ -4841,6 +5139,66 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
+        "pts": 3
+      }
+    ],
+    "José Marvin Palma Mendoza": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado José Palma Mendoza presidirá la Comisión de Producción, Comercio Exterior y Turismo",
+        "d": "18/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jose-palma-mendoza-presidira-la-comision-de-produccion-comercio-exterior-y-turismo/",
+        "pts": 2
+      }
+    ],
+    "María Lourdes Pia Luisa Alcorta Suero": [
+      {
+        "t": "📌",
+        "a": "Moción N° 18 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CREAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO, PREVENCIÓN Y RESPUESTA ANTE EL FENÓMENO EL NIÑO Y A LA GESTIÓN DEL RIESGO DE ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/18",
+        "pts": 3
+      }
+    ],
+    "Jaime Moises Chipana Chipana": [
+      {
+        "t": "📌",
+        "a": "Moción N° 17 (MOCIÓN DE SALUDO): EXPRESAR EL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD PROVINCIAL DE AZÁNGARO, A SUS AUTORIDA...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/17",
+        "pts": 3
+      }
+    ],
+    "Ana Luisa Yuffra Lugo": [
+      {
+        "t": "📌",
+        "a": "Moción N° 121 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA PROVINCIA DATEM DEL MARAÑÓN, DEPARTAMENTO DE LORETO, C...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/121",
+        "pts": 3
+      }
+    ],
+    "Luis Arturo Alegría García": [
+      {
+        "t": "📌",
+        "a": "Moción N° 120 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE Y CALUROSO SALUDO A LOS CIUDADANOS DEL DISTRITO DE TARAPOTO CON MOTIVO DE CELEBRARSE EL 20 DE ...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/120",
+        "pts": 3
+      }
+    ],
+    "Luis Eliseo Quispe Candia": [
+      {
+        "t": "📌",
+        "a": "Moción N° 119 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA REHABILITACIÓN Y RECONSTRUCCIÓN DE LAS ZONAS AFECTADAS POR LOS FENÓM...",
+        "d": "18/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
         "pts": 3
       }
     ]
