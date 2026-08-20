@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Comisión Bicameral de Presupuesto será presidida por senador José Arista",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-se-presidida-por-senador-jose-arista/"
+    },
+    {
       "title": "Congresistas de diversas bancadas se pronuncian sobre la problemática del sector agrario",
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
@@ -1663,12 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/paola-martinez-presidira-la-comision-de-modernizacion-de-la-gestion-del-estado-y-contraloria-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Yenifer Paredes presidirá Comisión de Energía y Minas de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/yenifer-paredes-presidira-comision-de-energia-y-minas-de-la-camara-de-diputados/"
     }
   ],
   "events_override": {
@@ -5375,6 +5375,26 @@
         "d": "19/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/127",
+        "pts": 3
+      }
+    ],
+    "José Berley Arista Arbildo": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión Bicameral de Presupuesto será presidida por senador José Arista",
+        "d": "20/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-se-presidida-por-senador-jose-arista/",
+        "pts": 2
+      }
+    ],
+    "Jhonn Brayam Valqui Ordoñez": [
+      {
+        "t": "📌",
+        "a": "Moción N° 131 (Mociones de Saludo): EXPRESAR EL CALUROSO SALUDO Y FELICITACIÓN DEL CONGRESO DE LA REPÚBLICA A LA CIUDAD DE OXAPAMPA, PROVINCIA DE OXAPAMPA, ...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/131",
         "pts": 3
       }
     ]
