@@ -1597,72 +1597,78 @@
   },
   "senado_news": [
     {
-      "title": "Presidente del Congreso y parlamentarios andinos articulan esfuerzos para atender impacto del fenómeno El Niño",
+      "title": "Congresistas de diversas bancadas se pronuncian sobre la problemática del sector agrario",
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-parlamentarios-andinos-articulan-esfuerzos-para-atender-impacto-del-fenomeno-el-nino/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congresistas-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
     },
     {
-      "title": "Comisión Bicameral de Presupuesto y Cuenta General de la República se instalará este jueves 20",
+      "title": "Se instala Comisión Permanente para el Periodo Anual de Sesiones 2026-2027",
       "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-y-cuenta-general-de-la-republica-se-instalara-este-jueves-20/"
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instala-comision-permanente-para-el-periodo-anual-de-sesiones-2026-2027/"
     },
     {
-      "title": "Senado ratifica nómina de la Comisión Permanente",
+      "title": "Congreso recibió informe final de la Misión de Observación Electoral de la Unión Europea",
       "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-ratifica-nomina-de-la-comision-permanente/"
-    },
-    {
-      "title": "Senado aprueba su lista de integrantes en la Comisión Bicameral de Presupuesto",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-su-lista-de-integrantes-en-la-comision-bicameral-de-presupuesto/"
-    },
-    {
-      "title": "Comisión Permanente se instalará este miércoles 19",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-permanente-se-instalara-este-miercoles-19/"
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-recibio-informe-final-de-la-mision-de-observacion-electoral-de-la-union-europea/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Congresistas de diversas bancadas se pronuncian sobre la problemática del sector agrario",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congresistas-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
+    },
+    {
+      "title": "Aprueban plan de trabajo de la Comisión de Ética de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-plan-de-trabajo-de-la-comision-de-etica-de-la-camara-de-diputados/"
+    },
+    {
+      "title": "Se instala Comisión Permanente para el Periodo Anual de Sesiones 2026-2027",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instala-comision-permanente-para-el-periodo-anual-de-sesiones-2026-2027/"
+    },
+    {
+      "title": "Comisión de Ciencia, Innovación, Tecnología y Sociedad Digital será presidida por el diputado Diethell Columbus",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-innovacion-tecnologia-y-sociedad-digital-sera-presidida-por-el-diputado-diethell-columbus/"
+    },
+    {
+      "title": "José Marcelo Salazar fue elegido para presidir la Comisión de Economía de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/jose-marcelo-salazar-fue-elegido-para-presidir-la-comision-de-economia-de-la-camara-de-diputados/"
+    },
+    {
+      "title": "Presidente de la Cámara de Diputados impulsará mesa de trabajo frente a extorsiones y violencia que padecen los transportistas",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsara-mesa-de-trabajo-frente-a-extorsiones-y-violencia-que-padecen-los-transportistas/"
+    },
+    {
+      "title": "Diputado Édgar Alvarón de la Cruz fue elegido presidente de la Comisión de Desarrollo Agrario",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-edgar-alvaron-de-la-cruz-fue-elegido-presidente-de-la-comision-de-desarrollo-agrario/"
+    },
+    {
+      "title": "Paola Martínez presidirá la Comisión de Modernización de la Gestión del Estado y Contraloría de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "19 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/paola-martinez-presidira-la-comision-de-modernizacion-de-la-gestion-del-estado-y-contraloria-de-la-camara-de-diputados/"
+    },
     {
       "title": "Yenifer Paredes presidirá Comisión de Energía y Minas de la Cámara de Diputados",
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/yenifer-paredes-presidira-comision-de-energia-y-minas-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Diputado Arturo Alegría presidirá la Comisión de Medio Ambiente y Sostenibilidad",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-arturo-alegria-presidira-la-comision-de-medio-ambiente-y-sostenibilidad/"
-    },
-    {
-      "title": "Giannina Avendaño presidirá la Comisión de Constitución de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/giannina-avendano-presidira-la-comision-de-constitucion-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Aprueban nómina de la Comisión Permanente y de la Comisión Bicameral de Presupuesto",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-nomina-de-la-comision-permanente-y-de-la-comision-bicameral-de-presupuesto/"
-    },
-    {
-      "title": "Diputada Catherin Palomino presidirá Comisión de Justicia y Derechos Humanos",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-catherin-palomino-presidira-comision-de-justicia-y-derechos-humanos/"
-    },
-    {
-      "title": "Comisión Permanente se instalará este miércoles 19",
-      "source": "Portal del Congreso",
-      "date": "18 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-permanente-se-instalara-este-miercoles-19/"
     }
   ],
   "events_override": {
@@ -1761,6 +1767,14 @@
         "d": "17/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-convoca-a-sesion-del-pleno-este-martes-18-de-agosto/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados impulsará mesa de trabajo frente a extorsiones y violencia que padecen los transportistas",
+        "d": "19/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsara-mesa-de-trabajo-frente-a-extorsiones-y-violencia-que-padecen-los-transportistas/",
         "pts": 2
       }
     ],
@@ -2282,6 +2296,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/5",
         "pts": 5
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Édgar Alvarón de la Cruz fue elegido presidente de la Comisión de Desarrollo Agrario",
+        "d": "19/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-edgar-alvaron-de-la-cruz-fue-elegido-presidente-de-la-comision-de-desarrollo-agrario/",
+        "pts": 2
       }
     ],
     "Juan César Cabrera Nieto": [
@@ -2700,6 +2722,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/125",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: José Marcelo Salazar fue elegido para presidir la Comisión de Economía de la Cámara de Diputados",
+        "d": "19/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/jose-marcelo-salazar-fue-elegido-para-presidir-la-comision-de-economia-de-la-camara-de-diputados/",
+        "pts": 2
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -3291,6 +3321,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 129 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO SALUDO Y FELICITACIÓNA LA CIUDAD DE REQUENA, RECONOCIDA COMO LA ATENAS DEL UCAYALI, CON MOTIVO DE...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/129",
         "pts": 3
       }
     ],
@@ -4426,6 +4464,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/5",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 21 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD DISTRITAL DE VICHAYAL, CON MOT...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/21",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 20 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD DISTRITAL DE TAMARINDO, CON MO...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/20",
+        "pts": 3
       }
     ],
     "Roger Miguel Astucuri Laura": [
@@ -4944,6 +4998,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/88",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 126 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA HEROICA CIUDAD DE TACNA, AL CONMEMORARSE ESTE 28 DE...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/126",
+        "pts": 3
       }
     ],
     "Francisco José Calisto Giampietri": [
@@ -5265,6 +5327,54 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
+        "pts": 3
+      }
+    ],
+    "Diethell Columbus Murata": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ciencia, Innovación, Tecnología y Sociedad Digital será presidida por el diputado Diethell Columbus",
+        "d": "19/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-innovacion-tecnologia-y-sociedad-digital-sera-presidida-por-el-diputado-diethell-columbus/",
+        "pts": 2
+      }
+    ],
+    "Paola Isabel Martínez Paitán": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Paola Martínez presidirá la Comisión de Modernización de la Gestión del Estado y Contraloría de la Cámara de Diputados",
+        "d": "19/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/paola-martinez-presidira-la-comision-de-modernizacion-de-la-gestion-del-estado-y-contraloria-de-la-camara-de-diputados/",
+        "pts": 2
+      }
+    ],
+    "Angel Bruno Bobadilla Galindo": [
+      {
+        "t": "📌",
+        "a": "Moción N° 130 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN A LOS CIUDADANOS DE LA PROVINCIA CONSTITUCIONAL DEL CALLAO, AL CELEBRARSE E...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/130",
+        "pts": 3
+      }
+    ],
+    "Luzmila María del Carmen Gamarra Pita": [
+      {
+        "t": "📌",
+        "a": "Moción N° 128 (Mociones de Saludo): EXPRESAR UN CALUROSO Y RESPETUOSO SALUDO AL DISTRITO DE MACATE, PROVINCIA DEL SANTA Y DEPARTAMENTO DE ANCASH, POR CONMEM...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/128",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 127 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DEL DISTRITO DE PAROBAMBA, PROVINCIA DE POMABAM...",
+        "d": "19/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/127",
         "pts": 3
       }
     ]
