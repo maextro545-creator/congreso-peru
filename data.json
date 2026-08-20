@@ -1597,36 +1597,42 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Defensa Nacional y Orden Interno aprobó su plan de trabajo y acordó invitar a ministros y altas autoridades",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-aprobo-su-plan-de-trabajo-y-acordo-invitar-a-ministros-y-altas-autoridades/"
+    },
+    {
       "title": "Comisión Bicameral de Presupuesto será presidida por senador José Arista",
       "source": "Portal del Congreso",
       "date": "20 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-se-presidida-por-senador-jose-arista/"
     },
     {
-      "title": "Congresistas de diversas bancadas se pronuncian sobre la problemática del sector agrario",
+      "title": "Parlamentarios de diversas bancadas se pronuncian sobre la problemática del sector agrario",
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congresistas-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
     },
     {
       "title": "Se instala Comisión Permanente para el Periodo Anual de Sesiones 2026-2027",
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instala-comision-permanente-para-el-periodo-anual-de-sesiones-2026-2027/"
-    },
-    {
-      "title": "Congreso recibió informe final de la Misión de Observación Electoral de la Unión Europea",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-recibio-informe-final-de-la-mision-de-observacion-electoral-de-la-union-europea/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Congresistas de diversas bancadas se pronuncian sobre la problemática del sector agrario",
+      "title": "Inició presentación de gabinete ministerial que preside Luis Galarreta",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/inicio-presentacion-de-gabinete-ministerial-que-preside-luis-galarreta/"
+    },
+    {
+      "title": "Parlamentarios de diversas bancadas se pronuncian sobre la problemática del sector agrario",
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congresistas-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
     },
     {
       "title": "Aprueban plan de trabajo de la Comisión de Ética de la Cámara de Diputados",
@@ -1663,12 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-edgar-alvaron-de-la-cruz-fue-elegido-presidente-de-la-comision-de-desarrollo-agrario/"
-    },
-    {
-      "title": "Paola Martínez presidirá la Comisión de Modernización de la Gestión del Estado y Contraloría de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/paola-martinez-presidira-la-comision-de-modernizacion-de-la-gestion-del-estado-y-contraloria-de-la-camara-de-diputados/"
     }
   ],
   "events_override": {
@@ -3129,6 +3129,54 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 138 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJAS A LA MÉDICO DI...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/138",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 137 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO, EN NOMBRE DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJAS, A ...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/137",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 136 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJASAL ALCALDE, ELV...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/136",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 135 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJASA LA DIRECTORA,...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/135",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 134 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJAS, AL DIRECTOR, ...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/134",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 133 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJAS, AL RECTOR, DR...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/133",
         "pts": 3
       }
     ],
@@ -4618,6 +4666,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 139 (Mociones de Saludo): MOCIÓN DE SALUDO Y FELICITACIÓN A LA HEROICA E HISTÓRICA CIUDAD DE TACNA; CON MOTIVO DE CONMEMORARSE SU 97° ANIVERSARIO ...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/139",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -5016,6 +5072,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/francisco-calisto-giampietri-presidira-comision-de-defensa-nacional-y-orden-interno-del-senado/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Defensa Nacional y Orden Interno aprobó su plan de trabajo y acordó invitar a ministros y altas autoridades",
+        "d": "20/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-aprobo-su-plan-de-trabajo-y-acordo-invitar-a-ministros-y-altas-autoridades/",
+        "pts": 2
       }
     ],
     "Hugo Isaac Ccahuana Aymachoque": [
@@ -5170,6 +5234,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/94",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 141 (Mociones de Saludo): EXPRESAR UN EMOTIVO SALUDO Y FELICITACIÓN A LA PROVINCIA CONSTITUCIONAL DEL CALLAO, CON MOTIVO DE CONMEMORARSE, EL 20 AG...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/141",
+        "pts": 3
       }
     ],
     "Kim Tami Muñoz Yurivilca": [
@@ -5288,6 +5360,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/18",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 22 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): APROBAR LA CONFORMACIÓN DE LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DE PROTECCIÓN INTEGRAL DE LA INFANCIA Y LA ADOLESCENCIA...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/22",
+        "pts": 3
       }
     ],
     "Jaime Moises Chipana Chipana": [
@@ -5395,6 +5475,26 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/131",
+        "pts": 3
+      }
+    ],
+    "Estanislao Edgar Mancha Pineda": [
+      {
+        "t": "📌",
+        "a": "Moción N° 24 (MOCIÓN DE SALUDO): EXPRESAR UN FRATERNAL SALUDO Y RECONOCIMIENTO A LA PROVINCIA DE AZÁNGARO, DEPARTAMENTO DE PUNO, CON OCASIÓN DE CONMEMORA...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/24",
+        "pts": 3
+      }
+    ],
+    "Víctor Manuel Noriega Reátegui": [
+      {
+        "t": "📌",
+        "a": "Moción N° 23 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO Y RECONOCIMIENTO AL DEPARTAMENTO DE SAN MARTÍN CON MOTIVO DE LA CONMEMORACIÓN DE SU 120.º...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/23",
         "pts": 3
       }
     ]
