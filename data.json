@@ -1597,10 +1597,22 @@
   },
   "senado_news": [
     {
-      "title": "Comisión de Defensa Nacional y Orden Interno aprobó su plan de trabajo y acordó invitar a ministros y altas autoridades",
+      "title": "Presidente del Consejo de Ministros expuso política general del Gobierno",
       "source": "Portal del Congreso",
       "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-aprobo-su-plan-de-trabajo-y-acordo-invitar-a-ministros-y-altas-autoridades/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-consejo-de-ministros-expuso-politica-general-del-gobierno/"
+    },
+    {
+      "title": "Comisión de Defensa Nacional y Orden Interno acordó invitar a ministros y altas autoridades",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-acordo-invitar-a-ministros-y-altas-autoridades/"
+    },
+    {
+      "title": "Inició presentación de gabinete ministerial que preside Luis Galarreta",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/inicio-presentacion-de-gabinete-ministerial-que-preside-luis-galarreta/"
     },
     {
       "title": "Comisión Bicameral de Presupuesto será presidida por senador José Arista",
@@ -1613,15 +1625,45 @@
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
-    },
-    {
-      "title": "Se instala Comisión Permanente para el Periodo Anual de Sesiones 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instala-comision-permanente-para-el-periodo-anual-de-sesiones-2026-2027/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Primera vicepresidenta de la Cámara de Diputados organiza foro sobre derechos laborales",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/primera-vicepresidenta-de-la-camara-de-diputados-organiza-foro-sobre-derechos-laborales/"
+    },
+    {
+      "title": "Diputados destacan el valor y la importancia del café peruano",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-destacan-el-valor-y-la-importancia-del-cafe-peruano/"
+    },
+    {
+      "title": "Diputados de todas las bancadas expusieron sus puntos de vista ante la exposición del gabinete Galarreta",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-todas-las-bancadas-expusieron-sus-puntos-de-vista-ante-la-exposicion-del-gabinete-galarreta/"
+    },
+    {
+      "title": "Presidente del Consejo de Ministros expuso política general del Gobierno",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-consejo-de-ministros-expuso-politica-general-del-gobierno/"
+    },
+    {
+      "title": "Portavoces de Cámara de Diputados expusieron sus posturas tras presentación del gabinete ministerial",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/portavoces-de-camara-de-diputados-expusieron-sus-posturas-tras-presentacion-del-gabinete-ministerial/"
+    },
+    {
+      "title": "Comisión de Defensa Nacional y Orden Interno acordó invitar a ministros y altas autoridades",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-acordo-invitar-a-ministros-y-altas-autoridades/"
+    },
     {
       "title": "Inició presentación de gabinete ministerial que preside Luis Galarreta",
       "source": "Portal del Congreso",
@@ -1639,36 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-plan-de-trabajo-de-la-comision-de-etica-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Se instala Comisión Permanente para el Periodo Anual de Sesiones 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instala-comision-permanente-para-el-periodo-anual-de-sesiones-2026-2027/"
-    },
-    {
-      "title": "Comisión de Ciencia, Innovación, Tecnología y Sociedad Digital será presidida por el diputado Diethell Columbus",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-innovacion-tecnologia-y-sociedad-digital-sera-presidida-por-el-diputado-diethell-columbus/"
-    },
-    {
-      "title": "José Marcelo Salazar fue elegido para presidir la Comisión de Economía de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/jose-marcelo-salazar-fue-elegido-para-presidir-la-comision-de-economia-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados impulsará mesa de trabajo frente a extorsiones y violencia que padecen los transportistas",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsara-mesa-de-trabajo-frente-a-extorsiones-y-violencia-que-padecen-los-transportistas/"
-    },
-    {
-      "title": "Diputado Édgar Alvarón de la Cruz fue elegido presidente de la Comisión de Desarrollo Agrario",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-edgar-alvaron-de-la-cruz-fue-elegido-presidente-de-la-comision-de-desarrollo-agrario/"
     }
   ],
   "events_override": {
@@ -2506,6 +2518,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 147 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO, FISCALIZACIÓN Y EVALUACIÓN DE LOS RESULTADOS DE LAS POLÍ...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/147",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -2988,6 +3008,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 148 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DE LOS VALLES DE LOS RÍOS APURÍMAC, ENE Y MANTARO – VRAEM, CON L...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
+        "pts": 3
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -3178,6 +3206,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/133",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 148 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DE LOS VALLES DE LOS RÍOS APURÍMAC, ENE Y MANTARO – VRAEM, CON L...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
+        "pts": 3
       }
     ],
     "Roxana María Rocha Gallegos": [
@@ -3244,6 +3280,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 149 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y FISCALIZACIÓN AL PROCESO DE REORGANIZACIÓN, ESTRUCTURAC...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/149",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 147 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO, FISCALIZACIÓN Y EVALUACIÓN DE LOS RESULTADOS DE LAS POLÍ...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/147",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -3303,6 +3355,14 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/97",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 143 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO Y ESPECIAL SALUDO DE FELICITACIÓN Y RECONOCIMIENTO AL EQUIPO PERUANO NONHUMAN, POR HABER OBTENIDO...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/143",
         "pts": 3
       }
     ],
@@ -3494,6 +3554,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 148 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DE LOS VALLES DE LOS RÍOS APURÍMAC, ENE Y MANTARO – VRAEM, CON L...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
+        "pts": 3
       }
     ],
     "Daniel Jefferson Varas Seguin": [
@@ -3615,6 +3683,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 148 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DE LOS VALLES DE LOS RÍOS APURÍMAC, ENE Y MANTARO – VRAEM, CON L...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
         "pts": 3
       }
     ],
@@ -3821,6 +3897,22 @@
         "d": "19/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/125",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 148 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DE LOS VALLES DE LOS RÍOS APURÍMAC, ENE Y MANTARO – VRAEM, CON L...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 147 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO, FISCALIZACIÓN Y EVALUACIÓN DE LOS RESULTADOS DE LAS POLÍ...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/147",
         "pts": 3
       }
     ],
@@ -4564,6 +4656,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/55",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 149 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y FISCALIZACIÓN AL PROCESO DE REORGANIZACIÓN, ESTRUCTURAC...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/149",
+        "pts": 3
       }
     ],
     "Marlon Alberto Aguirre Ramos": [
@@ -4674,6 +4774,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/139",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 148 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA A FAVOR DE LOS VALLES DE LOS RÍOS APURÍMAC, ENE Y MANTARO – VRAEM, CON L...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 146 (Mociones de Saludo): EXPRESAR MI MÁS CÁLIDO, FRATERNO Y CORDIAL SALUDO, A LAS AUTORIDADES Y A TODA MI QUERIDA POBLACIÓN DE LA ASOCIACIÓN DE V...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/146",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -4742,6 +4858,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 150 (Mociones de Saludo): EXPRESAR SU MAS EMOTIVO SALUDO,FELICITACION Y UN JUSTO RECONOCIMIENTO A LA PROVINCIA DE AZANGARO , \"TIERRA PROCER, CUNA ...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/150",
+        "pts": 3
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -4751,6 +4875,14 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/65",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 142 (Pedidos para que el pleno se pronuncie sobre interes nacional): EXPRESAR SU INTERÉS EN CONTRIBUIR, DESDE EL ÁMBITO DE SUS COMPETENCIAS Y EN ARTICULACIÓN CON LAS ENTIDADES DEL PODER EJE...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/142",
         "pts": 3
       }
     ],
@@ -5138,6 +5270,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/14",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 27 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO DEL SENADO DE LA REPÚBLICA AL DISTRITO DE VÉGUETA, PROVINCIA DE HUAURA, DEPARTA...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/27",
+        "pts": 3
       }
     ],
     "Nathaly Milagros Molina Soto": [
@@ -5165,6 +5305,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 144 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO EL CARMEN DE LA PROVINCIA DE CHINCHA EN EL DEP...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/144",
         "pts": 3
       }
     ],
@@ -5486,6 +5634,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/24",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 28 (MOCIÓN DE SALUDO): EXPRESAR UN CÁLIDO Y EFUSIVO SALUDO Y RECONOCIMIENTO AL SINDICATO NACIONAL DE FISIOTERAPEUTAS DEL SEGURO SOCIAL DE SALUD...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/28",
+        "pts": 3
       }
     ],
     "Víctor Manuel Noriega Reátegui": [
@@ -5495,6 +5651,16 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/23",
+        "pts": 3
+      }
+    ],
+    "Auristela Ana Obando Morgan": [
+      {
+        "t": "📌",
+        "a": "Moción N° 145 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO A LA UNIVERSIDAD NACIONAL DEL CALLAO, CON OCASIÓN DE CONMEMORARSE SU 60....",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/145",
         "pts": 3
       }
     ]
