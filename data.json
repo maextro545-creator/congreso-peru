@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Bancada del Partido del Buen Gobierno realizará un control político responsable sobre las propuestas del presidente del Consejo de Ministros",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-del-partido-del-buen-gobierno-realizara-un-control-politico-responsable-sobre-las-propuestas-del-presidente-del-consejo-de-ministros/"
+    },
+    {
       "title": "Presidente del Consejo de Ministros expuso política general del Gobierno",
       "source": "Portal del Congreso",
       "date": "20 Ago 2026",
@@ -1628,6 +1634,12 @@
     }
   ],
   "diputados_news": [
+    {
+      "title": "Bancada del Partido del Buen Gobierno realizará un control político responsable sobre las propuestas del presidente del Consejo de Ministros",
+      "source": "Portal del Congreso",
+      "date": "20 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-del-partido-del-buen-gobierno-realizara-un-control-politico-responsable-sobre-las-propuestas-del-presidente-del-consejo-de-ministros/"
+    },
     {
       "title": "Primera vicepresidenta de la Cámara de Diputados organiza foro sobre derechos laborales",
       "source": "Portal del Congreso",
@@ -1675,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "19 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
-    },
-    {
-      "title": "Aprueban plan de trabajo de la Comisión de Ética de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-plan-de-trabajo-de-la-comision-de-etica-de-la-camara-de-diputados/"
     }
   ],
   "events_override": {
