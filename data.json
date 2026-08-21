@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso y embajadora del Reino Unido dialogan sobre acciones de prevención ante El Niño",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajadora-del-reino-unido-dialogan-sobre-acciones-de-prevencion-ante-el-nino/"
+    },
+    {
       "title": "Bancada del Partido del Buen Gobierno realizará un control político responsable sobre las propuestas del presidente del Consejo de Ministros",
       "source": "Portal del Congreso",
       "date": "20 Ago 2026",
@@ -1607,33 +1613,33 @@
       "source": "Portal del Congreso",
       "date": "20 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-consejo-de-ministros-expuso-politica-general-del-gobierno/"
-    },
-    {
-      "title": "Comisión de Defensa Nacional y Orden Interno acordó invitar a ministros y altas autoridades",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-acordo-invitar-a-ministros-y-altas-autoridades/"
-    },
-    {
-      "title": "Inició presentación de gabinete ministerial que preside Luis Galarreta",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/inicio-presentacion-de-gabinete-ministerial-que-preside-luis-galarreta/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto será presidida por senador José Arista",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-se-presidida-por-senador-jose-arista/"
-    },
-    {
-      "title": "Parlamentarios de diversas bancadas se pronuncian sobre la problemática del sector agrario",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputado Jaime Abensur es elegido presidente de Comisión de Ordenamiento y Seguimiento Legislativo",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jaime-abensur-es-elegido-presidente-de-comision-de-ordenamiento-y-seguimiento-legislativo/"
+    },
+    {
+      "title": "Diputado Segundo Castrejón presidirá Comisión de Educación, Cultura y Deporte 2026-2027",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-segundo-castrejon-presidira-comision-de-educacion-cultura-y-deporte-2026-2027/"
+    },
+    {
+      "title": "Comisión de Infraestructura de la Cámara de Diputados será presidida por Luis Quispe Candia",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-de-la-camara-de-diputados-sera-presidida-por-luis-quispe-candia/"
+    },
+    {
+      "title": "Diputada Flor Meza presidirá la Comisión de Inclusión Social",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-flor-meza-presidira-la-comision-de-inclusion-social/"
+    },
     {
       "title": "Bancada del Partido del Buen Gobierno realizará un control político responsable sobre las propuestas del presidente del Consejo de Ministros",
       "source": "Portal del Congreso",
@@ -1663,30 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "20 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-consejo-de-ministros-expuso-politica-general-del-gobierno/"
-    },
-    {
-      "title": "Portavoces de Cámara de Diputados expusieron sus posturas tras presentación del gabinete ministerial",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/portavoces-de-camara-de-diputados-expusieron-sus-posturas-tras-presentacion-del-gabinete-ministerial/"
-    },
-    {
-      "title": "Comisión de Defensa Nacional y Orden Interno acordó invitar a ministros y altas autoridades",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-acordo-invitar-a-ministros-y-altas-autoridades/"
-    },
-    {
-      "title": "Inició presentación de gabinete ministerial que preside Luis Galarreta",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/inicio-presentacion-de-gabinete-ministerial-que-preside-luis-galarreta/"
-    },
-    {
-      "title": "Parlamentarios de diversas bancadas se pronuncian sobre la problemática del sector agrario",
-      "source": "Portal del Congreso",
-      "date": "19 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-de-diversas-bancadas-se-pronuncian-sobre-la-problematica-del-sector-agrario/"
     }
   ],
   "events_override": {
@@ -1955,6 +1937,14 @@
         "d": "19/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-parlamentarios-andinos-articulan-esfuerzos-para-atender-impacto-del-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso y embajadora del Reino Unido dialogan sobre acciones de prevención ante El Niño",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajadora-del-reino-unido-dialogan-sobre-acciones-de-prevencion-ante-el-nino/",
         "pts": 2
       }
     ],
@@ -4158,6 +4148,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/12",
         "pts": 5
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Jaime Abensur es elegido presidente de Comisión de Ordenamiento y Seguimiento Legislativo",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jaime-abensur-es-elegido-presidente-de-comision-de-ordenamiento-y-seguimiento-legislativo/",
+        "pts": 2
       }
     ],
     "Hilda Judit Fernández de la Torre": [
@@ -4872,6 +4870,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/150",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 150 (Mociones de Saludo): EXPRESAR SU MÁS EMOTIVO SALUDO, FELICITACIÓN Y UN JUSTO RECONOCIMIENTO A LA PROVINCIA DE AZANGARO, TIERRA PROCER, CUNA D...",
+        "d": "20/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/150",
+        "pts": 3
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -5048,6 +5054,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/fernando-rospigliosi-presidira-la-comision-de-inteligencia/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 29 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA DIRECCIÓN NACIONAL DE OPERACIONES ESPECIALES (DINOES) DE LA POLICÍA N...",
+        "d": "21/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/29",
+        "pts": 3
       }
     ],
     "Daniel Hugo Barragán Coloma": [
@@ -5562,6 +5576,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Infraestructura de la Cámara de Diputados será presidida por Luis Quispe Candia",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-de-la-camara-de-diputados-sera-presidida-por-luis-quispe-candia/",
+        "pts": 2
       }
     ],
     "Diethell Columbus Murata": [
@@ -5668,6 +5690,46 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/145",
         "pts": 3
+      }
+    ],
+    "Jaime Américo Abensur Pinasco": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Jaime Abensur es elegido presidente de Comisión de Ordenamiento y Seguimiento Legislativo",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jaime-abensur-es-elegido-presidente-de-comision-de-ordenamiento-y-seguimiento-legislativo/",
+        "pts": 2
+      }
+    ],
+    "Frank Krklec Torres": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Jaime Abensur es elegido presidente de Comisión de Ordenamiento y Seguimiento Legislativo",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jaime-abensur-es-elegido-presidente-de-comision-de-ordenamiento-y-seguimiento-legislativo/",
+        "pts": 2
+      }
+    ],
+    "Segundo Juan Castrejón Fernández": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Segundo Castrejón presidirá Comisión de Educación, Cultura y Deporte 2026-2027",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-segundo-castrejon-presidira-comision-de-educacion-cultura-y-deporte-2026-2027/",
+        "pts": 2
+      }
+    ],
+    "Flor de Jesús Meza Rivera": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputada Flor Meza presidirá la Comisión de Inclusión Social",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-flor-meza-presidira-la-comision-de-inclusion-social/",
+        "pts": 2
       }
     ]
   },
