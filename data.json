@@ -1613,15 +1613,15 @@
       "source": "Portal del Congreso",
       "date": "21 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajadora-del-reino-unido-dialogan-sobre-acciones-de-prevencion-ante-el-nino/"
-    },
-    {
-      "title": "Bancada del Partido del Buen Gobierno realizará un control político responsable sobre las propuestas del presidente del Consejo de Ministros",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-del-partido-del-buen-gobierno-realizara-un-control-politico-responsable-sobre-las-propuestas-del-presidente-del-consejo-de-ministros/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente de Cámara de Diputados impulsa en Tumbes respuesta articulada y preventiva frente al fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "22 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-impulsa-en-tumbes-respuesta-articulada-y-preventiva-frente-al-fenomeno-el-nino/"
+    },
     {
       "title": "Luis Masco Cáceres presidirá la Comisión de Defensa del Consumidor de la Cámara de Diputados",
       "source": "Portal del Congreso",
@@ -1657,12 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "21 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-flor-meza-presidira-la-comision-de-inclusion-social/"
-    },
-    {
-      "title": "Bancada del Partido del Buen Gobierno realizará un control político responsable sobre las propuestas del presidente del Consejo de Ministros",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-del-partido-del-buen-gobierno-realizara-un-control-politico-responsable-sobre-las-propuestas-del-presidente-del-consejo-de-ministros/"
     }
   ],
   "events_override": {
@@ -1769,6 +1763,14 @@
         "d": "19/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsara-mesa-de-trabajo-frente-a-extorsiones-y-violencia-que-padecen-los-transportistas/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de Cámara de Diputados impulsa en Tumbes respuesta articulada y preventiva frente al fenómeno El Niño",
+        "d": "22/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-impulsa-en-tumbes-respuesta-articulada-y-preventiva-frente-al-fenomeno-el-nino/",
         "pts": 2
       }
     ],
