@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Organizan evento por el Día Internacional de Conmemoración y Homenaje a las Víctimas del Terrorismo a nivel mundial",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-evento-por-el-dia-internacional-de-conmemoracion-y-homenaje-a-las-victimas-del-terrorismo-a-nivel-mundial/"
+    },
+    {
+      "title": "Mesa Directiva del Senado recibió el saludo protocolar del fiscal de la nación",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-directiva-del-senado-recibio-el-saludo-protocolar-del-fiscal-de-la-nacion/"
+    },
+    {
       "title": "Presidente del Congreso y embajadora del Reino Unido dialogan sobre acciones de prevención ante El Niño",
       "source": "Portal del Congreso",
       "date": "21 Ago 2026",
@@ -1607,15 +1619,21 @@
       "source": "Portal del Congreso",
       "date": "20 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-del-partido-del-buen-gobierno-realizara-un-control-politico-responsable-sobre-las-propuestas-del-presidente-del-consejo-de-ministros/"
-    },
-    {
-      "title": "Presidente del Consejo de Ministros expuso política general del Gobierno",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-consejo-de-ministros-expuso-politica-general-del-gobierno/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Luis Masco Cáceres presidirá la Comisión de Defensa del Consumidor de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/luis-masco-caceres-presidira-la-comision-de-defensa-del-consumidor-de-la-camara-de-diputados/"
+    },
+    {
+      "title": "Comisión de Salud de la Cámara de Diputados será presidida por Miguel Huamán Cornejo",
+      "source": "Portal del Congreso",
+      "date": "21 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-de-la-camara-de-diputados-sera-presidida-por-miguel-huaman-cornejo/"
+    },
     {
       "title": "Diputado Jaime Abensur es elegido presidente de Comisión de Ordenamiento y Seguimiento Legislativo",
       "source": "Portal del Congreso",
@@ -1645,30 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "20 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-del-partido-del-buen-gobierno-realizara-un-control-politico-responsable-sobre-las-propuestas-del-presidente-del-consejo-de-ministros/"
-    },
-    {
-      "title": "Primera vicepresidenta de la Cámara de Diputados organiza foro sobre derechos laborales",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/primera-vicepresidenta-de-la-camara-de-diputados-organiza-foro-sobre-derechos-laborales/"
-    },
-    {
-      "title": "Diputados destacan el valor y la importancia del café peruano",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-destacan-el-valor-y-la-importancia-del-cafe-peruano/"
-    },
-    {
-      "title": "Diputados de todas las bancadas expusieron sus puntos de vista ante la exposición del gabinete Galarreta",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-todas-las-bancadas-expusieron-sus-puntos-de-vista-ante-la-exposicion-del-gabinete-galarreta/"
-    },
-    {
-      "title": "Presidente del Consejo de Ministros expuso política general del Gobierno",
-      "source": "Portal del Congreso",
-      "date": "20 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-consejo-de-ministros-expuso-politica-general-del-gobierno/"
     }
   ],
   "events_override": {
@@ -2404,6 +2398,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/5",
         "pts": 5
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Luis Masco Cáceres presidirá la Comisión de Defensa del Consumidor de la Cámara de Diputados",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/luis-masco-caceres-presidira-la-comision-de-defensa-del-consumidor-de-la-camara-de-diputados/",
+        "pts": 2
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -3209,6 +3211,22 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJAS, AL GENERAL PN...",
+        "d": "21/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/154",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 153 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJAS, A LAS AUTORID...",
+        "d": "21/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/153",
         "pts": 3
       }
     ],
@@ -5034,6 +5052,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-martha-moyano-delgado-es-elegida-presidenta-de-la-comision-de-control-politico-del-senado/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Organizan evento por el Día Internacional de Conmemoración y Homenaje a las Víctimas del Terrorismo a nivel mundial",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-evento-por-el-dia-internacional-de-conmemoracion-y-homenaje-a-las-victimas-del-terrorismo-a-nivel-mundial/",
+        "pts": 2
       }
     ],
     "Percy Herbert Osorio Palpán": [
@@ -5729,6 +5755,16 @@
         "d": "21/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-flor-meza-presidira-la-comision-de-inclusion-social/",
+        "pts": 2
+      }
+    ],
+    "Miguel Felix Huamán Cornejo": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Salud de la Cámara de Diputados será presidida por Miguel Huamán Cornejo",
+        "d": "21/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-de-la-camara-de-diputados-sera-presidida-por-miguel-huaman-cornejo/",
         "pts": 2
       }
     ]
