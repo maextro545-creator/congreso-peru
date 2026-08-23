@@ -1617,6 +1617,12 @@
   ],
   "diputados_news": [
     {
+      "title": "Presidente de Cámara de Diputados supervisa capacidad de respuesta ante El Niño y avance de nuevo hospital en Tumbes",
+      "source": "Portal del Congreso",
+      "date": "22 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-supervisa-capacidad-de-respuesta-ante-el-nino-y-avance-de-nuevo-hospital-en-tumbes/"
+    },
+    {
       "title": "Presidente de Cámara de Diputados impulsa en Tumbes respuesta articulada y preventiva frente al fenómeno El Niño",
       "source": "Portal del Congreso",
       "date": "22 Ago 2026",
@@ -1651,12 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "21 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-de-la-camara-de-diputados-sera-presidida-por-luis-quispe-candia/"
-    },
-    {
-      "title": "Diputada Flor Meza presidirá la Comisión de Inclusión Social",
-      "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-flor-meza-presidira-la-comision-de-inclusion-social/"
     }
   ],
   "events_override": {
@@ -1771,6 +1771,14 @@
         "d": "22/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-impulsa-en-tumbes-respuesta-articulada-y-preventiva-frente-al-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de Cámara de Diputados supervisa capacidad de respuesta ante El Niño y avance de nuevo hospital en Tumbes",
+        "d": "22/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-supervisa-capacidad-de-respuesta-ante-el-nino-y-avance-de-nuevo-hospital-en-tumbes/",
         "pts": 2
       }
     ],
