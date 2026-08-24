@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Congreso impulsará leyes para el fortalecimiento de las mypes del país",
+      "source": "Portal del Congreso",
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsara-leyes-para-el-fortalecimiento-de-las-mypes-del-pais/"
+    },
+    {
+      "title": "Presidente de la Cámara de Diputados comparte jornada cívica con escolares de Piura",
+      "source": "Portal del Congreso",
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/"
+    },
+    {
       "title": "Organizan evento por el Día Internacional de Conmemoración y Homenaje a las Víctimas del Terrorismo a nivel mundial",
       "source": "Portal del Congreso",
       "date": "21 Ago 2026",
@@ -1607,15 +1619,15 @@
       "source": "Portal del Congreso",
       "date": "21 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-directiva-del-senado-recibio-el-saludo-protocolar-del-fiscal-de-la-nacion/"
-    },
-    {
-      "title": "Presidente del Congreso y embajadora del Reino Unido dialogan sobre acciones de prevención ante El Niño",
-      "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajadora-del-reino-unido-dialogan-sobre-acciones-de-prevencion-ante-el-nino/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente de la Cámara de Diputados comparte jornada cívica con escolares de Piura",
+      "source": "Portal del Congreso",
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/"
+    },
     {
       "title": "Presidente de Cámara de Diputados supervisa capacidad de respuesta ante El Niño y avance de nuevo hospital en Tumbes",
       "source": "Portal del Congreso",
@@ -1651,12 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "21 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-segundo-castrejon-presidira-comision-de-educacion-cultura-y-deporte-2026-2027/"
-    },
-    {
-      "title": "Comisión de Infraestructura de la Cámara de Diputados será presidida por Luis Quispe Candia",
-      "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-de-la-camara-de-diputados-sera-presidida-por-luis-quispe-candia/"
     }
   ],
   "events_override": {
@@ -1779,6 +1785,14 @@
         "d": "22/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-supervisa-capacidad-de-respuesta-ante-el-nino-y-avance-de-nuevo-hospital-en-tumbes/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados comparte jornada cívica con escolares de Piura",
+        "d": "24/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/",
         "pts": 2
       }
     ],
@@ -1949,6 +1963,14 @@
         "d": "21/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-embajadora-del-reino-unido-dialogan-sobre-acciones-de-prevencion-ante-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso impulsará leyes para el fortalecimiento de las mypes del país",
+        "d": "24/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsara-leyes-para-el-fortalecimiento-de-las-mypes-del-pais/",
         "pts": 2
       }
     ],
@@ -2800,6 +2822,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/19",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 33 (Pedido de invitación al Consejo de Ministros o a los ministros en forma individual para informar): INVITAR AL MINISTRO DE DESARROLLO AGRARIO Y RIEGO, SEÑOR MARCO ANTONIO VINELLI RUIZ, A CONCURRIR AL PLENO DEL SENADO DE ...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/33",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 32 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR UNA COMISIÓN ESPECIAL DE ESTUDIO Y SEGUIMIENTO DE LA EJECUCIÓN DE LOS RECURSOS PÚBLICOS DESTINADOS A LA PREVE...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/32",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
       }
     ],
     "Saul Andrés Armacanqui Morales": [
@@ -2828,6 +2874,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/2",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
       }
     ],
     "Bernardo Jaime Quito Sarmiento": [
@@ -2853,6 +2907,14 @@
         "d": "13/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/9",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
         "pts": 3
       }
     ],
@@ -2906,6 +2968,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/18",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 32 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR UNA COMISIÓN ESPECIAL DE ESTUDIO Y SEGUIMIENTO DE LA EJECUCIÓN DE LOS RECURSOS PÚBLICOS DESTINADOS A LA PREVE...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/32",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
       }
     ],
     "Ruth Luque Ibarra": [
@@ -2923,6 +3001,14 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
         "pts": 3
       }
     ],
@@ -5080,6 +5166,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-percy-osorio-es-elegido-presidente-de-la-comision-de-gestion-del-estado-y-contraloria/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
       }
     ],
     "Fernando Miguel Rospigliosi Capurro": [
@@ -5159,6 +5253,30 @@
         "d": "19/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/19",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 33 (Pedido de invitación al Consejo de Ministros o a los ministros en forma individual para informar): INVITAR AL MINISTRO DE DESARROLLO AGRARIO Y RIEGO, SEÑOR MARCO ANTONIO VINELLI RUIZ, A CONCURRIR AL PLENO DEL SENADO DE ...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/33",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 32 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR UNA COMISIÓN ESPECIAL DE ESTUDIO Y SEGUIMIENTO DE LA EJECUCIÓN DE LOS RECURSOS PÚBLICOS DESTINADOS A LA PREVE...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/32",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
         "pts": 3
       }
     ],
@@ -5278,6 +5396,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-ccahuana-aymachoque-presidira-la-comision-de-procedimientos-especiales/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
       }
     ],
     "Henry Antonio Albañil Carmona": [
@@ -5333,6 +5459,14 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/27",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 34 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO DEL SENADO DE LA REPÚBLICA A LA INSTITUCIÓN EDUCATIVA EMBLEMÁTICA “KARL WEISS” ...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/34",
         "pts": 3
       }
     ],
@@ -5408,6 +5542,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/18",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados comparte jornada cívica con escolares de Piura",
+        "d": "24/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/",
+        "pts": 2
       }
     ],
     "Patricia Milagros Iturregui Byrne": [
@@ -5427,6 +5569,14 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/15",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
         "pts": 3
       }
     ],
@@ -5581,6 +5731,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/17",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
         "pts": 3
       }
     ],
@@ -5776,6 +5934,34 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-de-la-camara-de-diputados-sera-presidida-por-miguel-huaman-cornejo/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados comparte jornada cívica con escolares de Piura",
+        "d": "24/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/",
+        "pts": 2
+      }
+    ],
+    "Wilfredo Verano Saravia": [
+      {
+        "t": "📌",
+        "a": "Moción N° 31 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA \"COMISIÓN ESPECIAL MULTIPARTIDARIA DENOMINADA: COMISIÓN ESPECIAL DE SEGUIMIENTO ESTRATÉGICO PARA LA PREVENC...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
+      }
+    ],
+    "Marco Enrique Miyashiro Arashiro": [
+      {
+        "t": "📌",
+        "a": "Moción N° 30 (MOCIÓN DE SALUDO): QUE CON MOTIVO DE CELEBRARSE EL OCTOGÉSIMO TERCER ANIVERSARIO (LXXXIII) DE CREACIÓN, EXPRESAR LA MÁS CÁLIDA Y FERVIENTE ...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/30",
+        "pts": 3
       }
     ]
   },
