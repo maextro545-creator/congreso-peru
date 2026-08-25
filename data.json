@@ -1597,7 +1597,19 @@
   },
   "senado_news": [
     {
-      "title": "Senadores de Fuerza Popular realizan actividades de Representación en Cajamarca, Arequipa y Loreto.",
+      "title": "Miguel Torres señala que la prevención y respuesta son claves ante una situación de emergencia",
+      "source": "Portal del Congreso",
+      "date": "25 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-senala-que-la-prevencion-y-respuesta-son-claves-ante-una-situacion-de-emergencia/"
+    },
+    {
+      "title": "Presidente del Congreso en mesa de trabajo sobre prevención y respuesta ante sismo de gran magnitud",
+      "source": "Portal del Congreso",
+      "date": "25 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-en-mesa-de-trabajo-sobre-prevencion-y-respuesta-ante-sismo-de-gran-magnitud/"
+    },
+    {
+      "title": "Senadores de Fuerza Popular realizan actividades de representación en Cajamarca, Arequipa y Loreto.",
       "source": "Portal del Congreso",
       "date": "24 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-realizan-actividades-de-representacion-en-cajamarca-arequipa-y-loreto/"
@@ -1619,23 +1631,23 @@
       "source": "Portal del Congreso",
       "date": "24 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-informacion-sobre-plan-de-respuesta-ante-el-nino/"
-    },
-    {
-      "title": "Fiscalizan acciones del INDECI para fortalecer la prevención y respuesta ante desastres",
-      "source": "Portal del Congreso",
-      "date": "24 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fiscalizan-acciones-del-indeci-para-fortalecer-la-prevencion-y-respuesta-ante-desastres/"
-    },
-    {
-      "title": "Senadores de Juntos por el Perú recorren el país en busca de un contacto directo con el pueblo",
-      "source": "Portal del Congreso",
-      "date": "24 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-recorren-el-pais-en-busca-de-un-contacto-directo-con-el-pueblo/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Diputados de Ahora Nación acercan su labor a la ciudadanía durante la Semana de Representación",
+      "title": "Diputados de RP fiscalizan servicios públicos y recogen demandas ciudadanas en Lima y Callao",
+      "source": "Portal del Congreso",
+      "date": "25 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-rp-fiscalizan-servicios-publicos-y-recogen-demandas-ciudadanas-en-lima-y-callao/"
+    },
+    {
+      "title": "Supervisan funcionamiento del Metropolitano y buscan reducir brechas digitales",
+      "source": "Portal del Congreso",
+      "date": "25 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/supervisan-funcionamiento-del-metropolitano-y-buscan-reducir-brechas-digitales/"
+    },
+    {
+      "title": "Diputados de Ahora Nación acercan su labor a la ciudadanía durante la semana de representación",
       "source": "Portal del Congreso",
       "date": "24 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-acercan-su-labor-a-la-ciudadania-durante-la-semana-de-representacion/"
@@ -1645,24 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "24 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-civico-obras-fiscalizan-hospital-de-ica-y-colegio-en-huancayo/"
-    },
-    {
-      "title": "Fiscalizan acciones del INDECI para fortalecer la prevención y respuesta ante desastres",
-      "source": "Portal del Congreso",
-      "date": "24 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fiscalizan-acciones-del-indeci-para-fortalecer-la-prevencion-y-respuesta-ante-desastres/"
-    },
-    {
-      "title": "Diputados de Fuerza Popular cumplen actividades de representación en Lima, Loreto y Áncash",
-      "source": "Portal del Congreso",
-      "date": "24 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-cumplen-actividades-de-representacion-en-lima-loreto-y-ancash/"
-    },
-    {
-      "title": "Diputados de Renovación Popular impulsan acciones en salud, prevención y desarrollo regional",
-      "source": "Portal del Congreso",
-      "date": "24 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-impulsan-acciones-en-salud-prevencion-y-desarrollo-regional/"
     }
   ],
   "events_override": {
@@ -1987,6 +1981,14 @@
         "d": "24/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-informacion-sobre-plan-de-respuesta-ante-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres señala que la prevención y respuesta son claves ante una situación de emergencia",
+        "d": "25/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-senala-que-la-prevencion-y-respuesta-son-claves-ante-una-situacion-de-emergencia/",
         "pts": 2
       }
     ],
@@ -2382,6 +2384,30 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/5",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 158 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO Y FERVIENTE SALUDO, HOMENAJE Y RECONOCIMIENTO A TODAS LAS PERSONAS ADULTAS MAYORES DEL PERÚ, CON ...",
+        "d": "25/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/158",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 157 (Mociones de Saludo): EXPRESAR EL MÁS CALUROSO E EFUSIVO SALUDO Y PROFUNDO RECONOCIMIENTO A LOS ENFERMEROS Y ENFERMERAS DE TODO EL PERÚ CON OC...",
+        "d": "25/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/157",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 156 (Mociones de Saludo): EXPRESAR EL MÁS FERVOROSO, CORDIAL Y EFUSIVO SALUDO AL PUEBLO PERUANO CON OCASIÓN DE CELEBRARSE, EL 30 DE AGOSTO DE 2026...",
+        "d": "25/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/156",
+        "pts": 3
       }
     ],
     "Arturo César Eusebio Padilla": [
@@ -3429,6 +3455,14 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/147",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 159 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE ESTUDIO Y SEGUIMIENTO PARA EL FORTALECIMIENTO DE LA CADENA LOGÍSTICA Y EL DESARROLLO S...",
+        "d": "25/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/159",
         "pts": 3
       }
     ],
@@ -4589,6 +4623,22 @@
         "d": "12/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/52",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 160 (Mociones de Saludo): EXPRESAR EL MÁS EFUSIVO Y CALUROSO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL GRUPO USAR PERÚ DEL CUERPO GENERAL DE BOMBER...",
+        "d": "25/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/160",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 159 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE ESTUDIO Y SEGUIMIENTO PARA EL FORTALECIMIENTO DE LA CADENA LOGÍSTICA Y EL DESARROLLO S...",
+        "d": "25/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/159",
         "pts": 3
       }
     ],
@@ -6116,6 +6166,16 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-realizan-actividades-de-representacion-en-cajamarca-arequipa-y-loreto/",
         "pts": 2
+      }
+    ],
+    "Cecilia Isabel Chacón De Vettori": [
+      {
+        "t": "📌",
+        "a": "Moción N° 159 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE ESTUDIO Y SEGUIMIENTO PARA EL FORTALECIMIENTO DE LA CADENA LOGÍSTICA Y EL DESARROLLO S...",
+        "d": "25/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/159",
+        "pts": 3
       }
     ]
   },
