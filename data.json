@@ -1597,72 +1597,72 @@
   },
   "senado_news": [
     {
-      "title": "Congreso impulsará leyes para el fortalecimiento de las mypes del país",
+      "title": "Senadores de Fuerza Popular realizan actividades de Representación en Cajamarca, Arequipa y Loreto.",
       "source": "Portal del Congreso",
       "date": "24 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsara-leyes-para-el-fortalecimiento-de-las-mypes-del-pais/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-realizan-actividades-de-representacion-en-cajamarca-arequipa-y-loreto/"
     },
     {
-      "title": "Presidente de la Cámara de Diputados comparte jornada cívica con escolares de Piura",
+      "title": "Senadores de la bancada Ahora Nación realizan labores de control en diversos sectores",
       "source": "Portal del Congreso",
       "date": "24 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-ahora-nacion-realizan-labores-de-control-en-diversos-sectores/"
     },
     {
-      "title": "Organizan evento por el Día Internacional de Conmemoración y Homenaje a las Víctimas del Terrorismo a nivel mundial",
+      "title": "Presidente del Congreso, Miguel Ángel Torres, destaca labor del voluntariado en visita al Hogar Canevaro",
       "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-evento-por-el-dia-internacional-de-conmemoracion-y-homenaje-a-las-victimas-del-terrorismo-a-nivel-mundial/"
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-angel-torres-destaca-labor-del-voluntariado-en-visita-al-hogar-canevaro/"
     },
     {
-      "title": "Mesa Directiva del Senado recibió el saludo protocolar del fiscal de la nación",
+      "title": "Presidente del Congreso recibió información sobre plan de respuesta ante El Niño",
       "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-directiva-del-senado-recibio-el-saludo-protocolar-del-fiscal-de-la-nacion/"
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-informacion-sobre-plan-de-respuesta-ante-el-nino/"
+    },
+    {
+      "title": "Fiscalizan acciones del INDECI para fortalecer la prevención y respuesta ante desastres",
+      "source": "Portal del Congreso",
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/fiscalizan-acciones-del-indeci-para-fortalecer-la-prevencion-y-respuesta-ante-desastres/"
+    },
+    {
+      "title": "Senadores de Juntos por el Perú recorren el país en busca de un contacto directo con el pueblo",
+      "source": "Portal del Congreso",
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-recorren-el-pais-en-busca-de-un-contacto-directo-con-el-pueblo/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Presidente de la Cámara de Diputados comparte jornada cívica con escolares de Piura",
+      "title": "Diputados de Ahora Nación acercan su labor a la ciudadanía durante la Semana de Representación",
       "source": "Portal del Congreso",
       "date": "24 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-acercan-su-labor-a-la-ciudadania-durante-la-semana-de-representacion/"
     },
     {
-      "title": "Presidente de Cámara de Diputados supervisa capacidad de respuesta ante El Niño y avance de nuevo hospital en Tumbes",
+      "title": "Diputados del Partido Cívico Obras fiscalizan hospital de Ica y colegio en Huancayo",
       "source": "Portal del Congreso",
-      "date": "22 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-supervisa-capacidad-de-respuesta-ante-el-nino-y-avance-de-nuevo-hospital-en-tumbes/"
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-civico-obras-fiscalizan-hospital-de-ica-y-colegio-en-huancayo/"
     },
     {
-      "title": "Presidente de Cámara de Diputados impulsa en Tumbes respuesta articulada y preventiva frente al fenómeno El Niño",
+      "title": "Fiscalizan acciones del INDECI para fortalecer la prevención y respuesta ante desastres",
       "source": "Portal del Congreso",
-      "date": "22 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-impulsa-en-tumbes-respuesta-articulada-y-preventiva-frente-al-fenomeno-el-nino/"
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/fiscalizan-acciones-del-indeci-para-fortalecer-la-prevencion-y-respuesta-ante-desastres/"
     },
     {
-      "title": "Luis Masco Cáceres presidirá la Comisión de Defensa del Consumidor de la Cámara de Diputados",
+      "title": "Diputados de Fuerza Popular cumplen actividades de representación en Lima, Loreto y Áncash",
       "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/luis-masco-caceres-presidira-la-comision-de-defensa-del-consumidor-de-la-camara-de-diputados/"
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-cumplen-actividades-de-representacion-en-lima-loreto-y-ancash/"
     },
     {
-      "title": "Comisión de Salud de la Cámara de Diputados será presidida por Miguel Huamán Cornejo",
+      "title": "Diputados de Renovación Popular impulsan acciones en salud, prevención y desarrollo regional",
       "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-de-la-camara-de-diputados-sera-presidida-por-miguel-huaman-cornejo/"
-    },
-    {
-      "title": "Diputado Jaime Abensur es elegido presidente de Comisión de Ordenamiento y Seguimiento Legislativo",
-      "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jaime-abensur-es-elegido-presidente-de-comision-de-ordenamiento-y-seguimiento-legislativo/"
-    },
-    {
-      "title": "Diputado Segundo Castrejón presidirá Comisión de Educación, Cultura y Deporte 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "21 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-segundo-castrejon-presidira-comision-de-educacion-cultura-y-deporte-2026-2027/"
+      "date": "24 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-impulsan-acciones-en-salud-prevencion-y-desarrollo-regional/"
     }
   ],
   "events_override": {
@@ -1971,6 +1971,22 @@
         "d": "24/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsara-leyes-para-el-fortalecimiento-de-las-mypes-del-pais/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso, Miguel Ángel Torres, destaca labor del voluntariado en visita al Hogar Canevaro",
+        "d": "24/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-angel-torres-destaca-labor-del-voluntariado-en-visita-al-hogar-canevaro/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso recibió información sobre plan de respuesta ante El Niño",
+        "d": "24/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-informacion-sobre-plan-de-respuesta-ante-el-nino/",
         "pts": 2
       }
     ],
@@ -3160,6 +3176,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Pierangeli Daniela Dodero Jovich": [
@@ -3672,6 +3696,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Daniel Jefferson Varas Seguin": [
@@ -3886,6 +3918,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/50",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Ernesto Alonso Zunini Yerren": [
@@ -4024,6 +4064,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/147",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -4140,6 +4188,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Jacqueline Viviana Tapullima Insapillo": [
@@ -4181,6 +4237,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
       }
     ],
@@ -4410,6 +4474,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/yenifer-paredes-presidira-comision-de-energia-y-minas-de-la-camara-de-diputados/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -4459,6 +4531,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
       }
     ],
@@ -4612,6 +4692,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/giannina-avendano-presidira-la-comision-de-constitucion-de-la-camara-de-diputados/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Marco Antonio Flores Valdizan": [
@@ -4662,6 +4750,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Luis Angel Jibaja Ramos": [
@@ -4703,6 +4799,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
       }
     ],
@@ -4850,6 +4954,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Graciela Chipana Condori": [
@@ -4908,6 +5020,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/146",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -4941,6 +5061,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
       }
     ],
@@ -4991,6 +5119,14 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/150",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
       }
     ],
@@ -5137,6 +5273,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE ENERGÍA Y MINAS, SEÑOR GUILLERMO SHINNO HUAMANÍ, A FIN DE QUE RESPONDA RESPECTO DE LAS DECISIO...",
+        "d": "24/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
       }
     ],
@@ -5962,6 +6106,16 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/30",
         "pts": 3
+      }
+    ],
+    "Segundo Leocadio Tapia Bernal": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores de Fuerza Popular realizan actividades de Representación en Cajamarca, Arequipa y Loreto.",
+        "d": "24/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-realizan-actividades-de-representacion-en-cajamarca-arequipa-y-loreto/",
+        "pts": 2
       }
     ]
   },
