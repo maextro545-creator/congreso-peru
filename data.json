@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Fuerza Popular inspeccionan obras y constatan atención de salud en provincias",
+      "source": "Portal del Congreso",
+      "date": "26 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-inspeccionan-obras-y-constatan-atencion-de-salud-en-provincias/"
+    },
+    {
+      "title": "Presidente del Congreso prueba capacidades operativas del F-16 Block 70 en simulador de vuelo",
+      "source": "Portal del Congreso",
+      "date": "26 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-prueba-capacidades-operativas-del-f-16-block-70-en-simulador-de-vuelo/"
+    },
+    {
       "title": "Senadores de la bancada Ahora Nación continuaron sus actividades de representación con reuniones y compromisos asumidos",
       "source": "Portal del Congreso",
       "date": "25 Ago 2026",
@@ -1619,27 +1631,27 @@
       "source": "Portal del Congreso",
       "date": "25 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-atienden-demandas-de-la-poblacion/"
-    },
-    {
-      "title": "Senadores de la bancada Partido del Buen Gobierno continúan con acciones de representación en Arequipa y Lima",
-      "source": "Portal del Congreso",
-      "date": "25 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-partido-del-buen-gobierno-continuan-con-acciones-de-representacion-en-arequipa-y-lima/"
-    },
-    {
-      "title": "Senadora Juana Ticona supervisó infraestructura del Colegio de Alto Rendimiento de Tacna",
-      "source": "Portal del Congreso",
-      "date": "25 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-juana-ticona-superviso-infraestructura-del-colegio-de-alto-rendimiento-de-tacna/"
-    },
-    {
-      "title": "Senadores de Juntos por el Perú continúan con sus actividades en Puno, Cusco, Lima, Arequipa, Huancavelica y Madre de Dios",
-      "source": "Portal del Congreso",
-      "date": "25 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-continuan-con-sus-actividades-en-puno-cusco-lima-arequipa-huancavelica-y-madre-de-dios/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputados de JPP atienden demandas y fiscalizan acciones en Apurímac, Áncash y Cajamarca",
+      "source": "Portal del Congreso",
+      "date": "26 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-jpp-atienden-demandas-y-fiscalizan-acciones-en-apurimac-ancash-y-cajamarca/"
+    },
+    {
+      "title": "Presidente del Congreso prueba capacidades operativas del F-16 Block 70 en simulador de vuelo",
+      "source": "Portal del Congreso",
+      "date": "26 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-prueba-capacidades-operativas-del-f-16-block-70-en-simulador-de-vuelo/"
+    },
+    {
+      "title": "Diputados de RP impulsan acciones de prevención, fiscalización y atención ciudadana en regiones",
+      "source": "Portal del Congreso",
+      "date": "26 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-semana-de-representacion-diputados-de-rp-impulsan-acciones-de-prevencion-fiscalizacion-y-atencion-ciudadana-en-regiones/"
+    },
     {
       "title": "Presidente de la Cámara de Diputados recorre instalaciones militares en Lambayeque y constata preparación ante emergencias",
       "source": "Portal del Congreso",
@@ -1663,12 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "25 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/ahora-nacion-fortalece-fiscalizacion-y-atencion-de-demandas-ciudadanas-durante-semana-de-representacion/"
-    },
-    {
-      "title": "Diputados del Partido Cívico Obras fiscalizan ejecución de obras y uso de recursos públicos",
-      "source": "Portal del Congreso",
-      "date": "25 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-civico-obras-fiscalizan-ejecucion-de-obras-y-uso-de-recursos-publicos/"
     }
   ],
   "events_override": {
@@ -2960,6 +2966,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 40 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO Y FELICITACIÓN AL PUEBLO DEL DISTRITO DE QUINISTAQUILLAS, PROVINCIA GENERAL SÁNCHEZ CERRO, DEPARTAMEN...",
+        "d": "26/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/40",
+        "pts": 3
       }
     ],
     "Bernardo Jaime Quito Sarmiento": [
@@ -3924,6 +3938,14 @@
       {
         "t": "📌",
         "a": "Moción N° 161 (Mociones de Saludo): EXPRESAR CORDIAL SALUDO Y FELICITACIÓN AL SINDICATO NACIONAL DE ENFERMERAS DEL SEGURO SOCIAL DE SALUD(SINESSS), CON MOTI...",
+        "d": "25/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/161",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 161 (Mociones de Saludo): EXPRESAR CORDIAL SALUDO Y FELICITACIÓN AL SINDICATO NACIONAL DE ENFERMERAS DEL SEGURO SOCIAL DE SALUD (SINESSS), CON MOT...",
         "d": "25/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/161",
@@ -6010,6 +6032,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 42 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA UNIVERSIDAD NACIONAL DEL ALTIPLANO, CON MOTIVO DE CONMEMORARSE SU 170...",
+        "d": "26/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/42",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 41 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA MUNICIPALIDAD DISTRITAL DE SANTA ROSA, CON MOTIVO DE CONMEMORARSE EL ...",
+        "d": "26/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/41",
+        "pts": 3
       }
     ],
     "Ana Luisa Yuffra Lugo": [
@@ -6262,6 +6300,34 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-juana-ticona-superviso-infraestructura-del-colegio-de-alto-rendimiento-de-tacna/",
         "pts": 2
+      }
+    ],
+    "Juver Nilson Flores Suarez": [
+      {
+        "t": "📌",
+        "a": "Moción N° 39 (MOCIÓN DE SALUDO): EXPRESAR EL SALUDO Y CÁLIDO RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA AL ALCALDE ÓSCAR ALFREDO AYALA ARENAS Y, POR SU IN...",
+        "d": "26/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/39",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 38 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO Y CÁLIDO RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA POBLACIÓN DEL ANEXO DE PAPACHACRA...",
+        "d": "26/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/38",
+        "pts": 3
+      }
+    ],
+    "Liz Huli Mendoza Bernedo": [
+      {
+        "t": "📌",
+        "a": "Moción N° 163 (Mociones de Saludo): EXPRESAR UN AFECTUOSO SALUDO A UCRANIA, CON MOTIVO DE CONMEMORARSE, EL 24 DE AGOSTO DEL PRESENTE AÑO, EL TRIGÉSIMO QUINT...",
+        "d": "26/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/163",
+        "pts": 3
       }
     ]
   },
