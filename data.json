@@ -1637,15 +1637,15 @@
       "source": "Portal del Congreso",
       "date": "25 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-continuan-con-sus-actividades-en-puno-cusco-lima-arequipa-huancavelica-y-madre-de-dios/"
-    },
-    {
-      "title": "Presidente del Congreso se reunió con representantes de Capeco para abordar seguridad y acceso a vivienda social",
-      "source": "Portal del Congreso",
-      "date": "25 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-representantes-de-capeco-para-abordar-seguridad-y-acceso-a-vivienda-social/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente de la Cámara de Diputados recorre instalaciones militares en Lambayeque y constata preparación ante emergencias",
+      "source": "Portal del Congreso",
+      "date": "25 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recorre-instalaciones-militares-en-lambayeque-y-constata-preparacion-ante-emergencias/"
+    },
     {
       "title": "Diputados de la bancada Partido del Buen Gobierno atienden demandas de pobladores y del sector salud",
       "source": "Portal del Congreso",
@@ -1669,12 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "25 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-civico-obras-fiscalizan-ejecucion-de-obras-y-uso-de-recursos-publicos/"
-    },
-    {
-      "title": "Presidente del Congreso se reunió con representantes de Capeco para abordar seguridad y acceso a vivienda social",
-      "source": "Portal del Congreso",
-      "date": "25 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-representantes-de-capeco-para-abordar-seguridad-y-acceso-a-vivienda-social/"
     }
   ],
   "events_override": {
@@ -1805,6 +1799,14 @@
         "d": "24/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados recorre instalaciones militares en Lambayeque y constata preparación ante emergencias",
+        "d": "25/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recorre-instalaciones-militares-en-lambayeque-y-constata-preparacion-ante-emergencias/",
         "pts": 2
       }
     ],
