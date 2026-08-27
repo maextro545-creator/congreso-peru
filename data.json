@@ -1647,6 +1647,12 @@
   ],
   "diputados_news": [
     {
+      "title": "Diputadas de JPP recogen demandas ciudadanas en Huancavelica, Cajamarca y Tacna",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputadas-de-jpp-recogen-demandas-ciudadanas-en-huancavelica-cajamarca-y-tacna/"
+    },
+    {
       "title": "Bancada Partido del Buen Gobierno impulsa soluciones en coordinación con autoridades locales",
       "source": "Portal del Congreso",
       "date": "26 Ago 2026",
@@ -1657,12 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "26 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-fiscalizan-servicios-publicos-y-atienden-demandas-ciudadanas/"
-    },
-    {
-      "title": "Diputados del Partido Cívico Obras fiscalizaron obras en Lima, Piura, Arequipa y Tacna",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-civico-obras-fiscalizaron-obras-en-lima-piura-arequipa-y-tacna/"
     }
   ],
   "events_override": {
@@ -4668,6 +4668,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 169 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA MUNICIPALIDAD DISTRITAL DE HUAMBALPA, REPRESENTADA POR SU ALCALDE, WILB...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/169",
+        "pts": 3
       }
     ],
     "Carlos Alberto Yalta Sotelo": [
@@ -6357,6 +6365,26 @@
         "d": "26/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/165",
+        "pts": 3
+      }
+    ],
+    "Alejandro Muñante Barrios": [
+      {
+        "t": "📌",
+        "a": "Moción N° 43 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL Y PATRIÓTICO SALUDO A LA ASOCIACIÓN NACIONAL PRO MARINA DEL PERÚ, CON OCASIÓN DE CONMEMORARSE UN...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/43",
+        "pts": 3
+      }
+    ],
+    "Rafael Aldo Celiz Castillo": [
+      {
+        "t": "📌",
+        "a": "Moción N° 166 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA INSTITUCIÓN EDUCATIVA EMBLEMÁTICA “KARL WEISS” DE C...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/166",
         "pts": 3
       }
     ]
