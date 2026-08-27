@@ -1597,6 +1597,36 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso inspeccionó avance de obras de derivación de las quebradas San Idelfonso y San Carlos",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inspecciono-avance-de-obras-de-derivacion-de-las-quebradas-san-idelfonso-y-san-carlos/"
+    },
+    {
+      "title": "Senadora Patricia Juárez inaugura I Foro Nacional para el Desarrollo Amazónico",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-patricia-juarez-inaugura-i-foro-nacional-para-el-desarrollo-amazonico/"
+    },
+    {
+      "title": "Ahora Nación intensifica acciones de fiscalización y gestión para atender demandas en las regiones",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/ahora-nacion-intensifica-acciones-de-fiscalizacion-y-gestion-para-atender-demandas-en-las-regiones/"
+    },
+    {
+      "title": "Senadores de Juntos por el Perú continúan con reuniones y visitas de inspección en el interior del país",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-continuan-con-reuniones-y-visitas-de-inspeccion-en-el-interior-del-pais/"
+    },
+    {
+      "title": "Presidente del Congreso: La tarea del Estado es ser el motor que impulse a las mypes",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-la-tarea-del-estado-es-ser-el-motor-que-impulse-a-las-mypes/"
+    },
+    {
       "title": "Presidente del Congreso rinde homenaje al ilustre historiador y diplomático Raúl Porras Barrenechea",
       "source": "Portal del Congreso",
       "date": "26 Ago 2026",
@@ -1607,45 +1637,33 @@
       "source": "Portal del Congreso",
       "date": "26 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-buscan-dar-solucion-a-problemas-de-contaminacion-y-escasez-de-agua-ademas-de-brindar-apoyo-al-sector-salud/"
-    },
-    {
-      "title": "Senador Jaime Delgado organiza mesa de trabajo sobre cosecha de agua en las alturas para contrarrestar efectos del fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-jaime-delgado-organiza-mesa-de-trabajo-sobre-cosecha-de-agua-en-las-alturas-para-contrarrestar-efectos-del-fenomeno-el-nino/"
-    },
-    {
-      "title": "Bancada Partido del Buen Gobierno impulsa soluciones en coordinación con autoridades locales",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-partido-del-buen-gobierno-impulsa-soluciones-en-coordinacion-con-autoridades-locales/"
-    },
-    {
-      "title": "Senadores de Renovación Popular fiscalizan obras, hospitales y cumplimiento de la ley",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-fiscalizan-obras-hospitales-y-cumplimiento-de-la-ley/"
-    },
-    {
-      "title": "Presidente del Congreso verificó labor del Centro de Operaciones de Emergencia Nacional en Chorrillos",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-verifico-labor-del-centro-de-operaciones-de-emergencia-nacional-en-chorrillos/"
-    },
-    {
-      "title": "Senador de Partido Cívico Obras fiscaliza gestión del sector salud y agricultura en Ayacucho",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-de-partido-civico-obras-fiscaliza-gestion-del-sector-salud-y-agricultura-en-ayacucho/"
-    },
-    {
-      "title": "Senadores de la bancada Partido del Buen Gobierno atienden demandas de autoridades y pobladores",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-partido-del-buen-gobierno-atienden-demandas-de-autoridades-y-pobladores/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputados de Fuerza Popular lideran mesas de trabajo y visitas de fiscalización en Lima, Amazonas y Tumbes",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-lideran-mesas-de-trabajo-y-visitas-de-fiscalizacion-en-lima-amazonas-y-tumbes/"
+    },
+    {
+      "title": "Ahora Nación intensifica acciones de fiscalización y gestión para atender demandas en las regiones",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/ahora-nacion-intensifica-acciones-de-fiscalizacion-y-gestion-para-atender-demandas-en-las-regiones/"
+    },
+    {
+      "title": "Diputados de bancada Obras se reúnen con autoridades y poblaciones vulnerables",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-bancada-obras-se-reunen-con-autoridades-y-poblaciones-vulnerables/"
+    },
+    {
+      "title": "Presidente del Congreso: La tarea del Estado es ser el motor que impulse a las mypes",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-la-tarea-del-estado-es-ser-el-motor-que-impulse-a-las-mypes/"
+    },
     {
       "title": "Diputadas de JPP recogen demandas ciudadanas en Huancavelica, Cajamarca y Tacna",
       "source": "Portal del Congreso",
@@ -1653,16 +1671,10 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputadas-de-jpp-recogen-demandas-ciudadanas-en-huancavelica-cajamarca-y-tacna/"
     },
     {
-      "title": "Bancada Partido del Buen Gobierno impulsa soluciones en coordinación con autoridades locales",
+      "title": "Presidente del Congreso rinde homenaje al ilustre historiador y diplomático Raúl Porras Barrenechea",
       "source": "Portal del Congreso",
       "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-partido-del-buen-gobierno-impulsa-soluciones-en-coordinacion-con-autoridades-locales/"
-    },
-    {
-      "title": "Diputados de Ahora Nación fiscalizan servicios públicos y atienden demandas ciudadanas",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-fiscalizan-servicios-publicos-y-atienden-demandas-ciudadanas/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-rinde-homenaje-al-ilustre-historiador-y-diplomatico-raul-porras-barrenechea/"
     }
   ],
   "events_override": {
@@ -2019,6 +2031,14 @@
         "d": "26/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-verifico-labor-del-centro-de-operaciones-de-emergencia-nacional-en-chorrillos/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso inspeccionó avance de obras de derivación de las quebradas San Idelfonso y San Carlos",
+        "d": "27/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inspecciono-avance-de-obras-de-derivacion-de-las-quebradas-san-idelfonso-y-san-carlos/",
         "pts": 2
       }
     ],
@@ -6385,6 +6405,72 @@
         "d": "27/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/166",
+        "pts": 3
+      }
+    ],
+    "Mery Eliana Infantes Castañeda": [
+      {
+        "t": "📌",
+        "a": "Moción N° 178 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE PISUQUIA, PROVINCIA DE LUYA, DEPARTAMENTO DE AMAZONAS, AL CONMEM...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/178",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 177 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE CAJARURO, PROVINCIA DE UTCUBAMBA, DEPARTAMENTO DE AMAZONAS, AL C...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/177",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 176 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE MARISCAL CASTILLA, PROVINCIA DE CHACHAPOYAS, DEPARTAMENTO DE AMA...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/176",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 175 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE LA JALCA GRANDE, PROVINCIA DE CHACHAPOYAS, DEPARTAMENTO DE AMAZO...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/175",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 174 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO A LA CIUDAD DE CHACHAPOYAS, DEPARTAMENTO DE AMAZONAS, AL CONMEMORARSE, EL 5DE SETIEMBRE D...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/174",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 173 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO A LA PROVINCIA DE BAGUA, DEPARTAMENTO DE AMAZONAS, AL CONMEMORARSE, EL 1 DE SET...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/173",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 172 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE EL PARCO, PROVINCIA DE BAGUA, DEPARTAMENTO DE AMAZONAS, AL CONME...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/172",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 171 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE EL CENEPA, PROVINCIA DE CONDORCANQUI, DEPARTAMENTO DE AMAZONAS, ...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/171",
         "pts": 3
       }
     ]
