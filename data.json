@@ -1597,6 +1597,42 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso lidera reunión de trabajo contra la criminalidad y la extorsión en La Libertad",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-reunion-de-trabajo-contra-la-criminalidad-y-la-extorsion-en-la-libertad/"
+    },
+    {
+      "title": "Senadores de Renovación Popular atienden demandas a nivel nacional",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-atienden-demandas-a-nivel-nacional/"
+    },
+    {
+      "title": "Senadores de la bancada Partido del Buen Gobierno atienden demandas de autoridades y población de Lima y Arequipa",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-partido-del-buen-gobierno-atienden-demandas-de-autoridades-y-poblacion-de-lima-y-arequipa/"
+    },
+    {
+      "title": "Bancada Ahora Nación continúa desarrollando agenda de actividades durante la Semana de Representación",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-ahora-nacion-continua-desarrollando-agenda-de-actividades-durante-la-semana-de-representacion/"
+    },
+    {
+      "title": "Senadores de Fuerza Popular recogen demandas y gestionan soluciones en distintas regiones del país",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-recogen-demandas-y-gestionan-soluciones-en-distintas-regiones-del-pais/"
+    },
+    {
+      "title": "Bancada Partido del Buen Gobierno continúa impulsando necesidades de la población y autoridades locales",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-partido-del-buen-gobierno-continua-impulsando-necesidades-de-la-poblacion-y-autoridades-locales/"
+    },
+    {
       "title": "Presidente del Congreso inspeccionó avance de obras de derivación de las quebradas San Idelfonso y San Carlos",
       "source": "Portal del Congreso",
       "date": "27 Ago 2026",
@@ -1607,74 +1643,38 @@
       "source": "Portal del Congreso",
       "date": "27 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-patricia-juarez-inaugura-i-foro-nacional-para-el-desarrollo-amazonico/"
-    },
-    {
-      "title": "Ahora Nación intensifica acciones de fiscalización y gestión para atender demandas en las regiones",
-      "source": "Portal del Congreso",
-      "date": "27 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/ahora-nacion-intensifica-acciones-de-fiscalizacion-y-gestion-para-atender-demandas-en-las-regiones/"
-    },
-    {
-      "title": "Senadores de Juntos por el Perú continúan con reuniones y visitas de inspección en el interior del país",
-      "source": "Portal del Congreso",
-      "date": "27 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-continuan-con-reuniones-y-visitas-de-inspeccion-en-el-interior-del-pais/"
-    },
-    {
-      "title": "Presidente del Congreso: La tarea del Estado es ser el motor que impulse a las mypes",
-      "source": "Portal del Congreso",
-      "date": "27 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-la-tarea-del-estado-es-ser-el-motor-que-impulse-a-las-mypes/"
-    },
-    {
-      "title": "Presidente del Congreso rinde homenaje al ilustre historiador y diplomático Raúl Porras Barrenechea",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-rinde-homenaje-al-ilustre-historiador-y-diplomatico-raul-porras-barrenechea/"
-    },
-    {
-      "title": "Senadores de Ahora Nación buscan dar solución a problemas de contaminación y escasez de agua, además de brindar apoyo al sector salud",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-buscan-dar-solucion-a-problemas-de-contaminacion-y-escasez-de-agua-ademas-de-brindar-apoyo-al-sector-salud/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente de la Cámara de Diputados rinde homenaje a héroe de Chavín de Huántar y destaca disciplina como eje de su gestión",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-rinde-homenaje-a-heroe-de-chavin-de-huantar-y-destaca-disciplina-como-eje-de-su-gestion/"
+    },
+    {
+      "title": "Bancada Ahora Nación continúa desarrollando agenda de actividades durante la Semana de Representación",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-ahora-nacion-continua-desarrollando-agenda-de-actividades-durante-la-semana-de-representacion/"
+    },
+    {
+      "title": "Bancada Partido del Buen Gobierno continúa impulsando necesidades de la población y autoridades locales",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-partido-del-buen-gobierno-continua-impulsando-necesidades-de-la-poblacion-y-autoridades-locales/"
+    },
+    {
+      "title": "Presidente del Congreso inspeccionó avance de obras de derivación de las quebradas San Idelfonso y San Carlos",
+      "source": "Portal del Congreso",
+      "date": "27 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inspecciono-avance-de-obras-de-derivacion-de-las-quebradas-san-idelfonso-y-san-carlos/"
+    },
     {
       "title": "Diputados de Fuerza Popular lideran mesas de trabajo y visitas de fiscalización en Lima, Amazonas y Tumbes",
       "source": "Portal del Congreso",
       "date": "27 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-lideran-mesas-de-trabajo-y-visitas-de-fiscalizacion-en-lima-amazonas-y-tumbes/"
-    },
-    {
-      "title": "Ahora Nación intensifica acciones de fiscalización y gestión para atender demandas en las regiones",
-      "source": "Portal del Congreso",
-      "date": "27 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/ahora-nacion-intensifica-acciones-de-fiscalizacion-y-gestion-para-atender-demandas-en-las-regiones/"
-    },
-    {
-      "title": "Diputados de bancada Obras se reúnen con autoridades y poblaciones vulnerables",
-      "source": "Portal del Congreso",
-      "date": "27 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-bancada-obras-se-reunen-con-autoridades-y-poblaciones-vulnerables/"
-    },
-    {
-      "title": "Presidente del Congreso: La tarea del Estado es ser el motor que impulse a las mypes",
-      "source": "Portal del Congreso",
-      "date": "27 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-la-tarea-del-estado-es-ser-el-motor-que-impulse-a-las-mypes/"
-    },
-    {
-      "title": "Diputadas de JPP recogen demandas ciudadanas en Huancavelica, Cajamarca y Tacna",
-      "source": "Portal del Congreso",
-      "date": "27 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputadas-de-jpp-recogen-demandas-ciudadanas-en-huancavelica-cajamarca-y-tacna/"
-    },
-    {
-      "title": "Presidente del Congreso rinde homenaje al ilustre historiador y diplomático Raúl Porras Barrenechea",
-      "source": "Portal del Congreso",
-      "date": "26 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-rinde-homenaje-al-ilustre-historiador-y-diplomatico-raul-porras-barrenechea/"
     }
   ],
   "events_override": {
@@ -1813,6 +1813,14 @@
         "d": "25/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-recorre-instalaciones-militares-en-lambayeque-y-constata-preparacion-ante-emergencias/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados rinde homenaje a héroe de Chavín de Huántar y destaca disciplina como eje de su gestión",
+        "d": "27/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-rinde-homenaje-a-heroe-de-chavin-de-huantar-y-destaca-disciplina-como-eje-de-su-gestion/",
         "pts": 2
       }
     ],
@@ -2039,6 +2047,14 @@
         "d": "27/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inspecciono-avance-de-obras-de-derivacion-de-las-quebradas-san-idelfonso-y-san-carlos/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso lidera reunión de trabajo contra la criminalidad y la extorsión en La Libertad",
+        "d": "27/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-reunion-de-trabajo-contra-la-criminalidad-y-la-extorsion-en-la-libertad/",
         "pts": 2
       }
     ],
@@ -3150,6 +3166,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-ahora-nacion-continuaron-sus-actividades-de-representacion-con-reuniones-y-compromisos-asumidos/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 44 (DE INTERÉS NACIONAL): EXPRESAR AL PODER EJECUTIVO LA ADOPCIÓN E IMPLEMENTACIÓN DE LAS MEDIDAS NECESARIAS PARA GARANTIZAR LA INTANGIBILIDAD Y P...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/44",
+        "pts": 3
       }
     ],
     "Joaquín Yauri Tunque": [
@@ -5032,6 +5056,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/8",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 45 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, FISCALIZACIÓN, EVALUACIÓN Y FORMULACIÓN DE PROPUES...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/45",
+        "pts": 3
       }
     ],
     "Felix See Hung Chang Apuy": [
@@ -5526,6 +5558,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/16",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 45 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, FISCALIZACIÓN, EVALUACIÓN Y FORMULACIÓN DE PROPUES...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/45",
+        "pts": 3
       }
     ],
     "Carlos Fernando Mesía Ramírez": [
@@ -5882,6 +5922,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-comparte-jornada-civica-con-escolares-de-piura/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 45 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, FISCALIZACIÓN, EVALUACIÓN Y FORMULACIÓN DE PROPUES...",
+        "d": "27/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/45",
+        "pts": 3
       }
     ],
     "Patricia Milagros Iturregui Byrne": [
