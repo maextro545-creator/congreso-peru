@@ -1597,6 +1597,36 @@
   },
   "senado_news": [
     {
+      "title": "Congreso convoca a sesión del Pleno para este jueves 3 de septiembre",
+      "source": "Portal del Congreso",
+      "date": "28 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-convoca-a-sesion-del-pleno-para-este-jueves-3-de-septiembre/"
+    },
+    {
+      "title": "Senadores de Renovación Popular culminan Semana de Representación",
+      "source": "Portal del Congreso",
+      "date": "28 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion/"
+    },
+    {
+      "title": "Senadores de Ahora Nación culminan Semana de Representación con acciones ante demandas de agua, seguridad y prevención de desastres",
+      "source": "Portal del Congreso",
+      "date": "28 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-culminan-semana-de-representacion-con-acciones-ante-demandas-de-agua-seguridad-y-prevencion-de-desastres/"
+    },
+    {
+      "title": "Presidente del Congreso verifica condiciones de la comisaría de San Juan de Miraflores en visita inopinada",
+      "source": "Portal del Congreso",
+      "date": "28 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-verifica-condiciones-de-la-comisaria-de-san-juan-de-miraflores-en-visita-inopinada/"
+    },
+    {
+      "title": "Presidente del Congreso realiza visita inopinada al Hospital María Auxiliadora de San Juan de Miraflores",
+      "source": "Portal del Congreso",
+      "date": "28 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-realiza-visita-inopinada-al-hospital-maria-auxiliadora-de-san-juan-de-miraflores/"
+    },
+    {
       "title": "Senadores del Partido del Buen Gobierno culminan Semana de Representación intensificando acciones de fiscalización en diversas regiones",
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
@@ -1607,62 +1637,38 @@
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/fiscalizacion-y-reuniones-de-coordinacion-fue-el-saldo-de-las-actividades-de-los-integrantes-de-fuerza-popular/"
-    },
-    {
-      "title": "Partido Cívico Obras exigió al Minsa solucionar problemática de hospitales en Áncash",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/partido-civico-obras-exigio-al-minsa-solucionar-problematica-de-hospitales-en-ancash/"
-    },
-    {
-      "title": "Establecimientos de salud y centros educativos del país fueron inspeccionados por senadores de Juntos por el Perú",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/establecimientos-de-salud-y-centros-educativos-del-pais-fueron-inspeccionados-por-senadores-de-juntos-por-el-peru/"
-    },
-    {
-      "title": "Senadores de la bancada Partido Cívico Obras cumplen intensa jornada de fiscalización y diálogo con autoridades",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-partido-civico-obras-cumplen-intensa-jornada-de-fiscalizacion-y-dialogo-con-autoridades/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Partido Cívico Obras exigió al Minsa solucionar problemática de hospitales en Áncash",
+      "title": "Congreso convoca a sesión del Pleno para este jueves 3 de septiembre",
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/partido-civico-obras-exigio-al-minsa-solucionar-problematica-de-hospitales-en-ancash/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-convoca-a-sesion-del-pleno-para-este-jueves-3-de-septiembre/"
     },
     {
-      "title": "Bancada Ahora Nación fortalece fiscalización y gestión para atender demandas ciudadanas en regiones",
+      "title": "Diputada Romina Uribe organiza mesa de trabajo sobre sistemas de becas",
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-ahora-nacion-fortalece-fiscalizacion-y-gestion-para-atender-demandas-ciudadanas-en-regiones/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-romina-uribe-organiza-mesa-de-trabajo-sobre-sistemas-de-becas/"
     },
     {
-      "title": "Diputados de Renovación Popular fiscalizan obras y atienden las principales demandas de la población",
+      "title": "Diputados de la Bancada Partido del Buen Gobierno continúan atendiendo demandas sociales en el interior del país",
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-fiscalizan-obras-y-atienden-las-principales-demandas-de-la-poblacion/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-la-bancada-partido-del-buen-gobierno-continuan-atendiendo-demandas-sociales-en-el-interior-del-pais/"
     },
     {
-      "title": "Presidente de la cámara de diputados participó en homenaje a la mujer tacneña",
+      "title": "Presidente de la Cámara de Diputados llama desde Tacna a recuperar la unidad nacional",
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-participo-en-homenaje-a-la-mujer-tacnena/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-llama-desde-tacna-a-recuperar-la-unidad-nacional/"
     },
     {
-      "title": "Diputados de Fuerza Popular concluyen Semana de Representación con acciones en Lima, Callao, San Martín, Huánuco y Piura",
+      "title": "Fiscalización y reuniones de coordinación fue el saldo de las actividades de los integrantes de Fuerza Popular",
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-concluyen-semana-de-representacion-con-acciones-en-lima-callao-san-martin-huanuco-y-piura/"
-    },
-    {
-      "title": "Diputados de Juntos por el Perú fiscalizan obras y exigen atención a demandas urgentes",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-fiscalizan-obras-y-exigen-atencion-a-demandas-urgentes/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/fiscalizacion-y-reuniones-de-coordinacion-fue-el-saldo-de-las-actividades-de-los-integrantes-de-fuerza-popular/"
     }
   ],
   "events_override": {
@@ -1809,6 +1815,14 @@
         "d": "27/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-rinde-homenaje-a-heroe-de-chavin-de-huantar-y-destaca-disciplina-como-eje-de-su-gestion/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados llama desde Tacna a recuperar la unidad nacional",
+        "d": "28/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-llama-desde-tacna-a-recuperar-la-unidad-nacional/",
         "pts": 2
       }
     ],
@@ -2043,6 +2057,22 @@
         "d": "27/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-reunion-de-trabajo-contra-la-criminalidad-y-la-extorsion-en-la-libertad/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso verifica condiciones de la comisaría de San Juan de Miraflores en visita inopinada",
+        "d": "28/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-verifica-condiciones-de-la-comisaria-de-san-juan-de-miraflores-en-visita-inopinada/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso realiza visita inopinada al Hospital María Auxiliadora de San Juan de Miraflores",
+        "d": "28/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-realiza-visita-inopinada-al-hospital-maria-auxiliadora-de-san-juan-de-miraflores/",
         "pts": 2
       }
     ],
@@ -6512,6 +6542,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/43",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores de Renovación Popular culminan Semana de Representación",
+        "d": "28/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion/",
+        "pts": 2
       }
     ],
     "Rafael Aldo Celiz Castillo": [
@@ -6598,6 +6636,16 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/182",
         "pts": 3
+      }
+    ],
+    "Romina Alejandra Uribe Saenz": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputada Romina Uribe organiza mesa de trabajo sobre sistemas de becas",
+        "d": "28/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-romina-uribe-organiza-mesa-de-trabajo-sobre-sistemas-de-becas/",
+        "pts": 2
       }
     ]
   },
