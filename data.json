@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Constitución se declara en sesión permanente para evaluar pedido de facultades legislativas",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-se-declara-en-sesion-permanente-para-evaluar-pedido-de-facultades-legislativas/"
+    },
+    {
+      "title": "Comisión del Senado acuerda convocar a cinco ministros de Estado",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-del-senado-acuerda-convocar-a-cinco-ministros-de-estado/"
+    },
+    {
       "title": "Congreso convoca a sesión del Pleno para este jueves 3 de septiembre",
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
@@ -1607,39 +1619,39 @@
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion/"
-    },
-    {
-      "title": "Senadores de Ahora Nación culminan Semana de Representación con acciones ante demandas de agua, seguridad y prevención de desastres",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-culminan-semana-de-representacion-con-acciones-ante-demandas-de-agua-seguridad-y-prevencion-de-desastres/"
-    },
-    {
-      "title": "Presidente del Congreso verifica condiciones de la comisaría de San Juan de Miraflores en visita inopinada",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-verifica-condiciones-de-la-comisaria-de-san-juan-de-miraflores-en-visita-inopinada/"
-    },
-    {
-      "title": "Presidente del Congreso realiza visita inopinada al Hospital María Auxiliadora de San Juan de Miraflores",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-realiza-visita-inopinada-al-hospital-maria-auxiliadora-de-san-juan-de-miraflores/"
-    },
-    {
-      "title": "Senadores del Partido del Buen Gobierno culminan Semana de Representación intensificando acciones de fiscalización en diversas regiones",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-culminan-semana-de-representacion-intensificando-acciones-de-fiscalizacion-en-diversas-regiones/"
-    },
-    {
-      "title": "Fiscalización y reuniones de coordinación fue el saldo de las actividades de los integrantes de Fuerza Popular",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fiscalizacion-y-reuniones-de-coordinacion-fue-el-saldo-de-las-actividades-de-los-integrantes-de-fuerza-popular/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Ética aprueba iniciar investigación a diputado Julián Pérez Mallqui",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-iniciar-investigacion-a-diputado-julian-perez-mallqui/"
+    },
+    {
+      "title": "Comisión de Medio Ambiente convoca al ministro del sector para este 7 de setiembre",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-convoca-al-ministro-del-sector-para-este-7-de-setiembre/"
+    },
+    {
+      "title": "Comisión de Constitución se declara en sesión permanente para evaluar pedido de facultades legislativas",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-se-declara-en-sesion-permanente-para-evaluar-pedido-de-facultades-legislativas/"
+    },
+    {
+      "title": "Reconocen vocación y trayectoria de profesionales de Enfermería",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reconocen-vocacion-y-trayectoria-de-profesionales-de-enfermeria/"
+    },
+    {
+      "title": "Exponen alternativas para fortalecer la lucha contra la criminalidad organizada",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/exponen-alternativas-para-fortalecer-la-lucha-contra-la-criminalidad-organizada/"
+    },
     {
       "title": "Congreso convoca a sesión del Pleno para este jueves 3 de septiembre",
       "source": "Portal del Congreso",
@@ -1657,18 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "28 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-la-bancada-partido-del-buen-gobierno-continuan-atendiendo-demandas-sociales-en-el-interior-del-pais/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados llama desde Tacna a recuperar la unidad nacional",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-llama-desde-tacna-a-recuperar-la-unidad-nacional/"
-    },
-    {
-      "title": "Fiscalización y reuniones de coordinación fue el saldo de las actividades de los integrantes de Fuerza Popular",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fiscalizacion-y-reuniones-de-coordinacion-fue-el-saldo-de-las-actividades-de-los-integrantes-de-fuerza-popular/"
     }
   ],
   "events_override": {
@@ -2422,6 +2422,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/125",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 190 (Mociones de Saludo): EXPRESAR UN CÁLIDO SALUDO Y FELICITACIÓN A LA UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO (UNAP), FORMULANDO LOS MEJORES ...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/190",
+        "pts": 3
       }
     ],
     "Edgar Adrián Alvaron De la Cruz": [
@@ -2681,6 +2689,14 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/147",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 202 (Mociones de Saludo): EXPRESAR SU RECONOCIMIENTO Y SALUDO INSTITUCIONAL AL COLEGIO DE TECNÓLOGOS MÉDICOS DEL PERÚ, POR SU IMPORTANTE CONTRIBUC...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/202",
         "pts": 3
       }
     ],
@@ -3350,6 +3366,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética aprueba iniciar investigación a diputado Julián Pérez Mallqui",
+        "d": "31/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-iniciar-investigacion-a-diputado-julian-perez-mallqui/",
+        "pts": 2
       }
     ],
     "Pierangeli Daniela Dodero Jovich": [
@@ -3614,6 +3638,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/6",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 200 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DISTRITO DE MARGOS, PROVINCIA Y DEPARTAMENTO DE HUÁNUCO, AL CONMEMORARSE...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/200",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 196 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DISTRITO DE CONCHAMARCA, PROVINCIA DE AMBO, DEPARTAMENTO DE HUÁNUCO, AL ...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/196",
+        "pts": 3
       }
     ],
     "Leo Miguel De Paz Lancho": [
@@ -3671,6 +3711,30 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/143",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 207 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/207",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 206 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/206",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 205 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE Y PATRIÓTICO SALUDO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL HEROICO PUEBLO D...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/205",
         "pts": 3
       }
     ],
@@ -3796,6 +3860,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-catherin-palomino-presidira-comision-de-justicia-y-derechos-humanos/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (Pedidos de Invitación a Consejo de Ministros o Ministros para informar ante pleno o comisiones): INVITAR AL PRESIDENTE DEL CONSEJO DE MINISTROS, AL MINISTRO DEL INTERIOR Y AL MINISTRO DE DEFENSA PARA QUE CONCURRAN, CO...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/186",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -4023,6 +4095,22 @@
         "d": "25/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/161",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 195 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y ESPECIAL RECONOCIMIENTO AL SINDICATO NACIONAL DE FISIOTERAPEUTAS DEL SEGURO SOCIAL DE SA...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/195",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 194 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y ESPECIAL RECONOCIMIENTO A LA ASOCIACIÓN PERUANA DE FISIOTERAPIA – ASPEFISIO, CON MOTIVO ...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/194",
         "pts": 3
       }
     ],
@@ -4846,6 +4934,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/123",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 201 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA ASOCIACIÓN PERUANA DE FISIOTERAPIA – ASPEFISIO, POR S...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/201",
+        "pts": 3
       }
     ],
     "Nary Benvinda Pinasco Montenegro": [
@@ -5426,6 +5522,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/122",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 193 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS Y LOS FISIOTERAPEUTAS DEL PERÚ, CON OCASIÓN DE CONME...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/193",
+        "pts": 3
       }
     ],
     "Gloria Charito Hirache Pizarro": [
@@ -5736,6 +5840,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/82",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 199 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DEPARTAMENTO DE SAN MARTÍN Y A TODOS SUS CIUDADANOS, AL CONMEMORARSE, EL...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/199",
+        "pts": 3
       }
     ],
     "Geanmarco Antonio Quezada Castro": [
@@ -5851,6 +5963,14 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/95",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 187 (Mociones de Saludo): EXPRESAR EL SALUDO Y RECONOCIMIENTO INSTITUCIONAL A LA POLICÍA NACIONAL DEL PERÚ, CON MOTIVO DE LA FESTIVIDAD DE SANTA R...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/187",
         "pts": 3
       }
     ],
@@ -6140,6 +6260,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/115",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 203 (Mociones de Saludo): EXPRESAR EL RECONOCIMIENTO, SALUDO Y FELICITACIÓN AL TENISTA PERUANO IGNACIO MARCEL BUSE ACURIO POR SUS DESTACADOS LOGRO...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/203",
+        "pts": 3
       }
     ],
     "José Marvin Palma Mendoza": [
@@ -6253,6 +6381,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/120",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 188 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE Y CALUROSO SALUDO A LOS CIUDADANOS DEL DEPARTAMENTO DE SAN MARTÍN, AL CELEBRARSE EL 04 DE SETI...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/188",
         "pts": 3
       }
     ],
@@ -6464,6 +6600,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/30",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 54 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A RADIO SANTA ROSA RADIO TV, POR HABER OBTENIDO EL PREMIO ...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/54",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 53 (MOCIÓN DE SALUDO): EXPRESAR UN FERVIENTE Y PROTOCOLAR SALUDO, ASÍ COMO EL MÁS ALTO RECONOCIMIENTO Y GRATITUD INSTITUCIONAL, AL GRUPO ESPECI...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/53",
+        "pts": 3
       }
     ],
     "Segundo Leocadio Tapia Bernal": [
@@ -6560,6 +6712,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/166",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Exponen alternativas para fortalecer la lucha contra la criminalidad organizada",
+        "d": "31/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/exponen-alternativas-para-fortalecer-la-lucha-contra-la-criminalidad-organizada/",
+        "pts": 2
       }
     ],
     "Mery Eliana Infantes Castañeda": [
@@ -6625,6 +6785,14 @@
         "d": "27/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/171",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 192 (Mociones de Saludo): EXPRESAR EL MÁS SINCERO RECONOCIMIENTO, SALUDO Y FELICITACIÓN A LOS PROFESIONALES DE OBSTETRICIA DEL PERÚ, CON OCASIÓN D...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/192",
         "pts": 3
       }
     ],
