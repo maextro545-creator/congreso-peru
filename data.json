@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso recibió visita protocolar de representantes del Movimiento Misionero Mundial",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-visita-protocolar-de-representantes-del-movimiento-misionero-mundial/"
+    },
+    {
+      "title": "Ministro del Ambiente expuso ante comisión de Economía del Senado las acciones y prioridades de su gestión",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/ministro-del-ambiente-expuso-ante-comision-de-economia-del-senado-las-acciones-y-prioridades-de-su-gestion/"
+    },
+    {
+      "title": "Comisión de Economía del Senado convocará al ministro Elmer Cuba para informar sobre política económica en el sector",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-del-senado-convocara-al-ministro-elmer-cuba-para-informar-sobre-politica-economica-y-demanda-contra-ley-de-pensiones/"
+    },
+    {
+      "title": "Comisión de Medio Ambiente convoca al ministro del sector para este 7 de setiembre",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-convoca-al-ministro-del-sector-para-este-7-de-setiembre/"
+    },
+    {
       "title": "Comisión de Constitución se declara en sesión permanente para evaluar pedido de facultades legislativas",
       "source": "Portal del Congreso",
       "date": "31 Ago 2026",
@@ -1607,21 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "31 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-del-senado-acuerda-convocar-a-cinco-ministros-de-estado/"
-    },
-    {
-      "title": "Congreso convoca a sesión del Pleno para este jueves 3 de septiembre",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-convoca-a-sesion-del-pleno-para-este-jueves-3-de-septiembre/"
-    },
-    {
-      "title": "Senadores de Renovación Popular culminan Semana de Representación",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Inclusión Social de la Cámara de Diputados aprobó su Plan de Trabajo y acordó invitar a la ministra de la Mujer y Poblaciones Vulnerables",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-de-la-camara-de-diputados-aprobo-su-plan-de-trabajo-y-acordo-invitar-a-la-ministra-de-la-mujer-y-poblaciones-vulnerables/"
+    },
     {
       "title": "Comisión de Ética aprueba iniciar investigación a diputado Julián Pérez Mallqui",
       "source": "Portal del Congreso",
@@ -1651,24 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "31 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/exponen-alternativas-para-fortalecer-la-lucha-contra-la-criminalidad-organizada/"
-    },
-    {
-      "title": "Congreso convoca a sesión del Pleno para este jueves 3 de septiembre",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-convoca-a-sesion-del-pleno-para-este-jueves-3-de-septiembre/"
-    },
-    {
-      "title": "Diputada Romina Uribe organiza mesa de trabajo sobre sistemas de becas",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-romina-uribe-organiza-mesa-de-trabajo-sobre-sistemas-de-becas/"
-    },
-    {
-      "title": "Diputados de la Bancada Partido del Buen Gobierno continúan atendiendo demandas sociales en el interior del país",
-      "source": "Portal del Congreso",
-      "date": "28 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-la-bancada-partido-del-buen-gobierno-continuan-atendiendo-demandas-sociales-en-el-interior-del-pais/"
     }
   ],
   "events_override": {
@@ -2073,6 +2073,14 @@
         "d": "28/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-realiza-visita-inopinada-al-hospital-maria-auxiliadora-de-san-juan-de-miraflores/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso recibió visita protocolar de representantes del Movimiento Misionero Mundial",
+        "d": "31/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-visita-protocolar-de-representantes-del-movimiento-misionero-mundial/",
         "pts": 2
       }
     ],
@@ -3736,6 +3744,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/205",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 208 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/208",
+        "pts": 3
       }
     ],
     "Azucena Isla Rojas": [
@@ -4759,6 +4775,14 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 210 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y RECONOCIMIENTO INSTITUCIONAL A TODOS LOS FISIOTERAPEUTAS DEL PERÚ, CON MOTIVO DE CONMEM...",
+        "d": "31/08/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/210",
         "pts": 3
       }
     ],
@@ -6561,6 +6585,14 @@
         "d": "21/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-flor-meza-presidira-la-comision-de-inclusion-social/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Inclusión Social de la Cámara de Diputados aprobó su Plan de Trabajo y acordó invitar a la ministra de la Mujer y Poblaciones Vulnerables",
+        "d": "31/08/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-de-la-camara-de-diputados-aprobo-su-plan-de-trabajo-y-acordo-invitar-a-la-ministra-de-la-mujer-y-poblaciones-vulnerables/",
         "pts": 2
       }
     ],
