@@ -1603,7 +1603,7 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-visita-protocolar-de-representantes-del-movimiento-misionero-mundial/"
     },
     {
-      "title": "Ministro del Ambiente expuso ante comisión de Economía del Senado las acciones y prioridades de su gestión",
+      "title": "Ministro del Ambiente expuso ante Comisión de Economía del Senado las acciones y prioridades de su gestión",
       "source": "Portal del Congreso",
       "date": "31 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/ministro-del-ambiente-expuso-ante-comision-de-economia-del-senado-las-acciones-y-prioridades-de-su-gestion/"
@@ -6219,6 +6219,14 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/108",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 212 (Mociones de Saludo): SALUDAR Y FELICITAR AL CENTRO POBLADO DE QUIPARACRA, DISTRITO DE HUACHÓN, PROVINCIA Y DEPARTAMENTO DE PASCO, AL CELEBRAR...",
+        "d": "01/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/212",
         "pts": 3
       }
     ],
