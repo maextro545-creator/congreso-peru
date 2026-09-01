@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso reafirma compromiso de impulsar iniciativas que promuevan la reforestación y conservación de bosques",
+      "source": "Portal del Congreso",
+      "date": "01 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-de-impulsar-iniciativas-que-promuevan-la-reforestacion-y-conservacion-de-bosques/"
+    },
+    {
+      "title": "Comisión Bicameral aprueba cronograma de presentaciones para sustentación del presupuesto público 2027",
+      "source": "Portal del Congreso",
+      "date": "01 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-aprueba-cronograma-de-presentaciones-para-sustentacion-del-presupuesto-publico-2027/"
+    },
+    {
+      "title": "Comisión de Constitución del Senado recibirá el 8 de setiembre a canciller Espá",
+      "source": "Portal del Congreso",
+      "date": "01 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-recibira-el-8-de-setiembre-a-canciller-espa/"
+    },
+    {
       "title": "Presidente del Congreso recibió visita protocolar de representantes del Movimiento Misionero Mundial",
       "source": "Portal del Congreso",
       "date": "31 Ago 2026",
@@ -1613,27 +1631,33 @@
       "source": "Portal del Congreso",
       "date": "31 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-del-senado-convocara-al-ministro-elmer-cuba-para-informar-sobre-politica-economica-y-demanda-contra-ley-de-pensiones/"
-    },
-    {
-      "title": "Comisión de Medio Ambiente convoca al ministro del sector para este 7 de setiembre",
-      "source": "Portal del Congreso",
-      "date": "31 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-convoca-al-ministro-del-sector-para-este-7-de-setiembre/"
-    },
-    {
-      "title": "Comisión de Constitución se declara en sesión permanente para evaluar pedido de facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "31 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-se-declara-en-sesion-permanente-para-evaluar-pedido-de-facultades-legislativas/"
-    },
-    {
-      "title": "Comisión del Senado acuerda convocar a cinco ministros de Estado",
-      "source": "Portal del Congreso",
-      "date": "31 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-del-senado-acuerda-convocar-a-cinco-ministros-de-estado/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Salud de la Cámara de Diputados recibirá el martes 8 al ministro Luis Dyer",
+      "source": "Portal del Congreso",
+      "date": "01 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-de-la-camara-de-diputados-recibira-el-martes-8-al-ministro-luis-dyer/"
+    },
+    {
+      "title": "Comisión de Energía y Minas sesionará los martes a las 9 de la mañana",
+      "source": "Portal del Congreso",
+      "date": "01 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-sesionara-los-martes-a-las-9-de-la-manana/"
+    },
+    {
+      "title": "Comisión Bicameral aprueba cronograma de presentaciones para sustentación del presupuesto público 2027",
+      "source": "Portal del Congreso",
+      "date": "01 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-aprueba-cronograma-de-presentaciones-para-sustentacion-del-presupuesto-publico-2027/"
+    },
+    {
+      "title": "Presidente del Congreso recibió visita protocolar de representantes del Movimiento Misionero Mundial",
+      "source": "Portal del Congreso",
+      "date": "31 Ago 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-visita-protocolar-de-representantes-del-movimiento-misionero-mundial/"
+    },
     {
       "title": "Comisión de Inclusión Social de la Cámara de Diputados aprobó su Plan de Trabajo y acordó invitar a la ministra de la Mujer y Poblaciones Vulnerables",
       "source": "Portal del Congreso",
@@ -1645,30 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "31 Ago 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-iniciar-investigacion-a-diputado-julian-perez-mallqui/"
-    },
-    {
-      "title": "Comisión de Medio Ambiente convoca al ministro del sector para este 7 de setiembre",
-      "source": "Portal del Congreso",
-      "date": "31 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-convoca-al-ministro-del-sector-para-este-7-de-setiembre/"
-    },
-    {
-      "title": "Comisión de Constitución se declara en sesión permanente para evaluar pedido de facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "31 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-se-declara-en-sesion-permanente-para-evaluar-pedido-de-facultades-legislativas/"
-    },
-    {
-      "title": "Reconocen vocación y trayectoria de profesionales de Enfermería",
-      "source": "Portal del Congreso",
-      "date": "31 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reconocen-vocacion-y-trayectoria-de-profesionales-de-enfermeria/"
-    },
-    {
-      "title": "Exponen alternativas para fortalecer la lucha contra la criminalidad organizada",
-      "source": "Portal del Congreso",
-      "date": "31 Ago 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/exponen-alternativas-para-fortalecer-la-lucha-contra-la-criminalidad-organizada/"
     }
   ],
   "events_override": {
@@ -6404,6 +6404,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/121",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 213 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO TENIENTE CÉSAR LÓPEZ ROJAS, PROVINCIA DE ALTO A...",
+        "d": "01/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/213",
+        "pts": 3
       }
     ],
     "Luis Arturo Alegría García": [
@@ -6675,6 +6683,14 @@
         "d": "25/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/159",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 214 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y RECONOCIMIENTO A LOS FISIOTERAPEUTAS DEL PERÚ, CON MOTIVO DE CONMEMORARSE EL DÍA DE LA ...",
+        "d": "01/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/214",
         "pts": 3
       }
     ],
