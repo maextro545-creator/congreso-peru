@@ -1603,6 +1603,12 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-barreras-burocraticas-en-el-pais/"
     },
     {
+      "title": "Comisión de Producción aprueba su plan de trabajo priorizando el desarrollo del país",
+      "source": "Portal del Congreso",
+      "date": "01 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-su-plan-de-trabajo-priorizando-el-desarrollo-del-pais/"
+    },
+    {
       "title": "Comisión en asuntos de Gestión del Estado y Contraloría citará nuevamente al contralor de la República",
       "source": "Portal del Congreso",
       "date": "01 Sep 2026",
@@ -1641,6 +1647,12 @@
   ],
   "diputados_news": [
     {
+      "title": "Comisión de Modernización de Gestión del Estado y Contraloría priorizará fiscalización de obras paralizadas",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/"
+    },
+    {
       "title": "Comisión de Producción aprueba su plan de trabajo priorizando el desarrollo del país",
       "source": "Portal del Congreso",
       "date": "01 Sep 2026",
@@ -1675,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "01 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-aprobo-por-unanimidad-su-plan-de-trabajo-2026-2027/"
-    },
-    {
-      "title": "Reconocen trayectoria y compromiso de tecnólogos médicos en Terapia Física y Rehabilitación",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reconocen-trayectoria-y-compromiso-de-tecnologos-medicos-en-terapia-fisica-y-rehabilitacion/"
     }
   ],
   "events_override": {
@@ -3934,6 +3940,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/129",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 228 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA PREVENCIÓN, RECUPERACIÓN, CONSERVACIÓN Y PROTECCIÓN DE LA CUENCA DEL...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/228",
+        "pts": 3
       }
     ],
     "Catherin Norma Palomino Casavilca": [
@@ -4481,6 +4495,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/221",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 228 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA PREVENCIÓN, RECUPERACIÓN, CONSERVACIÓN Y PROTECCIÓN DE LA CUENCA DEL...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/228",
         "pts": 3
       }
     ],
@@ -5754,6 +5776,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/102",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 232 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y ESPECIAL FELICITACIÓN AL DISTRITO DE PAIMAS, PROVINCIA DE AYABACA, DEPARTAMENTO DE PIUR...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/232",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 231 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y ESPECIAL FELICITACIÓN AL DISTRITO DE JILILÍ, PROVINCIA DE AYABACA, DEPARTAMENTO DE PIUR...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/231",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 230 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO AL DISTRITO DE CANCHAQUE, PROVINCIA DE HUANCABAMBA, DEPARTAMENTO DE PIURA, CON ...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/230",
+        "pts": 3
       }
     ],
     "Gabriel Robertino Gonzales Delgado": [
@@ -6600,6 +6646,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/213",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 229 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO DE PAMPA HERMOSA, PROVINCIA DE UCAYALI, DEPARTA...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/229",
+        "pts": 3
       }
     ],
     "Luis Arturo Alegría García": [
@@ -6655,6 +6709,14 @@
         "d": "19/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/paola-martinez-presidira-la-comision-de-modernizacion-de-la-gestion-del-estado-y-contraloria-de-la-camara-de-diputados/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Modernización de Gestión del Estado y Contraloría priorizará fiscalización de obras paralizadas",
+        "d": "02/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/",
         "pts": 2
       }
     ],
@@ -7076,6 +7138,16 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-barreras-burocraticas-en-el-pais/",
         "pts": 2
+      }
+    ],
+    "César Manuel Vidaurre Floridas": [
+      {
+        "t": "📌",
+        "a": "Moción N° 235 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DEL DISTRITO DE TENIENTE CÉSAR LÓPEZ ROJAS, PRO...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/235",
+        "pts": 3
       }
     ]
   },
