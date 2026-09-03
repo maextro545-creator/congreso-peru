@@ -1597,6 +1597,36 @@
   },
   "senado_news": [
     {
+      "title": "Ahora Nación promueve debate sobre alimentos libres de agrotóxicos",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/ahora-nacion-promueve-debate-sobre-alimentos-libres-de-agrotoxicos/"
+    },
+    {
+      "title": "Inician proceso de ratificación de Julio Velarde como presidente del Banco Central de Reserva",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/inician-proceso-de-ratificacion-de-julio-velarde-como-presidente-del-banco-central-de-reserva/"
+    },
+    {
+      "title": "Analizan problemática de las micro y pequeñas empresas del sector turismo",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-las-micro-y-pequenas-empresas-del-sector-turismo/"
+    },
+    {
+      "title": "Senadores y diputados piden acelerar inversiones para cerrar brecha de infraestructura en el país",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-piden-acelerar-inversiones-para-cerrar-brecha-de-infraestructura-en-el-pais/"
+    },
+    {
+      "title": "Comisión de Modernización de Gestión del Estado y Contraloría priorizará fiscalización de obras paralizadas",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/"
+    },
+    {
       "title": "Analizan problemática de barreras burocráticas en el país",
       "source": "Portal del Congreso",
       "date": "01 Sep 2026",
@@ -1613,39 +1643,39 @@
       "source": "Portal del Congreso",
       "date": "01 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-en-asuntos-de-gestion-del-estado-y-contraloria-citara-nuevamente-al-contralor-de-la-republica/"
-    },
-    {
-      "title": "Comisión de Ética del Senado aprueba plan de trabajo",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-aprueba-plan-de-trabajo/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario invitará al ministro Marco Vinelli para informar sobre facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-invitara-al-ministro-marco-vinelli-para-informar-sobre-facultades-legislativas/"
-    },
-    {
-      "title": "Fijan tiempo de debate para sesión del Pleno en la que se sustentará el presupuesto 2027",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fijan-tiempo-de-debate-para-sesion-del-pleno-en-la-que-se-sustentara-el-presupuesto-2027/"
-    },
-    {
-      "title": "Comisión de Defensa Nacional y Orden Interno aprobó su plan de trabajo y acordó invitar a ministros de Defensa e Interior",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-aprobo-su-plan-de-trabajo-y-acordo-invitar-a-ministros-de-defensa-e-interior/"
-    },
-    {
-      "title": "Comisión de Infraestructura, Vivienda y Transportes aprobó por unanimidad su plan de trabajo 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-aprobo-por-unanimidad-su-plan-de-trabajo-2026-2027/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Ahora Nación promueve debate sobre alimentos libres de agrotóxicos",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/ahora-nacion-promueve-debate-sobre-alimentos-libres-de-agrotoxicos/"
+    },
+    {
+      "title": "Comisión de Trabajo invita a ministro Juan Sheput para explicar reorganización de EsSalud y Sunafil",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-invita-a-ministro-juan-sheput-para-explicar-reorganizacion-de-essalud-y-sunafil/"
+    },
+    {
+      "title": "Analizan problemática de las micro y pequeñas empresas del sector turismo",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-las-micro-y-pequenas-empresas-del-sector-turismo/"
+    },
+    {
+      "title": "Senadores y diputados piden acelerar inversiones para cerrar brecha de infraestructura en el país",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-piden-acelerar-inversiones-para-cerrar-brecha-de-infraestructura-en-el-pais/"
+    },
+    {
+      "title": "Presidente de la Cámara de Diputados se reunió con representantes de ADEX para impulsar las exportaciones del país",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-se-reunio-con-representantes-de-adex-para-impulsar-las-exportaciones-del-pais/"
+    },
     {
       "title": "Comisión de Modernización de Gestión del Estado y Contraloría priorizará fiscalización de obras paralizadas",
       "source": "Portal del Congreso",
@@ -1653,40 +1683,16 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/"
     },
     {
+      "title": "Analizan problemática de barreras burocráticas en el país",
+      "source": "Portal del Congreso",
+      "date": "01 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-barreras-burocraticas-en-el-pais/"
+    },
+    {
       "title": "Comisión de Producción aprueba su plan de trabajo priorizando el desarrollo del país",
       "source": "Portal del Congreso",
       "date": "01 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-su-plan-de-trabajo-priorizando-el-desarrollo-del-pais/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario invitará al ministro Marco Vinelli para informar sobre facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-invitara-al-ministro-marco-vinelli-para-informar-sobre-facultades-legislativas/"
-    },
-    {
-      "title": "Comisión de Justicia de la Cámara de Diputados cita al ministro Álvarez Miranda para el próximo 8 de setiembre",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-de-la-camara-de-diputados-cita-al-ministro-de-justicia-para-el-proximo-8-de-setiembre/"
-    },
-    {
-      "title": "Fijan tiempo de debate para sesión del Pleno en la que se sustentará el presupuesto 2027",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fijan-tiempo-de-debate-para-sesion-del-pleno-en-la-que-se-sustentara-el-presupuesto-2027/"
-    },
-    {
-      "title": "Comisión de Defensa Nacional y Orden Interno aprobó su plan de trabajo y acordó invitar a ministros de Defensa e Interior",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-aprobo-su-plan-de-trabajo-y-acordo-invitar-a-ministros-de-defensa-e-interior/"
-    },
-    {
-      "title": "Comisión de Infraestructura, Vivienda y Transportes aprobó por unanimidad su plan de trabajo 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-aprobo-por-unanimidad-su-plan-de-trabajo-2026-2027/"
     }
   ],
   "events_override": {
@@ -1841,6 +1847,14 @@
         "d": "28/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-llama-desde-tacna-a-recuperar-la-unidad-nacional/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados se reunió con representantes de ADEX para impulsar las exportaciones del país",
+        "d": "02/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-se-reunio-con-representantes-de-adex-para-impulsar-las-exportaciones-del-pais/",
         "pts": 2
       }
     ],
@@ -3422,6 +3436,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/148",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 242 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA PROMOCIÓN DEL DESARROLLO INTEGRAL, PRODUCTIVO, SOCIAL Y AMBIENTALMEN...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
+        "pts": 3
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -4006,6 +4028,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/186",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 242 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA PROMOCIÓN DEL DESARROLLO INTEGRAL, PRODUCTIVO, SOCIAL Y AMBIENTALMEN...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -4087,6 +4117,14 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 242 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA PROMOCIÓN DEL DESARROLLO INTEGRAL, PRODUCTIVO, SOCIAL Y AMBIENTALMEN...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
         "pts": 3
       }
     ],
@@ -4504,6 +4542,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/228",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 242 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA PROMOCIÓN DEL DESARROLLO INTEGRAL, PRODUCTIVO, SOCIAL Y AMBIENTALMEN...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -4561,6 +4607,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 240 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y ESPECIAL RECONOCIMIENTO A LAS MUJERES INDÍGENAS Y ORIGINARIAS DEL PERÚ Y, DE MANERA PART...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/240",
         "pts": 3
       }
     ],
@@ -5094,6 +5148,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/180",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Trabajo invita a ministro Juan Sheput para explicar reorganización de EsSalud y Sunafil",
+        "d": "02/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-invita-a-ministro-juan-sheput-para-explicar-reorganizacion-de-essalud-y-sunafil/",
+        "pts": 2
       }
     ],
     "José Isidro Baella Malca": [
@@ -5548,6 +5610,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 242 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA PROMOCIÓN DEL DESARROLLO INTEGRAL, PRODUCTIVO, SOCIAL Y AMBIENTALMEN...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -5665,6 +5735,14 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/142",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 244 (Pedidos de Declaración de necesidad pública o interes nacional): SE DECLARA DE INTERÉS NACIONAL LA CREACIÓN Y EQUIPAMIENTO DEL INSTITUTO REGIONAL DE ENFERMEDADES NEOPLÁSICAS (IREN) EN E...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
         "pts": 3
       }
     ],
@@ -6049,6 +6127,14 @@
         "d": "31/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/199",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 244 (Pedidos de Declaración de necesidad pública o interes nacional): SE DECLARA DE INTERÉS NACIONAL LA CREACIÓN Y EQUIPAMIENTO DEL INSTITUTO REGIONAL DE ENFERMEDADES NEOPLÁSICAS (IREN) EN E...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
         "pts": 3
       }
     ],
@@ -6456,6 +6542,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/118",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 244 (Pedidos de Declaración de necesidad pública o interes nacional): SE DECLARA DE INTERÉS NACIONAL LA CREACIÓN Y EQUIPAMIENTO DEL INSTITUTO REGIONAL DE ENFERMEDADES NEOPLÁSICAS (IREN) EN E...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
+        "pts": 3
       }
     ],
     "Gustavo Alexander Segura Figueroa": [
@@ -6822,6 +6916,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jaime-abensur-es-elegido-presidente-de-comision-de-ordenamiento-y-seguimiento-legislativo/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 244 (Pedidos de Declaración de necesidad pública o interes nacional): SE DECLARA DE INTERÉS NACIONAL LA CREACIÓN Y EQUIPAMIENTO DEL INSTITUTO REGIONAL DE ENFERMEDADES NEOPLÁSICAS (IREN) EN E...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
+        "pts": 3
       }
     ],
     "Frank Krklec Torres": [
@@ -6860,6 +6962,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-de-la-camara-de-diputados-aprobo-su-plan-de-trabajo-y-acordo-invitar-a-la-ministra-de-la-mujer-y-poblaciones-vulnerables/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 237 (Mociones de Saludo): EXPRESAR EL MÁS EFUSIVO SALUDO Y SINCERO RECONOCIMIENTO A LAS MUJERES INDÍGENAS DE NUESTRO PAÍS, POR SU INVALORABLE APOR...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/237",
+        "pts": 3
       }
     ],
     "Miguel Felix Huamán Cornejo": [
@@ -6942,6 +7052,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/214",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 244 (Pedidos de Declaración de necesidad pública o interes nacional): SE DECLARA DE INTERÉS NACIONAL LA CREACIÓN Y EQUIPAMIENTO DEL INSTITUTO REGIONAL DE ENFERMEDADES NEOPLÁSICAS (IREN) EN E...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
+        "pts": 3
       }
     ],
     "Juana Guisella Ticona Cohaila": [
@@ -6979,6 +7097,14 @@
         "d": "26/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/163",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 238 (Mociones de Saludo): EXPRESAR UN AFECTUOSO SALUDO A LA REPÚBLICA FEDERATIVA DEL BRASIL, CON MOTIVO DE CONMEMORARSE, EL 07 DE SEPTIEMBRE DEL P...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/238",
         "pts": 3
       }
     ],
@@ -7147,6 +7273,16 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/235",
+        "pts": 3
+      }
+    ],
+    "Carlos Alberto Zegarra Sánchez": [
+      {
+        "t": "📌",
+        "a": "Moción N° 244 (Pedidos de Declaración de necesidad pública o interes nacional): SE DECLARA DE INTERÉS NACIONAL LA CREACIÓN Y EQUIPAMIENTO DEL INSTITUTO REGIONAL DE ENFERMEDADES NEOPLÁSICAS (IREN) EN E...",
+        "d": "02/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
         "pts": 3
       }
     ]
