@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Titulares de la PCM y del MEF sustentaron presupuesto público para el 2027",
+      "source": "Portal del Congreso",
+      "date": "03 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-de-la-pcm-y-del-mef-sustentaron-presupuesto-publico-para-el-2027/"
+    },
+    {
+      "title": "Voceros del Senado piden mayor eficiencia del gasto y atención a sectores prioritarios del país",
+      "source": "Portal del Congreso",
+      "date": "03 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/voceros-del-senado-piden-mayor-eficiencia-del-gasto-y-atencion-a-sectores-prioritarios-del-pais/"
+    },
+    {
       "title": "Titulares de PCM y del MEF se presentan ante el Pleno del Congreso",
       "source": "Portal del Congreso",
       "date": "03 Sep 2026",
@@ -1637,21 +1649,15 @@
       "source": "Portal del Congreso",
       "date": "02 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/"
-    },
-    {
-      "title": "Analizan problemática de barreras burocráticas en el país",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-barreras-burocraticas-en-el-pais/"
-    },
-    {
-      "title": "Comisión de Producción aprueba su plan de trabajo priorizando el desarrollo del país",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-su-plan-de-trabajo-priorizando-el-desarrollo-del-pais/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Titulares de la PCM y del MEF sustentaron presupuesto público para el 2027",
+      "source": "Portal del Congreso",
+      "date": "03 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-de-la-pcm-y-del-mef-sustentaron-presupuesto-publico-para-el-2027/"
+    },
     {
       "title": "Titulares de PCM y del MEF se presentan ante el Pleno del Congreso",
       "source": "Portal del Congreso",
@@ -1693,18 +1699,6 @@
       "source": "Portal del Congreso",
       "date": "02 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/"
-    },
-    {
-      "title": "Analizan problemática de barreras burocráticas en el país",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-barreras-burocraticas-en-el-pais/"
-    },
-    {
-      "title": "Comisión de Producción aprueba su plan de trabajo priorizando el desarrollo del país",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-su-plan-de-trabajo-priorizando-el-desarrollo-del-pais/"
     }
   ],
   "events_override": {
@@ -2806,6 +2800,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/221",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -3456,6 +3458,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -3522,6 +3532,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-iniciar-investigacion-a-diputado-julian-perez-mallqui/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Pierangeli Daniela Dodero Jovich": [
@@ -3685,6 +3703,22 @@
         "d": "21/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/153",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 258 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO DEL DESPACHO DEL DIPUTADO DE LA REPÚBLICA CÉSAR HUGO TITO ROJAS, AL PROMOTOR L...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/258",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -3990,6 +4024,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/228",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Catherin Norma Palomino Casavilca": [
@@ -4055,6 +4105,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -4145,6 +4203,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -4308,6 +4374,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/194",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -4341,6 +4415,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/86",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -4399,6 +4481,14 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -4570,6 +4660,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -4635,6 +4741,22 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/240",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -4702,6 +4824,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Jacqueline Viviana Tapullima Insapillo": [
@@ -4752,6 +4882,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Juan Amilcar Villanueva Calderón": [
@@ -4785,6 +4923,22 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/124",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -5012,6 +5166,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/210",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -5085,6 +5255,22 @@
         "d": "03/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/254",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -5302,6 +5488,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Marco Antonio Flores Valdizan": [
@@ -5360,6 +5554,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Luis Angel Jibaja Ramos": [
@@ -5410,6 +5620,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Karla Melissa Schaefer Cuculiza": [
@@ -5443,6 +5669,30 @@
         "d": "19/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/20",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 63 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD DISTRITAL DE IGNACIO ESCUDERO,...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/63",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 62 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD DISTRITAL DE BERNAL, PROVINCIA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/62",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 59 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD DISTRITAL DE JILILI, PROVINCIA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/59",
         "pts": 3
       }
     ],
@@ -5530,6 +5780,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/119",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Oswar Elbis Cahuaza Mitivire": [
@@ -5571,6 +5829,22 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -5646,6 +5920,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/242",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -5687,6 +5969,14 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -5745,6 +6035,22 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 257 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE SEGUIMIENTO PARLAMENTARIO AL ACUERDO DE LA ALIANZA DEL PACÍFICO, PARA EL PERIODO PARLA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
@@ -5939,6 +6245,14 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/155",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 256 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DEL INTERIOR, SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, A FIN DE QUE CONCURRA AL PLENO DE LA CÁMARA ...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
       }
     ],
