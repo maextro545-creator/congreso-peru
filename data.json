@@ -1597,10 +1597,22 @@
   },
   "senado_news": [
     {
+      "title": "Titulares de PCM y del MEF se presentan ante el Pleno del Congreso",
+      "source": "Portal del Congreso",
+      "date": "03 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-de-pcm-y-del-mef-se-presentan-ante-el-pleno-del-congreso/"
+    },
+    {
       "title": "Ahora Nación promueve debate sobre alimentos libres de agrotóxicos",
       "source": "Portal del Congreso",
       "date": "02 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/ahora-nacion-promueve-debate-sobre-alimentos-libres-de-agrotoxicos/"
+    },
+    {
+      "title": "Comisión de Trabajo invita a ministro Juan Sheput para explicar reorganización de EsSalud y Sunafil",
+      "source": "Portal del Congreso",
+      "date": "02 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-invita-a-ministro-juan-sheput-para-explicar-reorganizacion-de-essalud-y-sunafil/"
     },
     {
       "title": "Inician proceso de ratificación de Julio Velarde como presidente del Banco Central de Reserva",
@@ -1637,15 +1649,15 @@
       "source": "Portal del Congreso",
       "date": "01 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-su-plan-de-trabajo-priorizando-el-desarrollo-del-pais/"
-    },
-    {
-      "title": "Comisión en asuntos de Gestión del Estado y Contraloría citará nuevamente al contralor de la República",
-      "source": "Portal del Congreso",
-      "date": "01 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-en-asuntos-de-gestion-del-estado-y-contraloria-citara-nuevamente-al-contralor-de-la-republica/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Titulares de PCM y del MEF se presentan ante el Pleno del Congreso",
+      "source": "Portal del Congreso",
+      "date": "03 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-de-pcm-y-del-mef-se-presentan-ante-el-pleno-del-congreso/"
+    },
     {
       "title": "Ahora Nación promueve debate sobre alimentos libres de agrotóxicos",
       "source": "Portal del Congreso",
@@ -3772,6 +3784,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/221",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 253 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y AFECTUOSO SALUDO Y RECONOCIMIENTO A TODOS LOS FISIOTERAPEUTAS DEL PERÚ, CON MOTIVO DE CONMEMORA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/253",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -5058,6 +5078,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/169",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 254 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA MUNICIPALIDAD DISTRITAL DE CARMEN ALTO, A SUS AUTORIDADES Y A TODA SU P...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/254",
+        "pts": 3
       }
     ],
     "Carlos Alberto Yalta Sotelo": [
@@ -6286,6 +6314,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/katherine-ampuero-presidira-la-comision-de-justicia-y-derechos-humanos-del-senado/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 57 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO A LA MUNICIPALIDAD PROVINCIAL DE CHACHAPOYAS, A SUS AUTORIDADES, INSTITU...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/57",
+        "pts": 3
       }
     ],
     "Susana Flor de María Matute Charun": [
