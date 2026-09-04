@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Senadora Martha Moyano promueve encuentro binacional de mujeres poetas afro de Perú y Colombia",
+      "source": "Portal del Congreso",
+      "date": "03 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-martha-moyano-promueve-encuentro-binacional-de-mujeres-poetas-afro-de-peru-y-colombia/"
+    },
+    {
+      "title": "Analizan problemática social de pobladores de Puerto Bermúdez, en Oxapampa",
+      "source": "Portal del Congreso",
+      "date": "03 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-social-de-pobladores-de-puerto-bermudez-en-oxapampa/"
+    },
+    {
       "title": "Titulares de la PCM y del MEF sustentaron presupuesto público para el 2027",
       "source": "Portal del Congreso",
       "date": "03 Sep 2026",
@@ -1637,21 +1649,15 @@
       "source": "Portal del Congreso",
       "date": "02 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-las-micro-y-pequenas-empresas-del-sector-turismo/"
-    },
-    {
-      "title": "Senadores y diputados piden acelerar inversiones para cerrar brecha de infraestructura en el país",
-      "source": "Portal del Congreso",
-      "date": "02 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-piden-acelerar-inversiones-para-cerrar-brecha-de-infraestructura-en-el-pais/"
-    },
-    {
-      "title": "Comisión de Modernización de Gestión del Estado y Contraloría priorizará fiscalización de obras paralizadas",
-      "source": "Portal del Congreso",
-      "date": "02 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Cámara de Diputados pide priorizar seguridad, salud, saneamiento y prevención ante el fenómeno El Niño en presupuesto 2027",
+      "source": "Portal del Congreso",
+      "date": "03 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-pide-priorizar-seguridad-salud-saneamiento-y-prevencion-ante-el-fenomeno-el-nino-en-presupuesto-2027/"
+    },
     {
       "title": "Titulares de la PCM y del MEF sustentaron presupuesto público para el 2027",
       "source": "Portal del Congreso",
@@ -1681,24 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "02 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-las-micro-y-pequenas-empresas-del-sector-turismo/"
-    },
-    {
-      "title": "Senadores y diputados piden acelerar inversiones para cerrar brecha de infraestructura en el país",
-      "source": "Portal del Congreso",
-      "date": "02 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-piden-acelerar-inversiones-para-cerrar-brecha-de-infraestructura-en-el-pais/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados se reunió con representantes de ADEX para impulsar las exportaciones del país",
-      "source": "Portal del Congreso",
-      "date": "02 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-se-reunio-con-representantes-de-adex-para-impulsar-las-exportaciones-del-pais/"
-    },
-    {
-      "title": "Comisión de Modernización de Gestión del Estado y Contraloría priorizará fiscalización de obras paralizadas",
-      "source": "Portal del Congreso",
-      "date": "02 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/"
     }
   ],
   "events_override": {
@@ -2808,6 +2796,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/257",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 259 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y ESTUDIO PARA LA REESTRUCTURACIÓN, MODERNIZACIÓN, EFICIEN...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/259",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -3138,6 +3134,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/35",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 65 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL PARA EL SEGUIMIENTO DE LA SITUACIÓN DE LA NIÑEZ, ADOLESCENCIA Y MUJERES VÍCTIMAS DE ABUS...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/65",
+        "pts": 3
       }
     ],
     "Saul Andrés Armacanqui Morales": [
@@ -3299,6 +3303,14 @@
         "d": "25/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/36",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 65 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL PARA EL SEGUIMIENTO DE LA SITUACIÓN DE LA NIÑEZ, ADOLESCENCIA Y MUJERES VÍCTIMAS DE ABUS...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/65",
         "pts": 3
       }
     ],
@@ -3826,6 +3838,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/253",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 259 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y ESTUDIO PARA LA REESTRUCTURACIÓN, MODERNIZACIÓN, EFICIEN...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/259",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -4113,6 +4133,14 @@
         "d": "03/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 260 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL, FRATERNO Y AFECTUOSO SALUDO Y FELICITACIÓN AL DISTRITO DE CONGALLA, PROVINCIA DE ANGARAES, DEPA...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/260",
         "pts": 3
       }
     ],
@@ -5694,6 +5722,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/59",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 64 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD DISTRITAL DE PAIMAS, CON MOTIV...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/64",
+        "pts": 3
       }
     ],
     "Roger Miguel Astucuri Laura": [
@@ -5745,6 +5781,14 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/149",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 259 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y ESTUDIO PARA LA REESTRUCTURACIÓN, MODERNIZACIÓN, EFICIEN...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/259",
         "pts": 3
       }
     ],
@@ -6272,6 +6316,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-evento-por-el-dia-internacional-de-conmemoracion-y-homenaje-a-las-victimas-del-terrorismo-a-nivel-mundial/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadora Martha Moyano promueve encuentro binacional de mujeres poetas afro de Perú y Colombia",
+        "d": "03/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-martha-moyano-promueve-encuentro-binacional-de-mujeres-poetas-afro-de-peru-y-colombia/",
+        "pts": 2
       }
     ],
     "Percy Herbert Osorio Palpán": [
@@ -6333,6 +6385,14 @@
         "d": "27/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/45",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 65 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL PARA EL SEGUIMIENTO DE LA SITUACIÓN DE LA NIÑEZ, ADOLESCENCIA Y MUJERES VÍCTIMAS DE ABUS...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/65",
         "pts": 3
       }
     ],
@@ -6444,6 +6504,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/49",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Analizan problemática social de pobladores de Puerto Bermúdez, en Oxapampa",
+        "d": "03/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-social-de-pobladores-de-puerto-bermudez-en-oxapampa/",
+        "pts": 2
       }
     ],
     "Francisco Javier Gatica Vega": [
@@ -6786,6 +6854,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/45",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 65 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL PARA EL SEGUIMIENTO DE LA SITUACIÓN DE LA NIÑEZ, ADOLESCENCIA Y MUJERES VÍCTIMAS DE ABUS...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/65",
+        "pts": 3
       }
     ],
     "Patricia Milagros Iturregui Byrne": [
@@ -7005,6 +7081,14 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/22",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 65 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONSTITUIR LA COMISIÓN ESPECIAL PARA EL SEGUIMIENTO DE LA SITUACIÓN DE LA NIÑEZ, ADOLESCENCIA Y MUJERES VÍCTIMAS DE ABUS...",
+        "d": "03/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/65",
         "pts": 3
       }
     ],
