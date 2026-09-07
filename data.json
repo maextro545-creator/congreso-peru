@@ -1631,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "04 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-espera-que-decision-final-sobre-facultades-legislativas-se-de-lo-mas-pronto-posible/"
-    },
-    {
-      "title": "Presidente del Congreso expone ante empresarios los retos del país y el rol del Parlamento en el próximo quinquenio",
-      "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-expone-ante-empresarios-los-retos-del-pais-y-el-rol-del-parlamento-en-el-proximo-quinquenio/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Medio Ambiente respalda pedido de facultades para modernizar la gestión ambiental e impulsar energías limpias",
+      "source": "Portal del Congreso",
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-respalda-pedido-de-facultades-para-modernizar-la-gestion-ambiental-e-impulsar-energias-limpias/"
+    },
     {
       "title": "Parlamentarios plantean soluciones ante conflicto por ruta Hiram Bingham a Machu Picchu",
       "source": "Portal del Congreso",
@@ -6702,6 +6702,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-social-de-pobladores-de-puerto-bermudez-en-oxapampa/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 70 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE VILCABAMBA, PROVINCIA DE DANIEL ALCIDES CARRIÓN, DEPARTAMEN...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/70",
+        "pts": 3
       }
     ],
     "Francisco Javier Gatica Vega": [
@@ -6997,6 +7005,14 @@
         "d": "04/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/277",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 278 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LAS CONTADORAS Y CONTADORES PÚBLICOS DEL PERÚ, CON MOTIVO DE CELEBRARSE, E...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/278",
         "pts": 3
       }
     ],
@@ -7296,6 +7312,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/65",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 72 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE TRANSFERENCIA TECNOLÓGICA E INNOVACIÓN RURAL, ENCARGADA DE ESTUDIAR, REALI...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/72",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 71 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGURIDAD CIUDADANA, ENCARGADA DEL SEGUIMIENTO, FISCALIZACIÓN, EVALUACIÓN ...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/71",
+        "pts": 3
       }
     ],
     "Jaime Moises Chipana Chipana": [
@@ -7414,6 +7446,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/188",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Medio Ambiente respalda pedido de facultades para modernizar la gestión ambiental e impulsar energías limpias",
+        "d": "07/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-respalda-pedido-de-facultades-para-modernizar-la-gestion-ambiental-e-impulsar-energias-limpias/",
+        "pts": 2
       }
     ],
     "Luis Eliseo Quispe Candia": [
@@ -7442,6 +7482,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-innovacion-tecnologia-y-sociedad-digital-sera-presidida-por-el-diputado-diethell-columbus/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 281 (Mociones de Saludo): SALUDAR Y FELICITAR A LOS MIEMBROS DE LA ASAMBLEA DE LA RESISTENCIA CUBANA, EXPRESANDO DICHO RECONOCIMIENTO A TRAVÉS DE ...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/281",
+        "pts": 3
       }
     ],
     "Paola Isabel Martínez Paitán": [
