@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Presentan “La República Obscena” y abren debate sobre los retos de la democracia y la gobernabilidad en el Perú",
+      "source": "Portal del Congreso",
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presentan-la-republica-obscena-y-abren-debate-sobre-los-retos-de-la-democracia-y-la-gobernabilidad-en-el-peru/"
+    },
+    {
+      "title": "Analizan problemática de comunidades nativas de Loreto",
+      "source": "Portal del Congreso",
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-comunidades-nativas-de-loreto/"
+    },
+    {
+      "title": "Comisión de Medio Ambiente respalda pedido de facultades para modernizar la gestión ambiental e impulsar energías limpias",
+      "source": "Portal del Congreso",
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-respalda-pedido-de-facultades-para-modernizar-la-gestion-ambiental-e-impulsar-energias-limpias/"
+    },
+    {
+      "title": "Parlamentarios plantean soluciones ante conflicto por ruta Hiram Bingham a Machu Picchu",
+      "source": "Portal del Congreso",
+      "date": "04 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-plantean-soluciones-ante-conflicto-por-ruta-hiram-bingham-a-machu-picchu/"
+    },
+    {
       "title": "Comisión en asuntos de Desarrollo Productivo del Senado aprueba plan de trabajo para el período 2026-2027",
       "source": "Portal del Congreso",
       "date": "04 Sep 2026",
@@ -1613,27 +1637,27 @@
       "source": "Portal del Congreso",
       "date": "04 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-del-sector-agrario-en-el-pais/"
-    },
-    {
-      "title": "Proponen mayor presupuesto para implementar centros de recolección de leche humana en beneficio de neonatos prematuros",
-      "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-mayor-presupuesto-para-implementar-centros-de-recoleccion-de-leche-humana-en-beneficio-de-neonatos-prematuros/"
-    },
-    {
-      "title": "Comisión de Economía acuerda invitar a ministro Elmer Cuba y a superintendente de Sunat",
-      "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-acuerda-invitar-a-ministro-elmer-cuba-y-a-superintendente-de-sunat/"
-    },
-    {
-      "title": "Presidente del Congreso espera que decisión final sobre facultades legislativas se dé “lo más pronto posible”",
-      "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-espera-que-decision-final-sobre-facultades-legislativas-se-de-lo-mas-pronto-posible/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión Defensa del Consumidor aprobó su Plan de Trabajo 2026 – 2027",
+      "source": "Portal del Congreso",
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-defensa-del-consumidor-aprobo-su-plan-de-trabajo-2026-2027/"
+    },
+    {
+      "title": "Presentan “La República Obscena” y abren debate sobre los retos de la democracia y la gobernabilidad en el Perú",
+      "source": "Portal del Congreso",
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presentan-la-republica-obscena-y-abren-debate-sobre-los-retos-de-la-democracia-y-la-gobernabilidad-en-el-peru/"
+    },
+    {
+      "title": "Analizan problemática de comunidades nativas de Loreto",
+      "source": "Portal del Congreso",
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-comunidades-nativas-de-loreto/"
+    },
     {
       "title": "Comisión de Medio Ambiente respalda pedido de facultades para modernizar la gestión ambiental e impulsar energías limpias",
       "source": "Portal del Congreso",
@@ -1663,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "04 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-de-diputados-convoco-a-decanos-de-los-colegios-medicos-del-pais/"
-    },
-    {
-      "title": "Comisión de Economía acuerda invitar a ministro Elmer Cuba y a superintendente de Sunat",
-      "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-acuerda-invitar-a-ministro-elmer-cuba-y-a-superintendente-de-sunat/"
     }
   ],
   "events_override": {
@@ -2190,6 +2208,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/216",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
+        "pts": 3
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -2223,6 +2249,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/219",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
       }
     ],
@@ -2322,6 +2356,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/219",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
+        "pts": 3
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -2403,6 +2445,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/219",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
       }
     ],
@@ -2509,6 +2559,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/226",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
       }
     ],
@@ -2692,6 +2750,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/261",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión Defensa del Consumidor aprobó su Plan de Trabajo 2026 – 2027",
+        "d": "07/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-defensa-del-consumidor-aprobo-su-plan-de-trabajo-2026-2027/",
+        "pts": 2
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -2717,6 +2783,14 @@
         "d": "04/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/261",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
       }
     ],
@@ -2866,6 +2940,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/261",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -2974,6 +3056,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/219",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
+        "pts": 3
       }
     ],
     "Harvey Julio Colchado Huamani": [
@@ -3031,6 +3121,14 @@
         "d": "10/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/26",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
       }
     ],
@@ -3113,6 +3211,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/219",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
       }
     ],
@@ -3204,6 +3310,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/65",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 74 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA COMISIÓN ESPECIAL DEL ESTUDIO Y SEGUIMIENTO DE LAS POLÍTICAS PÚBLICAS SOBRE SEGURIDAD ALIMENTARIA Y NUTRICI...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/74",
+        "pts": 3
       }
     ],
     "Saul Andrés Armacanqui Morales": [
@@ -3221,6 +3335,14 @@
         "d": "13/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/10",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 74 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA COMISIÓN ESPECIAL DEL ESTUDIO Y SEGUIMIENTO DE LAS POLÍTICAS PÚBLICAS SOBRE SEGURIDAD ALIMENTARIA Y NUTRICI...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/74",
         "pts": 3
       }
     ],
@@ -3373,6 +3495,14 @@
         "d": "03/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/65",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 74 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA COMISIÓN ESPECIAL DEL ESTUDIO Y SEGUIMIENTO DE LAS POLÍTICAS PÚBLICAS SOBRE SEGURIDAD ALIMENTARIA Y NUTRICI...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/74",
         "pts": 3
       }
     ],
@@ -5368,6 +5498,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 282 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN, EN LA REGIÓN DE PUNO, DE UN ESPACIO PÚBLICO DE MEMORIA DEDICADO A LAS VÍCTIMAS...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -6270,6 +6408,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 284 (Mociones de Saludo): EXPRESARSU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTOAL CETPRO “HORACIO ZEBALLOS GÁMEZ” DE JULIACA, AL CONMEMORAR...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/284",
+        "pts": 3
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -6531,6 +6677,14 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 74 (PEDIDO DE CONFORMACIÓN DE COMISIÓN ESPECIAL): CONFORMAR LA COMISIÓN ESPECIAL DEL ESTUDIO Y SEGUIMIENTO DE LAS POLÍTICAS PÚBLICAS SOBRE SEGURIDAD ALIMENTARIA Y NUTRICI...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/74",
         "pts": 3
       }
     ],
