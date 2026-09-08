@@ -1597,49 +1597,41 @@
   },
   "senado_news": [
     {
-      "title": "Presentan “La República Obscena” y abren debate sobre los retos de la democracia y la gobernabilidad en el Perú",
+      "title": "Comisión de Defensa Nacional y Orden Interno del Senado recibió a ministros de Defensa y del Interior",
       "source": "Portal del Congreso",
       "date": "07 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presentan-la-republica-obscena-y-abren-debate-sobre-los-retos-de-la-democracia-y-la-gobernabilidad-en-el-peru/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-del-senado-recibio-a-ministros-de-defensa-y-del-interior/"
     },
     {
-      "title": "Analizan problemática de comunidades nativas de Loreto",
+      "title": "Senador Segundo Tapia promueve mesa de trabajo para viabilizar continuidad del proyecto del Hospital Arzobispo Loayza",
       "source": "Portal del Congreso",
       "date": "07 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-comunidades-nativas-de-loreto/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-segundo-tapia-promueve-mesa-de-trabajo-para-viabilizar-continuidad-del-proyecto-del-hospital-arzobispo-loayza/"
     },
     {
-      "title": "Comisión de Medio Ambiente respalda pedido de facultades para modernizar la gestión ambiental e impulsar energías limpias",
+      "title": "Presidente del Congreso, Miguel Ángel Torres, y embajador de Israel abordan inseguridad ciudadana y Fenómeno El Niño",
       "source": "Portal del Congreso",
       "date": "07 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-respalda-pedido-de-facultades-para-modernizar-la-gestion-ambiental-e-impulsar-energias-limpias/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-angel-torres-y-embajador-de-israel-abordan-inseguridad-ciudadana-y-fenomeno-el-nino/"
     },
     {
-      "title": "Parlamentarios plantean soluciones ante conflicto por ruta Hiram Bingham a Machu Picchu",
+      "title": "Presidenta de Ositrán expuso ante la Comisión de Economía, Medio Ambiente y Defensa del Consumidor del Senado",
       "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-plantean-soluciones-ante-conflicto-por-ruta-hiram-bingham-a-machu-picchu/"
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-ositran-expuso-ante-la-comision-de-economia-medio-ambiente-y-defensa-del-consumidor-del-senado/"
     },
     {
-      "title": "Comisión en asuntos de Desarrollo Productivo del Senado aprueba plan de trabajo para el período 2026-2027",
+      "title": "Comisión de Constitución, Reglamento y Relaciones Exteriores aprueba plan de trabajo para el periodo 2026-2027",
       "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-en-asuntos-de-desarrollo-productivo-del-senado-aprueba-plan-de-trabajo-para-el-periodo-2026-2027/"
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-reglamento-y-relaciones-exteriores-aprueba-plan-de-trabajo-para-el-periodo-2026-2027/"
     },
     {
-      "title": "Presidente del Congreso respalda impulso de nueva ley pro bici para fortalecer la seguridad vial",
+      "title": "Comisión en asuntos de Salud, Educación y Cultura aprobó su plan de trabajo y abordó acciones frente al Fenómeno El Niño",
       "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-respalda-impulso-de-nueva-ley-pro-bici-para-fortalecer-la-seguridad-vial/"
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-en-asuntos-de-salud-educacion-y-cultura-aprobo-su-plan-de-trabajo-y-abordo-acciones-frente-al-fenomeno-el-nino/"
     },
-    {
-      "title": "Analizan problemática del sector agrario en el país",
-      "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-del-sector-agrario-en-el-pais/"
-    }
-  ],
-  "diputados_news": [
     {
       "title": "Comisión Defensa del Consumidor aprobó su Plan de Trabajo 2026 – 2027",
       "source": "Portal del Congreso",
@@ -1657,36 +1649,44 @@
       "source": "Portal del Congreso",
       "date": "07 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-comunidades-nativas-de-loreto/"
-    },
+    }
+  ],
+  "diputados_news": [
     {
-      "title": "Comisión de Medio Ambiente respalda pedido de facultades para modernizar la gestión ambiental e impulsar energías limpias",
+      "title": "Comisión de Inclusión Social crea cuatro grupos de trabajo para abordar problemáticas nacionales",
       "source": "Portal del Congreso",
       "date": "07 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-respalda-pedido-de-facultades-para-modernizar-la-gestion-ambiental-e-impulsar-energias-limpias/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-crea-cuatro-grupos-de-trabajo-para-abordar-problematicas-nacionales/"
     },
     {
-      "title": "Parlamentarios plantean soluciones ante conflicto por ruta Hiram Bingham a Machu Picchu",
+      "title": "Comisión de Constitución, Reglamento y Relaciones Exteriores aprueba plan de trabajo para el periodo 2026-2027",
       "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-plantean-soluciones-ante-conflicto-por-ruta-hiram-bingham-a-machu-picchu/"
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-reglamento-y-relaciones-exteriores-aprueba-plan-de-trabajo-para-el-periodo-2026-2027/"
     },
     {
-      "title": "Diputada Jessica Benítez impulsa diálogo con universidades públicas para fortalecer la educación superior en el país",
+      "title": "Comisión en asuntos de Salud, Educación y Cultura aprobó su plan de trabajo y abordó acciones frente al Fenómeno El Niño",
       "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-jessica-benitez-impulsa-dialogo-con-universidades-publicas-para-fortalecer-la-educacion-superior-en-el-pais/"
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-en-asuntos-de-salud-educacion-y-cultura-aprobo-su-plan-de-trabajo-y-abordo-acciones-frente-al-fenomeno-el-nino/"
     },
     {
-      "title": "Analizan problemática del sector agrario en el país",
+      "title": "Comisión Defensa del Consumidor aprobó su Plan de Trabajo 2026 – 2027",
       "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-del-sector-agrario-en-el-pais/"
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-defensa-del-consumidor-aprobo-su-plan-de-trabajo-2026-2027/"
     },
     {
-      "title": "Comisión de Salud de Diputados convocó a decanos de los colegios médicos del país",
+      "title": "Presentan “La República Obscena” y abren debate sobre los retos de la democracia y la gobernabilidad en el Perú",
       "source": "Portal del Congreso",
-      "date": "04 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-de-diputados-convoco-a-decanos-de-los-colegios-medicos-del-pais/"
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presentan-la-republica-obscena-y-abren-debate-sobre-los-retos-de-la-democracia-y-la-gobernabilidad-en-el-peru/"
+    },
+    {
+      "title": "Analizan problemática de comunidades nativas de Loreto",
+      "source": "Portal del Congreso",
+      "date": "07 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-comunidades-nativas-de-loreto/"
     }
   ],
   "events_override": {
@@ -2123,6 +2123,14 @@
         "d": "04/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-respalda-impulso-de-nueva-ley-pro-bici-para-fortalecer-la-seguridad-vial/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso, Miguel Ángel Torres, y embajador de Israel abordan inseguridad ciudadana y Fenómeno El Niño",
+        "d": "07/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-angel-torres-y-embajador-de-israel-abordan-inseguridad-ciudadana-y-fenomeno-el-nino/",
         "pts": 2
       }
     ],
@@ -4178,6 +4186,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/208",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 290 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/290",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 288 (Mociones de Saludo): EXPRESAR EL SALUDO Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LOS DOCENT...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/288",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 287 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/287",
+        "pts": 3
       }
     ],
     "Azucena Isla Rojas": [
@@ -5694,6 +5726,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-invita-a-ministro-juan-sheput-para-explicar-reorganizacion-de-essalud-y-sunafil/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 285 (Mociones de Saludo): EXPRESAR EL MÁS EFUSIVO Y CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL COLEGIO DE CONTADORES PÚBLICOS DE LIMA (CCPL)...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/285",
+        "pts": 3
       }
     ],
     "José Isidro Baella Malca": [
@@ -6864,6 +6904,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/70",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 84 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA POBLACIÓN DEL CENTRO POBLADO VILLA TINQUERCCASA, DISTRITO DE PAUCARÁ,...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/84",
+        "pts": 3
       }
     ],
     "Francisco Javier Gatica Vega": [
@@ -6897,6 +6945,22 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 292 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN A LA CIUDAD DE RIOJA Y A TODOS SUS CIUDADANOS, AL CONMEMORARSE, EL 22 DE SE...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/292",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 291 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DISTRITO DE ALTO SAPOSOA Y A TODOS SUS CIUDADANOS, AL CONMEMORARSE, EL 1...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/291",
         "pts": 3
       }
     ],
@@ -7644,6 +7708,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/281",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 286 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PROMOCIÓN Y MASIFICACIÓN DEL USO DE ENERGÍA FOTOVOLTAICA, ASÍ COMO EL IMPULSO DE LA INVE...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/286",
+        "pts": 3
       }
     ],
     "Paola Isabel Martínez Paitán": [
@@ -7828,6 +7900,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/237",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Inclusión Social crea cuatro grupos de trabajo para abordar problemáticas nacionales",
+        "d": "07/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-crea-cuatro-grupos-de-trabajo-para-abordar-problematicas-nacionales/",
+        "pts": 2
       }
     ],
     "Miguel Felix Huamán Cornejo": [
@@ -7900,6 +7980,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-realizan-actividades-de-representacion-en-cajamarca-arequipa-y-loreto/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senador Segundo Tapia promueve mesa de trabajo para viabilizar continuidad del proyecto del Hospital Arzobispo Loayza",
+        "d": "07/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-segundo-tapia-promueve-mesa-de-trabajo-para-viabilizar-continuidad-del-proyecto-del-hospital-arzobispo-loayza/",
+        "pts": 2
       }
     ],
     "Cecilia Isabel Chacón De Vettori": [
@@ -7925,6 +8013,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 286 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PROMOCIÓN Y MASIFICACIÓN DEL USO DE ENERGÍA FOTOVOLTAICA, ASÍ COMO EL IMPULSO DE LA INVE...",
+        "d": "07/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/286",
         "pts": 3
       }
     ],
@@ -8186,6 +8282,16 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/264",
         "pts": 3
+      }
+    ],
+    "César Augusto Astudillo Salcedo": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Defensa Nacional y Orden Interno del Senado recibió a ministros de Defensa y del Interior",
+        "d": "07/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-del-senado-recibio-a-ministros-de-defensa-y-del-interior/",
+        "pts": 2
       }
     ]
   },
