@@ -1609,7 +1609,7 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-ratifica-designacion-de-julio-velarde-en-el-bcr/"
     },
     {
-      "title": "Comisión de Producción no aprueba informe sobre pedido de facultades en materia de MYPE, turismo y comercio",
+      "title": "Comisión de Producción no aprueba informe sobre pedido de facultades en materia de mype, turismo y comercio",
       "source": "Portal del Congreso",
       "date": "08 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-no-aprueba-informe-sobre-pedido-de-facultades-en-materia-de-mype-turismo-y-comercio/"
@@ -1621,7 +1621,7 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-en-asuntos-de-gestion-del-estado-del-senado-citara-a-ministros-de-salud-y-educacion/"
     },
     {
-      "title": "Presidente del Congreso se reúne con la SBS para coordinar acciones ante el Fenómeno El Niño y el apoyo a los agricultores",
+      "title": "Presidente del Congreso se reúne con la SBS para coordinar acciones ante el fenómeno El Niño y el apoyo a los agricultores",
       "source": "Portal del Congreso",
       "date": "08 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-la-sbs-para-coordinar-acciones-ante-el-fenomeno-el-nino-y-el-apoyo-a-los-agricultores/"
@@ -1647,7 +1647,7 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-alertan-sobre-crisis-en-el-sector-salud-y-demandan-soluciones-urgentes/"
     },
     {
-      "title": "Comisión de Producción no aprueba informe sobre pedido de facultades en materia de MYPE, turismo y comercio",
+      "title": "Comisión de Producción no aprueba informe sobre pedido de facultades en materia de mype, turismo y comercio",
       "source": "Portal del Congreso",
       "date": "08 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-no-aprueba-informe-sobre-pedido-de-facultades-en-materia-de-mype-turismo-y-comercio/"
@@ -4450,6 +4450,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/265",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 307 (Conformación de Comisiones de Investigación): CONFORMAR UNA COMISIÓN DE INVESTIGACIÓN ENCARGADA DE ESCLARECER LOS PRESUNTOS ACTOS DE MANIPULACIÓN ELECTORAL EJECUTADOS...",
+        "d": "08/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -6856,6 +6864,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-martha-moyano-promueve-encuentro-binacional-de-mujeres-poetas-afro-de-peru-y-colombia/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 85 (MOCIÓN DE SALUDO): EXPRESAR UN CÁLIDO SALUDO Y FELICITACIÓN AL SINDICATO NACIONAL DE FISIOTERAPEUTAS DEL SEGURO SOCIAL DE SALUD – SINAFISS ...",
+        "d": "09/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/85",
+        "pts": 3
       }
     ],
     "Percy Herbert Osorio Palpán": [
