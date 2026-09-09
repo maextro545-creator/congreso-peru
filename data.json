@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso: “Cuando la minería formal avanza, el país entero va hacia adelante”",
+      "source": "Portal del Congreso",
+      "date": "09 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-cuando-la-mineria-formal-avanza-el-pais-entero-va-hacia-adelante/"
+    },
+    {
+      "title": "Aprueban lineamientos para continuar trámite de 111 denuncias constitucionales pendientes",
+      "source": "Portal del Congreso",
+      "date": "09 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-lineamientos-para-continuar-tramite-de-111-denuncias-constitucionales-pendientes/"
+    },
+    {
       "title": "Produce advierte impacto de El Niño en la pesca y anuncia ante el Senado medidas de protección para pescadores",
       "source": "Portal del Congreso",
       "date": "08 Sep 2026",
@@ -1621,25 +1633,31 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-en-asuntos-de-gestion-del-estado-del-senado-citara-a-ministros-de-salud-y-educacion/"
     },
     {
-      "title": "Presidente del Congreso se reúne con la SBS para coordinar acciones ante el fenómeno El Niño y el apoyo a los agricultores",
+      "title": "Coordinan acciones ante el fenómeno El Niño y el apoyo a los sectores pesca, acuícola y derrama magisterial",
       "source": "Portal del Congreso",
       "date": "08 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-la-sbs-para-coordinar-acciones-ante-el-fenomeno-el-nino-y-el-apoyo-a-los-agricultores/"
-    },
-    {
-      "title": "Comisión de Justicia y Derechos Humanos reprograma invitación a ministro Ernesto Álvarez",
-      "source": "Portal del Congreso",
-      "date": "08 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-reprograma-invitacion-a-ministro-ernesto-alvarez/"
-    },
-    {
-      "title": "Comisión de Ciencia aprueba Plan de Trabajo y plantea agenda descentralizada para el periodo 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "08 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-aprueba-plan-de-trabajo-y-plantea-agenda-descentralizada-para-el-periodo-2026-2027/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/coordinan-acciones-ante-el-fenomeno-el-nino-y-el-apoyo-a-los-sectores-pesca-acuicola-y-derrama-magisterial/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Economía acuerda sesión extraordinaria para debate y votación de informe técnico sobre facultades legislativas",
+      "source": "Portal del Congreso",
+      "date": "09 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-acuerda-sesion-extraordinaria-para-debate-y-votacion-de-informe-tecnico-sobre-facultades-legislativas/"
+    },
+    {
+      "title": "Diputados analizaron pedido de facultades para modernizar el Estado y fortalecer la integridad pública",
+      "source": "Portal del Congreso",
+      "date": "09 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-analizaron-pedido-de-facultades-para-modernizar-el-estado-y-fortalecer-la-integridad-publica/"
+    },
+    {
+      "title": "Aprueban lineamientos para continuar trámite de 111 denuncias constitucionales pendientes",
+      "source": "Portal del Congreso",
+      "date": "09 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-lineamientos-para-continuar-tramite-de-111-denuncias-constitucionales-pendientes/"
+    },
     {
       "title": "Diputados alertan sobre crisis en el sector Salud y demandan soluciones urgentes",
       "source": "Portal del Congreso",
@@ -1651,30 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "08 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-no-aprueba-informe-sobre-pedido-de-facultades-en-materia-de-mype-turismo-y-comercio/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario acuerda invitar al ministro de Economía",
-      "source": "Portal del Congreso",
-      "date": "08 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-acuerda-invitar-al-ministro-de-economia/"
-    },
-    {
-      "title": "Comisión de Justicia y Derechos Humanos reprograma invitación a ministro Ernesto Álvarez",
-      "source": "Portal del Congreso",
-      "date": "08 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-reprograma-invitacion-a-ministro-ernesto-alvarez/"
-    },
-    {
-      "title": "Comisión de Ciencia aprueba Plan de Trabajo y plantea agenda descentralizada para el periodo 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "08 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-aprueba-plan-de-trabajo-y-plantea-agenda-descentralizada-para-el-periodo-2026-2027/"
-    },
-    {
-      "title": "Oscar Reto Otero recibe propuestas del Acuerdo Nacional para construir una agenda común",
-      "source": "Portal del Congreso",
-      "date": "08 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-otero-recibe-propuestas-del-acuerdo-nacional-para-construir-una-agenda-comun/"
     }
   ],
   "events_override": {
@@ -2135,6 +2129,14 @@
         "d": "08/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/mociones-para-conformar-comisiones-especiales-e-invitar-a-canciller-pasan-a-la-agenda-del-pleno-del-senado/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso: “Cuando la minería formal avanza, el país entero va hacia adelante”",
+        "d": "09/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-cuando-la-mineria-formal-avanza-el-pais-entero-va-hacia-adelante/",
         "pts": 2
       }
     ],
@@ -2984,6 +2986,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 312 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA INSTITUCIÓN EDUCATIVA PRIVADA SAN NICOLÁS DE TOLENTINO, CON OCASIÓN D...",
+        "d": "09/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/312",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 311 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA ESCUELA PROFESIONAL DE CIENCIA POLÍTICA DE LA UNIVERSIDAD NACIONAL MA...",
+        "d": "09/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/311",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 309 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA COMUNIDAD CAMPESINA DE QUIPARACRA, DISTRITO DE HUACHÓN, PROVINCIA Y D...",
+        "d": "09/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/309",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -3256,6 +3282,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Economía acuerda sesión extraordinaria para debate y votación de informe técnico sobre facultades legislativas",
+        "d": "09/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-acuerda-sesion-extraordinaria-para-debate-y-votacion-de-informe-tecnico-sobre-facultades-legislativas/",
+        "pts": 2
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -6680,6 +6714,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/193",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 310 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS AUTORIDADES MUNICIPALES, ORGANIZACIONES SOCIALES, PR...",
+        "d": "09/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/310",
+        "pts": 3
       }
     ],
     "Gloria Charito Hirache Pizarro": [
@@ -6697,6 +6739,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/91",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 308 (Mociones de Saludo): EXPRESAR EL SALUDO INSTITUCIONAL Y LA MÁS CORDIAL FELICITACIÓN DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A ...",
+        "d": "09/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/308",
         "pts": 3
       }
     ],
@@ -6984,6 +7034,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-analizaron-prioridades-de-la-politica-exterior-y-plantearon-fortalecer-la-integracion-regional/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 86 (MOCIÓN DE SALUDO): EXPRESAR UN EFUSIVO Y CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL COLEGIO DE CONTADORES PÚBLICOS DE LIMA (CCPL) CON...",
+        "d": "09/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/86",
+        "pts": 3
       }
     ],
     "Andrés Avelino Ramos Huillcas": [
@@ -8043,6 +8101,14 @@
         "d": "20/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/28",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 87 (DE INTERÉS NACIONAL): EXPRESAR SU RESPALDO INSTITUCIONAL A LA CONTINUIDAD Y CULMINACIÓN DE LAS INVERSIONES PÚBLICAS EJECUTADAS POR LOS GOBIERN...",
+        "d": "09/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/87",
         "pts": 3
       }
     ],
