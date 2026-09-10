@@ -1597,49 +1597,73 @@
   },
   "senado_news": [
     {
-      "title": "Pleno da cuenta de moción que propone interpelar al ministro del Interior",
+      "title": "Comisión de Justicia del Senado aprueba plan de trabajo 2026-2027 y acuerda citar a ministros",
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-da-cuenta-de-mocion-que-propone-interpelar-al-ministro-del-interior/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-aprueba-plan-de-trabajo-2026-2027-y-acuerda-citar-a-ministros/"
     },
     {
-      "title": "Canciller Carlos Espá se presentará ante el Pleno del Senado el 16 de setiembre",
+      "title": "Presidente del Congreso y titular del TC coinciden en fortalecer el trabajo institucional por el país",
       "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/canciller-carlos-espa-se-presentara-ante-el-pleno-del-senado-el-16-de-setiembre/"
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-del-tc-coinciden-en-fortalecer-el-trabajo-institucional-por-el-pais/"
     },
     {
-      "title": "Senado aprueba creación de la Comisión Especial Multipartidaria de Seguridad Ciudadana por 12 meses",
+      "title": "Comisión de Control Político aprueba plan de trabajo y valida decretos sobre transporte y estado de emergencia",
       "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-creacion-de-la-comision-especial-multipartidaria-de-seguridad-ciudadana-por-12-meses/"
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-aprueba-plan-de-trabajo-y-valida-decretos-sobre-transporte-y-estado-de-emergencia/"
     },
     {
-      "title": "Crean Comisión Especial Multipartidaria de Transferencia Tecnológica e Innovación Rural",
+      "title": "Comisiones de Defensa Nacional del Senado y de Diputados realizarán conferencia conjunta sobre el fenómeno El Niño",
       "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/crean-comision-especial-multipartidaria-de-transferencia-tecnologica-e-innovacion-rural/"
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-realizaran-conferencia-conjunta-sobre-el-fenomeno-de-el-nino/"
     },
     {
-      "title": "Comisión de Educación invitará al ministro del sector para exponer política educativa",
+      "title": "Comisión de Justicia aprueba informe que declara no viable delegación de facultades legislativas",
       "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-invitara-al-ministro-del-sector-para-exponer-politica-educativa/"
-    },
-    {
-      "title": "Pleno del Senado aprueba creación de comisión especial para la protección integral de la infancia y adolescencia",
-      "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-aprueba-creacion-de-comision-especial-para-la-proteccion-integral-de-la-infancia-y-adolescencia/"
-    },
-    {
-      "title": "Senado aprueba creación de comisión especial sobre el Fenómeno El Niño y gestión del riesgo",
-      "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-creacion-de-comision-especial-sobre-el-fenomeno-el-nino-y-gestion-del-riesgo/"
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-informe-que-declara-no-viable-delegacion-de-facultades-legislativas/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Cámara de Diputados aprueba comisión especial para fiscalizar acciones frente al fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-aprueba-comision-especial-para-fiscalizar-acciones-frente-al-fenomeno-el-nino/"
+    },
+    {
+      "title": "Comisión de Control Político aprueba plan de trabajo y valida decretos sobre transporte y estado de emergencia",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-aprueba-plan-de-trabajo-y-valida-decretos-sobre-transporte-y-estado-de-emergencia/"
+    },
+    {
+      "title": "Comisiones de Defensa Nacional del Senado y de Diputados realizarán conferencia conjunta sobre el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-realizaran-conferencia-conjunta-sobre-el-fenomeno-de-el-nino/"
+    },
+    {
+      "title": "Al archivo moción que proponía invitar al ministro del Interior",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/al-archivo-mocion-que-proponia-invitar-al-ministro-del-interior/"
+    },
+    {
+      "title": "Pleno de Diputados acuerda invitar a titulares de la PCM, Interior y Defensa",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-diputados-acuerda-invitar-a-titulares-de-la-pcm-interior-y-defensa/"
+    },
+    {
+      "title": "Comisión de Justicia aprueba informe que declara no viable delegación de facultades legislativas",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-informe-que-declara-no-viable-delegacion-de-facultades-legislativas/"
+    },
     {
       "title": "Pleno da cuenta de moción que propone interpelar al ministro del Interior",
       "source": "Portal del Congreso",
@@ -1651,24 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/dan-cuenta-de-mocion-de-interpelacion-contra-el-ministro-de-defensa/"
-    },
-    {
-      "title": "Citarán a ministro de Salud a la Comisión de Trabajo de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/citaran-a-ministro-de-salud-a-la-comision-de-trabajo-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Comisión de Educación invitará al ministro del sector para exponer política educativa",
-      "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-invitara-al-ministro-del-sector-para-exponer-politica-educativa/"
-    },
-    {
-      "title": "Diputados piden mayor precisión al Ejecutivo en solicitud de facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-piden-mayor-precision-al-ejecutivo-en-solicitud-de-facultades-legislativas/"
     }
   ],
   "events_override": {
@@ -2137,6 +2143,14 @@
         "d": "09/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-cuando-la-mineria-formal-avanza-el-pais-entero-va-hacia-adelante/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso y titular del TC coinciden en fortalecer el trabajo institucional por el país",
+        "d": "10/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-del-tc-coinciden-en-fortalecer-el-trabajo-institucional-por-el-pais/",
         "pts": 2
       }
     ],
@@ -2708,6 +2722,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/261",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 332 (Conformación de Comisiones de Investigación): CONFORMAR LA “COMISIÓN DE INVESTIGACIÓN SOBRE LA EJECUCIÓN Y LAS ACTUACIONES DESTINADAS A LA CULMINACIÓN DEL PROYECTO DE...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/332",
+        "pts": 3
       }
     ],
     "Arturo César Eusebio Padilla": [
@@ -2725,6 +2747,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 332 (Conformación de Comisiones de Investigación): CONFORMAR LA “COMISIÓN DE INVESTIGACIÓN SOBRE LA EJECUCIÓN Y LAS ACTUACIONES DESTINADAS A LA CULMINACIÓN DEL PROYECTO DE...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/332",
         "pts": 3
       }
     ],
@@ -2785,6 +2815,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 332 (Conformación de Comisiones de Investigación): CONFORMAR LA “COMISIÓN DE INVESTIGACIÓN SOBRE LA EJECUCIÓN Y LAS ACTUACIONES DESTINADAS A LA CULMINACIÓN DEL PROYECTO DE...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/332",
         "pts": 3
       }
     ],
@@ -2871,6 +2909,14 @@
         "d": "04/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/274",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 332 (Conformación de Comisiones de Investigación): CONFORMAR LA “COMISIÓN DE INVESTIGACIÓN SOBRE LA EJECUCIÓN Y LAS ACTUACIONES DESTINADAS A LA CULMINACIÓN DEL PROYECTO DE...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/332",
         "pts": 3
       }
     ],
@@ -3042,6 +3088,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/309",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 336 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL DE PERSONAS CON DISCAPACIDAD DE LA CÁMARA DE DIPUTADOS, QUE TENDRÁ COMO OBJETO ESTUDIAR, ANAL...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/336",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 332 (Conformación de Comisiones de Investigación): CONFORMAR LA “COMISIÓN DE INVESTIGACIÓN SOBRE LA EJECUCIÓN Y LAS ACTUACIONES DESTINADAS A LA CULMINACIÓN DEL PROYECTO DE...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/332",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -3052,6 +3114,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/5",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 332 (Conformación de Comisiones de Investigación): CONFORMAR LA “COMISIÓN DE INVESTIGACIÓN SOBRE LA EJECUCIÓN Y LAS ACTUACIONES DESTINADAS A LA CULMINACIÓN DEL PROYECTO DE...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/332",
+        "pts": 3
       }
     ],
     "Indira Isabel Huilca Flores": [
@@ -4204,6 +4274,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/261",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 336 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL DE PERSONAS CON DISCAPACIDAD DE LA CÁMARA DE DIPUTADOS, QUE TENDRÁ COMO OBJETO ESTUDIAR, ANAL...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/336",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -4237,6 +4315,14 @@
         "d": "09/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/323",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 333 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DISTRITO DE YANAS, PROVINCIA DE DOS DE MAYO Y DEPARTAMENTO DE HUÁNUCO, A...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/333",
         "pts": 3
       }
     ],
@@ -4855,6 +4941,14 @@
         "d": "04/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/272",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 337 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO Y FELICITACIÓN A LA GRAN UNIDAD ESCOLAR SANTA INÉS DE YUNGAY, ACTUALMENTE INSTITUCIÓN E...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/337",
         "pts": 3
       }
     ],
@@ -6472,6 +6566,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 331 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y RECONOCIMIENTO A TODOS LOS CONTADORES PÚBLICOS DEL PERÚ, CON MOTIVO DE CONMEMORARSE EL DÍA ...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/331",
+        "pts": 3
       }
     ],
     "Graciela Chipana Condori": [
@@ -7478,6 +7580,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/57",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Justicia del Senado aprueba plan de trabajo 2026-2027 y acuerda citar a ministros",
+        "d": "10/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-aprueba-plan-de-trabajo-2026-2027-y-acuerda-citar-a-ministros/",
+        "pts": 2
       }
     ],
     "Susana Flor de María Matute Charun": [
@@ -8737,6 +8847,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/235",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 335 (Mociones de Saludo): Expresar su cordial saludo, reconocimiento y felicitación a la población del distrito de Pampa Hermosa, provincia de Uca...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/335",
         "pts": 3
       }
     ],
