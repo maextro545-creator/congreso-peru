@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Pleno da cuenta de moción que propone interpelar al ministro del Interior",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-da-cuenta-de-mocion-que-propone-interpelar-al-ministro-del-interior/"
+    },
+    {
       "title": "Canciller Carlos Espá se presentará ante el Pleno del Senado el 16 de setiembre",
       "source": "Portal del Congreso",
       "date": "09 Sep 2026",
@@ -1631,23 +1637,23 @@
       "source": "Portal del Congreso",
       "date": "09 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-creacion-de-comision-especial-sobre-el-fenomeno-el-nino-y-gestion-del-riesgo/"
-    },
-    {
-      "title": "Pleno del Senado aprueba prórroga del estado de emergencia en distritos de Chupaca y Huancayo",
-      "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-aprueba-prorroga-del-estado-de-emergencia-en-distritos-de-chupaca-y-huancayo/"
-    },
-    {
-      "title": "Pleno del Senado autoriza ingreso de personal militar de Bolivia a territorio peruano",
-      "source": "Portal del Congreso",
-      "date": "09 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-autoriza-ingreso-de-personal-militar-de-bolivia-a-territorio-peruano/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Citarán a ministro de Salud a la Comisión de Trabajo de la Cámara de Diputados.",
+      "title": "Pleno da cuenta de moción que propone interpelar al ministro del Interior",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-da-cuenta-de-mocion-que-propone-interpelar-al-ministro-del-interior/"
+    },
+    {
+      "title": "Dan cuenta de moción de interpelación contra el ministro de Defensa",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/dan-cuenta-de-mocion-de-interpelacion-contra-el-ministro-de-defensa/"
+    },
+    {
+      "title": "Citarán a ministro de Salud a la Comisión de Trabajo de la Cámara de Diputados",
       "source": "Portal del Congreso",
       "date": "09 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/citaran-a-ministro-de-salud-a-la-comision-de-trabajo-de-la-camara-de-diputados/"
@@ -7308,6 +7314,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/79",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 330 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL CLUB LIBERTAD DE TRUJILLO, CON MOTIVO DE CONMEMORARSE, EL 11 DE SEPTIEMBRE ...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/330",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 329 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EFUSIVO SALUDO Y FELICITACIÓN A LA PROVINCIA DE CHEPÉN, REGIÓN LA LIBERTAD, CON MOTIVO DE CONM...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/329",
+        "pts": 3
       }
     ],
     "Jessica Lizbeth Navas Sánchez": [
@@ -8100,6 +8122,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/286",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 328 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO A LA ASOCIACIÓN KENSHU KIOKAY DEL PERU, CON MOTIVO DE CELEBRAR SU 60° ANIVERSARIO DE...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/328",
+        "pts": 3
       }
     ],
     "Paola Isabel Martínez Paitán": [
@@ -8747,6 +8777,14 @@
         "d": "07/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-del-senado-recibio-a-ministros-de-defensa-y-del-interior/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Pleno da cuenta de moción que propone interpelar al ministro del Interior",
+        "d": "10/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-da-cuenta-de-mocion-que-propone-interpelar-al-ministro-del-interior/",
         "pts": 2
       }
     ]
