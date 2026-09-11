@@ -293,6 +293,13 @@
       border-radius: 12px;
       padding: clamp(14px, 2vw, 24px);
     }
+    #panel-m {
+      border-top: 6px solid #e8680a; /* Amber / Orange alert border for media debate */
+      box-shadow: 0 10px 30px rgba(232,104,10,0.06);
+      background: var(--panel-bg-r);
+      border-radius: 12px;
+      padding: clamp(14px, 2vw, 24px);
+    }
     #panel-r {
       border-top: 6px solid #c5a059; /* Gold carpet border */
       box-shadow: 0 10px 30px rgba(197,160,89,0.06);
@@ -1111,6 +1118,7 @@
     <div class="tabs" id="tabs-menu">
       <button class="tab on" id="tab-s" onclick="switchTab('s')"><span>🎖️ Cámara de Senadores</span> <span class="badge">60</span></button>
       <button class="tab" id="tab-d" onclick="switchTab('d')"><span>🏛️ Cámara de Diputados</span> <span class="badge">130</span></button>
+      <button class="tab" id="tab-m" onclick="switchTab('m')"><span>⚖️ Ley Mediática</span> <span class="badge" style="background:#e8680a;color:#fff;">Debate</span></button>
       <button class="tab" id="tab-r" onclick="switchTab('r')"><span>🏆 Ranking de Trabajo ("Chambómetro")</span></button>
     </div>
   </div>
@@ -1162,6 +1170,136 @@
       <div class="news-grid" id="news-grid-d">
         <!-- Rendered dynamically -->
       </div>
+    </div>
+  </div>
+
+  <div class="panel" id="panel-m">
+    <div style="background:var(--card);border:1px solid var(--border);border-radius:12px;padding:clamp(16px, 3vw, 26px);box-shadow:var(--shadow);margin-bottom:20px;">
+      
+      <!-- Encabezado de Portada Periodística -->
+      <div style="display:flex;align-items:center;gap:8px;margin-bottom:12px;flex-wrap:wrap;">
+        <span style="background:linear-gradient(135deg, #e8680a, #c2410c);color:#fff;font-size:0.68rem;font-weight:800;padding:4px 10px;border-radius:50px;text-transform:uppercase;letter-spacing:0.5px;">🔥 LEY MEDIÁTICA • DEBATE NACIONAL</span>
+        <span style="font-size:0.72rem;color:var(--sub);font-weight:600;">📅 Periodo Bicameral 2026-2031</span>
+      </div>
+
+      <h1 style="font-size:clamp(1.2rem, 2.5vw, 1.7rem);font-weight:800;color:var(--text);line-height:1.3;margin:0 0 10px 0;">
+        ¿Adiós al tope de tasas de interés en los bancos?
+      </h1>
+      <p style="font-size:0.88rem;color:var(--sub);line-height:1.6;margin:0 0 18px 0;max-width:900px;">
+        El Poder Ejecutivo y sectores parlamentarios plantean modificar el artículo 6 de la <strong>Ley 28587</strong> (Protección al Consumidor Financiero) y el artículo 9 de la <strong>Ley 26702</strong> (Ley General del Sistema Financiero y Orgánica de la SBS), con el fin de eliminar las disposiciones vinculadas con los <strong>topes a las tasas de interés</strong> introducidas por la <strong>Ley N° 31143 (Ley Antiusura)</strong>, permitiendo que bancos y financieras fijen sus tasas libremente.
+      </p>
+
+      <!-- Ficha de Protagonistas / Promotores con su cara -->
+      <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:14px;margin-bottom:24px;">
+        
+        <!-- Tarjeta Keiko Fujimori (Poder Ejecutivo) -->
+        <div style="background:var(--card2);border:1px solid var(--border);border-radius:12px;padding:14px;display:flex;gap:14px;align-items:center;">
+          <div style="position:relative;flex-shrink:0;">
+            <img src="photos/keiko-fujimori.jpg" alt="Keiko Fujimori" style="width:78px;height:78px;border-radius:50%;object-fit:cover;border:3px solid #e8680a;box-shadow:0 3px 10px rgba(232,104,10,0.25);" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=KF&backgroundColor=e8680a&textColor=ffffff&radius=50';" />
+            <span style="position:absolute;bottom:0;right:0;background:#e8680a;color:#fff;font-size:0.6rem;padding:2px 6px;border-radius:50px;font-weight:bold;">Ejecutivo</span>
+          </div>
+          <div>
+            <div style="font-size:0.68rem;font-weight:700;color:#e8680a;text-transform:uppercase;">Iniciativa del Poder Ejecutivo</div>
+            <div style="font-size:0.95rem;font-weight:800;color:var(--text);line-height:1.2;">Keiko Fujimori Higuchi</div>
+            <div style="font-size:0.72rem;color:var(--sub);margin:2px 0 6px 0;">Presidenta de la República / Gobierno</div>
+            <div style="font-size:0.75rem;color:var(--text);line-height:1.4;background:var(--card);padding:6px 10px;border-radius:6px;border:1px solid var(--border);">
+              Planteó el pedido de facultades legislativas para derogar la Ley 31143, señalando que los topes excluyeron a más de <strong>540,000 peruanos</strong> del crédito bancario formal.
+            </div>
+          </div>
+        </div>
+
+        <!-- Tarjeta Ilich López (Promotor Parlamentario) -->
+        <div style="background:var(--card2);border:1px solid var(--border);border-radius:12px;padding:14px;display:flex;gap:14px;align-items:center;">
+          <div style="position:relative;flex-shrink:0;">
+            <img src="photos/ilich-lopez.jpg" alt="Ilich López" style="width:78px;height:78px;border-radius:50%;object-fit:cover;border:3px solid #1a6faa;box-shadow:0 3px 10px rgba(26,111,170,0.25);" onerror="this.src='https://api.dicebear.com/7.x/initials/svg?seed=IL&backgroundColor=1a6faa&textColor=ffffff&radius=50';" />
+            <span style="position:absolute;bottom:0;right:0;background:#1a6faa;color:#fff;font-size:0.6rem;padding:2px 6px;border-radius:50px;font-weight:bold;">Congreso</span>
+          </div>
+          <div>
+            <div style="font-size:0.68rem;font-weight:700;color:#1a6faa;text-transform:uppercase;">Impulsor en Comisión de Economía</div>
+            <div style="font-size:0.95rem;font-weight:800;color:var(--text);line-height:1.2;">Ilich Fredy López Ureña</div>
+            <div style="font-size:0.72rem;color:var(--sub);margin:2px 0 6px 0;">Congresista / Ex-Pdte. Comisión de Economía</div>
+            <div style="font-size:0.75rem;color:var(--text);line-height:1.4;background:var(--card);padding:6px 10px;border-radius:6px;border:1px solid var(--border);">
+              Lideró en el Parlamento la postura favorable a liberar las tasas de interés bancarias, advirtiendo que los controles de precios en el dinero empujan a la informalidad.
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Debate: Balanza de Argumentos Enfrentados -->
+      <div style="margin-bottom:24px;">
+        <div style="font-size:0.8rem;font-weight:800;color:var(--text);margin-bottom:10px;text-transform:uppercase;letter-spacing:0.5px;">
+          ⚖️ El Gran Debate: Argumentos Enfrentados
+        </div>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit, minmax(290px, 1fr));gap:14px;">
+          
+          <!-- Postura A FAVOR -->
+          <div style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:14px;">
+            <div style="display:flex;align-items:center;gap:6px;margin-bottom:8px;">
+              <span style="font-size:1.1rem;">📈</span>
+              <span style="font-size:0.82rem;font-weight:800;color:#166534;">A FAVOR de eliminar el tope (Banca y Ejecutivo)</span>
+            </div>
+            <ul style="margin:0;padding-left:18px;font-size:0.75rem;color:#14532d;line-height:1.6;">
+              <li><strong>Inclusión Financiera:</strong> Más de 542,900 microempresarios y clientes fueron expulsados del sistema bancario formal al no poder acceder a créditos con tasas limitadas.</li>
+              <li><strong>Freno al "Gota a Gota":</strong> El IPE estima que 600,000 hogares urbanos terminaron acudiendo a prestamistas informales y redes de extorsión ilegal al ser rechazados por bancos.</li>
+              <li><strong>Mayor Oferta Crediticia:</strong> Al permitir tasas acordes al riesgo, las entidades financieras vuelven a prestar a personas sin historial o con ingresos variables.</li>
+            </ul>
+          </div>
+
+          <!-- Postura EN CONTRA -->
+          <div style="background:#fef2f2;border:1px solid #fecaca;border-radius:10px;padding:14px;">
+            <div style="display:flex;align-items:center;gap:6px;margin-bottom:8px;">
+              <span style="font-size:1.1rem;">📉</span>
+              <span style="font-size:0.82rem;font-weight:800;color:#991b1b;">EN CONTRA / Alerta de Usura (Consumidores)</span>
+            </div>
+            <ul style="margin:0;padding-left:18px;font-size:0.75rem;color:#7f1d1d;line-height:1.6;">
+              <li><strong>Riesgo de Cobros Excesivos:</strong> Antes de la Ley 31143, las tarjetas de crédito y préstamos personales cobraban tasas superiores al 120%, 150% o hasta 200% anual (TCEA).</li>
+              <li><strong>Sobreendeudamiento Ciudadano:</strong> Sin un tope legal fijado por el BCRP, las familias trabajadoras pueden quedar atrapadas en intereses impagables.</li>
+              <li><strong>Falta de Competencia Real:</strong> El mercado bancario peruano está altamente concentrado en pocos bancos que pueden imponer condiciones abusivas.</li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Encuesta Ciudadana Interactiva -->
+      <div style="background:var(--card2);border:1px solid var(--border);border-radius:10px;padding:16px;margin-bottom:20px;text-align:center;">
+        <div style="font-size:0.82rem;font-weight:800;color:var(--text);margin-bottom:4px;">🗳️ ¿Cuál es tu postura ciudadana?</div>
+        <div style="font-size:0.72rem;color:var(--sub);margin-bottom:12px;">Tu voto se registra en tu navegador en tiempo real.</div>
+        
+        <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-bottom:14px;" id="poll-btn-group">
+          <button onclick="voteMediaPoll('favor')" id="btn-poll-favor" style="background:#166534;color:#fff;border:none;padding:9px 16px;border-radius:8px;font-size:0.75rem;font-weight:700;cursor:pointer;display:flex;align-items:center;gap:6px;transition:transform 0.15s, opacity 0.15s;">
+            👍 A Favor de Eliminar Topes (Más Crédito)
+          </button>
+          <button onclick="voteMediaPoll('contra')" id="btn-poll-contra" style="background:#991b1b;color:#fff;border:none;padding:9px 16px;border-radius:8px;font-size:0.75rem;font-weight:700;cursor:pointer;display:flex;align-items:center;gap:6px;transition:transform 0.15s, opacity 0.15s;">
+            👎 En Contra (Mantener Ley Antiusura)
+          </button>
+        </div>
+
+        <!-- Barra de progreso de la votación -->
+        <div style="max-width:500px;margin:0 auto;">
+          <div style="display:flex;justify-content:space-between;font-size:0.7rem;font-weight:700;margin-bottom:4px;">
+            <span style="color:#166534;" id="poll-favor-pct">A Favor: 48%</span>
+            <span style="color:#991b1b;" id="poll-contra-pct">En Contra: 52%</span>
+          </div>
+          <div style="height:10px;background:#fee2e2;border-radius:50px;overflow:hidden;display:flex;">
+            <div id="poll-bar-favor" style="width:48%;background:#22c55e;transition:width 0.4s ease;"></div>
+            <div id="poll-bar-contra" style="width:52%;background:#ef4444;transition:width 0.4s ease;"></div>
+          </div>
+          <div id="poll-status-msg" style="font-size:0.68rem;color:var(--sub);margin-top:6px;">Total de votos registrados: <span id="poll-total-votes">1,248</span></div>
+        </div>
+      </div>
+
+      <!-- Enlace a la Noticia Oficial -->
+      <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;padding-top:10px;border-top:1px solid var(--border);">
+        <div style="font-size:0.72rem;color:var(--sub);">
+          Fuente periodística: <strong>Infobae Perú</strong> &bull; Cobertura especial sobre tasas de interés bancarias.
+        </div>
+        <a href="https://www.infobae.com/peru/2026/07/30/ejecutivo-busca-eliminar-ley-antiusura-para-que-bancos-puedan-volver-subir-tasas-de-interes/" target="_blank" style="text-decoration:none;background:var(--card);color:var(--text);border:1px solid var(--border);padding:7px 14px;border-radius:8px;font-size:0.75rem;font-weight:700;display:inline-flex;align-items:center;gap:6px;transition:all 0.15s;box-shadow:var(--shadow);">
+          📰 Ver artículo completo en Infobae &rarr;
+        </a>
+      </div>
+
     </div>
   </div>
 
@@ -2171,7 +2309,7 @@ function switchTab(t){
 }
 
 function slideChamber(dir) {
-  const tabs = ['s', 'd', 'r'];
+  const tabs = ['s', 'd', 'm', 'r'];
   let activeTab = 's';
   for (const t of tabs) {
     const el = document.getElementById('panel-' + t);
@@ -2183,6 +2321,66 @@ function slideChamber(dir) {
   let index = tabs.indexOf(activeTab);
   index = (index + dir + tabs.length) % tabs.length;
   switchTab(tabs[index]);
+}
+
+// Encuesta Interactiva de Ley Mediática
+function initMediaPoll() {
+  let votes = JSON.parse(localStorage.getItem('media_poll_votes') || '{"favor": 598, "contra": 650}');
+  const userVote = localStorage.getItem('media_poll_user_vote');
+  updatePollUI(votes, userVote);
+}
+
+function voteMediaPoll(type) {
+  let votes = JSON.parse(localStorage.getItem('media_poll_votes') || '{"favor": 598, "contra": 650}');
+  const prevVote = localStorage.getItem('media_poll_user_vote');
+  
+  if (prevVote === type) {
+    return; // Ya votó por esta opción
+  }
+  
+  if (prevVote) {
+    votes[prevVote] = Math.max(0, votes[prevVote] - 1);
+  }
+  
+  votes[type] = (votes[type] || 0) + 1;
+  localStorage.setItem('media_poll_votes', JSON.stringify(votes));
+  localStorage.setItem('media_poll_user_vote', type);
+  
+  updatePollUI(votes, type);
+}
+
+function updatePollUI(votes, userVote) {
+  const total = (votes.favor || 0) + (votes.contra || 0);
+  const favorPct = total > 0 ? Math.round((votes.favor / total) * 100) : 50;
+  const contraPct = 100 - favorPct;
+  
+  const barFavor = document.getElementById('poll-bar-favor');
+  const barContra = document.getElementById('poll-bar-contra');
+  const txtFavor = document.getElementById('poll-favor-pct');
+  const txtContra = document.getElementById('poll-contra-pct');
+  const totalEl = document.getElementById('poll-total-votes');
+  
+  if (barFavor) barFavor.style.width = favorPct + '%';
+  if (barContra) barContra.style.width = contraPct + '%';
+  if (txtFavor) txtFavor.textContent = 'A Favor: ' + favorPct + '% (' + votes.favor + ')';
+  if (txtContra) txtContra.textContent = 'En Contra: ' + contraPct + '% (' + votes.contra + ')';
+  if (totalEl) totalEl.textContent = total.toLocaleString();
+  
+  const btnFavor = document.getElementById('btn-poll-favor');
+  const btnContra = document.getElementById('btn-poll-contra');
+  if (btnFavor && btnContra) {
+    if (userVote === 'favor') {
+      btnFavor.style.outline = '3px solid #4ade80';
+      btnContra.style.outline = 'none';
+      btnFavor.style.opacity = '1';
+      btnContra.style.opacity = '0.65';
+    } else if (userVote === 'contra') {
+      btnContra.style.outline = '3px solid #f87171';
+      btnFavor.style.outline = 'none';
+      btnContra.style.opacity = '1';
+      btnFavor.style.opacity = '0.65';
+    }
+  }
 }
 
 // Global Touch Swipe Gesture Detection for Chamber Swiping
@@ -2791,6 +2989,7 @@ async function init() {
     renderAll(initialSize);
     renderLeg('leg-s', SD, 's');
     renderLeg('leg-d', DD, 'd');
+    initMediaPoll();
   } catch (err) {
     console.error("Error loading data.json:", err);
   }

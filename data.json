@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso participó en Sesión Solemne por el 30.° aniversario de la Defensoría del Pueblo",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-sesion-solemne-por-el-30-aniversario-de-la-defensoria-del-pueblo/"
+    },
+    {
       "title": "Pleno cita al ministro del Interior para responder pliego interpelatorio",
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
@@ -1625,12 +1631,6 @@
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-realizaran-conferencia-conjunta-sobre-el-fenomeno-de-el-nino/"
-    },
-    {
-      "title": "Comisión de Justicia aprueba informe que declara no viable delegación de facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-informe-que-declara-no-viable-delegacion-de-facultades-legislativas/"
     }
   ],
   "diputados_news": [
@@ -1681,12 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-diputados-acuerda-invitar-a-titulares-de-la-pcm-interior-y-defensa/"
-    },
-    {
-      "title": "Comisión de Justicia aprueba informe que declara no viable delegación de facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-informe-que-declara-no-viable-delegacion-de-facultades-legislativas/"
     }
   ],
   "events_override": {
@@ -2163,6 +2157,14 @@
         "d": "10/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-del-tc-coinciden-en-fortalecer-el-trabajo-institucional-por-el-pais/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en Sesión Solemne por el 30.° aniversario de la Defensoría del Pueblo",
+        "d": "11/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-sesion-solemne-por-el-30-aniversario-de-la-defensoria-del-pueblo/",
         "pts": 2
       }
     ],
@@ -4970,6 +4972,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/342",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 346 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO Y FELICITACIÓN A LA GRAN UNIDAD ESCOLAR SANTA INÉS DE YUNGAY, ACTUALMENTE INSTITUCIÓN E...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/346",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 344 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO Y RECONOCIMIENTO A TODAS LAS GEÓLOGAS Y TODOS LOS GEÓLOGOS DEL PAÍS, CON MOTIVO DE CONM...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/344",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -7063,6 +7081,14 @@
         "d": "04/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/275",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 345 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS A LA DEFENSORÍA DEL PUEBLO, CON MOTIVO DE CONMEMOR...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/345",
         "pts": 3
       }
     ],
