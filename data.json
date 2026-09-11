@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Pleno cita al ministro del Interior para responder pliego interpelatorio",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-cita-al-ministro-del-interior-para-responder-pliego-interpelatorio/"
+    },
+    {
       "title": "Comisión de Justicia del Senado aprueba plan de trabajo 2026-2027 y acuerda citar a ministros",
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
@@ -1628,6 +1634,24 @@
     }
   ],
   "diputados_news": [
+    {
+      "title": "Pleno cita al ministro del Interior para responder pliego interpelatorio",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-cita-al-ministro-del-interior-para-responder-pliego-interpelatorio/"
+    },
+    {
+      "title": "Cámara de Diputados archiva moción que planteaba interpelar al ministro de Defensa",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-archiva-mocion-que-planteaba-interpelar-al-ministro-de-defensa/"
+    },
+    {
+      "title": "Presidente del Congreso y titular del TC coinciden en fortalecer el trabajo institucional por el país",
+      "source": "Portal del Congreso",
+      "date": "10 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-del-tc-coinciden-en-fortalecer-el-trabajo-institucional-por-el-pais/"
+    },
     {
       "title": "Cámara de Diputados aprueba comisión especial para fiscalizar acciones frente al fenómeno El Niño",
       "source": "Portal del Congreso",
@@ -1663,18 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-informe-que-declara-no-viable-delegacion-de-facultades-legislativas/"
-    },
-    {
-      "title": "Pleno da cuenta de moción que propone interpelar al ministro del Interior",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-da-cuenta-de-mocion-que-propone-interpelar-al-ministro-del-interior/"
-    },
-    {
-      "title": "Dan cuenta de moción de interpelación contra el ministro de Defensa",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/dan-cuenta-de-mocion-de-interpelacion-contra-el-ministro-de-defensa/"
     }
   ],
   "events_override": {
@@ -4950,6 +4962,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/337",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 342 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y ESPECIAL RECONOCIMIENTO A LOS CONTADORES PÚBLICOS DEL PAÍS, CON MOTIVO DE CONMEMORARSE, ...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/342",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -6722,6 +6742,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 338 (Mociones de Saludo): EXPRESAR SALUDOS POR EL 108° ANIVERSARIO DE CREACIÓN Y 89° ANIVERSARIO DE FUNCIONAMIENTO DE LA GRAN UNIDAD ESCOLAR (G.U....",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/338",
+        "pts": 3
       }
     ],
     "Remigio Condori Flores": [
@@ -6811,6 +6839,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 343 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL COLEGIO DE CONTADORES PÚBLICOS DE PUNO, CON MOTIVO DE C...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/343",
         "pts": 3
       }
     ],
@@ -7442,6 +7478,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/78",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 340 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y PÚBLICO LA PROTECCIÓN, CONSERVACIÓN Y MANEJO SOSTENIBLE DE LAS CABECERAS DE CUENCA DE LO...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
       }
     ],
     "Javier Alejandro Castro Cruz": [
@@ -7491,6 +7535,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/298",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 340 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y PÚBLICO LA PROTECCIÓN, CONSERVACIÓN Y MANEJO SOSTENIBLE DE LAS CABECERAS DE CUENCA DE LO...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
         "pts": 3
       }
     ],
@@ -7631,6 +7683,14 @@
         "d": "28/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/51",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 91 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA DEFENSORÍA DEL PUEBLO, A TRAVÉS DE JOSUÉ MANUEL GUTIÉRREZ CONDOR,...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/91",
         "pts": 3
       }
     ],
@@ -8240,6 +8300,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/328",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 340 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y PÚBLICO LA PROTECCIÓN, CONSERVACIÓN Y MANEJO SOSTENIBLE DE LAS CABECERAS DE CUENCA DE LO...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
       }
     ],
     "Paola Isabel Martínez Paitán": [
@@ -8309,6 +8377,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/295",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 340 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y PÚBLICO LA PROTECCIÓN, CONSERVACIÓN Y MANEJO SOSTENIBLE DE LAS CABECERAS DE CUENCA DE LO...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
         "pts": 3
       }
     ],
@@ -8602,6 +8678,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/286",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 340 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y PÚBLICO LA PROTECCIÓN, CONSERVACIÓN Y MANEJO SOSTENIBLE DE LAS CABECERAS DE CUENCA DE LO...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
       }
     ],
     "Juana Guisella Ticona Cohaila": [
@@ -8818,6 +8902,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/271",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 340 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y PÚBLICO LA PROTECCIÓN, CONSERVACIÓN Y MANEJO SOSTENIBLE DE LAS CABECERAS DE CUENCA DE LO...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
       }
     ],
     "Romina Alejandra Uribe Saenz": [
@@ -8904,6 +8996,24 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-da-cuenta-de-mocion-que-propone-interpelar-al-ministro-del-interior/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Pleno cita al ministro del Interior para responder pliego interpelatorio",
+        "d": "10/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-cita-al-ministro-del-interior-para-responder-pliego-interpelatorio/",
+        "pts": 2
+      }
+    ],
+    "Segundo Senovio Ticlla Rafael": [
+      {
+        "t": "📌",
+        "a": "Moción N° 340 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y PÚBLICO LA PROTECCIÓN, CONSERVACIÓN Y MANEJO SOSTENIBLE DE LAS CABECERAS DE CUENCA DE LO...",
+        "d": "10/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
       }
     ]
   },
