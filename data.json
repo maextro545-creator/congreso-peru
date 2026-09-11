@@ -1597,16 +1597,22 @@
   },
   "senado_news": [
     {
+      "title": "Parlamentarios cristianos dialogaron sobre vida, familia y niñez con Jim Garlow",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-cristianos-dialogaron-sobre-vida-familia-y-ninez-con-jim-garlow/"
+    },
+    {
+      "title": "Comisiones de Defensa Nacional del Senado y de Diputados articularon acciones frente al fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-articularon-acciones-frente-al-fenomeno-el-nino/"
+    },
+    {
       "title": "Presidente del Congreso participó en Sesión Solemne por el 30.° aniversario de la Defensoría del Pueblo",
       "source": "Portal del Congreso",
       "date": "11 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-sesion-solemne-por-el-30-aniversario-de-la-defensoria-del-pueblo/"
-    },
-    {
-      "title": "Pleno cita al ministro del Interior para responder pliego interpelatorio",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-cita-al-ministro-del-interior-para-responder-pliego-interpelatorio/"
     },
     {
       "title": "Comisión de Justicia del Senado aprueba plan de trabajo 2026-2027 y acuerda citar a ministros",
@@ -1625,15 +1631,27 @@
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-aprueba-plan-de-trabajo-y-valida-decretos-sobre-transporte-y-estado-de-emergencia/"
-    },
-    {
-      "title": "Comisiones de Defensa Nacional del Senado y de Diputados realizarán conferencia conjunta sobre el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-realizaran-conferencia-conjunta-sobre-el-fenomeno-de-el-nino/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Ordenamiento y Seguimiento Legislativo aprobó su plan de trabajo",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ordenamiento-y-seguimiento-legislativo-aprobo-su-plan-de-trabajo/"
+    },
+    {
+      "title": "Parlamentarios cristianos dialogaron sobre vida, familia y niñez con Jim Garlow",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-cristianos-dialogaron-sobre-vida-familia-y-ninez-con-jim-garlow/"
+    },
+    {
+      "title": "Comisiones de Defensa Nacional del Senado y de Diputados articularon acciones frente al fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-articularon-acciones-frente-al-fenomeno-el-nino/"
+    },
     {
       "title": "Pleno cita al ministro del Interior para responder pliego interpelatorio",
       "source": "Portal del Congreso",
@@ -1663,24 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-aprueba-plan-de-trabajo-y-valida-decretos-sobre-transporte-y-estado-de-emergencia/"
-    },
-    {
-      "title": "Comisiones de Defensa Nacional del Senado y de Diputados realizarán conferencia conjunta sobre el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-realizaran-conferencia-conjunta-sobre-el-fenomeno-de-el-nino/"
-    },
-    {
-      "title": "Al archivo moción que proponía invitar al ministro del Interior",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/al-archivo-mocion-que-proponia-invitar-al-ministro-del-interior/"
-    },
-    {
-      "title": "Pleno de Diputados acuerda invitar a titulares de la PCM, Interior y Defensa",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-diputados-acuerda-invitar-a-titulares-de-la-pcm-interior-y-defensa/"
     }
   ],
   "events_override": {
@@ -4987,6 +4987,14 @@
         "d": "11/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/344",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 348 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO A LA COMPAÑÍA MINERA ANTAMINA S.A., CON MOTIVO DE CONMEMORAR SU VIGESIMO...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/348",
         "pts": 3
       }
     ],
@@ -8528,6 +8536,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/244",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ordenamiento y Seguimiento Legislativo aprobó su plan de trabajo",
+        "d": "11/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ordenamiento-y-seguimiento-legislativo-aprobo-su-plan-de-trabajo/",
+        "pts": 2
       }
     ],
     "Frank Krklec Torres": [
