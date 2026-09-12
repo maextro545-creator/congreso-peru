@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Delegación peruana del Parlamento Andino respalda propuesta para impulsar corredor ferroviario regional",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-peruana-del-parlamento-andino-respalda-propuesta-para-impulsar-corredor-ferroviario-regional/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto recibió a titulares del BCR, Sunat y Ceplan",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-bcr-sunat-y-ceplan/"
+    },
+    {
+      "title": "Comisión de Ordenamiento y Seguimiento Legislativo aprobó su plan de trabajo",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ordenamiento-y-seguimiento-legislativo-aprobo-su-plan-de-trabajo/"
+    },
+    {
       "title": "Parlamentarios cristianos dialogaron sobre vida, familia y niñez con Jim Garlow",
       "source": "Portal del Congreso",
       "date": "11 Sep 2026",
@@ -1619,21 +1637,27 @@
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-aprueba-plan-de-trabajo-2026-2027-y-acuerda-citar-a-ministros/"
-    },
-    {
-      "title": "Presidente del Congreso y titular del TC coinciden en fortalecer el trabajo institucional por el país",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-del-tc-coinciden-en-fortalecer-el-trabajo-institucional-por-el-pais/"
-    },
-    {
-      "title": "Comisión de Control Político aprueba plan de trabajo y valida decretos sobre transporte y estado de emergencia",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-aprueba-plan-de-trabajo-y-valida-decretos-sobre-transporte-y-estado-de-emergencia/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Delegación peruana del Parlamento Andino respalda propuesta para impulsar corredor ferroviario regional",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-peruana-del-parlamento-andino-respalda-propuesta-para-impulsar-corredor-ferroviario-regional/"
+    },
+    {
+      "title": "Reto Otero: “La anemia infantil es un problema de seguridad nacional que debemos combatir»",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-la-anemia-infantil-es-un-problema-de-seguridad-nacional-que-debemos-combatir/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto recibió a titulares del BCR, Sunat y Ceplan",
+      "source": "Portal del Congreso",
+      "date": "11 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-bcr-sunat-y-ceplan/"
+    },
     {
       "title": "Comisión de Ordenamiento y Seguimiento Legislativo aprobó su plan de trabajo",
       "source": "Portal del Congreso",
@@ -1663,24 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "10 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-archiva-mocion-que-planteaba-interpelar-al-ministro-de-defensa/"
-    },
-    {
-      "title": "Presidente del Congreso y titular del TC coinciden en fortalecer el trabajo institucional por el país",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-del-tc-coinciden-en-fortalecer-el-trabajo-institucional-por-el-pais/"
-    },
-    {
-      "title": "Cámara de Diputados aprueba comisión especial para fiscalizar acciones frente al fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-aprueba-comision-especial-para-fiscalizar-acciones-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "Comisión de Control Político aprueba plan de trabajo y valida decretos sobre transporte y estado de emergencia",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-aprueba-plan-de-trabajo-y-valida-decretos-sobre-transporte-y-estado-de-emergencia/"
     }
   ],
   "events_override": {
@@ -1851,6 +1857,14 @@
         "d": "08/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-otero-recibe-propuestas-del-acuerdo-nacional-para-construir-una-agenda-comun/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Reto Otero: “La anemia infantil es un problema de seguridad nacional que debemos combatir»",
+        "d": "11/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-la-anemia-infantil-es-un-problema-de-seguridad-nacional-que-debemos-combatir/",
         "pts": 2
       }
     ],
@@ -2694,6 +2708,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/261",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 350 (Conformación de Comisiones Especiales): CONFORMAR LA “COMISIÓN ESPECIAL MULTIPARTIDARIA CONMEMORATIVA DEL CENTENARIO DE LA REINCORPORACIÓN DE TACNA AL PERÚ”, CO...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/350",
+        "pts": 3
       }
     ],
     "Raúl Jesús Camargo Porta": [
@@ -3118,6 +3140,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/332",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 350 (Conformación de Comisiones Especiales): CONFORMAR LA “COMISIÓN ESPECIAL MULTIPARTIDARIA CONMEMORATIVA DEL CENTENARIO DE LA REINCORPORACIÓN DE TACNA AL PERÚ”, CO...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/350",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -3437,6 +3467,14 @@
         "d": "09/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/313",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 350 (Conformación de Comisiones Especiales): CONFORMAR LA “COMISIÓN ESPECIAL MULTIPARTIDARIA CONMEMORATIVA DEL CENTENARIO DE LA REINCORPORACIÓN DE TACNA AL PERÚ”, CO...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/350",
         "pts": 3
       }
     ],
@@ -4296,6 +4334,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/336",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 351 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARARDE NECESIDAD PÚBLICA LA CONSTRUCCIÓN E IMPLEMENTACIÓN PROGRESIVA DE CENTROS DE PROCESAMIENTO DE CADÁVERES (CPCAD...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -4451,6 +4497,14 @@
         "d": "07/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/287",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 351 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARARDE NECESIDAD PÚBLICA LA CONSTRUCCIÓN E IMPLEMENTACIÓN PROGRESIVA DE CENTROS DE PROCESAMIENTO DE CADÁVERES (CPCAD...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
         "pts": 3
       }
     ],
@@ -6088,6 +6142,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/285",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 351 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARARDE NECESIDAD PÚBLICA LA CONSTRUCCIÓN E IMPLEMENTACIÓN PROGRESIVA DE CENTROS DE PROCESAMIENTO DE CADÁVERES (CPCAD...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
+        "pts": 3
       }
     ],
     "José Isidro Baella Malca": [
@@ -6113,6 +6175,14 @@
         "d": "31/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/201",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 349 (Mociones de Saludo): RECONOCER Y ENALTECER LA TRAYECTORIA HISTÓRICA DE LA POLICÍA DE INVESTIGACIONES DEL PERÚ (PIP), INSTITUCIÓN INTEGRANTE D...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/349",
         "pts": 3
       }
     ],
@@ -7097,6 +7167,14 @@
         "d": "11/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/345",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 352 (Mociones de Saludo): EXPRESAR EL SALUDO Y RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A TODOS LOS CONTADORES PÚBLIC...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/352",
         "pts": 3
       }
     ],
@@ -9055,6 +9133,26 @@
         "d": "10/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
+      }
+    ],
+    "Aldo Antonio Bravo Quispe": [
+      {
+        "t": "📌",
+        "a": "Moción N° 351 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARARDE NECESIDAD PÚBLICA LA CONSTRUCCIÓN E IMPLEMENTACIÓN PROGRESIVA DE CENTROS DE PROCESAMIENTO DE CADÁVERES (CPCAD...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
+        "pts": 3
+      }
+    ],
+    "Jorge Arturo Zeballos Aponte": [
+      {
+        "t": "📌",
+        "a": "Moción N° 351 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARARDE NECESIDAD PÚBLICA LA CONSTRUCCIÓN E IMPLEMENTACIÓN PROGRESIVA DE CENTROS DE PROCESAMIENTO DE CADÁVERES (CPCAD...",
+        "d": "11/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
         "pts": 3
       }
     ]
