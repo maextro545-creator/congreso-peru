@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Exposición fotográfica rinde homenaje a la historia parlamentaria",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/exposicion-fotografica-rinde-homenaje-a-la-historia-parlamentaria/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto evaluó recursos asignados para la Defensoría, la Cancillería y el Minam",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evaluo-recursos-asignados-para-la-defensoria-la-cancilleria-y-el-minam/"
+    },
+    {
       "title": "Delegación peruana del Parlamento Andino respalda propuesta para impulsar corredor ferroviario regional",
       "source": "Portal del Congreso",
       "date": "11 Sep 2026",
@@ -1619,27 +1631,39 @@
       "source": "Portal del Congreso",
       "date": "11 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-cristianos-dialogaron-sobre-vida-familia-y-ninez-con-jim-garlow/"
-    },
-    {
-      "title": "Comisiones de Defensa Nacional del Senado y de Diputados articularon acciones frente al fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-articularon-acciones-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "Presidente del Congreso participó en Sesión Solemne por el 30.° aniversario de la Defensoría del Pueblo",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-sesion-solemne-por-el-30-aniversario-de-la-defensoria-del-pueblo/"
-    },
-    {
-      "title": "Comisión de Justicia del Senado aprueba plan de trabajo 2026-2027 y acuerda citar a ministros",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-aprueba-plan-de-trabajo-2026-2027-y-acuerda-citar-a-ministros/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Economía posterga para este miércoles votación sobre delegación de facultades al Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-posterga-para-este-miercoles-votacion-sobre-delegacion-de-facultades-al-ejecutivo/"
+    },
+    {
+      "title": "Exposición fotográfica rinde homenaje a la historia parlamentaria",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/exposicion-fotografica-rinde-homenaje-a-la-historia-parlamentaria/"
+    },
+    {
+      "title": "Comisión de Defensa del Consumidor aprueba informe que recomienda no otorgar facultades legislativas al Poder Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-aprueba-informe-que-recomienda-no-otorgar-facultades-legislativas-al-poder-ejecutivo/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto evaluó recursos asignados para la Defensoría, la Cancillería y el Minam",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evaluo-recursos-asignados-para-la-defensoria-la-cancilleria-y-el-minam/"
+    },
+    {
+      "title": "Diputados proponen fortalecer la fiscalización y la gestión ambiental",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-proponen-fortalecer-la-fiscalizacion-y-la-gestion-ambiental/"
+    },
     {
       "title": "Delegación peruana del Parlamento Andino respalda propuesta para impulsar corredor ferroviario regional",
       "source": "Portal del Congreso",
@@ -1669,24 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "11 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-cristianos-dialogaron-sobre-vida-familia-y-ninez-con-jim-garlow/"
-    },
-    {
-      "title": "Comisiones de Defensa Nacional del Senado y de Diputados articularon acciones frente al fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comisiones-de-defensa-nacional-del-senado-y-de-diputados-articularon-acciones-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "Pleno cita al ministro del Interior para responder pliego interpelatorio",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-cita-al-ministro-del-interior-para-responder-pliego-interpelatorio/"
-    },
-    {
-      "title": "Cámara de Diputados archiva moción que planteaba interpelar al ministro de Defensa",
-      "source": "Portal del Congreso",
-      "date": "10 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-archiva-mocion-que-planteaba-interpelar-al-ministro-de-defensa/"
     }
   ],
   "events_override": {
@@ -2894,6 +2900,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-defensa-del-consumidor-aprobo-su-plan-de-trabajo-2026-2027/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Defensa del Consumidor aprueba informe que recomienda no otorgar facultades legislativas al Poder Ejecutivo",
+        "d": "14/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-aprueba-informe-que-recomienda-no-otorgar-facultades-legislativas-al-poder-ejecutivo/",
+        "pts": 2
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -3476,6 +3490,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/350",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Economía posterga para este miércoles votación sobre delegación de facultades al Ejecutivo",
+        "d": "14/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-posterga-para-este-miercoles-votacion-sobre-delegacion-de-facultades-al-ejecutivo/",
+        "pts": 2
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -4016,6 +4038,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 353 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA PROBLEMÁTICA DE LA CADENA PRODUCTIVA DEL ARROZ, CON ...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
+        "pts": 3
       }
     ],
     "Pierangeli Daniela Dodero Jovich": [
@@ -4203,6 +4233,14 @@
         "d": "04/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/262",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 353 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA PROBLEMÁTICA DE LA CADENA PRODUCTIVA DEL ARROZ, CON ...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
         "pts": 3
       }
     ],
@@ -4612,6 +4650,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 353 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA PROBLEMÁTICA DE LA CADENA PRODUCTIVA DEL ARROZ, CON ...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
+        "pts": 3
       }
     ],
     "Catherin Norma Palomino Casavilca": [
@@ -4717,6 +4763,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 353 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA PROBLEMÁTICA DE LA CADENA PRODUCTIVA DEL ARROZ, CON ...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
         "pts": 3
       }
     ],
@@ -4831,6 +4885,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 353 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA PROBLEMÁTICA DE LA CADENA PRODUCTIVA DEL ARROZ, CON ...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
         "pts": 3
       }
     ],
@@ -5050,6 +5112,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/348",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 358 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO A TODOS LOS QUÍMICOS FARMACÉUTICOS DEL PERÚ, CON MOTIVO DE CONMEMORARSE,...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/358",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 357 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO A TODOS LOS TECNÓLOGOS MÉDICOS EN TERAPIA OCUPACIONAL DEL PERÚ, CON MOTI...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/357",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -5165,6 +5243,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 354 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO A LA UNIVERSIDAD NACIONAL MICAELA BASTIDAS – UNAMBA, AL SERVICIO DE EDUC...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/354",
         "pts": 3
       }
     ],
@@ -5384,6 +5470,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 353 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA PROBLEMÁTICA DE LA CADENA PRODUCTIVA DEL ARROZ, CON ...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -5481,6 +5575,14 @@
         "d": "04/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/265",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 355 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN CON MOTIVO DE CONMEMORARSE, EL 20 DE SEPTIEMBRE DE 2026, EL 65.º ANIVERSARIO DEL PARQU...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/355",
         "pts": 3
       }
     ],
@@ -5621,6 +5723,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 353 (Conformación de Comisiones Especiales): CONSTITUIR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA PROBLEMÁTICA DE LA CADENA PRODUCTIVA DEL ARROZ, CON ...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
         "pts": 3
       }
     ],
@@ -7821,6 +7931,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/221",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 356 (Mociones de Saludo): EXPRESAR SU ESPECIAL SALUDO Y RECONOCIMIENTO, CON MOTIVO DE CONMEMORARSE, EL 16 DE SEPTIEMBRE, EL DÍA INTERNACIONAL DE L...",
+        "d": "14/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/356",
         "pts": 3
       }
     ],
