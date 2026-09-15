@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "López Chau plantea diálogo entre fuerzas políticas del Senado para resolver diferencias por delegación de facultades",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/lopez-chau-plantea-dialogo-entre-fuerzas-politicas-del-senado-para-resolver-diferencias-por-delegacion-de-facultades/"
+    },
+    {
+      "title": "Senadores solicitan al ministro de Educación acciones concretas frente a la crisis educativa",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-solicitan-al-ministro-de-educacion-acciones-concretas-frente-a-la-crisis-educativa/"
+    },
+    {
+      "title": "Comisión de Economía posterga para este miércoles votación sobre delegación de facultades al Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-posterga-para-este-miercoles-votacion-sobre-delegacion-de-facultades-al-ejecutivo/"
+    },
+    {
       "title": "Exposición fotográfica rinde homenaje a la historia parlamentaria",
       "source": "Portal del Congreso",
       "date": "14 Sep 2026",
@@ -1613,27 +1631,21 @@
       "source": "Portal del Congreso",
       "date": "11 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-peruana-del-parlamento-andino-respalda-propuesta-para-impulsar-corredor-ferroviario-regional/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto recibió a titulares del BCR, Sunat y Ceplan",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-bcr-sunat-y-ceplan/"
-    },
-    {
-      "title": "Comisión de Ordenamiento y Seguimiento Legislativo aprobó su plan de trabajo",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ordenamiento-y-seguimiento-legislativo-aprobo-su-plan-de-trabajo/"
-    },
-    {
-      "title": "Parlamentarios cristianos dialogaron sobre vida, familia y niñez con Jim Garlow",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-cristianos-dialogaron-sobre-vida-familia-y-ninez-con-jim-garlow/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputados fijan posiciones sobre pedido de facultades legislativas del Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-fijan-posiciones-sobre-pedido-de-facultades-legislativas-del-ejecutivo/"
+    },
+    {
+      "title": "Comisión de Ética Parlamentaria inicia etapa de indagación contra diputado Christian Aranda",
+      "source": "Portal del Congreso",
+      "date": "14 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-inicia-etapa-de-indagacion-contra-diputado-christian-aranda/"
+    },
     {
       "title": "Comisión de Economía posterga para este miércoles votación sobre delegación de facultades al Ejecutivo",
       "source": "Portal del Congreso",
@@ -1669,30 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "11 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-peruana-del-parlamento-andino-respalda-propuesta-para-impulsar-corredor-ferroviario-regional/"
-    },
-    {
-      "title": "Reto Otero: “La anemia infantil es un problema de seguridad nacional que debemos combatir»",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-la-anemia-infantil-es-un-problema-de-seguridad-nacional-que-debemos-combatir/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto recibió a titulares del BCR, Sunat y Ceplan",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-bcr-sunat-y-ceplan/"
-    },
-    {
-      "title": "Comisión de Ordenamiento y Seguimiento Legislativo aprobó su plan de trabajo",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ordenamiento-y-seguimiento-legislativo-aprobo-su-plan-de-trabajo/"
-    },
-    {
-      "title": "Parlamentarios cristianos dialogaron sobre vida, familia y niñez con Jim Garlow",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-cristianos-dialogaron-sobre-vida-familia-y-ninez-con-jim-garlow/"
     }
   ],
   "events_override": {
@@ -9272,6 +9260,16 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
         "pts": 3
+      }
+    ],
+    "Christian Aranda Vasquez": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética Parlamentaria inicia etapa de indagación contra diputado Christian Aranda",
+        "d": "14/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-inicia-etapa-de-indagacion-contra-diputado-christian-aranda/",
+        "pts": 2
       }
     ]
   },
