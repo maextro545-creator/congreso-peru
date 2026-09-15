@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Pleno del Senado verá este miércoles solicitud de viaje presidencial e informe de ratificación de Julio Velarde en el BCR",
+      "source": "Portal del Congreso",
+      "date": "15 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-vera-este-miercoles-solicitud-de-viaje-presidencial-e-informe-de-ratificacion-de-julio-velarde-en-el-bcr/"
+    },
+    {
       "title": "López Chau plantea diálogo entre fuerzas políticas del Senado para resolver diferencias por delegación de facultades",
       "source": "Portal del Congreso",
       "date": "14 Sep 2026",
@@ -1625,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "14 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evaluo-recursos-asignados-para-la-defensoria-la-cancilleria-y-el-minam/"
-    },
-    {
-      "title": "Delegación peruana del Parlamento Andino respalda propuesta para impulsar corredor ferroviario regional",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-peruana-del-parlamento-andino-respalda-propuesta-para-impulsar-corredor-ferroviario-regional/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Salud convoca a presidenta ejecutiva de EsSalud y al ministro de Trabajo",
+      "source": "Portal del Congreso",
+      "date": "15 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-convoca-a-presidenta-ejecutiva-de-essalud-y-al-ministro-de-trabajo/"
+    },
     {
       "title": "Diputados fijan posiciones sobre pedido de facultades legislativas del Ejecutivo",
       "source": "Portal del Congreso",
@@ -1669,18 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "14 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evaluo-recursos-asignados-para-la-defensoria-la-cancilleria-y-el-minam/"
-    },
-    {
-      "title": "Diputados proponen fortalecer la fiscalización y la gestión ambiental",
-      "source": "Portal del Congreso",
-      "date": "14 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-proponen-fortalecer-la-fiscalizacion-y-la-gestion-ambiental/"
-    },
-    {
-      "title": "Delegación peruana del Parlamento Andino respalda propuesta para impulsar corredor ferroviario regional",
-      "source": "Portal del Congreso",
-      "date": "11 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-peruana-del-parlamento-andino-respalda-propuesta-para-impulsar-corredor-ferroviario-regional/"
     }
   ],
   "events_override": {
@@ -3583,6 +3577,14 @@
         "d": "07/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/74",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 93 (MOCIÓN DE SALUDO): EXPRESAR SU RECONOCIMIENTO Y SALUDO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA IDENTIDAD DE TACABAMBA A LAS AUTORIDADES,...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/93",
         "pts": 3
       }
     ],
@@ -8414,6 +8416,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/88",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 92 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE HUANCANÉ, CON MOTIVO DE CONMEMORAR, EL 19 DE SEPTIEMBRE ...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/92",
+        "pts": 3
       }
     ],
     "Ana Luisa Yuffra Lugo": [
@@ -8816,6 +8826,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-de-diputados-convoco-a-decanos-de-los-colegios-medicos-del-pais/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Salud convoca a presidenta ejecutiva de EsSalud y al ministro de Trabajo",
+        "d": "15/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-convoca-a-presidenta-ejecutiva-de-essalud-y-al-ministro-de-trabajo/",
+        "pts": 2
       }
     ],
     "Wilfredo Verano Saravia": [
@@ -9135,6 +9153,30 @@
         "d": "10/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 361 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE SURCO, UBICADO EN LA PROVINCIA DE HUAROCHIRÍ, DEPARTAMENTO DE L...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/361",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 360 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE RICARDO PALMA, PROVINCIA DE HUAROCHIRÍ, DEPARTAMENTO DE LIMA, C...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/360",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 359 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE QUILMANÁ, PROVINCIA DE CAÑETE, DEPARTAMENTO DE LIMA, CON MOTIVO...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/359",
         "pts": 3
       }
     ],
