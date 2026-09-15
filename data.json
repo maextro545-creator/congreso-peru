@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Constitución del Senado aprueba reactivación de ligas parlamentarias de amistad",
+      "source": "Portal del Congreso",
+      "date": "15 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-aprueba-reactivacion-de-ligas-parlamentarias-de-amistad/"
+    },
+    {
       "title": "Pleno del Senado verá este miércoles solicitud de viaje presidencial e informe de ratificación de Julio Velarde en el BCR",
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
@@ -1613,27 +1619,27 @@
       "source": "Portal del Congreso",
       "date": "14 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-solicitan-al-ministro-de-educacion-acciones-concretas-frente-a-la-crisis-educativa/"
-    },
-    {
-      "title": "Comisión de Economía posterga para este miércoles votación sobre delegación de facultades al Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "14 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-posterga-para-este-miercoles-votacion-sobre-delegacion-de-facultades-al-ejecutivo/"
-    },
-    {
-      "title": "Exposición fotográfica rinde homenaje a la historia parlamentaria",
-      "source": "Portal del Congreso",
-      "date": "14 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/exposicion-fotografica-rinde-homenaje-a-la-historia-parlamentaria/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto evaluó recursos asignados para la Defensoría, la Cancillería y el Minam",
-      "source": "Portal del Congreso",
-      "date": "14 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evaluo-recursos-asignados-para-la-defensoria-la-cancilleria-y-el-minam/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Energía y Minas demanda acciones ante alza de combustibles y problemática de la minería ilegal",
+      "source": "Portal del Congreso",
+      "date": "15 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-demanda-acciones-ante-alza-de-combustibles-y-problematica-de-la-mineria-ilegal/"
+    },
+    {
+      "title": "Demandan fortalecer el Fuero Militar Policial y el sistema disciplinario de la Policía Nacional",
+      "source": "Portal del Congreso",
+      "date": "15 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-fortalecer-el-fuero-militar-policial-y-el-sistema-disciplinario-de-la-policia-nacional/"
+    },
+    {
+      "title": "Presidente Reto Otero y AFIN impulsan respuesta ágil ante emergencias",
+      "source": "Portal del Congreso",
+      "date": "15 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-otero-y-afin-impulsan-respuesta-agil-ante-emergencias/"
+    },
     {
       "title": "Comisión de Salud convoca a presidenta ejecutiva de EsSalud y al ministro de Trabajo",
       "source": "Portal del Congreso",
@@ -1651,30 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "14 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-inicia-etapa-de-indagacion-contra-diputado-christian-aranda/"
-    },
-    {
-      "title": "Comisión de Economía posterga para este miércoles votación sobre delegación de facultades al Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "14 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-posterga-para-este-miercoles-votacion-sobre-delegacion-de-facultades-al-ejecutivo/"
-    },
-    {
-      "title": "Exposición fotográfica rinde homenaje a la historia parlamentaria",
-      "source": "Portal del Congreso",
-      "date": "14 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/exposicion-fotografica-rinde-homenaje-a-la-historia-parlamentaria/"
-    },
-    {
-      "title": "Comisión de Defensa del Consumidor aprueba informe que recomienda no otorgar facultades legislativas al Poder Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "14 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-aprueba-informe-que-recomienda-no-otorgar-facultades-legislativas-al-poder-ejecutivo/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto evaluó recursos asignados para la Defensoría, la Cancillería y el Minam",
-      "source": "Portal del Congreso",
-      "date": "14 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evaluo-recursos-asignados-para-la-defensoria-la-cancilleria-y-el-minam/"
     }
   ],
   "events_override": {
@@ -1853,6 +1835,14 @@
         "d": "11/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-la-anemia-infantil-es-un-problema-de-seguridad-nacional-que-debemos-combatir/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente Reto Otero y AFIN impulsan respuesta ágil ante emergencias",
+        "d": "15/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-otero-y-afin-impulsan-respuesta-agil-ante-emergencias/",
         "pts": 2
       }
     ],
@@ -3771,6 +3761,14 @@
         "d": "07/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/74",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 95 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CÁLIDO SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE APURÍMAC – UN...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/95",
         "pts": 3
       }
     ],
@@ -8424,6 +8422,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/92",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 98 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA INSTITUCIÓN EDUCATIVA SECUNDARIA “CARLOS DANTE NAVA SILVA” DE ESQUENA...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/98",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 97 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA UNIVERSIDAD PERUANA UNIÓN DE JULIACA, CON MOTIVO DE CONMEMORAR UN ANI...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/97",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 96 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA UNIVERSIDAD NACIONAL AGRARIA DE LA SELVA, CON MOTIVO DE CONMEMORAR SU...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/96",
+        "pts": 3
       }
     ],
     "Ana Luisa Yuffra Lugo": [
@@ -8476,6 +8498,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-respalda-pedido-de-facultades-para-modernizar-la-gestion-ambiental-e-impulsar-energias-limpias/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 364 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LOS CIUDADANOS DE LA CUIDAD DE RIOJA CON MOTIVO DE CELEBRARSE, EL 22 DE ...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/364",
+        "pts": 3
       }
     ],
     "Luis Eliseo Quispe Candia": [
@@ -8930,6 +8960,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 363 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL MINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO, AL ORGANISMO TÉCNICO DE LA ADMINISTRACIÓN DE LOS SERVICI...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/363",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 362 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO, A TRAVÉS DEL MINISTERIO DE TRANSPORTES Y COMUNICACIONES Y DE PROVIAS DESCENTRALIZADO, EN CO...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/362",
+        "pts": 3
       }
     ],
     "Juana Guisella Ticona Cohaila": [
@@ -9312,6 +9358,24 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-inicia-etapa-de-indagacion-contra-diputado-christian-aranda/",
         "pts": 2
+      }
+    ],
+    "María Candelaria Ramos Rosales": [
+      {
+        "t": "📌",
+        "a": "Moción N° 363 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL MINISTERIO DE VIVIENDA, CONSTRUCCIÓN Y SANEAMIENTO, AL ORGANISMO TÉCNICO DE LA ADMINISTRACIÓN DE LOS SERVICI...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/363",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 362 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO, A TRAVÉS DEL MINISTERIO DE TRANSPORTES Y COMUNICACIONES Y DE PROVIAS DESCENTRALIZADO, EN CO...",
+        "d": "15/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/362",
+        "pts": 3
       }
     ]
   },
