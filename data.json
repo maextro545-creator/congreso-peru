@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso: “La población está esperando que su Parlamento tome decisiones céleres”",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-la-poblacion-esta-esperando-que-su-parlamento-tome-decisiones-celeres/"
+    },
+    {
       "title": "Congreso conmemora el Día Internacional de la Democracia con encendido de luces del Palacio Legislativo",
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
@@ -1621,7 +1627,7 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/en-comision-de-justicia-sustentan-iniciativa-que-plantea-penalizar-los-mensajes-extorsivos-desde-los-actos-preparatorios/"
     },
     {
-      "title": "Comisión de Infraestructura solicita al MTC acelerar obras viales y definir acciones ante el Fenómeno El Niño",
+      "title": "Comisión de Infraestructura solicita al MTC acelerar obras viales y definir acciones ante el fenómeno El Niño",
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-solicita-al-mtc-acelerar-obras-viales-y-definir-acciones-ante-el-fenomeno-el-nino/"
@@ -1634,6 +1640,12 @@
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente del Congreso: “La población está esperando que su Parlamento tome decisiones céleres”",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-la-poblacion-esta-esperando-que-su-parlamento-tome-decisiones-celeres/"
+    },
     {
       "title": "Congreso conmemora el Día Internacional de la Democracia con encendido de luces del Palacio Legislativo",
       "source": "Portal del Congreso",
@@ -1659,7 +1671,7 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-aprueba-informe-que-delega-facultades-legislativas-al-poder-ejecutivo/"
     },
     {
-      "title": "Comisión de Infraestructura solicita al MTC acelerar obras viales y definir acciones ante el Fenómeno El Niño",
+      "title": "Comisión de Infraestructura solicita al MTC acelerar obras viales y definir acciones ante el fenómeno El Niño",
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-solicita-al-mtc-acelerar-obras-viales-y-definir-acciones-ante-el-fenomeno-el-nino/"
@@ -1681,12 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-demanda-acciones-ante-alza-de-combustibles-y-problematica-de-la-mineria-ilegal/"
-    },
-    {
-      "title": "Demandan fortalecer el Fuero Militar Policial y el sistema disciplinario de la Policía Nacional",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-fortalecer-el-fuero-militar-policial-y-el-sistema-disciplinario-de-la-policia-nacional/"
     }
   ],
   "events_override": {
@@ -2203,6 +2209,14 @@
         "d": "15/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-fepcmac-coordinan-medidas-de-apoyo-a-mypes-ante-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso: “La población está esperando que su Parlamento tome decisiones céleres”",
+        "d": "16/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-la-poblacion-esta-esperando-que-su-parlamento-tome-decisiones-celeres/",
         "pts": 2
       }
     ],
@@ -8756,6 +8770,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-se-presidida-por-senador-jose-arista/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 102 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO INSTITUCIONAL Y RECONOCIMIENTO A LAS AUTORIDADES, REPRESENTANTES Y CIUDADANOS ...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/102",
+        "pts": 3
       }
     ],
     "Jhonn Brayam Valqui Ordoñez": [
@@ -9493,6 +9515,16 @@
         "d": "15/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/362",
+        "pts": 3
+      }
+    ],
+    "Walter Francisco Gago Rodríguez": [
+      {
+        "t": "📌",
+        "a": "Moción N° 103 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CALUROSO SALUDO Y PÚBLICO RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA INSTITUCIÓN EDUCATIVA EMBLEMÁTI...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/103",
         "pts": 3
       }
     ]
