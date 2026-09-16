@@ -1597,6 +1597,36 @@
   },
   "senado_news": [
     {
+      "title": "Senado autoriza viaje de la presidenta de la república a la Asamblea General de las Naciones Unidas",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autoriza-viaje-de-la-presidenta-de-la-republica-a-la-asamblea-general-de-las-naciones-unidas/"
+    },
+    {
+      "title": "Congreso de la República conmemora 204 años de historia con Sesión Solemne",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-conmemora-204-anos-de-historia-con-sesion-solemne/"
+    },
+    {
+      "title": "Comisión de Economía aprueba informe que declara no viable delegación de facultades legislativas al Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-aprueba-informe-que-declara-no-viable-delegacion-de-facultades-legislativas-al-ejecutivo/"
+    },
+    {
+      "title": "Congreso rinde homenaje a héroe del Ejército e inaugura sala José Abelardo Quiñones",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rinde-homenaje-a-heroe-del-ejercito-e-inaugura-sala-jose-abelardo-quinones/"
+    },
+    {
+      "title": "Comisión de Justicia evalúa revisión de leyes cuestionadas por su impacto en la lucha contra el crimen organizado",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-evalua-revision-de-leyes-cuestionadas-por-su-impacto-en-la-lucha-contra-el-crimen-organizado/"
+    },
+    {
       "title": "Dos horas de debate en sesión de interpelación a ministro del Interior",
       "source": "Portal del Congreso",
       "date": "16 Sep 2026",
@@ -1613,50 +1643,50 @@
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-conmemora-el-dia-internacional-de-la-democracia-con-encendido-de-luces-del-palacio-legislativo/"
+    },
+    {
+      "title": "Proponen que la investigación se promueva desde la primera infancia",
+      "source": "Portal del Congreso",
+      "date": "15 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-que-la-investigacion-se-promueva-desde-la-primera-infancia/"
     },
     {
       "title": "Presidente del Congreso y FEPCMAC coordinan medidas de apoyo a mypes ante El Niño",
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-fepcmac-coordinan-medidas-de-apoyo-a-mypes-ante-el-nino/"
-    },
-    {
-      "title": "Comisión de Gestión del Estado y Contraloría evalúa acciones de control frente al Fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-gestion-del-estado-y-contraloria-evalua-acciones-de-control-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "En Comisión de Justicia sustentan iniciativa que plantea penalizar los mensajes extorsivos desde los actos preparatorios",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-comision-de-justicia-sustentan-iniciativa-que-plantea-penalizar-los-mensajes-extorsivos-desde-los-actos-preparatorios/"
-    },
-    {
-      "title": "Comisión de Infraestructura solicita al MTC acelerar obras viales y definir acciones ante el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-solicita-al-mtc-acelerar-obras-viales-y-definir-acciones-ante-el-fenomeno-el-nino/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto recibió a titulares de Producción, Midagri y Mincetur",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-de-produccion-midagri-y-mincetur/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Congreso de la República conmemora 204 años de historia con Sesión Solemne",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-conmemora-204-anos-de-historia-con-sesion-solemne/"
+    },
+    {
+      "title": "Comisión de Economía aprueba informe que declara no viable delegación de facultades legislativas al Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-aprueba-informe-que-declara-no-viable-delegacion-de-facultades-legislativas-al-ejecutivo/"
+    },
+    {
+      "title": "Congreso rinde homenaje a héroe del Ejército e inaugura sala José Abelardo Quiñones",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rinde-homenaje-a-heroe-del-ejercito-e-inaugura-sala-jose-abelardo-quinones/"
+    },
+    {
+      "title": "Comisión de Justicia evalúa revisión de leyes cuestionadas por su impacto en la lucha contra el crimen organizado",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-evalua-revision-de-leyes-cuestionadas-por-su-impacto-en-la-lucha-contra-el-crimen-organizado/"
+    },
     {
       "title": "Dos horas de debate en sesión de interpelación a ministro del Interior",
       "source": "Portal del Congreso",
       "date": "16 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/dos-horas-de-debate-en-sesion-de-interpelacion-a-ministro-del-interior/"
-    },
-    {
-      "title": "Presidente del Congreso: “La población está esperando que su Parlamento tome decisiones céleres”",
-      "source": "Portal del Congreso",
-      "date": "16 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-la-poblacion-esta-esperando-que-su-parlamento-tome-decisiones-celeres/"
     },
     {
       "title": "Congreso conmemora el Día Internacional de la Democracia con encendido de luces del Palacio Legislativo",
@@ -1665,40 +1695,10 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-conmemora-el-dia-internacional-de-la-democracia-con-encendido-de-luces-del-palacio-legislativo/"
     },
     {
-      "title": "Comisión de Gestión del Estado y Contraloría evalúa acciones de control frente al Fenómeno El Niño",
+      "title": "Proponen que la investigación se promueva desde la primera infancia",
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-gestion-del-estado-y-contraloria-evalua-acciones-de-control-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "En Comisión de Justicia sustentan iniciativa que plantea penalizar los mensajes extorsivos desde los actos preparatorios",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-comision-de-justicia-sustentan-iniciativa-que-plantea-penalizar-los-mensajes-extorsivos-desde-los-actos-preparatorios/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario aprueba informe que delega facultades legislativas al Poder Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-aprueba-informe-que-delega-facultades-legislativas-al-poder-ejecutivo/"
-    },
-    {
-      "title": "Comisión de Infraestructura solicita al MTC acelerar obras viales y definir acciones ante el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-solicita-al-mtc-acelerar-obras-viales-y-definir-acciones-ante-el-fenomeno-el-nino/"
-    },
-    {
-      "title": "Presidente Oscar Reto y titular del TC destacan respeto a la independencia de poderes",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-oscar-reto-y-titular-del-tc-destacan-respeto-a-la-independencia-de-poderes/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto recibió a titulares de Producción, Midagri y Mincetur",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-de-produccion-midagri-y-mincetur/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-que-la-investigacion-se-promueva-desde-la-primera-infancia/"
     }
   ],
   "events_override": {
@@ -2332,6 +2332,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/313",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 378 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO, ESPECIAL Y FRATERNO SALUDO Y RECONOCIMIENTO AL “COLEGIO DE CONTADORES PÚBLICOS DE AREQUIPA”, REP...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/378",
+        "pts": 3
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -2700,6 +2708,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 379 (Mociones de Saludo): EXPRESAR EL MÁS FERVOROSO Y CALUROSO SALUDO Y FELICITACIÓN A LAS AUTORIDADES EDILICIAS, POLÍTICAS, ECLESIÁSTICAS, COMUNA...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/379",
+        "pts": 3
       }
     ],
     "Edgar Adrián Alvaron De la Cruz": [
@@ -2869,6 +2885,14 @@
         "d": "18/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/114",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 377 (Mociones de Saludo): EXPRESAR EL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS AUTORIDADES Y A TODA LA POBLACIÓN DE LA PROVINCIA DE HUANCANÉ, D...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/377",
         "pts": 3
       }
     ],
@@ -4613,6 +4637,30 @@
         "d": "11/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 376 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/376",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 375 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/375",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 374 (Mociones de Saludo): Expresar el saludo, la felicitación y el reconocimiento institucional de la Cámara de Diputados del Congreso de la Repúb...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/374",
         "pts": 3
       }
     ],
@@ -8299,6 +8347,14 @@
         "d": "09/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/325",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 380 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO, RESPETUOSO Y AFECTUOSO SALUDO A TODA LA POBLACIÓN DEL DISTRITO DE CALETA DE CARQUÍN, EN LA PROVI...",
+        "d": "16/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/380",
         "pts": 3
       }
     ],
