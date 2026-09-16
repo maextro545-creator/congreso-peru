@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Dos horas de debate en sesión de interpelación a ministro del Interior",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/dos-horas-de-debate-en-sesion-de-interpelacion-a-ministro-del-interior/"
+    },
+    {
       "title": "Presidente del Congreso: “La población está esperando que su Parlamento tome decisiones céleres”",
       "source": "Portal del Congreso",
       "date": "16 Sep 2026",
@@ -1640,6 +1646,12 @@
     }
   ],
   "diputados_news": [
+    {
+      "title": "Dos horas de debate en sesión de interpelación a ministro del Interior",
+      "source": "Portal del Congreso",
+      "date": "16 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/dos-horas-de-debate-en-sesion-de-interpelacion-a-ministro-del-interior/"
+    },
     {
       "title": "Presidente del Congreso: “La población está esperando que su Parlamento tome decisiones céleres”",
       "source": "Portal del Congreso",
@@ -1687,12 +1699,6 @@
       "source": "Portal del Congreso",
       "date": "15 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-de-produccion-midagri-y-mincetur/"
-    },
-    {
-      "title": "Comisión de Energía y Minas demanda acciones ante alza de combustibles y problemática de la minería ilegal",
-      "source": "Portal del Congreso",
-      "date": "15 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-demanda-acciones-ante-alza-de-combustibles-y-problematica-de-la-mineria-ilegal/"
     }
   ],
   "events_override": {
@@ -9457,6 +9463,14 @@
         "d": "10/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-cita-al-ministro-del-interior-para-responder-pliego-interpelatorio/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Dos horas de debate en sesión de interpelación a ministro del Interior",
+        "d": "16/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/dos-horas-de-debate-en-sesion-de-interpelacion-a-ministro-del-interior/",
         "pts": 2
       }
     ],
