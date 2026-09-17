@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "En sesión secreta, ministro del Interior responde pliego interpelatorio",
+      "source": "Portal del Congreso",
+      "date": "17 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-sesion-secreta-ministro-del-interior-responde-pliego-interpelatorio/"
+    },
+    {
       "title": "Pleno del Senado aprueba ratificación de Julio Velarde como presidente del BCRP",
       "source": "Portal del Congreso",
       "date": "16 Sep 2026",
@@ -1637,15 +1643,15 @@
       "source": "Portal del Congreso",
       "date": "16 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autoriza-viaje-de-la-presidenta-de-la-republica-a-la-asamblea-general-de-las-naciones-unidas/"
-    },
-    {
-      "title": "Congreso de la República conmemora 204 años de historia con Sesión Solemne",
-      "source": "Portal del Congreso",
-      "date": "16 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-conmemora-204-anos-de-historia-con-sesion-solemne/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "En sesión secreta, ministro del Interior responde pliego interpelatorio",
+      "source": "Portal del Congreso",
+      "date": "17 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-sesion-secreta-ministro-del-interior-responde-pliego-interpelatorio/"
+    },
     {
       "title": "Ministro de Educación anuncia plan para garantizar continuidad de clases ante el fenómeno El Niño",
       "source": "Portal del Congreso",
@@ -1675,12 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "16 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-aprueba-opinion-favorable-a-delegacion-de-facultades-solicitada-por-el-ejecutivo/"
-    },
-    {
-      "title": "Congreso de la República conmemora 204 años de historia con Sesión Solemne",
-      "source": "Portal del Congreso",
-      "date": "16 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-conmemora-204-anos-de-historia-con-sesion-solemne/"
     }
   ],
   "events_override": {
@@ -2330,6 +2330,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/378",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 392 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y AFECTUOSO SALUDO Y FELICITACIÓN A LA INSTITUCIÓN EDUCATIVA EMBLEMÁTICA HONORIO DELGADO ESPINOZ...",
+        "d": "17/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/392",
+        "pts": 3
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -2599,6 +2607,14 @@
         "d": "16/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/383",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 394 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, A LA PROVINCI...",
+        "d": "17/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/394",
         "pts": 3
       }
     ],
@@ -4896,6 +4912,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 391 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DE VILCA, PROVINCIA Y REGIÓN DE HUANCAVELIC...",
+        "d": "17/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/391",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -6285,6 +6309,14 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/307",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 393 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA MUNICIPALIDAD PROVINCIAL DE VILCASHUAMÁN, A SUS AUTORIDADES Y A TODA SU...",
+        "d": "17/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/393",
         "pts": 3
       }
     ],
@@ -9573,6 +9605,14 @@
         "d": "16/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/dos-horas-de-debate-en-sesion-de-interpelacion-a-ministro-del-interior/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: En sesión secreta, ministro del Interior responde pliego interpelatorio",
+        "d": "17/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/en-sesion-secreta-ministro-del-interior-responde-pliego-interpelatorio/",
         "pts": 2
       }
     ],
