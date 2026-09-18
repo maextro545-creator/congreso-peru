@@ -1597,10 +1597,28 @@
   },
   "senado_news": [
     {
-      "title": "Presidente de la Cámara de Diputados destaca respeto a las funciones de ambas cámaras para fortalecer la institucionalidad bicameral",
+      "title": "Senadores recogen demandas de emprendedores y autoridades de Piura ante posibles efectos del fenómeno El Niño Costero",
       "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-destaca-respeto-a-las-funciones-de-ambas-camaras-para-fortalecer-la-institucionalidad-bicameral/"
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-recogen-demandas-de-emprendedores-y-autoridades-de-piura-ante-posibles-efectos-del-fenomeno-el-nino-costero/"
+    },
+    {
+      "title": "Ministros sustentaron presupuesto 2027 ante Comisión Bicameral",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-sustentaron-presupuesto-2027-ante-comision-bicameral/"
+    },
+    {
+      "title": "Crean grupo de trabajo para fortalecer la prevención de la violencia escolar",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/crean-grupo-de-trabajo-para-fortalecer-la-prevencion-de-la-violencia-escolar/"
+    },
+    {
+      "title": "Presidente del Congreso: «Las mipymes son los verdaderos protagonistas del desarrollo del país»",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-las-mipymes-son-los-verdaderos-protagonistas-del-desarrollo-del-pais/"
     },
     {
       "title": "Senado define lista de 11 candidatos para elegir a tres directores del BCRP",
@@ -1619,39 +1637,33 @@
       "source": "Portal del Congreso",
       "date": "17 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/voceros-destacan-el-retorno-a-la-bicameralidad-y-el-dialogo-politico-en-el-204-aniversario-del-congreso/"
-    },
-    {
-      "title": "Senadores demandan al MINJUSDH resultados de gestión y soluciones al hacinamiento carcelario",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-demandan-al-minjusdh-resultados-de-gestion-y-soluciones-al-hacinamiento-carcelario/"
-    },
-    {
-      "title": "Presidente del Congreso y superintendente de Sunat abordan problemática de las mypes",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-superintendente-de-sunat-abordan-problematica-de-las-mypes/"
-    },
-    {
-      "title": "Aprueban dictámenes sobre la legalidad de tres decretos del Poder Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-sobre-la-legalidad-de-tres-decretos-del-poder-ejecutivo/"
-    },
-    {
-      "title": "Comisión de Defensa Nacional analizó medidas para fortalecer el control migratorio en las fronteras",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-analizo-medidas-para-fortalecer-el-control-migratorio-en-las-fronteras/"
-    },
-    {
-      "title": "Senadores demandan investigar y sancionar presunto abuso a estudiante de Liceo Naval",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-demandan-investigar-y-sancionar-presunto-abuso-a-estudiante-de-liceo-naval/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Confiep resalta disposición de Reto Otero para articular propuestas en favor del país",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/confiep-resalta-disposicion-de-reto-otero-para-articular-propuestas-en-favor-del-pais/"
+    },
+    {
+      "title": "Crean grupo de trabajo para fortalecer la prevención de la violencia escolar",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/crean-grupo-de-trabajo-para-fortalecer-la-prevencion-de-la-violencia-escolar/"
+    },
+    {
+      "title": "Presidente del Congreso: «Las mipymes son los verdaderos protagonistas del desarrollo del país»",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-las-mipymes-son-los-verdaderos-protagonistas-del-desarrollo-del-pais/"
+    },
+    {
+      "title": "Oscar Reto: “Nuestra labor de fiscalización debe incidir en la defensa de los derechos humanos”",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-nuestra-labor-de-fiscalizacion-debe-incidir-en-la-defensa-de-los-derechos-humanos/"
+    },
     {
       "title": "Presidente de la Cámara de Diputados destaca respeto a las funciones de ambas cámaras para fortalecer la institucionalidad bicameral",
       "source": "Portal del Congreso",
@@ -1669,18 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "17 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/voceros-destacan-el-retorno-a-la-bicameralidad-y-el-dialogo-politico-en-el-204-aniversario-del-congreso/"
-    },
-    {
-      "title": "Diputados expresan posiciones diversas y exigen puesta en marcha de planes operativos contra la inseguridad",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-expresan-posiciones-diversas-y-exigen-puesta-en-marcha-de-planes-operativos-contra-la-inseguridad/"
-    },
-    {
-      "title": "Aprueban dictámenes sobre la legalidad de tres decretos del Poder Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-sobre-la-legalidad-de-tres-decretos-del-poder-ejecutivo/"
     }
   ],
   "events_override": {
@@ -1899,6 +1899,22 @@
         "d": "17/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-destaca-respeto-a-las-funciones-de-ambas-camaras-para-fortalecer-la-institucionalidad-bicameral/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Confiep resalta disposición de Reto Otero para articular propuestas en favor del país",
+        "d": "18/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/confiep-resalta-disposicion-de-reto-otero-para-articular-propuestas-en-favor-del-pais/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Oscar Reto: “Nuestra labor de fiscalización debe incidir en la defensa de los derechos humanos”",
+        "d": "18/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-nuestra-labor-de-fiscalizacion-debe-incidir-en-la-defensa-de-los-derechos-humanos/",
         "pts": 2
       }
     ],
@@ -5096,6 +5112,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/391",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 413 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DE VILLA TINQUERCCASA, DISTRITO DE PAUCARÁ,...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/413",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -7592,6 +7616,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/308",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 412 (Mociones de Saludo): EXPRESAR ELCORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRI...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/412",
+        "pts": 3
       }
     ],
     "Carmela Paucara Paxi": [
@@ -9174,6 +9206,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/102",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Ministros sustentaron presupuesto 2027 ante Comisión Bicameral",
+        "d": "18/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-sustentaron-presupuesto-2027-ante-comision-bicameral/",
+        "pts": 2
       }
     ],
     "Jhonn Brayam Valqui Ordoñez": [
