@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso inauguró el I Encuentro Macrorregional de Mypes de la Macrorregión Sur en Arequipa",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inauguro-el-i-encuentro-macrorregional-de-mypes-de-la-macrorregion-sur-en-arequipa/"
+    },
+    {
       "title": "Senadores recogen demandas de emprendedores y autoridades de Piura ante posibles efectos del fenómeno El Niño Costero",
       "source": "Portal del Congreso",
       "date": "18 Sep 2026",
@@ -1631,15 +1637,15 @@
       "source": "Portal del Congreso",
       "date": "17 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-el-pais-necesita-un-parlamento-que-fiscalice-legisle-y-construya-puentes/"
-    },
-    {
-      "title": "Voceros destacan el retorno a la bicameralidad y el diálogo político en el 204.° aniversario del Congreso",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/voceros-destacan-el-retorno-a-la-bicameralidad-y-el-dialogo-politico-en-el-204-aniversario-del-congreso/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Ministros sustentaron presupuesto 2027 ante Comisión Bicameral",
+      "source": "Portal del Congreso",
+      "date": "18 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-sustentaron-presupuesto-2027-ante-comision-bicameral/"
+    },
     {
       "title": "Confiep resalta disposición de Reto Otero para articular propuestas en favor del país",
       "source": "Portal del Congreso",
@@ -1675,12 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "17 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-el-pais-necesita-un-parlamento-que-fiscalice-legisle-y-construya-puentes/"
-    },
-    {
-      "title": "Voceros destacan el retorno a la bicameralidad y el diálogo político en el 204.° aniversario del Congreso",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/voceros-destacan-el-retorno-a-la-bicameralidad-y-el-dialogo-politico-en-el-204-aniversario-del-congreso/"
     }
   ],
   "events_override": {
@@ -2253,6 +2253,14 @@
         "d": "17/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-superintendente-de-sunat-abordan-problematica-de-las-mypes/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso inauguró el I Encuentro Macrorregional de Mypes de la Macrorregión Sur en Arequipa",
+        "d": "18/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inauguro-el-i-encuentro-macrorregional-de-mypes-de-la-macrorregion-sur-en-arequipa/",
         "pts": 2
       }
     ],
@@ -2828,6 +2836,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 415 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y EVALUACIÓN DE LAS POLÍTICAS DE SEGURIDAD CIUDADANA Y LUC...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
+        "pts": 3
       }
     ],
     "Juan César Cabrera Nieto": [
@@ -3054,6 +3070,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 415 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y EVALUACIÓN DE LAS POLÍTICAS DE SEGURIDAD CIUDADANA Y LUC...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
+        "pts": 3
       }
     ],
     "Luis Aurelio Masco Cáceres": [
@@ -3103,6 +3127,14 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 415 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y EVALUACIÓN DE LAS POLÍTICAS DE SEGURIDAD CIUDADANA Y LUC...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
         "pts": 3
       }
     ],
@@ -3389,6 +3421,14 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 415 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y EVALUACIÓN DE LAS POLÍTICAS DE SEGURIDAD CIUDADANA Y LUC...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
         "pts": 3
       }
     ],
@@ -4305,6 +4345,14 @@
         "d": "14/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 414 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA PROVINCIA DE CALCA, UBICADA EN EL DEPARTAMENTO DEL ...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/414",
         "pts": 3
       }
     ],
@@ -5825,6 +5873,14 @@
         "d": "14/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 415 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y EVALUACIÓN DE LAS POLÍTICAS DE SEGURIDAD CIUDADANA Y LUC...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
         "pts": 3
       }
     ],
@@ -7624,6 +7680,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/412",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 412 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/412",
+        "pts": 3
       }
     ],
     "Carmela Paucara Paxi": [
@@ -8497,6 +8561,14 @@
         "d": "07/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/278",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 416 (Mociones de Saludo): EXPRESAR EL SALUDO Y FELICITACIÓN AL DISTRITO VISTA ALEGRE, PROVINCIA DE NASCA, DEPARTAMENTO DE ICA, CON OCASIÓN DE CONM...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/416",
         "pts": 3
       }
     ],
@@ -9873,6 +9945,14 @@
         "d": "17/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/404",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 415 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y EVALUACIÓN DE LAS POLÍTICAS DE SEGURIDAD CIUDADANA Y LUC...",
+        "d": "18/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
         "pts": 3
       }
     ],
