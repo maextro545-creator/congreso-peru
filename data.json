@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Miguel Torres: “No es momento de discutir, si no de cerrar filas para sacar las cosas adelante”",
+      "source": "Portal del Congreso",
+      "date": "19 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-no-es-momento-de-discutir-si-no-de-cerrar-filas-para-sacar-las-cosas-adelante/"
+    },
+    {
       "title": "Presidente del Congreso inauguró el I Encuentro Macrorregional de Mypes de la Macrorregión Sur en Arequipa",
       "source": "Portal del Congreso",
       "date": "18 Sep 2026",
@@ -1631,15 +1637,15 @@
       "source": "Portal del Congreso",
       "date": "17 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-define-lista-de-11-candidatos-para-elegir-a-tres-directores-del-bcrp/"
-    },
-    {
-      "title": "Presidente del Congreso: “El país necesita un Parlamento que fiscalice, legisle y construya puentes”",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-el-pais-necesita-un-parlamento-que-fiscalice-legisle-y-construya-puentes/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Miguel Torres: “No es momento de discutir, si no de cerrar filas para sacar las cosas adelante”",
+      "source": "Portal del Congreso",
+      "date": "19 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-no-es-momento-de-discutir-si-no-de-cerrar-filas-para-sacar-las-cosas-adelante/"
+    },
     {
       "title": "Ministros sustentaron presupuesto 2027 ante Comisión Bicameral",
       "source": "Portal del Congreso",
@@ -1675,12 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "17 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-destaca-respeto-a-las-funciones-de-ambas-camaras-para-fortalecer-la-institucionalidad-bicameral/"
-    },
-    {
-      "title": "Presidente del Congreso: “El país necesita un Parlamento que fiscalice, legisle y construya puentes”",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-el-pais-necesita-un-parlamento-que-fiscalice-legisle-y-construya-puentes/"
     }
   ],
   "events_override": {
@@ -2261,6 +2261,14 @@
         "d": "18/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inauguro-el-i-encuentro-macrorregional-de-mypes-de-la-macrorregion-sur-en-arequipa/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres: “No es momento de discutir, si no de cerrar filas para sacar las cosas adelante”",
+        "d": "19/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-no-es-momento-de-discutir-si-no-de-cerrar-filas-para-sacar-las-cosas-adelante/",
         "pts": 2
       }
     ],
