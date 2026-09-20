@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso participó en ceremonia por el Día de las Fuerzas Armadas",
+      "source": "Portal del Congreso",
+      "date": "20 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-dia-de-las-fuerzas-armadas-2/"
+    },
+    {
       "title": "Miguel Torres: “No es momento de discutir, si no de cerrar filas para sacar las cosas adelante”",
       "source": "Portal del Congreso",
       "date": "19 Sep 2026",
@@ -1631,12 +1637,6 @@
       "source": "Portal del Congreso",
       "date": "18 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-las-mipymes-son-los-verdaderos-protagonistas-del-desarrollo-del-pais/"
-    },
-    {
-      "title": "Senado define lista de 11 candidatos para elegir a tres directores del BCRP",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-define-lista-de-11-candidatos-para-elegir-a-tres-directores-del-bcrp/"
     }
   ],
   "diputados_news": [
@@ -2269,6 +2269,14 @@
         "d": "19/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-no-es-momento-de-discutir-si-no-de-cerrar-filas-para-sacar-las-cosas-adelante/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en ceremonia por el Día de las Fuerzas Armadas",
+        "d": "20/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-dia-de-las-fuerzas-armadas-2/",
         "pts": 2
       }
     ],
