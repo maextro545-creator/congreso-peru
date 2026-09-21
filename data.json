@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Juntos por el Perú inician semana de representación con fiscalización en regiones",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-inician-semana-de-representacion-con-fiscalizacion-en-regiones/"
+    },
+    {
+      "title": "Presidente del Congreso invoca a la Comisión de Constitución a decidir sobre facultades legislativas",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-invoca-a-la-comision-de-constitucion-a-decidir-sobre-facultades-legislativas/"
+    },
+    {
+      "title": "Comisión del Senado aprueba proceso de entrevistas para candidatos al directorio del BCR",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-del-senado-aprueba-proceso-de-entrevistas-para-candidatos-al-directorio-del-bcr/"
+    },
+    {
+      "title": "Presidente del Congreso reafirma compromiso con las mypes en encuentro gastronómico",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-las-mypes-en-encuentro-gastronomico/"
+    },
+    {
       "title": "Presidente del Congreso participó en ceremonia por el Día de las Fuerzas Armadas",
       "source": "Portal del Congreso",
       "date": "20 Sep 2026",
@@ -1619,68 +1643,20 @@
       "source": "Portal del Congreso",
       "date": "18 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-recogen-demandas-de-emprendedores-y-autoridades-de-piura-ante-posibles-efectos-del-fenomeno-el-nino-costero/"
-    },
-    {
-      "title": "Ministros sustentaron presupuesto 2027 ante Comisión Bicameral",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-sustentaron-presupuesto-2027-ante-comision-bicameral/"
-    },
-    {
-      "title": "Crean grupo de trabajo para fortalecer la prevención de la violencia escolar",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/crean-grupo-de-trabajo-para-fortalecer-la-prevencion-de-la-violencia-escolar/"
-    },
-    {
-      "title": "Presidente del Congreso: «Las mipymes son los verdaderos protagonistas del desarrollo del país»",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-las-mipymes-son-los-verdaderos-protagonistas-del-desarrollo-del-pais/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Miguel Torres: “No es momento de discutir, si no de cerrar filas para sacar las cosas adelante”",
+      "title": "Fuerza Popular inicia semana de representación en Piura, Loreto, La Libertad, Lima y el Callao",
       "source": "Portal del Congreso",
-      "date": "19 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-no-es-momento-de-discutir-si-no-de-cerrar-filas-para-sacar-las-cosas-adelante/"
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/fuerza-popular-inicia-semana-de-representacion-en-piura-loreto-la-libertad-lima-y-el-callao/"
     },
     {
-      "title": "Ministros sustentaron presupuesto 2027 ante Comisión Bicameral",
+      "title": "Diputados de Juntos por el Perú desarrollan actividades de fiscalización en Moquegua, Lima y Huancavelica",
       "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-sustentaron-presupuesto-2027-ante-comision-bicameral/"
-    },
-    {
-      "title": "Confiep resalta disposición de Reto Otero para articular propuestas en favor del país",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/confiep-resalta-disposicion-de-reto-otero-para-articular-propuestas-en-favor-del-pais/"
-    },
-    {
-      "title": "Crean grupo de trabajo para fortalecer la prevención de la violencia escolar",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/crean-grupo-de-trabajo-para-fortalecer-la-prevencion-de-la-violencia-escolar/"
-    },
-    {
-      "title": "Presidente del Congreso: «Las mipymes son los verdaderos protagonistas del desarrollo del país»",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-las-mipymes-son-los-verdaderos-protagonistas-del-desarrollo-del-pais/"
-    },
-    {
-      "title": "Oscar Reto: “Nuestra labor de fiscalización debe incidir en la defensa de los derechos humanos”",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-nuestra-labor-de-fiscalizacion-debe-incidir-en-la-defensa-de-los-derechos-humanos/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados destaca respeto a las funciones de ambas cámaras para fortalecer la institucionalidad bicameral",
-      "source": "Portal del Congreso",
-      "date": "17 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-destaca-respeto-a-las-funciones-de-ambas-camaras-para-fortalecer-la-institucionalidad-bicameral/"
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-desarrollan-actividades-de-fiscalizacion-en-moquegua-lima-y-huancavelica/"
     }
   ],
   "events_override": {
@@ -2277,6 +2253,14 @@
         "d": "20/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-dia-de-las-fuerzas-armadas-2/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso reafirma compromiso con las mypes en encuentro gastronómico",
+        "d": "21/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-las-mypes-en-encuentro-gastronomico/",
         "pts": 2
       }
     ],
@@ -7116,6 +7100,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/64",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 108 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS FERVIENTE Y EFUSIVO SALUDO A LA POBLACIÓN DE LA PROVINCIA DE PAITA, ASÍ COMO A LAS AUTORIDADES POLÍTICAS...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/108",
+        "pts": 3
       }
     ],
     "Roger Miguel Astucuri Laura": [
@@ -9969,6 +9961,22 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 423 (Mociones de Saludo): EXPRESAR SU SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA ESCUELA DE EDUCACIÓN SUPERIOR PEDAGÓGICA PÚBLICA “SAN FRANCISCO D...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/423",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 422 (Mociones de Saludo): EXPRESAR SU CORDIAL Y EFUSIVO SALUDO Y FELICITACIÓN A LAS AUTORIDADES, INSTITUCIONES PÚBLICAS Y PRIVADAS, ORGANIZACIONES...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/422",
         "pts": 3
       }
     ],
