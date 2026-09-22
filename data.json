@@ -1597,6 +1597,36 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso llama a fortalecer el diálogo y el bien común en nueva etapa bicameral",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-llama-a-fortalecer-el-dialogo-y-el-bien-comun-en-nueva-etapa-bicameral/"
+    },
+    {
+      "title": "Partido del Buen Gobierno prioriza salud, educación y derechos humanos en inicio de la semana de representación",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/partido-del-buen-gobierno-prioriza-salud-educacion-y-derechos-humanos-en-inicio-de-la-semana-de-representacion/"
+    },
+    {
+      "title": "Senadores de Ahora Nación iniciaron semana de representación con reuniones y visitas en diversas zonas del país",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-iniciaron-semana-de-representacion-con-reuniones-y-visitas-en-diversas-zonas-del-pais/"
+    },
+    {
+      "title": "Senadores de Renovación Popular atienden demandas educativas y respaldan a jóvenes deportistas",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-atienden-demandas-educativas-y-respaldan-a-jovenes-deportistas/"
+    },
+    {
+      "title": "Titular del Congreso recibe a presidente de la CONFIEP",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titular-del-congreso-recibe-a-presidente-de-la-confiep/"
+    },
+    {
       "title": "Senadores de Juntos por el Perú inician semana de representación con fiscalización en regiones",
       "source": "Portal del Congreso",
       "date": "21 Sep 2026",
@@ -1613,39 +1643,21 @@
       "source": "Portal del Congreso",
       "date": "21 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-del-senado-aprueba-proceso-de-entrevistas-para-candidatos-al-directorio-del-bcr/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma compromiso con las mypes en encuentro gastronómico",
-      "source": "Portal del Congreso",
-      "date": "21 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-las-mypes-en-encuentro-gastronomico/"
-    },
-    {
-      "title": "Presidente del Congreso participó en ceremonia por el Día de las Fuerzas Armadas",
-      "source": "Portal del Congreso",
-      "date": "20 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-dia-de-las-fuerzas-armadas-2/"
-    },
-    {
-      "title": "Miguel Torres: “No es momento de discutir, si no de cerrar filas para sacar las cosas adelante”",
-      "source": "Portal del Congreso",
-      "date": "19 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-no-es-momento-de-discutir-si-no-de-cerrar-filas-para-sacar-las-cosas-adelante/"
-    },
-    {
-      "title": "Presidente del Congreso inauguró el I Encuentro Macrorregional de Mypes de la Macrorregión Sur en Arequipa",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inauguro-el-i-encuentro-macrorregional-de-mypes-de-la-macrorregion-sur-en-arequipa/"
-    },
-    {
-      "title": "Senadores recogen demandas de emprendedores y autoridades de Piura ante posibles efectos del fenómeno El Niño Costero",
-      "source": "Portal del Congreso",
-      "date": "18 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-recogen-demandas-de-emprendedores-y-autoridades-de-piura-ante-posibles-efectos-del-fenomeno-el-nino-costero/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente del Congreso llama a fortalecer el diálogo y el bien común en nueva etapa bicameral",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-llama-a-fortalecer-el-dialogo-y-el-bien-comun-en-nueva-etapa-bicameral/"
+    },
+    {
+      "title": "Partido del Buen Gobierno prioriza salud, educación y derechos humanos en inicio de la semana de representación",
+      "source": "Portal del Congreso",
+      "date": "21 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/partido-del-buen-gobierno-prioriza-salud-educacion-y-derechos-humanos-en-inicio-de-la-semana-de-representacion/"
+    },
     {
       "title": "Fuerza Popular inicia semana de representación en Piura, Loreto, La Libertad, Lima y el Callao",
       "source": "Portal del Congreso",
@@ -2262,6 +2274,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-las-mypes-en-encuentro-gastronomico/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso llama a fortalecer el diálogo y el bien común en nueva etapa bicameral",
+        "d": "21/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-llama-a-fortalecer-el-dialogo-y-el-bien-comun-en-nueva-etapa-bicameral/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -2436,6 +2456,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Angel Renato Meneses Crispin": [
@@ -2557,6 +2585,14 @@
         "d": "09/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/313",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
       }
     ],
@@ -2680,6 +2716,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/403",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Helard Bladimir Sonco Villanueva": [
@@ -2802,6 +2846,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/379",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Edgar Adrián Alvaron De la Cruz": [
@@ -2886,6 +2938,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Raúl Jesús Camargo Porta": [
@@ -2944,6 +3004,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Arturo César Eusebio Padilla": [
@@ -2977,6 +3045,14 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
       }
     ],
@@ -3177,6 +3253,14 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
       }
     ],
@@ -3430,6 +3514,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -3578,6 +3670,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/313",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Harvey Julio Colchado Huamani": [
@@ -3643,6 +3743,14 @@
         "d": "07/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/282",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
       }
     ],
@@ -3774,6 +3882,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-posterga-para-este-miercoles-votacion-sobre-delegacion-de-facultades-al-ejecutivo/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -4566,6 +4682,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/408",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Roxana María Rocha Gallegos": [
@@ -5168,6 +5292,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/413",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -5566,6 +5698,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Jesús Pérez Alccahuaman": [
@@ -5647,6 +5787,14 @@
         "d": "14/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/354",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
       }
     ],
@@ -5881,6 +6029,14 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
       }
     ],
@@ -6952,6 +7108,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/382",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
       }
     ],
     "Luis Angel Jibaja Ramos": [
@@ -7389,6 +7553,14 @@
         "d": "17/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/402",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 424 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE EDUCACIÓN, SEÑOR JOSÉ ANTONIO CHANG ESCOBEDO, PARA QUE SE PRESENTE ANTE EL PLENO DE LA CÁMARA ...",
+        "d": "21/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
       }
     ],
