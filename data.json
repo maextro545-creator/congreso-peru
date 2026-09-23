@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Congreso rinde homenaje a bomberos voluntarios por 40 años de servicio",
+      "source": "Portal del Congreso",
+      "date": "22 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rinde-homenaje-a-bomberos-voluntarios-por-40-anos-de-servicio/"
+    },
+    {
+      "title": "Senadores de Ahora Nación fiscalizan obras y funcionamiento de hospitales",
+      "source": "Portal del Congreso",
+      "date": "22 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-fiscalizan-obras-y-funcionamiento-de-hospitales/"
+    },
+    {
+      "title": "Seguridad, infraestructura, agricultura y salud son las principales demandas",
+      "source": "Portal del Congreso",
+      "date": "22 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/seguridad-infraestructura-agricultura-y-salud-son-las-principales-demandas/"
+    },
+    {
       "title": "Partido del Buen Gobierno supervisa de cerca servicios de salud, seguridad y saneamiento en el país",
       "source": "Portal del Congreso",
       "date": "22 Sep 2026",
@@ -1619,21 +1637,21 @@
       "source": "Portal del Congreso",
       "date": "22 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-priorizan-fiscalizacion-y-atencion-de-demandas-en-las-regiones/"
-    },
-    {
-      "title": "Senadores del Partido Cívico Obras realizan actividades de representación",
-      "source": "Portal del Congreso",
-      "date": "22 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-civico-obras-realizan-actividades-de-representacion/"
-    },
-    {
-      "title": "Presidente del Congreso pide no demorar decisión sobre delegación de facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "22 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-pide-no-demorar-decision-sobre-delegacion-de-facultades-legislativas/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "En audiencia ciudadana recogen opiniones sobre solicitud de facultades legislativas del Poder Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "22 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-audiencia-ciudadana-recogen-opiniones-sobre-solicitud-de-facultades-legislativas-del-poder-ejecutivo/"
+    },
+    {
+      "title": "Presidente del Congreso recibe a delegación de diputados de Estados Unidos",
+      "source": "Portal del Congreso",
+      "date": "22 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibe-a-delegacion-de-diputados-de-estados-unidos/"
+    },
     {
       "title": "Partido del Buen Gobierno supervisa de cerca servicios de salud, seguridad y saneamiento en el país",
       "source": "Portal del Congreso",
@@ -1651,30 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "22 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/demandas-de-vivienda-infraestructura-y-alimentacion-escolar-fueron-atendidas-por-diputados-de-fuerza-popular/"
-    },
-    {
-      "title": "Diputados de Juntos por el Perú continúan con visitas de inspección en el interior del país",
-      "source": "Portal del Congreso",
-      "date": "22 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-continuan-con-visitas-de-inspeccion-en-el-interior-del-pais/"
-    },
-    {
-      "title": "Presidente del Congreso pide no demorar decisión sobre delegación de facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "22 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-pide-no-demorar-decision-sobre-delegacion-de-facultades-legislativas/"
-    },
-    {
-      "title": "Reto Otero: FAP reforzará capacidad aérea frente al fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "22 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-fap-reforzara-capacidad-aerea-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "Diputados de Renovación Popular desarrollan actividades de representación y fiscalización en diversas regiones del país",
-      "source": "Portal del Congreso",
-      "date": "22 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-desarrollan-actividades-de-representacion-y-fiscalizacion-en-diversas-regiones-del-pais/"
     }
   ],
   "events_override": {
@@ -2295,6 +2289,14 @@
         "d": "21/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-llama-a-fortalecer-el-dialogo-y-el-bien-comun-en-nueva-etapa-bicameral/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso rinde homenaje a bomberos voluntarios por 40 años de servicio",
+        "d": "22/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rinde-homenaje-a-bomberos-voluntarios-por-40-anos-de-servicio/",
         "pts": 2
       }
     ],
@@ -4254,6 +4256,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/55",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores de Ahora Nación fiscalizan obras y funcionamiento de hospitales",
+        "d": "22/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-fiscalizan-obras-y-funcionamiento-de-hospitales/",
+        "pts": 2
       }
     ],
     "Joaquín Yauri Tunque": [
@@ -7032,6 +7042,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: En audiencia ciudadana recogen opiniones sobre solicitud de facultades legislativas del Poder Ejecutivo",
+        "d": "22/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/en-audiencia-ciudadana-recogen-opiniones-sobre-solicitud-de-facultades-legislativas-del-poder-ejecutivo/",
+        "pts": 2
       }
     ],
     "Marco Antonio Flores Valdizan": [
