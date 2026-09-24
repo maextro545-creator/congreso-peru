@@ -1597,6 +1597,42 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Ahora Nación gestionan atención a demandas de autoridades y población",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-gestionan-atencion-a-demandas-de-autoridades-y-poblacion/"
+    },
+    {
+      "title": "Senadores del Partido Cívico Obras realizaron visitas y sostuvieron diálogo social en diversas localidades del país",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-civico-obras-realizaron-visitas-y-sostuvieron-dialogo-social-en-diversas-localidades-del-pais/"
+    },
+    {
+      "title": "Comisión de Procedimientos Especiales inició entrevistas a candidatos al directorio del BCRP",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-inicio-entrevistas-a-candidatos-al-directorio-del-bcrp/"
+    },
+    {
+      "title": "Presidente del Congreso supervisa descolmatación del río Lurín ante riesgo de lluvias",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-descolmatacion-del-rio-lurin-ante-riesgo-de-lluvias/"
+    },
+    {
+      "title": "Constitucionalistas analizan retos y alcances del nuevo sistema bicameral",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/constitucionalistas-analizan-retos-y-alcances-del-nuevo-sistema-bicameral/"
+    },
+    {
+      "title": "Educación, salud y medio ambiente centran la agenda de representación del Partido del Buen Gobierno",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/educacion-salud-y-medio-ambiente-centran-la-agenda-de-representacion-del-partido-del-buen-gobierno/"
+    },
+    {
       "title": "Senadores del Partido del Buen Gobierno desarrollan actividades en Loreto y Arequipa",
       "source": "Portal del Congreso",
       "date": "23 Sep 2026",
@@ -1607,33 +1643,33 @@
       "source": "Portal del Congreso",
       "date": "23 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-constatan-infraestructura-de-salud-y-educacion-en-regiones/"
-    },
-    {
-      "title": "Visitas de inspección y reuniones con organizaciones de base priorizaron hoy senadores de Juntos por el Perú",
-      "source": "Portal del Congreso",
-      "date": "23 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/visitas-de-inspeccion-y-reuniones-con-organizaciones-de-base-priorizaron-hoy-senadores-de-juntos-por-el-peru/"
-    },
-    {
-      "title": "Reafirman compromiso de garantizar la logística y protección legal de las FF. AA.",
-      "source": "Portal del Congreso",
-      "date": "23 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reafirman-compromiso-de-garantizar-la-logistica-y-proteccion-legal-de-las-ff-aa/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma su compromiso con los agricultores en inauguración de Expoalimentaria 2026",
-      "source": "Portal del Congreso",
-      "date": "23 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-su-compromiso-con-los-agricultores-en-inauguracion-de-expoalimentaria-2026/"
-    },
-    {
-      "title": "Presidente del Congreso: Desafío de la gestión es que el Senado cumpla un rol de estabilidad",
-      "source": "Portal del Congreso",
-      "date": "23 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-desafio-de-la-gestion-es-que-el-senado-cumpla-un-rol-de-estabilidad/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Procedimientos Especiales inició entrevistas a candidatos al directorio del BCRP",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-inicio-entrevistas-a-candidatos-al-directorio-del-bcrp/"
+    },
+    {
+      "title": "Reto Otero: “estamos comprometidos con una bicameralidad que beneficie al país”",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-estamos-comprometidos-con-una-bicameralidad-que-beneficie-al-pais/"
+    },
+    {
+      "title": "Presidente del Congreso supervisa descolmatación del río Lurín ante riesgo de lluvias",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-descolmatacion-del-rio-lurin-ante-riesgo-de-lluvias/"
+    },
+    {
+      "title": "Constitucionalistas analizan retos y alcances del nuevo sistema bicameral",
+      "source": "Portal del Congreso",
+      "date": "23 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/constitucionalistas-analizan-retos-y-alcances-del-nuevo-sistema-bicameral/"
+    },
     {
       "title": "Educación, salud y medio ambiente centran la agenda de representación del Partido del Buen Gobierno",
       "source": "Portal del Congreso",
@@ -1645,30 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "23 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-recorren-lima-provincias-piura-y-loreto-en-tercer-dia-de-semana-de-representacion/"
-    },
-    {
-      "title": "Reafirman compromiso de garantizar la logística y protección legal de las FF. AA.",
-      "source": "Portal del Congreso",
-      "date": "23 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reafirman-compromiso-de-garantizar-la-logistica-y-proteccion-legal-de-las-ff-aa/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma su compromiso con los agricultores en inauguración de Expoalimentaria 2026",
-      "source": "Portal del Congreso",
-      "date": "23 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-su-compromiso-con-los-agricultores-en-inauguracion-de-expoalimentaria-2026/"
-    },
-    {
-      "title": "Diputados de Renovación Popular fiscalizan servicios públicos, infraestructura y atención a la ciudadanía durante la semana de representación",
-      "source": "Portal del Congreso",
-      "date": "23 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/iputados-de-renovacion-popular-fiscalizan-servicios-publicos-infraestructura-y-atencion-a-la-ciudadania-durante-la-semana-de-representacion/"
-    },
-    {
-      "title": "Diputados de JPP fiscalizan estado de flota policial y atienden demandas ciudadanas",
-      "source": "Portal del Congreso",
-      "date": "23 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-jpp-fiscalizan-estado-de-flota-policial-y-atienden-demandas-ciudadanas/"
     }
   ],
   "events_override": {
@@ -1911,6 +1923,14 @@
         "d": "22/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-fap-reforzara-capacidad-aerea-frente-al-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Reto Otero: “estamos comprometidos con una bicameralidad que beneficie al país”",
+        "d": "23/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-estamos-comprometidos-con-una-bicameralidad-que-beneficie-al-pais/",
         "pts": 2
       }
     ],
