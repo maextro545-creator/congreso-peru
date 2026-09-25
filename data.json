@@ -1597,10 +1597,28 @@
   },
   "senado_news": [
     {
+      "title": "Senadores del Partido Cívico Obras realizan actividades de representación y reuniones de trabajo",
+      "source": "Portal del Congreso",
+      "date": "24 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-civico-obras-realizan-actividades-de-representacion-y-reuniones-de-trabajo/"
+    },
+    {
+      "title": "Comisión de Procedimientos Especiales culmina entrevistas a candidatos al directorio del BCRP",
+      "source": "Portal del Congreso",
+      "date": "24 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-culmina-entrevistas-a-candidatos-al-directorio-del-bcrp/"
+    },
+    {
       "title": "Senadores del Buen Gobierno atienden demandas sobre agricultura, servicios básicos y adhesión a la OCDE",
       "source": "Portal del Congreso",
       "date": "24 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-buen-gobierno-atienden-demandas-sobre-agricultura-servicios-basicos-y-adhesion-a-la-ocde/"
+    },
+    {
+      "title": "Fuerza Popular fiscaliza obras paralizadas y atiende demandas de sectores salud y educación",
+      "source": "Portal del Congreso",
+      "date": "24 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/fuerza-popular-fiscaliza-obras-paralizadas-y-atiende-demandas-de-sectores-salud-y-educacion/"
     },
     {
       "title": "Presidente del Congreso reafirma compromiso del Estado con los comedores populares de Puente Piedra",
@@ -1619,15 +1637,15 @@
       "source": "Portal del Congreso",
       "date": "24 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-atienden-demandas-regionales-sobre-seguridad-salud-y-servicios-publicos/"
-    },
-    {
-      "title": "Presidente del Congreso resalta aporte del SIMA a la infraestructura naval del país",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-resalta-aporte-del-sima-a-la-infraestructura-naval-del-pais/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputados del Partido del Buen Gobierno articulan acciones en favor del medio ambiente, educación y el agro",
+      "source": "Portal del Congreso",
+      "date": "24 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-del-buen-gobierno-articulan-acciones-en-favor-del-medio-ambiente-educacion-y-el-agro/"
+    },
     {
       "title": "Fuerza Popular fiscaliza obras paralizadas y atiende demandas de sectores salud y educación",
       "source": "Portal del Congreso",
@@ -1651,24 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "24 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-realizaron-visitas-inopinadas-a-colegios-y-hospitales/"
-    },
-    {
-      "title": "Diputados de Renovación Popular fiscalizan servicios y recogen demandas durante la semana de representación",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-fiscalizan-servicios-y-recogen-demandas-durante-la-semana-de-representacion/"
-    },
-    {
-      "title": "Presidente del Congreso resalta aporte del SIMA a la infraestructura naval del país",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-resalta-aporte-del-sima-a-la-infraestructura-naval-del-pais/"
-    },
-    {
-      "title": "Oscar Reto: Información sobre El Niño debe traducirse en prevención",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-informacion-sobre-el-nino-debe-traducirse-en-prevencion/"
     }
   ],
   "events_override": {
@@ -1928,6 +1928,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-informacion-sobre-el-nino-debe-traducirse-en-prevencion/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 446 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y FERVIENTE SALUDO Y RECONOCIMIENTO A LAS FARMACÉUTICAS Y LOS FARMACÉUTICOS DEL PERÚ, CON MOTIVO...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/446",
+        "pts": 3
       }
     ],
     "Miguel Ángel Torres Morales": [
@@ -2894,6 +2902,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 448 (Mociones de Saludo): EXPRESAR UN CÁLIDO SALUDO Y FELICITACIÓN POR CUMPLIR SU PRIMER ANIVERSARIO A LA ASOCIACIÓN DE PERIODISTAS Y COMUNICADORE...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/448",
+        "pts": 3
       }
     ],
     "Edgar Adrián Alvaron De la Cruz": [
@@ -3052,6 +3068,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Arturo César Eusebio Padilla": [
@@ -3194,6 +3218,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Luis Aurelio Masco Cáceres": [
@@ -3251,6 +3283,14 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -3561,6 +3601,14 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -4746,6 +4794,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Roxana María Rocha Gallegos": [
@@ -5218,6 +5274,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Catherin Norma Palomino Casavilca": [
@@ -5356,6 +5420,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -5477,6 +5549,14 @@
         "d": "14/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/353",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -5720,6 +5800,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/429",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -5769,6 +5857,14 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -5859,6 +5955,14 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -6110,6 +6214,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/441",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -6290,6 +6402,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/256",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Jacqueline Viviana Tapullima Insapillo": [
@@ -6380,6 +6500,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/369",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Juan Amilcar Villanueva Calderón": [
@@ -6438,6 +6566,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/441",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Rossana Herminia Alayza Maccera": [
@@ -6463,6 +6599,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/221",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -6498,6 +6642,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/430",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Edwin Espinoza Huillca": [
@@ -6516,6 +6668,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jaime-abensur-es-elegido-presidente-de-comision-de-ordenamiento-y-seguimiento-legislativo/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Hilda Judit Fernández de la Torre": [
@@ -6720,6 +6880,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/441",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -6865,6 +7033,14 @@
         "d": "17/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/395",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -7138,6 +7314,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/en-audiencia-ciudadana-recogen-opiniones-sobre-solicitud-de-facultades-legislativas-del-poder-ejecutivo/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Marco Antonio Flores Valdizan": [
@@ -7236,6 +7420,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Luis Angel Jibaja Ramos": [
@@ -7325,6 +7517,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/441",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -7576,6 +7776,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/331",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Graciela Chipana Condori": [
@@ -7706,6 +7914,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/433",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -7763,6 +7979,14 @@
         "d": "10/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/338",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
       }
     ],
@@ -8216,6 +8440,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/441",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 445 (Censura al Consejo de Ministros o a Ministros): CENSURAR AL SEÑOR CÉSAR AUGUSTO ASTUDILLO SALCEDO, MINISTRO DEL INTERIOR, POR LOS FUNDAMENTOS EXPUESTOS EN LA PRESENTE M...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
       }
     ],
     "Martha Lupe Moyano Delgado": [
@@ -8612,6 +8844,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 444 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y DE NECESIDAD PÚBLICA LA CONSTRUCCIÓN DE LA REPRESA DE AGUA LOS ANDES, UBICADA EN LA PROV...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
+        "pts": 3
       }
     ],
     "Javier Alejandro Castro Cruz": [
@@ -8721,6 +8961,14 @@
         "d": "17/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-define-lista-de-11-candidatos-para-elegir-a-tres-directores-del-bcrp/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Procedimientos Especiales culmina entrevistas a candidatos al directorio del BCRP",
+        "d": "24/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-culmina-entrevistas-a-candidatos-al-directorio-del-bcrp/",
         "pts": 2
       }
     ],
@@ -9562,6 +9810,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 444 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y DE NECESIDAD PÚBLICA LA CONSTRUCCIÓN DE LA REPRESA DE AGUA LOS ANDES, UBICADA EN LA PROV...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
+        "pts": 3
       }
     ],
     "Paola Isabel Martínez Paitán": [
@@ -9639,6 +9895,14 @@
         "d": "10/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 444 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y DE NECESIDAD PÚBLICA LA CONSTRUCCIÓN DE LA REPRESA DE AGUA LOS ANDES, UBICADA EN LA PROV...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
         "pts": 3
       }
     ],
@@ -9988,6 +10252,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/362",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 444 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y DE NECESIDAD PÚBLICA LA CONSTRUCCIÓN DE LA REPRESA DE AGUA LOS ANDES, UBICADA EN LA PROV...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
+        "pts": 3
       }
     ],
     "Juana Guisella Ticona Cohaila": [
@@ -10268,6 +10540,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/359",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 444 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y DE NECESIDAD PÚBLICA LA CONSTRUCCIÓN DE LA REPRESA DE AGUA LOS ANDES, UBICADA EN LA PROV...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
+        "pts": 3
       }
     ],
     "Romina Alejandra Uribe Saenz": [
@@ -10435,6 +10715,14 @@
         "d": "10/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/340",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 444 (Pedidos de Declaración de necesidad pública o interes nacional): DECLÁRASE DE INTERÉS NACIONAL Y DE NECESIDAD PÚBLICA LA CONSTRUCCIÓN DE LA REPRESA DE AGUA LOS ANDES, UBICADA EN LA PROV...",
+        "d": "24/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
         "pts": 3
       }
     ],
