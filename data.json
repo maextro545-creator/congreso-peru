@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso lideró mesa de trabajo para impulsar culminacion del proyecto Puente y Carretera Sauce en San Martín",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-mesa-de-trabajo-para-impulsar-culminacion-del-puente-y-carretera-sauce-en-san-martin/"
+    },
+    {
+      "title": "Presidente del Congreso reafirma compromiso con mypes en el I Encuentro Macrorregional Oriente en Tarapoto",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-mypes-en-el-i-encuentro-macrorregional-oriente-en-tarapoto/"
+    },
+    {
       "title": "Senadores de Renovación Popular desarrollan jornadas de representación en regiones y el exterior",
       "source": "Portal del Congreso",
       "date": "25 Sep 2026",
@@ -1613,33 +1625,39 @@
       "source": "Portal del Congreso",
       "date": "24 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-culmina-entrevistas-a-candidatos-al-directorio-del-bcrp/"
-    },
-    {
-      "title": "Senadores del Buen Gobierno atienden demandas sobre agricultura, servicios básicos y adhesión a la OCDE",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-buen-gobierno-atienden-demandas-sobre-agricultura-servicios-basicos-y-adhesion-a-la-ocde/"
-    },
-    {
-      "title": "Fuerza Popular fiscaliza obras paralizadas y atiende demandas de sectores salud y educación",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fuerza-popular-fiscaliza-obras-paralizadas-y-atiende-demandas-de-sectores-salud-y-educacion/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma compromiso del Estado con los comedores populares de Puente Piedra",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-del-estado-con-los-comedores-populares-de-puente-piedra/"
-    },
-    {
-      "title": "Visitas de inspección y diálogo con organizaciones de base marcaron jornada de senadores de Juntos por el Perú",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/visitas-de-inspeccion-y-dialogo-con-organizaciones-de-base-marcaron-jornada-de-senadores-de-juntos-por-el-peru/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputados de Ahora Nación recorren Cusco, Apurímac y Puno para atender demandas de la población",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-recorren-cusco-apurimac-y-puno-para-atender-demandas-de-la-poblacion/"
+    },
+    {
+      "title": "Diputados de Fuerza Popular fiscalizan servicios de salud, atienden demandas laborales y respaldan a bomberos",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-fiscalizan-servicios-de-salud-atienden-demandas-laborales-y-respaldan-a-bomberos/"
+    },
+    {
+      "title": "Diputados de Renovación Popular culminan semana de representación con acciones de fiscalización y diálogo ciudadano",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-culminan-semana-de-representacion-con-acciones-de-fiscalizacion-y-dialogo-ciudadano/"
+    },
+    {
+      "title": "Presidente del Congreso lideró mesa de trabajo para impulsar culminacion del proyecto Puente y Carretera Sauce en San Martín",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-mesa-de-trabajo-para-impulsar-culminacion-del-puente-y-carretera-sauce-en-san-martin/"
+    },
+    {
+      "title": "Reto Otero: “No basta prevenir, tenemos que estar preparados para responder»",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-no-basta-prevenir-tenemos-que-estar-preparados-para-responder/"
+    },
     {
       "title": "Comisión de Procedimientos Especiales culmina entrevistas a candidatos al directorio del BCRP",
       "source": "Portal del Congreso",
@@ -1651,30 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "24 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-del-buen-gobierno-articulan-acciones-en-favor-del-medio-ambiente-educacion-y-el-agro/"
-    },
-    {
-      "title": "Fuerza Popular fiscaliza obras paralizadas y atiende demandas de sectores salud y educación",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/fuerza-popular-fiscaliza-obras-paralizadas-y-atiende-demandas-de-sectores-salud-y-educacion/"
-    },
-    {
-      "title": "Diputados de Juntos por el Perú fiscalizan servicios y recogen demandas en regiones",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-fiscalizan-servicios-y-recogen-demandas-en-regiones/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma compromiso del Estado con los comedores populares de Puente Piedra",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-del-estado-con-los-comedores-populares-de-puente-piedra/"
-    },
-    {
-      "title": "Diputados de Obras realizaron visitas inopinadas a colegios y hospitales",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-realizaron-visitas-inopinadas-a-colegios-y-hospitales/"
     }
   ],
   "events_override": {
@@ -1942,6 +1936,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/446",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Reto Otero: “No basta prevenir, tenemos que estar preparados para responder»",
+        "d": "25/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-no-basta-prevenir-tenemos-que-estar-preparados-para-responder/",
+        "pts": 2
       }
     ],
     "Miguel Ángel Torres Morales": [
@@ -2335,6 +2337,14 @@
         "d": "23/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-desafio-de-la-gestion-es-que-el-senado-cumpla-un-rol-de-estabilidad/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso reafirma compromiso con mypes en el I Encuentro Macrorregional Oriente en Tarapoto",
+        "d": "25/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-mypes-en-el-i-encuentro-macrorregional-oriente-en-tarapoto/",
         "pts": 2
       }
     ],
@@ -4141,6 +4151,14 @@
         "d": "26/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/40",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 127 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO AL DISTRITO DE LA CAPILLA, PROVINCIA GENERAL SÁNCHEZ CERRO, DEPARTAMENTO DE MOQUEGUA, CON MOTIVO DE C...",
+        "d": "25/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/127",
         "pts": 3
       }
     ],
@@ -7178,6 +7196,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/434",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 453 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN A TODAS Y TODOS LOS QUÍMICOS FARMACÉUTICOS DEL PERÚ AL CONM...",
+        "d": "25/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/453",
+        "pts": 3
       }
     ],
     "José Isidro Baella Malca": [
@@ -8673,6 +8699,14 @@
         "d": "25/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/35",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 126 (MOCIÓN DE SALUDO): SALUDAR CON ESPECIAL CONGRATULACIÓN A LA UNIVERSIDAD NACIONAL MICAELA BASTIDAS DE APURÍMAC – UNAMBA, EN EL MARCO DE LA C...",
+        "d": "25/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/126",
         "pts": 3
       }
     ],
