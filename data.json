@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Renovación Popular desarrollan jornadas de representación en regiones y el exterior",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-desarrollan-jornadas-de-representacion-en-regiones-y-el-exterior/"
+    },
+    {
       "title": "Senadores del Partido Cívico Obras realizan actividades de representación y reuniones de trabajo",
       "source": "Portal del Congreso",
       "date": "24 Sep 2026",
@@ -1631,15 +1637,15 @@
       "source": "Portal del Congreso",
       "date": "24 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/visitas-de-inspeccion-y-dialogo-con-organizaciones-de-base-marcaron-jornada-de-senadores-de-juntos-por-el-peru/"
-    },
-    {
-      "title": "Senadores de Fuerza Popular atienden demandas regionales sobre seguridad, salud y servicios públicos",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-atienden-demandas-regionales-sobre-seguridad-salud-y-servicios-publicos/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Procedimientos Especiales culmina entrevistas a candidatos al directorio del BCRP",
+      "source": "Portal del Congreso",
+      "date": "24 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-culmina-entrevistas-a-candidatos-al-directorio-del-bcrp/"
+    },
     {
       "title": "Diputados del Partido del Buen Gobierno articulan acciones en favor del medio ambiente, educación y el agro",
       "source": "Portal del Congreso",
@@ -10345,6 +10351,30 @@
         "d": "15/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/367",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 452 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA REPÚBLICA DE COREA, CON MOTIVO DE CONMEMORARSE, EL 3 DE OCTUBRE DEL P...",
+        "d": "25/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/452",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 451 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA REPÚBLICA FEDERAL DE ALEMANIA, CON MOTIVO DE CONMEMORARSE, EL 3 DE OC...",
+        "d": "25/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/451",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 450 (Mociones de Saludo): EXPRESAR UN AFECTUOSO SALUDO A LA REPÚBLICA POPULAR CHINA, CON MOTIVO DE CONMEMORARSE, EL 1 DE OCTUBRE DEL PRESENTE AÑO,...",
+        "d": "25/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/450",
         "pts": 3
       }
     ],
