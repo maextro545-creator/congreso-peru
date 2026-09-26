@@ -1597,37 +1597,49 @@
   },
   "senado_news": [
     {
+      "title": "Miguel Torres muestra su respaldo a la Policía: “Desde el Congreso tienen todo nuestro respaldo para fortalecer las escuelas policiales”",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-muestra-su-respaldo-a-la-policia-desde-el-congreso-tienen-todo-nuestro-respaldo-para-fortalecer-las-escuelas-policiales/"
+    },
+    {
+      "title": "Senadores del Partido del Buen Gobierno culminaron semana de representación con actividades en diversas regiones",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-culminaron-semana-de-representacion-con-actividades-en-diversas-regiones/"
+    },
+    {
+      "title": "Senadores del Partido Cívico Obras culminan semana de representación con actividades en Lima, Huánuco y Arequipa",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-civico-obras-culminan-semana-de-representacion-con-actividades-en-lima-huanuco-y-arequipa/"
+    },
+    {
+      "title": "Senadores de Ahora Nación dialogan con pobladores para canalizar sus demandas",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-dialogan-con-pobladores-para-canalizar-sus-demandas/"
+    },
+    {
       "title": "Presidente del Congreso lideró mesa de trabajo para impulsar culminacion del proyecto Puente y Carretera Sauce en San Martín",
       "source": "Portal del Congreso",
       "date": "25 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-mesa-de-trabajo-para-impulsar-culminacion-del-puente-y-carretera-sauce-en-san-martin/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma compromiso con mypes en el I Encuentro Macrorregional Oriente en Tarapoto",
-      "source": "Portal del Congreso",
-      "date": "25 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-mypes-en-el-i-encuentro-macrorregional-oriente-en-tarapoto/"
-    },
-    {
-      "title": "Senadores de Renovación Popular desarrollan jornadas de representación en regiones y el exterior",
-      "source": "Portal del Congreso",
-      "date": "25 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-desarrollan-jornadas-de-representacion-en-regiones-y-el-exterior/"
-    },
-    {
-      "title": "Senadores del Partido Cívico Obras realizan actividades de representación y reuniones de trabajo",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-civico-obras-realizan-actividades-de-representacion-y-reuniones-de-trabajo/"
-    },
-    {
-      "title": "Comisión de Procedimientos Especiales culmina entrevistas a candidatos al directorio del BCRP",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-culmina-entrevistas-a-candidatos-al-directorio-del-bcrp/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Reto Otero: “Las instituciones no pueden seguir trabajando de forma aislada”",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-las-instituciones-no-pueden-seguir-trabajando-de-forma-aislada/"
+    },
+    {
+      "title": "Diputados de la bancada del Partido del Buen Gobierno priorizan la gestión hídrica, el agro y la educación",
+      "source": "Portal del Congreso",
+      "date": "25 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-la-bancada-del-partido-del-buen-gobierno-priorizan-la-gestion-hidrica-el-agro-y-la-educacion/"
+    },
     {
       "title": "Diputados de Ahora Nación recorren Cusco, Apurímac y Puno para atender demandas de la población",
       "source": "Portal del Congreso",
@@ -1651,24 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "25 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-mesa-de-trabajo-para-impulsar-culminacion-del-puente-y-carretera-sauce-en-san-martin/"
-    },
-    {
-      "title": "Reto Otero: “No basta prevenir, tenemos que estar preparados para responder»",
-      "source": "Portal del Congreso",
-      "date": "25 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-no-basta-prevenir-tenemos-que-estar-preparados-para-responder/"
-    },
-    {
-      "title": "Comisión de Procedimientos Especiales culmina entrevistas a candidatos al directorio del BCRP",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-culmina-entrevistas-a-candidatos-al-directorio-del-bcrp/"
-    },
-    {
-      "title": "Diputados del Partido del Buen Gobierno articulan acciones en favor del medio ambiente, educación y el agro",
-      "source": "Portal del Congreso",
-      "date": "24 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-del-buen-gobierno-articulan-acciones-en-favor-del-medio-ambiente-educacion-y-el-agro/"
     }
   ],
   "events_override": {
@@ -1943,6 +1937,14 @@
         "d": "25/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-no-basta-prevenir-tenemos-que-estar-preparados-para-responder/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Reto Otero: “Las instituciones no pueden seguir trabajando de forma aislada”",
+        "d": "25/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-las-instituciones-no-pueden-seguir-trabajando-de-forma-aislada/",
         "pts": 2
       }
     ],
@@ -2345,6 +2347,14 @@
         "d": "25/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-mypes-en-el-i-encuentro-macrorregional-oriente-en-tarapoto/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres muestra su respaldo a la Policía: “Desde el Congreso tienen todo nuestro respaldo para fortalecer las escuelas policiales”",
+        "d": "25/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-muestra-su-respaldo-a-la-policia-desde-el-congreso-tienen-todo-nuestro-respaldo-para-fortalecer-las-escuelas-policiales/",
         "pts": 2
       }
     ],
