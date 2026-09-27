@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso participó en bicicleteada “Pedaleando por el Perú” por el Día Mundial Sin Auto",
+      "source": "Portal del Congreso",
+      "date": "27 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-bicicleteada-pedaleando-por-el-peru-por-el-dia-mundial-sin-auto/"
+    },
+    {
       "title": "Miguel Torres muestra su respaldo a la Policía: “Desde el Congreso tienen todo nuestro respaldo para fortalecer las escuelas policiales”",
       "source": "Portal del Congreso",
       "date": "25 Sep 2026",
@@ -1619,12 +1625,6 @@
       "source": "Portal del Congreso",
       "date": "25 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-dialogan-con-pobladores-para-canalizar-sus-demandas/"
-    },
-    {
-      "title": "Presidente del Congreso lideró mesa de trabajo para impulsar culminacion del proyecto Puente y Carretera Sauce en San Martín",
-      "source": "Portal del Congreso",
-      "date": "25 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-mesa-de-trabajo-para-impulsar-culminacion-del-puente-y-carretera-sauce-en-san-martin/"
     }
   ],
   "diputados_news": [
@@ -1657,12 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "25 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-culminan-semana-de-representacion-con-acciones-de-fiscalizacion-y-dialogo-ciudadano/"
-    },
-    {
-      "title": "Presidente del Congreso lideró mesa de trabajo para impulsar culminacion del proyecto Puente y Carretera Sauce en San Martín",
-      "source": "Portal del Congreso",
-      "date": "25 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-mesa-de-trabajo-para-impulsar-culminacion-del-puente-y-carretera-sauce-en-san-martin/"
     }
   ],
   "events_override": {
@@ -2355,6 +2349,14 @@
         "d": "25/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-muestra-su-respaldo-a-la-policia-desde-el-congreso-tienen-todo-nuestro-respaldo-para-fortalecer-las-escuelas-policiales/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en bicicleteada “Pedaleando por el Perú” por el Día Mundial Sin Auto",
+        "d": "27/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-bicicleteada-pedaleando-por-el-peru-por-el-dia-mundial-sin-auto/",
         "pts": 2
       }
     ],
