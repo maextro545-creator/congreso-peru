@@ -1597,108 +1597,84 @@
   },
   "senado_news": [
     {
+      "title": "Acuerdan citar a ministros de Producción y Comercio Exterior para informar sobre avances y problemática de sus sectores",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-acuerda-citar-a-ministros-de-produccion-y-comercio-exterior-para-informar-sobre-avances-y-problematica-de-sus-sectores/"
+    },
+    {
+      "title": "Analizan legislación sobre derechos humanos y plantean necesidad de reformas",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-legislacion-sobre-derechos-humanos-y-plantean-necesidad-de-reformas/"
+    },
+    {
+      "title": "Comisión de Constitución del Senado aprueba crear y/o reactivar nuevas ligas parlamentarias",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-aprueba-crear-y-o-reactivar-nuevas-ligas-parlamentarias/"
+    },
+    {
+      "title": "Pleno del Senado analizará este miércoles decretos supremos de régimen de excepción",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-analizara-este-miercoles-decretos-supremos-de-regimen-de-excepcion/"
+    },
+    {
       "title": "Comisión Bicameral de Presupuesto recibió a titulares del JNE, Reniec y ministerios de Cultura y Educación",
       "source": "Portal del Congreso",
       "date": "28 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-jne-reniec-y-ministerios-de-cultura-y-educacion/"
-    },
-    {
-      "title": "Comisión de Inclusión Social realiza audiencia en Loreto y prioriza lucha contra la anemia",
-      "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-realiza-audiencia-en-loreto-y-prioriza-lucha-contra-la-anemia/"
-    },
-    {
-      "title": "Comisión de Defensa del Consumidor recibe informes de Indecopi, Osinergmin y Sunass sobre servicios públicos y protección al usuario",
-      "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-recibe-informes-de-indecopi-osinergmin-y-sunass-sobre-servicios-publicos-y-proteccion-al-usuario/"
-    },
-    {
-      "title": "Demandan intervención obligatoria del Estado para frenar violencia digital infantil",
-      "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-intervencion-obligatoria-del-estado-para-frenar-violencia-digital-infantil/"
-    },
-    {
-      "title": "Comisión de Inclusión Social aprueba dictamen para proteger a menores en situación de orfandad y abandono",
-      "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-aprueba-dictamen-para-proteger-a-menores-en-situacion-de-orfandad-y-abandono/"
-    },
-    {
-      "title": "Segunda vicepresidenta del Senado presidió acto cívico por el Día del Himno Nacional",
-      "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/segunda-vicepresidenta-del-senado-presidio-acto-civico-por-el-dia-del-himno-nacional/"
-    },
-    {
-      "title": "Presidente del Congreso se reunió con el contralor general para fortalecer la cooperación interinstitucional",
-      "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-el-contralor-general-para-fortalecer-la-cooperacion-interinstitucional/"
-    },
-    {
-      "title": "Comisión de Medio Ambiente y Sostenibilidad evaluó propuesta sobre actividades agrarias en la Amazonía",
-      "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-y-sostenible-evaluo-propuesta-sobre-actividades-agrarias-en-la-amazonia/"
-    },
-    {
-      "title": "Presidente del Congreso participó en bicicleteada “Pedaleando por el Perú” por el Día Mundial Sin Auto",
-      "source": "Portal del Congreso",
-      "date": "27 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-bicicleteada-pedaleando-por-el-peru-por-el-dia-mundial-sin-auto/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Comisión de Ética aprueba iniciar investigación a diputada Milagros Santana Vera",
+      "title": "Conforman grupos para fiscalizar minería ilegal y proponer nuevas tecnologías para dotar de energía a Iquitos",
       "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-iniciar-investigacion-a-diputada-milagros-santana-vera/"
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-fiscalizar-mineria-ilegal-y-proponer-nuevas-tecnologias-para-dotar-de-energia-a-iquitos/"
     },
     {
-      "title": "Comisión de Inclusión Social realiza audiencia en Loreto y prioriza lucha contra la anemia",
+      "title": "Comisión de Infraestructura, Vivienda y Transportes cita a ministro de Transportes, José Angello Tangherlini",
       "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-realiza-audiencia-en-loreto-y-prioriza-lucha-contra-la-anemia/"
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-cita-a-ministro-de-transportes-jose-angello-tangherlini/"
     },
     {
-      "title": "Comisión de Defensa del Consumidor recibe informes de Indecopi, Osinergmin y Sunass sobre servicios públicos y protección al usuario",
+      "title": "Diputados demandan fortalecer la gestión patrimonial de las FF. A. y mejorar sus capacidades de acción",
       "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-recibe-informes-de-indecopi-osinergmin-y-sunass-sobre-servicios-publicos-y-proteccion-al-usuario/"
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-demandan-fortalecer-la-gestion-patrimonial-de-las-ff-a-y-mejorar-sus-capacidades-de-accion/"
     },
     {
-      "title": "Demandan intervención obligatoria del Estado para frenar violencia digital infantil",
+      "title": "Acuerdan citar a ministros de Producción y Comercio Exterior para informar sobre avances y problemática de sus sectores",
       "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-intervencion-obligatoria-del-estado-para-frenar-violencia-digital-infantil/"
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-acuerda-citar-a-ministros-de-produccion-y-comercio-exterior-para-informar-sobre-avances-y-problematica-de-sus-sectores/"
     },
     {
-      "title": "Comisión de Inclusión Social aprueba dictamen para proteger a menores en situación de orfandad y abandono",
+      "title": "Analizan legislación sobre derechos humanos y plantean necesidad de reformas",
       "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-aprueba-dictamen-para-proteger-a-menores-en-situacion-de-orfandad-y-abandono/"
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-legislacion-sobre-derechos-humanos-y-plantean-necesidad-de-reformas/"
     },
     {
-      "title": "Presidente del Congreso se reunió con el contralor general para fortalecer la cooperación interinstitucional",
+      "title": "Comisión de Salud solicita medidas concretas para mejorar la atención en EsSalud y afrontar el fenómeno El Niño",
       "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-el-contralor-general-para-fortalecer-la-cooperacion-interinstitucional/"
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-solicita-medidas-concretas-para-mejorar-la-atencion-en-essalud-y-afrontar-el-fenomeno-el-nino/"
     },
     {
-      "title": "Comisión de Medio Ambiente y Sostenibilidad evaluó propuesta sobre actividades agrarias en la Amazonía",
+      "title": "Pleno de Cámara de Diputados debatirá este jueves moción que propone la censura de ministro del Interior",
       "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-y-sostenible-evaluo-propuesta-sobre-actividades-agrarias-en-la-amazonia/"
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-camara-de-diputados-debatira-este-jueves-mocion-que-propone-la-censura-de-ministro-del-interior/"
     },
     {
-      "title": "Presidente del Congreso participó en bicicleteada “Pedaleando por el Perú” por el Día Mundial Sin Auto",
+      "title": "Comisión Bicameral de Presupuesto recibió a titulares del JNE, Reniec y ministerios de Cultura y Educación",
       "source": "Portal del Congreso",
-      "date": "27 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-bicicleteada-pedaleando-por-el-peru-por-el-dia-mundial-sin-auto/"
+      "date": "28 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-jne-reniec-y-ministerios-de-cultura-y-educacion/"
     }
   ],
   "events_override": {
@@ -3080,6 +3056,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
+        "pts": 3
       }
     ],
     "Raúl Jesús Camargo Porta": [
@@ -3153,6 +3137,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
         "pts": 3
       }
     ],
@@ -3262,6 +3254,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/458",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
+        "pts": 3
       }
     ],
     "Heber López Letona": [
@@ -3327,6 +3327,14 @@
         "d": "28/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/458",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
         "pts": 3
       }
     ],
@@ -3402,6 +3410,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-recibe-informes-de-indecopi-osinergmin-y-sunass-sobre-servicios-publicos-y-proteccion-al-usuario/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
+        "pts": 3
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -3451,6 +3467,14 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
         "pts": 3
       }
     ],
@@ -3751,6 +3775,14 @@
         "d": "28/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/458",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
         "pts": 3
       }
     ],
@@ -4634,6 +4666,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/441",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 475 (Conformación de Comisiones de Investigación): CONSTITÚYASE UNA COMISIÓN INVESTIGADORA SOBRE PRESUNTOS ACTOS DE INJERENCIA EXTRANJERA EN EL PROCESO DE ELECCIONES GENER...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/475",
+        "pts": 3
       }
     ],
     "Julián Luis Pérez Mallqui": [
@@ -4723,6 +4763,22 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/414",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 480 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SAN JERÓNIMO, PROVINCIA Y DEPARTAMENTO DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/480",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 479 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE SALUDO Y RECONOCIMIENTO AL DISTRITO DE SAN SALVADOR, PROVINCIA DE CALCA, DEPARTAMENTO DEL CUSC...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/479",
         "pts": 3
       }
     ],
@@ -5172,6 +5228,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/464",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 477 (Mociones de Saludo): EXPRESAR SU MAS CÁLIDO SALUDO Y FELICITACION A LA CIUDAD DE TINGO MARÍA, PROVINCIA DE LEONCIO PRADO, DEPARTAMENTO DE HUÁ...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/477",
+        "pts": 3
       }
     ],
     "Leo Miguel De Paz Lancho": [
@@ -5479,6 +5543,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 475 (Conformación de Comisiones de Investigación): CONSTITÚYASE UNA COMISIÓN INVESTIGADORA SOBRE PRESUNTOS ACTOS DE INJERENCIA EXTRANJERA EN EL PROCESO DE ELECCIONES GENER...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/475",
         "pts": 3
       }
     ],
@@ -6162,6 +6234,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 475 (Conformación de Comisiones de Investigación): CONSTITÚYASE UNA COMISIÓN INVESTIGADORA SOBRE PRESUNTOS ACTOS DE INJERENCIA EXTRANJERA EN EL PROCESO DE ELECCIONES GENER...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/475",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 470 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE ALTO INTERÉS PÚBLICO Y NECESIDAD PÚBLICA NACIONAL LA EJECUCIÓN, ASFALTADO E INTEGRACIÓN TERRITORIAL Y RECATE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/470",
+        "pts": 3
       }
     ],
     "Ernesto Alonso Zunini Yerren": [
@@ -6419,6 +6507,30 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 483 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO, A TRAVÉS DE LA PRESIDENCIA DEL CONSEJO DE MINISTROS, DEL MINISTERIO DE EDUCACIÓN Y DEL MINI...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/483",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 475 (Conformación de Comisiones de Investigación): CONSTITÚYASE UNA COMISIÓN INVESTIGADORA SOBRE PRESUNTOS ACTOS DE INJERENCIA EXTRANJERA EN EL PROCESO DE ELECCIONES GENER...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/475",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 470 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE ALTO INTERÉS PÚBLICO Y NECESIDAD PÚBLICA NACIONAL LA EJECUCIÓN, ASFALTADO E INTEGRACIÓN TERRITORIAL Y RECATE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/470",
         "pts": 3
       }
     ],
@@ -7110,6 +7222,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Conforman grupos para fiscalizar minería ilegal y proponer nuevas tecnologías para dotar de energía a Iquitos",
+        "d": "29/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-fiscalizar-mineria-ilegal-y-proponer-nuevas-tecnologias-para-dotar-de-energia-a-iquitos/",
+        "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 475 (Conformación de Comisiones de Investigación): CONSTITÚYASE UNA COMISIÓN INVESTIGADORA SOBRE PRESUNTOS ACTOS DE INJERENCIA EXTRANJERA EN EL PROCESO DE ELECCIONES GENER...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/475",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -7264,6 +7392,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 470 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE ALTO INTERÉS PÚBLICO Y NECESIDAD PÚBLICA NACIONAL LA EJECUCIÓN, ASFALTADO E INTEGRACIÓN TERRITORIAL Y RECATE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/470",
+        "pts": 3
       }
     ],
     "Carlos Alberto Yalta Sotelo": [
@@ -7409,6 +7545,14 @@
         "d": "28/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/459",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 469 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO Y FERVIENTE SALUDO DE FELICITACIÓN A LAS AUTORIDADES EDILES, INSTITUCIONES REPRESENTATIVAS Y A LO...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/469",
         "pts": 3
       }
     ],
@@ -7665,6 +7809,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 475 (Conformación de Comisiones de Investigación): CONSTITÚYASE UNA COMISIÓN INVESTIGADORA SOBRE PRESUNTOS ACTOS DE INJERENCIA EXTRANJERA EN EL PROCESO DE ELECCIONES GENER...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/475",
         "pts": 3
       }
     ],
@@ -9454,6 +9606,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/109",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 130 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO, RECONOCIMIENTO Y FELICITACIÓN A TODOS LOS EXPENDEDORES DE DIARIOS, REVISTAS Y LOTERÍAS, CANILLITAS, ...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/130",
+        "pts": 3
       }
     ],
     "Carlos David Caballero León": [
@@ -9728,6 +9888,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/261",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
+        "pts": 3
       }
     ],
     "Javier José María Cipriani Thorne": [
@@ -9952,6 +10120,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/106",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 129 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL COLEGIO DE PERIODISTAS DEL PERÚ POR EL “DÍA DEL PERIODISTA PERUANO”, CO...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/129",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 128 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE COJATA, PROVINCIA DE HUANCANÉ, DEPARTAMENTO DE PUNO, EN OCA...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/128",
+        "pts": 3
       }
     ],
     "Ana Luisa Yuffra Lugo": [
@@ -9977,6 +10161,38 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/229",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 474 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO BARRANCA, PROVINCIA DE DATEM DEL MARAÑÓN, DEL D...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/474",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 473 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO JENARO HERRERA, PROVINCIA DE REQUENA, DEL DEPAR...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/473",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 472 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO SAN PABLO, PROVINCIA DE MARISCAL RAMON CASTILLA...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/472",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 471 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO CONTAMANA, PROVINCIA DE UCAYALI, DEL DEPARTAMEN...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/471",
         "pts": 3
       }
     ],
@@ -10029,6 +10245,14 @@
         "d": "21/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-de-la-camara-de-diputados-sera-presidida-por-luis-quispe-candia/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Infraestructura, Vivienda y Transportes cita a ministro de Transportes, José Angello Tangherlini",
+        "d": "29/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-cita-a-ministro-de-transportes-jose-angello-tangherlini/",
         "pts": 2
       }
     ],
@@ -10971,6 +11195,22 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/422",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 481 (Conformación de Comisiones de Investigación): CONSTITUIR Y APROBAR LA CREACIÓN DE UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA, ENCARGADA DE INVESTIGAR A LA SOCIEDAD DE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 478 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO A TODOS LOS PERIODISTAS DEL PERÚ, CON MOTIVO DE CELEBRARSE EL DÍA DEL PERIODIST...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/478",
         "pts": 3
       }
     ],
