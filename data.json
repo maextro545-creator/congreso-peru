@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Comisión Bicameral de Presupuesto recibió a titulares del JNE, Reniec y ministerios de Cultura y Educación",
+      "source": "Portal del Congreso",
+      "date": "28 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-jne-reniec-y-ministerios-de-cultura-y-educacion/"
+    },
+    {
+      "title": "Comisión de Inclusión Social realiza audiencia en Loreto y prioriza lucha contra la anemia",
+      "source": "Portal del Congreso",
+      "date": "28 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-realiza-audiencia-en-loreto-y-prioriza-lucha-contra-la-anemia/"
+    },
+    {
+      "title": "Comisión de Defensa del Consumidor recibe informes de Indecopi, Osinergmin y Sunass sobre servicios públicos y protección al usuario",
+      "source": "Portal del Congreso",
+      "date": "28 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-recibe-informes-de-indecopi-osinergmin-y-sunass-sobre-servicios-publicos-y-proteccion-al-usuario/"
+    },
+    {
       "title": "Demandan intervención obligatoria del Estado para frenar violencia digital infantil",
       "source": "Portal del Congreso",
       "date": "28 Sep 2026",
@@ -1631,21 +1649,15 @@
       "source": "Portal del Congreso",
       "date": "27 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-bicicleteada-pedaleando-por-el-peru-por-el-dia-mundial-sin-auto/"
-    },
-    {
-      "title": "Miguel Torres muestra su respaldo a la Policía: “Desde el Congreso tienen todo nuestro respaldo para fortalecer las escuelas policiales”",
-      "source": "Portal del Congreso",
-      "date": "25 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-muestra-su-respaldo-a-la-policia-desde-el-congreso-tienen-todo-nuestro-respaldo-para-fortalecer-las-escuelas-policiales/"
-    },
-    {
-      "title": "Senadores del Partido del Buen Gobierno culminaron semana de representación con actividades en diversas regiones",
-      "source": "Portal del Congreso",
-      "date": "25 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-culminaron-semana-de-representacion-con-actividades-en-diversas-regiones/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Ética aprueba iniciar investigación a diputada Milagros Santana Vera",
+      "source": "Portal del Congreso",
+      "date": "28 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-iniciar-investigacion-a-diputada-milagros-santana-vera/"
+    },
     {
       "title": "Comisión de Inclusión Social realiza audiencia en Loreto y prioriza lucha contra la anemia",
       "source": "Portal del Congreso",
@@ -6944,6 +6956,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/12",
         "pts": 5
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética aprueba iniciar investigación a diputada Milagros Santana Vera",
+        "d": "28/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-iniciar-investigacion-a-diputada-milagros-santana-vera/",
+        "pts": 2
       }
     ],
     "Yenifer Noelia Paredes Navarro": [
@@ -10179,6 +10199,14 @@
         "d": "18/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-sustentaron-presupuesto-2027-ante-comision-bicameral/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión Bicameral de Presupuesto recibió a titulares del JNE, Reniec y ministerios de Cultura y Educación",
+        "d": "28/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-jne-reniec-y-ministerios-de-cultura-y-educacion/",
         "pts": 2
       }
     ],
