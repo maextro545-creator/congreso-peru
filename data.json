@@ -1597,37 +1597,85 @@
   },
   "senado_news": [
     {
-      "title": "Acuerdan citar a ministros de Producción y Comercio Exterior para informar sobre avances y problemática de sus sectores",
+      "title": "Presidente del Congreso reafirma compromiso con la estabilidad jurídica para impulsar la inversión",
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-acuerda-citar-a-ministros-de-produccion-y-comercio-exterior-para-informar-sobre-avances-y-problematica-de-sus-sectores/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-la-estabilidad-juridica-para-impulsar-la-inversion/"
     },
     {
-      "title": "Analizan legislación sobre derechos humanos y plantean necesidad de reformas",
+      "title": "Comisión de Asuntos de Gestión del Estado y Contraloría del Senado recibió al ministro de Salud",
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-legislacion-sobre-derechos-humanos-y-plantean-necesidad-de-reformas/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-asuntos-de-gestion-del-estado-y-contraloria-del-senado-recibio-al-ministro-de-salud/"
     },
     {
-      "title": "Comisión de Constitución del Senado aprueba crear y/o reactivar nuevas ligas parlamentarias",
+      "title": "Comisión de Ética Parlamentaria del Senado organizará jornada por el Día Mundial de la Ética",
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-aprueba-crear-y-o-reactivar-nuevas-ligas-parlamentarias/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-del-senado-organizara-jornada-por-el-dia-mundial-de-la-etica/"
     },
     {
-      "title": "Pleno del Senado analizará este miércoles decretos supremos de régimen de excepción",
+      "title": "Comisión de Constitución inicia debate de dictamen sobre facultades legislativas al Ejecutivo",
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-analizara-este-miercoles-decretos-supremos-de-regimen-de-excepcion/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-inicia-debate-de-dictamen-sobre-facultades-legislativas-al-ejecutivo/"
     },
     {
-      "title": "Comisión Bicameral de Presupuesto recibió a titulares del JNE, Reniec y ministerios de Cultura y Educación",
+      "title": "Analizan problemas de infraestructura del Hospital Dos de Mayo en Lima",
       "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-jne-reniec-y-ministerios-de-cultura-y-educacion/"
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problemas-de-infraestructura-del-hospital-dos-de-mayo-en-lima/"
+    },
+    {
+      "title": "Comisión de Desarrollo Agrario recibió propuestas sobre beneficios tributarios y desarrollo sostenible del agro amazónico",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-recibio-propuestas-sobre-beneficios-tributarios-y-desarrollo-sostenible-del-agro-amazonico/"
+    },
+    {
+      "title": "Analizan nuevas estrategias para fortalecer la educación en el VI Congreso Científico Pedagógico Lima 2026",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-nuevas-estrategias-para-fortalecer-la-educacion-en-el-vi-congreso-cientifico-pedagogico-lima-2026/"
+    },
+    {
+      "title": "Conforman grupos para fiscalizar minería ilegal y proponer nuevas tecnologías para dotar de energía a Iquitos",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-fiscalizar-mineria-ilegal-y-proponer-nuevas-tecnologias-para-dotar-de-energia-a-iquitos/"
+    },
+    {
+      "title": "Comisión de Infraestructura, Vivienda y Transportes cita a ministro de Transportes, José Angello Tangherlini",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-cita-a-ministro-de-transportes-jose-angello-tangherlini/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Constitución inicia debate de dictamen sobre facultades legislativas al Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-inicia-debate-de-dictamen-sobre-facultades-legislativas-al-ejecutivo/"
+    },
+    {
+      "title": "Analizan problemas de infraestructura del Hospital Dos de Mayo en Lima",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problemas-de-infraestructura-del-hospital-dos-de-mayo-en-lima/"
+    },
+    {
+      "title": "Comisión de Desarrollo Agrario recibió propuestas sobre beneficios tributarios y desarrollo sostenible del agro amazónico",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-recibio-propuestas-sobre-beneficios-tributarios-y-desarrollo-sostenible-del-agro-amazonico/"
+    },
+    {
+      "title": "Analizan nuevas estrategias para fortalecer la educación en el VI Congreso Científico Pedagógico Lima 2026",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-nuevas-estrategias-para-fortalecer-la-educacion-en-el-vi-congreso-cientifico-pedagogico-lima-2026/"
+    },
     {
       "title": "Conforman grupos para fiscalizar minería ilegal y proponer nuevas tecnologías para dotar de energía a Iquitos",
       "source": "Portal del Congreso",
@@ -1645,36 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-demandan-fortalecer-la-gestion-patrimonial-de-las-ff-a-y-mejorar-sus-capacidades-de-accion/"
-    },
-    {
-      "title": "Acuerdan citar a ministros de Producción y Comercio Exterior para informar sobre avances y problemática de sus sectores",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-acuerda-citar-a-ministros-de-produccion-y-comercio-exterior-para-informar-sobre-avances-y-problematica-de-sus-sectores/"
-    },
-    {
-      "title": "Analizan legislación sobre derechos humanos y plantean necesidad de reformas",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-legislacion-sobre-derechos-humanos-y-plantean-necesidad-de-reformas/"
-    },
-    {
-      "title": "Comisión de Salud solicita medidas concretas para mejorar la atención en EsSalud y afrontar el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-solicita-medidas-concretas-para-mejorar-la-atencion-en-essalud-y-afrontar-el-fenomeno-el-nino/"
-    },
-    {
-      "title": "Pleno de Cámara de Diputados debatirá este jueves moción que propone la censura de ministro del Interior",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-camara-de-diputados-debatira-este-jueves-mocion-que-propone-la-censura-de-ministro-del-interior/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto recibió a titulares del JNE, Reniec y ministerios de Cultura y Educación",
-      "source": "Portal del Congreso",
-      "date": "28 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-jne-reniec-y-ministerios-de-cultura-y-educacion/"
     }
   ],
   "events_override": {
@@ -2376,6 +2394,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-bicicleteada-pedaleando-por-el-peru-por-el-dia-mundial-sin-auto/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso reafirma compromiso con la estabilidad jurídica para impulsar la inversión",
+        "d": "29/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-la-estabilidad-juridica-para-impulsar-la-inversion/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -2507,6 +2533,14 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 486 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO DE URACA, PROVINCIA DE CASTILLA, DEPARTAMENTO ...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/486",
         "pts": 3
       }
     ],
@@ -7400,6 +7434,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/470",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 487 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LOS PERIODISTAS DEL PERÚ Y, DE MANERA ESPECIAL, A LOS PERIODISTAS DE LA RE...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/487",
+        "pts": 3
       }
     ],
     "Carlos Alberto Yalta Sotelo": [
@@ -8772,6 +8814,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/385",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 489 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE MACHUPICCHU, PROVINCIA DE URUBAMBA, DEPARTAMENTO DEL CUSCO,...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/489",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 488 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LOS PERIODISTAS DEL PERÚ, CON MOTIVO DE CONMEMORARSE, EL...",
+        "d": "29/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/488",
+        "pts": 3
       }
     ],
     "Gabriel Robertino Gonzales Delgado": [
@@ -8898,6 +8956,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/74",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Asuntos de Gestión del Estado y Contraloría del Senado recibió al ministro de Salud",
+        "d": "29/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-asuntos-de-gestion-del-estado-y-contraloria-del-senado-recibio-al-ministro-de-salud/",
+        "pts": 2
       }
     ],
     "Fernando Miguel Rospigliosi Capurro": [
