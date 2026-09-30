@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Prorrogan plazo de estados de emergencia en provincias de La Libertad, Loreto, Huancavelica y Junín",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/prorrogan-plazo-de-estados-de-emergencia-en-provincias-de-la-libertad-loreto-huancavelica-y-junin/"
+    },
+    {
+      "title": "Comisión de Constitución buscará fórmula de consenso sobre pedido de facultades legislativas",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-buscara-formula-de-consenso-sobre-pedido-de-facultades-legislativas/"
+    },
+    {
+      "title": "Presidente del Congreso se reunió con director de Transparencia Electoral para analizar comicios generales 2026",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-director-de-transparencia-electoral-para-analizar-comicios-generales-2026/"
+    },
+    {
+      "title": "Admiten a trámite denuncia constitucional contra Magaly Ruiz por presunto peculado doloso",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-magaly-ruiz-por-presunto-peculado-doloso/"
+    },
+    {
       "title": "Presidente del Congreso reafirma compromiso con la estabilidad jurídica para impulsar la inversión",
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
@@ -1619,80 +1643,50 @@
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-inicia-debate-de-dictamen-sobre-facultades-legislativas-al-ejecutivo/"
-    },
-    {
-      "title": "Analizan problemas de infraestructura del Hospital Dos de Mayo en Lima",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problemas-de-infraestructura-del-hospital-dos-de-mayo-en-lima/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario recibió propuestas sobre beneficios tributarios y desarrollo sostenible del agro amazónico",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-recibio-propuestas-sobre-beneficios-tributarios-y-desarrollo-sostenible-del-agro-amazonico/"
-    },
-    {
-      "title": "Analizan nuevas estrategias para fortalecer la educación en el VI Congreso Científico Pedagógico Lima 2026",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-nuevas-estrategias-para-fortalecer-la-educacion-en-el-vi-congreso-cientifico-pedagogico-lima-2026/"
-    },
-    {
-      "title": "Conforman grupos para fiscalizar minería ilegal y proponer nuevas tecnologías para dotar de energía a Iquitos",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-fiscalizar-mineria-ilegal-y-proponer-nuevas-tecnologias-para-dotar-de-energia-a-iquitos/"
-    },
-    {
-      "title": "Comisión de Infraestructura, Vivienda y Transportes cita a ministro de Transportes, José Angello Tangherlini",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-cita-a-ministro-de-transportes-jose-angello-tangherlini/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Modernización de la Gestión del Estado invitará al contralor general este miércoles 21 de octubre",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-invitara-al-contralor-general-este-miercoles-21-de-octubre/"
+    },
+    {
+      "title": "Diputados solicitan reforzar monitoreo sísmico a través del Instituto Geofísico del Perú",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-solicitan-reforzar-monitoreo-sismico-a-traves-del-instituto-geofisico-del-peru/"
+    },
+    {
+      "title": "Comisión de Constitución buscará fórmula de consenso sobre pedido de facultades legislativas",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-buscara-formula-de-consenso-sobre-pedido-de-facultades-legislativas/"
+    },
+    {
+      "title": "Presidente del Congreso se reunió con director de Transparencia Electoral para analizar comicios generales 2026",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-director-de-transparencia-electoral-para-analizar-comicios-generales-2026/"
+    },
+    {
+      "title": "Admiten a trámite denuncia constitucional contra Magaly Ruiz por presunto peculado doloso",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-magaly-ruiz-por-presunto-peculado-doloso/"
+    },
+    {
+      "title": "Presidente del Congreso reafirma compromiso con la estabilidad jurídica para impulsar la inversión",
+      "source": "Portal del Congreso",
+      "date": "29 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-la-estabilidad-juridica-para-impulsar-la-inversion/"
+    },
     {
       "title": "Comisión de Constitución inicia debate de dictamen sobre facultades legislativas al Ejecutivo",
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-inicia-debate-de-dictamen-sobre-facultades-legislativas-al-ejecutivo/"
-    },
-    {
-      "title": "Analizan problemas de infraestructura del Hospital Dos de Mayo en Lima",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problemas-de-infraestructura-del-hospital-dos-de-mayo-en-lima/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario recibió propuestas sobre beneficios tributarios y desarrollo sostenible del agro amazónico",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-recibio-propuestas-sobre-beneficios-tributarios-y-desarrollo-sostenible-del-agro-amazonico/"
-    },
-    {
-      "title": "Analizan nuevas estrategias para fortalecer la educación en el VI Congreso Científico Pedagógico Lima 2026",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-nuevas-estrategias-para-fortalecer-la-educacion-en-el-vi-congreso-cientifico-pedagogico-lima-2026/"
-    },
-    {
-      "title": "Conforman grupos para fiscalizar minería ilegal y proponer nuevas tecnologías para dotar de energía a Iquitos",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-fiscalizar-mineria-ilegal-y-proponer-nuevas-tecnologias-para-dotar-de-energia-a-iquitos/"
-    },
-    {
-      "title": "Comisión de Infraestructura, Vivienda y Transportes cita a ministro de Transportes, José Angello Tangherlini",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-cita-a-ministro-de-transportes-jose-angello-tangherlini/"
-    },
-    {
-      "title": "Diputados demandan fortalecer la gestión patrimonial de las FF. A. y mejorar sus capacidades de acción",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-demandan-fortalecer-la-gestion-patrimonial-de-las-ff-a-y-mejorar-sus-capacidades-de-accion/"
     }
   ],
   "events_override": {
@@ -7064,6 +7058,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/460",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 492 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO Y JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS A LA MUNICIPALIDAD DISTRI...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/492",
+        "pts": 3
       }
     ],
     "Edgar Dember Gonzales Polar": [
@@ -8684,6 +8686,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/426",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 502 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA CON OCASIÓN DE LA XXII E...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/502",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 501 (Mociones de Saludo): EXPRESAR EL SALUDO INSTITUCIONAL Y LA MÁS CORDIAL FELICITACIÓN DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A ...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/501",
+        "pts": 3
       }
     ],
     "Carmela Paucara Paxi": [
@@ -9324,6 +9342,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 499 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN A LA CIUDAD DE PUCALLPA, AL CELEBRAR SU SEMANA JUBILAR, RECONOCIENDO LA TRADICIÓN, EMP...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/499",
+        "pts": 3
       }
     ],
     "Javier Alejandro Castro Cruz": [
@@ -9569,6 +9595,14 @@
         "d": "10/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/91",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 135 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA PROVINCIA DE BARRANCA, CON MOTIVO DE CONMEMORARSE SU 42º ANIVERSA...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/135",
         "pts": 3
       }
     ],
@@ -9927,6 +9961,30 @@
         "d": "08/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/300",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 498 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO, AFECTUOSO Y PATRIÓTICO SALUDO A LA INSTITUCIÓN EDUCATIVA \"TÚPAC AMARU\" DEL DISTRITO DE CHILCA, P...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/498",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 497 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE, EMOTIVO Y PATRIÓTICO SALUDO INSTITUCIONAL A LA GLORIOSA MARINA DE GUERRA DEL PERÚ, AL CONMEMO...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/497",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 496 (Mociones de Saludo): EXPRESAR EL SALUDO Y RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS A LOS DOCENTES DE EDUCACIÓN FÍSICA DEL PERÚ, CON MOTIVO DE...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/496",
         "pts": 3
       }
     ],
@@ -10396,6 +10454,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-gestion-del-estado-y-contraloria-priorizara-fiscalizacion-de-obras-paralizadas/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Modernización de la Gestión del Estado invitará al contralor general este miércoles 21 de octubre",
+        "d": "30/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-invitara-al-contralor-general-este-miercoles-21-de-octubre/",
+        "pts": 2
       }
     ],
     "Angel Bruno Bobadilla Galindo": [
@@ -10498,6 +10564,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-a-titulares-del-jne-reniec-y-ministerios-de-cultura-y-educacion/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 132 (MOCIÓN DE SALUDO): EXPRESAR EL SALUDO, RECONOCIMIENTO Y FELICITACIÓN DEL SENADOR DE LA REPÚBLICA A TODOS LOS PERIODISTAS DEL PERÚ, AL CONME...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/132",
+        "pts": 3
       }
     ],
     "Jhonn Brayam Valqui Ordoñez": [
@@ -10549,6 +10623,14 @@
         "d": "09/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/87",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 131 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL FONDO EDITORIAL DEL CONGRESO DE LA REPÚBLICA, CON OCASIÓN DE CONMEMORARS...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/131",
         "pts": 3
       }
     ],
@@ -10717,6 +10799,22 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 134 (MOCIÓN DE SALUDO): EXPRESAR UN CÁLIDO Y FRATERNO SALUDO Y FELICITACIÓN A LA ASOCIACIÓN NACIONAL DE PERIODISTAS – FILIAL CUSCO, REPRESENTADA...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/134",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 133 (MOCIÓN DE SALUDO): EXPRESAR UN CÁLIDO Y FRATERNO SALUDO Y FELICITACIÓN AL LIC. EDWIN LETONA QUINTANILLA, DECANO DEL COLEGIO DE PERIODISTAS ...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/133",
         "pts": 3
       }
     ],
@@ -11201,6 +11299,14 @@
         "d": "10/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/335",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 500 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DE LA PROVINCIA DE UCAYALI CON SU CAPITAL CONTA...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/500",
         "pts": 3
       }
     ],
