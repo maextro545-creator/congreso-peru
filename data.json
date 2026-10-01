@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Trabajo aprueba fortalecer funciones de los profesionales de enfermería",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-aprueba-fortalecer-funciones-de-los-profesionales-de-enfermeria/"
+    },
+    {
+      "title": "Comisión de Modernización de la Gestión del Estado invitará al contralor general este miércoles 21 de octubre",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-invitara-al-contralor-general-este-miercoles-21-de-octubre/"
+    },
+    {
       "title": "Prorrogan plazo de estados de emergencia en provincias de La Libertad, Loreto, Huancavelica y Junín",
       "source": "Portal del Congreso",
       "date": "30 Sep 2026",
@@ -1625,27 +1637,27 @@
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-la-estabilidad-juridica-para-impulsar-la-inversion/"
-    },
-    {
-      "title": "Comisión de Asuntos de Gestión del Estado y Contraloría del Senado recibió al ministro de Salud",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-asuntos-de-gestion-del-estado-y-contraloria-del-senado-recibio-al-ministro-de-salud/"
-    },
-    {
-      "title": "Comisión de Ética Parlamentaria del Senado organizará jornada por el Día Mundial de la Ética",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-del-senado-organizara-jornada-por-el-dia-mundial-de-la-etica/"
-    },
-    {
-      "title": "Comisión de Constitución inicia debate de dictamen sobre facultades legislativas al Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-inicia-debate-de-dictamen-sobre-facultades-legislativas-al-ejecutivo/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Educación aprueba derogar la ley que crea el Colegio de Artistas del Perú",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-aprueba-derogar-la-ley-que-crea-el-colegio-de-artistas-del-peru/"
+    },
+    {
+      "title": "Impulsan debate sobre el desarrollo social y económico del Puerto de Chimbote",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-debate-sobre-el-desarrollo-social-y-economico-del-puerto-de-chimbote/"
+    },
+    {
+      "title": "Comisión de Trabajo aprueba fortalecer funciones de los profesionales de enfermería",
+      "source": "Portal del Congreso",
+      "date": "30 Sep 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-aprueba-fortalecer-funciones-de-los-profesionales-de-enfermeria/"
+    },
     {
       "title": "Comisión de Modernización de la Gestión del Estado invitará al contralor general este miércoles 21 de octubre",
       "source": "Portal del Congreso",
@@ -1681,12 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "29 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-la-estabilidad-juridica-para-impulsar-la-inversion/"
-    },
-    {
-      "title": "Comisión de Constitución inicia debate de dictamen sobre facultades legislativas al Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-inicia-debate-de-dictamen-sobre-facultades-legislativas-al-ejecutivo/"
     }
   ],
   "events_override": {
@@ -2535,6 +2541,14 @@
         "d": "29/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/486",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 505 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS PERIODISTAS Y LOS PERIODISTAS DEL PERÚ, CON OCASIÓN ...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/505",
         "pts": 3
       }
     ],
@@ -4180,6 +4194,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Impulsan debate sobre el desarrollo social y económico del Puerto de Chimbote",
+        "d": "30/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-debate-sobre-el-desarrollo-social-y-economico-del-puerto-de-chimbote/",
+        "pts": 2
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -7094,6 +7116,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/12",
         "pts": 5
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 507 (Mociones de Saludo): EXPRESAR SU ESPECIAL SALUDO Y FELICITACIÓN A TODOS LOS PERIODISTAS DEL PERÚ POR CONMEMORARSE EL 73° ANIVERSARIO DEL PERI...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/507",
+        "pts": 3
       }
     ],
     "Milagros Karina Santana Vera": [
@@ -8702,6 +8732,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/501",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 509 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL COLEGIO DE OBSTETRAS ...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/509",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 508 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL COLEGIO DE CONTADORES...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/508",
+        "pts": 3
       }
     ],
     "Carmela Paucara Paxi": [
@@ -9441,6 +9487,14 @@
         "d": "15/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/101",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 139 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO Y RECONOCIMIENTO A LA MARINA DE GUERRA DEL PERÚ AL CONMEMORARSE EL BICENTÉCIMO QUINTO (205°) ANIVERSA...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/139",
         "pts": 3
       }
     ],
@@ -10721,6 +10775,14 @@
         "d": "21/08/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-segundo-castrejon-presidira-comision-de-educacion-cultura-y-deporte-2026-2027/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Educación aprueba derogar la ley que crea el Colegio de Artistas del Perú",
+        "d": "30/09/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-aprueba-derogar-la-ley-que-crea-el-colegio-de-artistas-del-peru/",
         "pts": 2
       }
     ],
