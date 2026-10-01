@@ -1597,49 +1597,35 @@
   },
   "senado_news": [
     {
-      "title": "Comisión de Trabajo aprueba fortalecer funciones de los profesionales de enfermería",
+      "title": "Decretos dictados para atender emergencia climática cumplen con parámetros constitucionales",
       "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-aprueba-fortalecer-funciones-de-los-profesionales-de-enfermeria/"
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/decretos-dictados-para-atender-emergencia-climatica-cumplen-con-parametros-constitucionales/"
     },
     {
-      "title": "Comisión de Modernización de la Gestión del Estado invitará al contralor general este miércoles 21 de octubre",
+      "title": "Comisión de Justicia del Senado realizará primera sesión descentralizada en Trujillo el 22 de octubre",
       "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-invitara-al-contralor-general-este-miercoles-21-de-octubre/"
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-realizara-primera-sesion-descentralizada-en-trujillo-el-22-de-octubre/"
     },
     {
-      "title": "Prorrogan plazo de estados de emergencia en provincias de La Libertad, Loreto, Huancavelica y Junín",
+      "title": "Presidente del Congreso visitó Sala Histórica del Cuartel General del Ejército",
       "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/prorrogan-plazo-de-estados-de-emergencia-en-provincias-de-la-libertad-loreto-huancavelica-y-junin/"
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-sala-historica-del-cuartel-general-del-ejercito/"
     },
     {
-      "title": "Comisión de Constitución buscará fórmula de consenso sobre pedido de facultades legislativas",
+      "title": "Presidente del Congreso supervisa trabajos de descolmatación en el río Rímac para prevenir desbordes ante lluvias",
       "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-buscara-formula-de-consenso-sobre-pedido-de-facultades-legislativas/"
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-trabajos-de-descolmatacion-en-el-rio-rimac-para-prevenir-desbordes-ante-lluvias/"
     },
     {
-      "title": "Presidente del Congreso se reunió con director de Transparencia Electoral para analizar comicios generales 2026",
+      "title": "Conforman grupo de trabajo para controlar el ingreso de personal militar extranjero sin armas de guerra",
       "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-director-de-transparencia-electoral-para-analizar-comicios-generales-2026/"
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupo-de-trabajo-para-controlar-el-ingreso-de-personal-militar-extranjero-sin-armas-de-guerra/"
     },
-    {
-      "title": "Admiten a trámite denuncia constitucional contra Magaly Ruiz por presunto peculado doloso",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-magaly-ruiz-por-presunto-peculado-doloso/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma compromiso con la estabilidad jurídica para impulsar la inversión",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-la-estabilidad-juridica-para-impulsar-la-inversion/"
-    }
-  ],
-  "diputados_news": [
     {
       "title": "Comisión de Educación aprueba derogar la ley que crea el Colegio de Artistas del Perú",
       "source": "Portal del Congreso",
@@ -1663,36 +1649,50 @@
       "source": "Portal del Congreso",
       "date": "30 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-invitara-al-contralor-general-este-miercoles-21-de-octubre/"
+    }
+  ],
+  "diputados_news": [
+    {
+      "title": "Presidente del Congreso supervisa trabajos de descolmatación en el río Rímac para prevenir desbordes ante lluvias",
+      "source": "Portal del Congreso",
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-trabajos-de-descolmatacion-en-el-rio-rimac-para-prevenir-desbordes-ante-lluvias/"
     },
     {
-      "title": "Diputados solicitan reforzar monitoreo sísmico a través del Instituto Geofísico del Perú",
+      "title": "Junta de Portavoces de la Cámara de Diputados sesionará este viernes 2",
+      "source": "Portal del Congreso",
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/junta-de-portavoces-de-la-camara-de-diputados-sesionara-este-viernes-2/"
+    },
+    {
+      "title": "Conforman grupo de trabajo para controlar el ingreso de personal militar extranjero sin armas de guerra",
+      "source": "Portal del Congreso",
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupo-de-trabajo-para-controlar-el-ingreso-de-personal-militar-extranjero-sin-armas-de-guerra/"
+    },
+    {
+      "title": "Comisión de Educación aprueba derogar la ley que crea el Colegio de Artistas del Perú",
       "source": "Portal del Congreso",
       "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-solicitan-reforzar-monitoreo-sismico-a-traves-del-instituto-geofisico-del-peru/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-aprueba-derogar-la-ley-que-crea-el-colegio-de-artistas-del-peru/"
     },
     {
-      "title": "Comisión de Constitución buscará fórmula de consenso sobre pedido de facultades legislativas",
+      "title": "Impulsan debate sobre el desarrollo social y económico del Puerto de Chimbote",
       "source": "Portal del Congreso",
       "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-buscara-formula-de-consenso-sobre-pedido-de-facultades-legislativas/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-debate-sobre-el-desarrollo-social-y-economico-del-puerto-de-chimbote/"
     },
     {
-      "title": "Presidente del Congreso se reunió con director de Transparencia Electoral para analizar comicios generales 2026",
+      "title": "Comisión de Trabajo aprueba fortalecer funciones de los profesionales de enfermería",
       "source": "Portal del Congreso",
       "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-director-de-transparencia-electoral-para-analizar-comicios-generales-2026/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-aprueba-fortalecer-funciones-de-los-profesionales-de-enfermeria/"
     },
     {
-      "title": "Admiten a trámite denuncia constitucional contra Magaly Ruiz por presunto peculado doloso",
+      "title": "Comisión de Modernización de la Gestión del Estado invitará al contralor general este miércoles 21 de octubre",
       "source": "Portal del Congreso",
       "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-magaly-ruiz-por-presunto-peculado-doloso/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma compromiso con la estabilidad jurídica para impulsar la inversión",
-      "source": "Portal del Congreso",
-      "date": "29 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-la-estabilidad-juridica-para-impulsar-la-inversion/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-invitara-al-contralor-general-este-miercoles-21-de-octubre/"
     }
   ],
   "events_override": {
@@ -2402,6 +2402,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-la-estabilidad-juridica-para-impulsar-la-inversion/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso visitó Sala Histórica del Cuartel General del Ejército",
+        "d": "01/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-sala-historica-del-cuartel-general-del-ejercito/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -2868,6 +2876,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/456",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 517 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO EL JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS AL COLEGIO DE ...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/517",
+        "pts": 3
       }
     ],
     "Helard Bladimir Sonco Villanueva": [
@@ -3047,6 +3063,14 @@
         "d": "18/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/415",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
       }
     ],
@@ -3237,6 +3261,14 @@
         "d": "28/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/463",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
       }
     ],
@@ -5066,6 +5098,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 515 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A TODOS LOS PERIODISTAS DE LA REGIÓN PUNO Y A NIVEL NACION...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/515",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 511 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA IMPLEMENTACIÓN PRIORITARIA CONJUNTA DE BRIGADAS DE AUTOPROTECCIÓN ES...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/511",
+        "pts": 3
       }
     ],
     "Roxana María Rocha Gallegos": [
@@ -5748,6 +5796,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 523 (Pedidos de Declaración de necesidad pública o interes nacional): LA CÁMARA DE DIPUTADOS EXPRESA SU RESPALDO A LA FORMULACIÓN Y EJECUCIÓN DE UNA NUEVA INVERSIÓN DESTINADA A MEJORAR LA CA...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/523",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 511 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA IMPLEMENTACIÓN PRIORITARIA CONJUNTA DE BRIGADAS DE AUTOPROTECCIÓN ES...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/511",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -5877,6 +5941,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
       }
     ],
@@ -6582,6 +6654,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/470",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 523 (Pedidos de Declaración de necesidad pública o interes nacional): LA CÁMARA DE DIPUTADOS EXPRESA SU RESPALDO A LA FORMULACIÓN Y EJECUCIÓN DE UNA NUEVA INVERSIÓN DESTINADA A MEJORAR LA CA...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/523",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 511 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA IMPLEMENTACIÓN PRIORITARIA CONJUNTA DE BRIGADAS DE AUTOPROTECCIÓN ES...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/511",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -6687,6 +6775,22 @@
         "d": "14/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/355",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 511 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA IMPLEMENTACIÓN PRIORITARIA CONJUNTA DE BRIGADAS DE AUTOPROTECCIÓN ES...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/511",
         "pts": 3
       }
     ],
@@ -6868,6 +6972,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
       }
     ],
     "Juan Amilcar Villanueva Calderón": [
@@ -6933,6 +7045,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 523 (Pedidos de Declaración de necesidad pública o interes nacional): LA CÁMARA DE DIPUTADOS EXPRESA SU RESPALDO A LA FORMULACIÓN Y EJECUCIÓN DE UNA NUEVA INVERSIÓN DESTINADA A MEJORAR LA CA...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/523",
         "pts": 3
       }
     ],
@@ -7088,6 +7208,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/492",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
       }
     ],
     "Edgar Dember Gonzales Polar": [
@@ -7105,6 +7233,14 @@
         "d": "14/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/91",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
       }
     ],
@@ -7628,6 +7764,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/469",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
       }
     ],
     "José Isidro Baella Malca": [
@@ -7703,6 +7847,14 @@
         "d": "17/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/110",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 527 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO A LA PROVINCIA DE MARISCAL RAMÓN CASTILLA, DEPARTAMENTO DE LORETO, AL CONMEMORARSE, EL 18 DE ...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/527",
         "pts": 3
       }
     ],
@@ -7990,6 +8142,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 511 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA IMPLEMENTACIÓN PRIORITARIA CONJUNTA DE BRIGADAS DE AUTOPROTECCIÓN ES...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/511",
+        "pts": 3
       }
     ],
     "Karla Melissa Schaefer Cuculiza": [
@@ -8123,6 +8283,14 @@
         "d": "03/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/259",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
       }
     ],
@@ -8385,6 +8553,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 511 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA IMPLEMENTACIÓN PRIORITARIA CONJUNTA DE BRIGADAS DE AUTOPROTECCIÓN ES...",
+        "d": "30/09/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/511",
         "pts": 3
       }
     ],
@@ -8665,6 +8841,14 @@
         "d": "23/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/425",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
       }
     ],
@@ -8960,6 +9144,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 523 (Pedidos de Declaración de necesidad pública o interes nacional): LA CÁMARA DE DIPUTADOS EXPRESA SU RESPALDO A LA FORMULACIÓN Y EJECUCIÓN DE UNA NUEVA INVERSIÓN DESTINADA A MEJORAR LA CA...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/523",
+        "pts": 3
       }
     ],
     "Martha Lupe Moyano Delgado": [
@@ -8994,6 +9186,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/85",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Decretos dictados para atender emergencia climática cumplen con parámetros constitucionales",
+        "d": "01/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/decretos-dictados-para-atender-emergencia-climatica-cumplen-con-parametros-constitucionales/",
+        "pts": 2
       }
     ],
     "Percy Herbert Osorio Palpán": [
@@ -9196,6 +9396,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/126",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 140 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CÁLIDO SALUDO Y FELICITACIÓN A LA COMUNIDAD EDUCATIVA DE LA GLORIOSA, CENTENARIA E HISTÓRICA INSTITUCIÓN...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/140",
+        "pts": 3
       }
     ],
     "Silvana Emperatriz Robles Araujo": [
@@ -9362,6 +9570,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/455",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 526 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO Y FELICITACIÓN A LA PROVINCIA DE SÁNCHEZ CARRIÓN Y A SU CAPITAL HUAMACHUCO, REG...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/526",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 524 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EFUSIVO SALUDO A TODOS LOS PERIODISTAS DEL PERÚ, CON MOTIVO DE CONMEMORARSE, ESTE 1 DE OCTUBRE...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/524",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
       }
     ],
     "Jessica Lizbeth Navas Sánchez": [
@@ -9395,6 +9627,30 @@
         "d": "30/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/499",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 521 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y MIS MÁS SINCERAS FELICITACIONES AL DISTRITO DE YARINACOCHA, AL CELEBRAR SU 62 ANIVERSARIO, ...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/521",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 520 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y MIS MÁS SINCERAS FELICITACIONES AL DISTRITO DE MASISEA, AL CELEBRAR SU 126 ANIVERSARIO, REC...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/520",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 519 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN A LA PROVINCIA DE UCAYALI, CON SU CAPITAL CONTAMANA POR SU RELEVANCIA CULTURAL, GEOGRÁ...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/519",
         "pts": 3
       }
     ],
@@ -9461,6 +9717,14 @@
         "d": "28/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/462",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
       }
     ],
@@ -9572,6 +9836,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/410",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 516 (Mociones de Saludo): EXPRESAR EL SALUDO Y RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS A LOS PERIODISTAS DE TODO EL PAÍS, CON MOTIVO DE CONMEMORA...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/516",
+        "pts": 3
       }
     ],
     "Katherine Milagros Ampuero Meza": [
@@ -9597,6 +9869,14 @@
         "d": "10/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-aprueba-plan-de-trabajo-2026-2027-y-acuerda-citar-a-ministros/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Justicia del Senado realizará primera sesión descentralizada en Trujillo el 22 de octubre",
+        "d": "01/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-realizara-primera-sesion-descentralizada-en-trujillo-el-22-de-octubre/",
         "pts": 2
       }
     ],
@@ -10652,6 +10932,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/289",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
       }
     ],
     "Estanislao Edgar Mancha Pineda": [
@@ -11387,6 +11675,14 @@
         "d": "23/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/432",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 522 (Pedidos de Declaración de necesidad pública o interes nacional): EXPRESAR EL RESPALDO Y APOYO DE LOS DIPUTADOS INTEGRANTES DE LA COMISIÓN DE TRABAJO Y SEGURIDAD SOCIAL DE LA CÁMARA DE D...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
       }
     ],
