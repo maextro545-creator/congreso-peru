@@ -1643,15 +1643,15 @@
       "source": "Portal del Congreso",
       "date": "30 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-aprueba-fortalecer-funciones-de-los-profesionales-de-enfermeria/"
-    },
-    {
-      "title": "Comisión de Modernización de la Gestión del Estado invitará al contralor general este miércoles 21 de octubre",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-invitara-al-contralor-general-este-miercoles-21-de-octubre/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Constitución aprueba delegar facultades al Ejecutivo en seguridad ciudadana y Fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-delegar-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino/"
+    },
     {
       "title": "Presidente del Congreso supervisa trabajos de descolmatación en el río Rímac para prevenir desbordes ante lluvias",
       "source": "Portal del Congreso",
@@ -1687,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "30 Sep 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-aprueba-fortalecer-funciones-de-los-profesionales-de-enfermeria/"
-    },
-    {
-      "title": "Comisión de Modernización de la Gestión del Estado invitará al contralor general este miércoles 21 de octubre",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-de-la-gestion-del-estado-invitara-al-contralor-general-este-miercoles-21-de-octubre/"
     }
   ],
   "events_override": {
@@ -7930,6 +7924,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Constitución aprueba delegar facultades al Ejecutivo en seguridad ciudadana y Fenómeno El Niño",
+        "d": "01/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-delegar-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino/",
+        "pts": 2
       }
     ],
     "Marco Antonio Flores Valdizan": [
@@ -11741,6 +11743,14 @@
         "d": "29/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/478",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 528 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO Y RECONOCIMIENTO A TODOS LOS MÉDICOS Y PROFESIONALES DE LA SALUD DEL PERÚ, CON ...",
+        "d": "01/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/528",
         "pts": 3
       }
     ],
