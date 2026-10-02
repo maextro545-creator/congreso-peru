@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Senadora Mirtha Vásquez organiza mesa de trabajo para coordinar acciones bicamerales en favor de pueblos vulnerables",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-mirtha-vasquez-organiza-mesa-de-trabajo-para-coordinar-acciones-bicamerales-en-favor-de-pueblos-vulnerables/"
+    },
+    {
+      "title": "Perú fortalece diplomacia parlamentaria mediante Ligas de Amistad con Cuba y México",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/peru-fortalece-diplomacia-parlamentaria-mediante-ligas-de-amistad-con-cuba-y-mexico/"
+    },
+    {
+      "title": "Comisión de Constitución aprueba delegar facultades al Ejecutivo en seguridad ciudadana y Fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-delegar-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino/"
+    },
+    {
       "title": "Decretos dictados para atender emergencia climática cumplen con parámetros constitucionales",
       "source": "Portal del Congreso",
       "date": "01 Oct 2026",
@@ -1619,33 +1637,39 @@
       "source": "Portal del Congreso",
       "date": "01 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-trabajos-de-descolmatacion-en-el-rio-rimac-para-prevenir-desbordes-ante-lluvias/"
-    },
-    {
-      "title": "Conforman grupo de trabajo para controlar el ingreso de personal militar extranjero sin armas de guerra",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupo-de-trabajo-para-controlar-el-ingreso-de-personal-militar-extranjero-sin-armas-de-guerra/"
-    },
-    {
-      "title": "Comisión de Educación aprueba derogar la ley que crea el Colegio de Artistas del Perú",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-aprueba-derogar-la-ley-que-crea-el-colegio-de-artistas-del-peru/"
-    },
-    {
-      "title": "Impulsan debate sobre el desarrollo social y económico del Puerto de Chimbote",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-debate-sobre-el-desarrollo-social-y-economico-del-puerto-de-chimbote/"
-    },
-    {
-      "title": "Comisión de Trabajo aprueba fortalecer funciones de los profesionales de enfermería",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-aprueba-fortalecer-funciones-de-los-profesionales-de-enfermeria/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión Bicameral de Presupuesto evalúa prioridades de inversión y obras paralizadas en Ica y Arequipa",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evalua-prioridades-de-inversion-y-obras-paralizadas-en-ica-y-arequipa/"
+    },
+    {
+      "title": "Senadora Mirtha Vásquez organiza mesa de trabajo para coordinar acciones bicamerales en favor de pueblos vulnerables",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-mirtha-vasquez-organiza-mesa-de-trabajo-para-coordinar-acciones-bicamerales-en-favor-de-pueblos-vulnerables/"
+    },
+    {
+      "title": "Dictamen sobre pedido de facultades ingresó a la agenda del Pleno de la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/dictamen-sobre-pedido-de-facultades-ingreso-a-la-agenda-del-pleno-de-la-camara-de-diputados/"
+    },
+    {
+      "title": "Anali Marquez reafirma compromiso con los derechos de las mujeres y anuncia mesas de trabajo",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/anali-marquez-reafirma-compromiso-con-los-derechos-de-las-mujeres-y-anuncia-mesas-de-trabajo/"
+    },
+    {
+      "title": "Perú fortalece diplomacia parlamentaria mediante Ligas de Amistad con Cuba y México",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/peru-fortalece-diplomacia-parlamentaria-mediante-ligas-de-amistad-con-cuba-y-mexico/"
+    },
     {
       "title": "Comisión de Constitución aprueba delegar facultades al Ejecutivo en seguridad ciudadana y Fenómeno El Niño",
       "source": "Portal del Congreso",
@@ -1653,40 +1677,16 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-delegar-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino/"
     },
     {
+      "title": "Decretos dictados para atender emergencia climática cumplen con parámetros constitucionales",
+      "source": "Portal del Congreso",
+      "date": "01 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/decretos-dictados-para-atender-emergencia-climatica-cumplen-con-parametros-constitucionales/"
+    },
+    {
       "title": "Presidente del Congreso supervisa trabajos de descolmatación en el río Rímac para prevenir desbordes ante lluvias",
       "source": "Portal del Congreso",
       "date": "01 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-trabajos-de-descolmatacion-en-el-rio-rimac-para-prevenir-desbordes-ante-lluvias/"
-    },
-    {
-      "title": "Junta de Portavoces de la Cámara de Diputados sesionará este viernes 2",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/junta-de-portavoces-de-la-camara-de-diputados-sesionara-este-viernes-2/"
-    },
-    {
-      "title": "Conforman grupo de trabajo para controlar el ingreso de personal militar extranjero sin armas de guerra",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupo-de-trabajo-para-controlar-el-ingreso-de-personal-militar-extranjero-sin-armas-de-guerra/"
-    },
-    {
-      "title": "Comisión de Educación aprueba derogar la ley que crea el Colegio de Artistas del Perú",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-aprueba-derogar-la-ley-que-crea-el-colegio-de-artistas-del-peru/"
-    },
-    {
-      "title": "Impulsan debate sobre el desarrollo social y económico del Puerto de Chimbote",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-debate-sobre-el-desarrollo-social-y-economico-del-puerto-de-chimbote/"
-    },
-    {
-      "title": "Comisión de Trabajo aprueba fortalecer funciones de los profesionales de enfermería",
-      "source": "Portal del Congreso",
-      "date": "30 Sep 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-aprueba-fortalecer-funciones-de-los-profesionales-de-enfermeria/"
     }
   ],
   "events_override": {
@@ -6664,6 +6664,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/511",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión Bicameral de Presupuesto evalúa prioridades de inversión y obras paralizadas en Ica y Arequipa",
+        "d": "02/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evalua-prioridades-de-inversion-y-obras-paralizadas-en-ica-y-arequipa/",
+        "pts": 2
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -7434,6 +7442,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/475",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 535 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO Y EMOTIVO SALUDO, FELICITACIÓN Y RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS A LOS 17 DEPORTISTAS IN...",
+        "d": "02/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/535",
+        "pts": 3
       }
     ],
     "Pilar Sulca Castillo": [
@@ -7849,6 +7865,38 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/527",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 537 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO AL DISTRITO DE JENARO HERRERA, PROVINCIA DE REQUENA, DEPARTAMENTO DE LORETO, AL CONMEMORARSE,...",
+        "d": "02/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/537",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 536 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO AL DISTRITO DE BARRANCA, PROVINCIA DE DATEM DEL MARAÑÓN, DEPARTAMENTO DE LORETO, CON MOTIVO D...",
+        "d": "02/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/536",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 534 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO AL DISTRITO DE SAN PABLO, PROVINCIA DE MARISCAL RAMÓN CASTILLA, DEPARTAMENTO DE LORETO, AL CO...",
+        "d": "02/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/534",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 532 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO AL DISTRITO DE CONTAMANA, PROVINCIA DE UCAYALI, DEPARTAMENTO DE LORETO, CON MOTIVO DEL 126. °...",
+        "d": "02/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/532",
         "pts": 3
       }
     ],
@@ -10807,6 +10855,14 @@
         "d": "19/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/130",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 533 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE Y CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE BELLAVISTA, PROVINCIA CONSTITUCIONAL DEL CALLAO...",
+        "d": "02/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/533",
         "pts": 3
       }
     ],
