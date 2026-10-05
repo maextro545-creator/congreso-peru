@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Congreso rinde homenaje a los médicos del Perú en el Día de la Medicina Peruana",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rinde-homenaje-a-los-medicos-del-peru-en-el-dia-de-la-medicina-peruana/"
+    },
+    {
       "title": "Conforman grupos para abordar la violencia escolar y las demandas de los pueblos indígenas y afroperuanos",
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
@@ -1641,6 +1647,12 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-acuerda-citar-a-ministro-de-relaciones-exteriores-para-el-proximo-19-de-octubre/"
     },
     {
+      "title": "Conforman grupos para abordar la violencia escolar y las demandas de los pueblos indígenas y afroperuanos",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-abordar-la-violencia-escolar-y-las-demandas-de-los-pueblos-indigenas-y-afroperuanos/"
+    },
+    {
       "title": "ASPEC pide garantizar cumplimiento de leyes en defensa del consumidor",
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
@@ -1669,12 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "02 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/dictamen-sobre-pedido-de-facultades-ingreso-a-la-agenda-del-pleno-de-la-camara-de-diputados/"
-    },
-    {
-      "title": "Anali Marquez reafirma compromiso con los derechos de las mujeres y anuncia mesas de trabajo",
-      "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/anali-marquez-reafirma-compromiso-con-los-derechos-de-las-mujeres-y-anuncia-mesas-de-trabajo/"
     }
   ],
   "events_override": {
@@ -2399,6 +2405,14 @@
         "d": "05/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-el-congreso-respaldara-la-seguridad-juridica-y-garantizara-reglas-de-juego-estables-para-atraer-inversiones/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso rinde homenaje a los médicos del Perú en el Día de la Medicina Peruana",
+        "d": "05/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rinde-homenaje-a-los-medicos-del-peru-en-el-dia-de-la-medicina-peruana/",
         "pts": 2
       }
     ],
