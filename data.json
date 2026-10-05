@@ -1603,6 +1603,12 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-abordar-la-violencia-escolar-y-las-demandas-de-los-pueblos-indigenas-y-afroperuanos/"
     },
     {
+      "title": "ASPEC pide garantizar cumplimiento de leyes en defensa del consumidor",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aspec-pide-garantizar-cumplimiento-de-leyes-en-defensa-del-consumidor/"
+    },
+    {
       "title": "Demandan al Ejecutivo un plan urgente para garantizar agua potable a la población",
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
@@ -1625,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "02 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-mirtha-vasquez-organiza-mesa-de-trabajo-para-coordinar-acciones-bicamerales-en-favor-de-pueblos-vulnerables/"
-    },
-    {
-      "title": "Perú fortalece diplomacia parlamentaria mediante Ligas de Amistad con Cuba y México",
-      "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/peru-fortalece-diplomacia-parlamentaria-mediante-ligas-de-amistad-con-cuba-y-mexico/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Constitución acuerda citar a ministro de Relaciones Exteriores para el próximo 19 de octubre",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-acuerda-citar-a-ministro-de-relaciones-exteriores-para-el-proximo-19-de-octubre/"
+    },
     {
       "title": "ASPEC pide garantizar cumplimiento de leyes en defensa del consumidor",
       "source": "Portal del Congreso",
@@ -1669,12 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "02 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/anali-marquez-reafirma-compromiso-con-los-derechos-de-las-mujeres-y-anuncia-mesas-de-trabajo/"
-    },
-    {
-      "title": "Perú fortalece diplomacia parlamentaria mediante Ligas de Amistad con Cuba y México",
-      "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/peru-fortalece-diplomacia-parlamentaria-mediante-ligas-de-amistad-con-cuba-y-mexico/"
     }
   ],
   "events_override": {
@@ -8007,6 +8007,14 @@
         "d": "01/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-delegar-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Constitución acuerda citar a ministro de Relaciones Exteriores para el próximo 19 de octubre",
+        "d": "05/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-acuerda-citar-a-ministro-de-relaciones-exteriores-para-el-proximo-19-de-octubre/",
         "pts": 2
       }
     ],
