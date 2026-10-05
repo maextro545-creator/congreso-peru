@@ -1597,49 +1597,23 @@
   },
   "senado_news": [
     {
-      "title": "Senadora Mirtha Vásquez organiza mesa de trabajo para coordinar acciones bicamerales en favor de pueblos vulnerables",
+      "title": "Conforman grupos para abordar la violencia escolar y las demandas de los pueblos indígenas y afroperuanos",
       "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-mirtha-vasquez-organiza-mesa-de-trabajo-para-coordinar-acciones-bicamerales-en-favor-de-pueblos-vulnerables/"
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-abordar-la-violencia-escolar-y-las-demandas-de-los-pueblos-indigenas-y-afroperuanos/"
     },
     {
-      "title": "Perú fortalece diplomacia parlamentaria mediante Ligas de Amistad con Cuba y México",
+      "title": "Demandan al Ejecutivo un plan urgente para garantizar agua potable a la población",
       "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/peru-fortalece-diplomacia-parlamentaria-mediante-ligas-de-amistad-con-cuba-y-mexico/"
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-al-ejecutivo-un-plan-urgente-para-garantizar-agua-potable-a-la-poblacion/"
     },
     {
-      "title": "Comisión de Constitución aprueba delegar facultades al Ejecutivo en seguridad ciudadana y Fenómeno El Niño",
+      "title": "Miguel Torres: El Congreso respaldará la seguridad jurídica y garantizará reglas de juego estables para atraer inversiones",
       "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-delegar-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino/"
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-el-congreso-respaldara-la-seguridad-juridica-y-garantizara-reglas-de-juego-estables-para-atraer-inversiones/"
     },
-    {
-      "title": "Decretos dictados para atender emergencia climática cumplen con parámetros constitucionales",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/decretos-dictados-para-atender-emergencia-climatica-cumplen-con-parametros-constitucionales/"
-    },
-    {
-      "title": "Comisión de Justicia del Senado realizará primera sesión descentralizada en Trujillo el 22 de octubre",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-realizara-primera-sesion-descentralizada-en-trujillo-el-22-de-octubre/"
-    },
-    {
-      "title": "Presidente del Congreso visitó Sala Histórica del Cuartel General del Ejército",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-sala-historica-del-cuartel-general-del-ejercito/"
-    },
-    {
-      "title": "Presidente del Congreso supervisa trabajos de descolmatación en el río Rímac para prevenir desbordes ante lluvias",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-trabajos-de-descolmatacion-en-el-rio-rimac-para-prevenir-desbordes-ante-lluvias/"
-    }
-  ],
-  "diputados_news": [
     {
       "title": "Comisión Bicameral de Presupuesto evalúa prioridades de inversión y obras paralizadas en Ica y Arequipa",
       "source": "Portal del Congreso",
@@ -1651,6 +1625,38 @@
       "source": "Portal del Congreso",
       "date": "02 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-mirtha-vasquez-organiza-mesa-de-trabajo-para-coordinar-acciones-bicamerales-en-favor-de-pueblos-vulnerables/"
+    },
+    {
+      "title": "Perú fortalece diplomacia parlamentaria mediante Ligas de Amistad con Cuba y México",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/peru-fortalece-diplomacia-parlamentaria-mediante-ligas-de-amistad-con-cuba-y-mexico/"
+    }
+  ],
+  "diputados_news": [
+    {
+      "title": "ASPEC pide garantizar cumplimiento de leyes en defensa del consumidor",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aspec-pide-garantizar-cumplimiento-de-leyes-en-defensa-del-consumidor/"
+    },
+    {
+      "title": "Demandan al Ejecutivo un plan urgente para garantizar agua potable a la población",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-al-ejecutivo-un-plan-urgente-para-garantizar-agua-potable-a-la-poblacion/"
+    },
+    {
+      "title": "Diputados demandan a OEFA resultados concretos frente a la contaminación ambiental en diversas regiones",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-demandan-a-oefa-resultados-concretos-frente-a-la-contaminacion-ambiental-en-diversas-regiones/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto evalúa prioridades de inversión y obras paralizadas en Ica y Arequipa",
+      "source": "Portal del Congreso",
+      "date": "02 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evalua-prioridades-de-inversion-y-obras-paralizadas-en-ica-y-arequipa/"
     },
     {
       "title": "Dictamen sobre pedido de facultades ingresó a la agenda del Pleno de la Cámara de Diputados",
@@ -1669,24 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "02 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/peru-fortalece-diplomacia-parlamentaria-mediante-ligas-de-amistad-con-cuba-y-mexico/"
-    },
-    {
-      "title": "Comisión de Constitución aprueba delegar facultades al Ejecutivo en seguridad ciudadana y Fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-delegar-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino/"
-    },
-    {
-      "title": "Decretos dictados para atender emergencia climática cumplen con parámetros constitucionales",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/decretos-dictados-para-atender-emergencia-climatica-cumplen-con-parametros-constitucionales/"
-    },
-    {
-      "title": "Presidente del Congreso supervisa trabajos de descolmatación en el río Rímac para prevenir desbordes ante lluvias",
-      "source": "Portal del Congreso",
-      "date": "01 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-trabajos-de-descolmatacion-en-el-rio-rimac-para-prevenir-desbordes-ante-lluvias/"
     }
   ],
   "events_override": {
@@ -2403,6 +2391,14 @@
         "d": "01/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-sala-historica-del-cuartel-general-del-ejercito/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres: El Congreso respaldará la seguridad jurídica y garantizará reglas de juego estables para atraer inversiones",
+        "d": "05/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-el-congreso-respaldara-la-seguridad-juridica-y-garantizara-reglas-de-juego-estables-para-atraer-inversiones/",
         "pts": 2
       }
     ],
@@ -3486,6 +3482,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/481",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: ASPEC pide garantizar cumplimiento de leyes en defensa del consumidor",
+        "d": "05/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aspec-pide-garantizar-cumplimiento-de-leyes-en-defensa-del-consumidor/",
+        "pts": 2
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -3593,6 +3597,14 @@
         "d": "28/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/458",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 572 (Mociones de Saludo): EXPRESAR UN FERVIENTE SALUDO Y FELICITACIÓN A TODOS LOS MÚSICOS, INTÉRPRETES, COMPOSITORES, ORQUESTAS TÍPICAS Y CULTORES...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/572",
         "pts": 3
       }
     ],
@@ -6193,6 +6205,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 566 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO AL CONSEJO NACIONAL DEL COLEGIO MÉDICO DEL PERÚ, CON MOTIVO DE CONMEMORA...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/566",
         "pts": 3
       }
     ],
@@ -9962,6 +9982,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-susana-matute-es-elegida-presidenta-de-comision-en-asuntos-de-salud-y-mujer/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Conforman grupos para abordar la violencia escolar y las demandas de los pueblos indígenas y afroperuanos",
+        "d": "05/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-abordar-la-violencia-escolar-y-las-demandas-de-los-pueblos-indigenas-y-afroperuanos/",
+        "pts": 2
       }
     ],
     "Elard Galo Melgar Valdez": [
@@ -11092,6 +11120,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/145",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 567 (Mociones de Saludo): EXPRESAR EL SALUDO Y HOMENAJE AL DISTRITO DE BELLAVISTA, DE LA PROVINCIA CONSTITUCIONAL DEL CALLAO, CON OCASIÓN DE CONME...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/567",
+        "pts": 3
       }
     ],
     "Jaime Américo Abensur Pinasco": [
@@ -11118,6 +11154,38 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ordenamiento-y-seguimiento-legislativo-aprobo-su-plan-de-trabajo/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 571 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y CALUROSO SALUDO AL DISTRITO DE MASISEA, CON MOTIVO DE CONMEMORARSE EL 126. ° ANIVERSARIO DE SU...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/571",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 570 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y AFECTUOSO SALUDO AL DISTRITO DE YARINACOCHA, CON MOTIVO DE CONMEMORARSE EL 16 DE OCTUBRE SU 62...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/570",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 569 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL, FRATERNO Y FERVOROSO SALUDO A LA CIUDAD DE PUCALLPA EN SU SEMANA JUBILAR, AL CONMEMORARSE ESTE ...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/569",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 568 (Mociones de Saludo): MANIFESTAR LOS MEJORES DESEOS DE BIENESTAR, UNIDAD, DESARROLLO Y PROSPERIDAD A LA COMUNIDAD NATIVA ASHÉNINKA DULCE GLORI...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/568",
+        "pts": 3
       }
     ],
     "Frank Krklec Torres": [
@@ -11484,6 +11552,38 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/450",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 564 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA REPÚBLICA DE TURQUÍA, CON MOTIVO DE CONMEMORARSE, EL 29 DE OCTUBRE DE...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/564",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 563 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN A LA REPÚBLICA CHECA, CON MOTIVO DE CONMEMORARSE, EL 28 DE OCTUBRE DEL PRESENT...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/563",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 562 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA REPÚBLICA DE AUSTRIA, CON MOTIVO DE CONMEMORARSE, EL 26 DE OCTUBRE DE...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/562",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 561 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL REINO DE ESPAÑA, CON MOTIVO DE SU FIESTA NACIONAL, QUE SE CELEBRA EL 12...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/561",
+        "pts": 3
       }
     ],
     "Diego Alonso Fernando Bazán Calderón": [
@@ -11831,6 +11931,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/528",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 565 (Mociones de Saludo): EXPRESAR SU MÁS AFECTUOSO SALUDO Y RECONOCIMIENTO AL MINISTERIO DE SALUD CON MOTIVO DE SU 91.º ANIVERSARIO DE CREACIÓN I...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/565",
         "pts": 3
       }
     ],
