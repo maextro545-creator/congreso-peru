@@ -1597,10 +1597,22 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Economía del Senado solicita al MEF informe sobre pensiones de maestros jubilados y cesantes",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-del-senado-solicita-al-mef-informe-sobre-pensiones-de-maestros-jubilados-y-cesantes/"
+    },
+    {
       "title": "Congreso rinde homenaje a los médicos del Perú en el Día de la Medicina Peruana",
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rinde-homenaje-a-los-medicos-del-peru-en-el-dia-de-la-medicina-peruana/"
+    },
+    {
+      "title": "Comisión de Constitución acuerda citar a ministro de Relaciones Exteriores para el próximo 19 de octubre",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-acuerda-citar-a-ministro-de-relaciones-exteriores-para-el-proximo-19-de-octubre/"
     },
     {
       "title": "Conforman grupos para abordar la violencia escolar y las demandas de los pueblos indígenas y afroperuanos",
@@ -1675,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "02 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evalua-prioridades-de-inversion-y-obras-paralizadas-en-ica-y-arequipa/"
-    },
-    {
-      "title": "Dictamen sobre pedido de facultades ingresó a la agenda del Pleno de la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/dictamen-sobre-pedido-de-facultades-ingreso-a-la-agenda-del-pleno-de-la-camara-de-diputados/"
     }
   ],
   "events_override": {
@@ -7662,6 +7668,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/487",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 577 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA POBLACIÓN DEL DISTRITO DE QUINUA, PROVINCIA DE HUAMANGA, ...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/577",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 576 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LOS PLANTELES DE APLICACIÓN “GUAMÁN POMA DE AYALA”, CON MOTI...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/576",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 575 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LOS MÉDICOS Y PROFESIONALES DE LA SALUD DEL PERÚ Y, DE MANER...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/575",
+        "pts": 3
       }
     ],
     "Carlos Alberto Yalta Sotelo": [
@@ -8323,6 +8353,14 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/108",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 142 (MOCIÓN DE SALUDO): EXPRESAR EL CORDIAL SALUDO Y RECONOCIMIENTO DEL SENADO DE LA REPÚBLICA A LA MUNICIPALIDAD DISTRITAL DE COLÁN, PROVINCIA ...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/142",
         "pts": 3
       }
     ],
@@ -9193,6 +9231,14 @@
         "d": "29/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/488",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 581 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO A LOS MÉDICOS DEL PERÚ, CON MOTIVO DE CONMEMORARSE, EL 5 DE OCTUBRE, EL DÍA DE LA ME...",
+        "d": "05/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/581",
         "pts": 3
       }
     ],
