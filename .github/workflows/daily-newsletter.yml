@@ -1,0 +1,38 @@
+name: Daily Congress Newsletter
+
+on:
+  schedule:
+    # 8:00 AM Perú time (UTC-5) -> 13:00 UTC
+    - cron: '0 13 * * *'
+  workflow_dispatch: # Permite enviar manualmente con un clic en GitHub
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Crawler first to get freshest data
+        run: python update_news.py
+
+      - name: Commit data changes if any
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: News before newsletter" && git push)
+
+      - name: Send Daily Newsletter
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST || 'smtp.gmail.com' }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT || '587' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+        run: python send_newsletter.py
