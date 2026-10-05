@@ -145,14 +145,14 @@ def generate_newsletter_html(data):
             <table border="0" cellpadding="0" cellspacing="0" width="100%">
                 <tr>
                     <td style="vertical-align: middle;">
-                        <div style="font-family: Georgia, 'Times New Roman', serif; font-size: 26px; font-weight: 900; color: #111111; letter-spacing: -0.5px; line-height: 1;">
-                            El Comercio
+                        <div style="font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 900; color: #111111; letter-spacing: -0.5px; line-height: 1.15;">
+                            📊 🏛️ RESUMEN DIARIO DEL TOP EN EL CONGRESO AL DÍA DE HOY
                         </div>
-                        <div style="font-family: Georgia, 'Times New Roman', serif; font-size: 19px; font-style: italic; font-weight: bold; color: #222222; margin-top: 4px;">
-                            El Chambómetro Legislativo
+                        <div style="font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; font-weight: bold; color: #222222; margin-top: 5px;">
+                            🏆 El Chambómetro Legislativo &bull; Edición Bicameral
                         </div>
                         <div style="font-size: 11px; font-weight: 700; color: #444; text-transform: uppercase; letter-spacing: 0.8px; margin-top: 6px;">
-                            Edición Bicameral &bull; {today_str}
+                            📅 {today_str} &bull; Datos Oficiales del Parlamento
                         </div>
                     </td>
                     <td style="text-align: right; vertical-align: middle;" width="60">
@@ -166,8 +166,8 @@ def generate_newsletter_html(data):
     <!-- EDITORIAL INTRO -->
     <tr>
         <td style="padding: 22px 24px 10px 24px; background-color: #ffffff;">
-            <h1 style="font-family: Georgia, 'Times New Roman', serif; font-size: 21px; font-weight: 800; color: #111111; line-height: 1.3; margin: 0 0 12px 0;">
-                El ranking del Congreso: ¿Quiénes lideran el Senado y la Cámara de Diputados?
+            <h1 style="font-family: Georgia, 'Times New Roman', serif; font-size: 20px; font-weight: 800; color: #111111; line-height: 1.3; margin: 0 0 12px 0;">
+                📊 🏛️ RESUMEN DIARIO DEL TOP EN EL CONGRESO AL DÍA DE HOY: ¿Quiénes lideran el Senado y la Cámara de Diputados?
             </h1>
             
             <p style="font-size: 14px; line-height: 1.6; color: #333333; margin: 0 0 14px 0;">
@@ -333,7 +333,7 @@ def generate_newsletter_html(data):
 def send_email(subject, html_content, to_emails, smtp_host, smtp_port, smtp_user, smtp_pass):
     msg = MIMEMultipart('alternative')
     msg['Subject'] = subject
-    msg['From'] = f"El Chambómetro <{smtp_user}>"
+    msg['From'] = f"🏛️ El Chambómetro del Congreso <{smtp_user}>"
     msg['To'] = ", ".join(to_emails) if isinstance(to_emails, list) else to_emails
     
     part = MIMEText(html_content, 'html', 'utf-8')
@@ -364,7 +364,8 @@ if __name__ == '__main__':
     to_emails = os.environ.get('NEWSLETTER_TO')
     
     if smtp_user and smtp_pass and to_emails:
-        subject = f"📰 El Chambómetro: Ranking Senado y Diputados ({datetime.now().strftime('%d/%m/%Y')})"
+        default_subj = f"📊 🏛️ RESUMEN DIARIO DEL TOP EN EL CONGRESO AL DÍA DE HOY ({datetime.now().strftime('%d/%m/%Y')})"
+        subject = os.environ.get('EMAIL_SUBJECT', default_subj)
         recipients = [e.strip() for e in to_emails.split(',') if e.strip()]
         send_email(subject, html, recipients, smtp_host, smtp_port, smtp_user, smtp_pass)
     else:

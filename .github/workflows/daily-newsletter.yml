@@ -35,4 +35,5 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           NEWSLETTER_TO: ${{ secrets.NEWSLETTER_TO }}
+          EMAIL_SUBJECT: ${{ secrets.EMAIL_SUBJECT }}
         run: python send_newsletter.py
