@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Comisión Bicameral de Presupuesto recibe sustentación del crédito suplementario por S/ 8 228 millones",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibe-sustentacion-del-credito-suplementario-por-s-8-228-millones/"
+    },
+    {
       "title": "Comisión de Economía del Senado solicita al MEF informe sobre pensiones de maestros jubilados y cesantes",
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
@@ -1631,27 +1637,33 @@
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-al-ejecutivo-un-plan-urgente-para-garantizar-agua-potable-a-la-poblacion/"
-    },
-    {
-      "title": "Miguel Torres: El Congreso respaldará la seguridad jurídica y garantizará reglas de juego estables para atraer inversiones",
-      "source": "Portal del Congreso",
-      "date": "05 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-el-congreso-respaldara-la-seguridad-juridica-y-garantizara-reglas-de-juego-estables-para-atraer-inversiones/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto evalúa prioridades de inversión y obras paralizadas en Ica y Arequipa",
-      "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evalua-prioridades-de-inversion-y-obras-paralizadas-en-ica-y-arequipa/"
-    },
-    {
-      "title": "Senadora Mirtha Vásquez organiza mesa de trabajo para coordinar acciones bicamerales en favor de pueblos vulnerables",
-      "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadora-mirtha-vasquez-organiza-mesa-de-trabajo-para-coordinar-acciones-bicamerales-en-favor-de-pueblos-vulnerables/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Palacio Legislativo se ilumina para visibilizar lucha contra el cáncer de mama",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/palacio-legislativo-se-ilumina-para-visibilizar-lucha-contra-el-cancer-de-mama/"
+    },
+    {
+      "title": "Comisión de Inclusión Social solicitará a Junta de Portavoces decretar iniciativa que modifica Reglamento de Diputados",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-solicitara-a-junta-de-portavoces-decretar-iniciativa-que-modifica-reglamento-de-diputados/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto recibe sustentación del crédito suplementario por S/ 8 228 millones",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibe-sustentacion-del-credito-suplementario-por-s-8-228-millones/"
+    },
+    {
+      "title": "Congreso rinde homenaje a los médicos del Perú en el Día de la Medicina Peruana",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-rinde-homenaje-a-los-medicos-del-peru-en-el-dia-de-la-medicina-peruana/"
+    },
     {
       "title": "Comisión de Constitución acuerda citar a ministro de Relaciones Exteriores para el próximo 19 de octubre",
       "source": "Portal del Congreso",
@@ -1681,12 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-demandan-a-oefa-resultados-concretos-frente-a-la-contaminacion-ambiental-en-diversas-regiones/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto evalúa prioridades de inversión y obras paralizadas en Ica y Arequipa",
-      "source": "Portal del Congreso",
-      "date": "02 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-evalua-prioridades-de-inversion-y-obras-paralizadas-en-ica-y-arequipa/"
     }
   ],
   "events_override": {
@@ -11331,6 +11337,14 @@
         "d": "07/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-crea-cuatro-grupos-de-trabajo-para-abordar-problematicas-nacionales/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Inclusión Social solicitará a Junta de Portavoces decretar iniciativa que modifica Reglamento de Diputados",
+        "d": "05/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-solicitara-a-junta-de-portavoces-decretar-iniciativa-que-modifica-reglamento-de-diputados/",
         "pts": 2
       }
     ],
