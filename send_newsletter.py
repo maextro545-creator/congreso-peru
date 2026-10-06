@@ -3,6 +3,8 @@ import os
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from email.header import Header
+from email.utils import formataddr
 from datetime import datetime
 
 def build_chamber_rows(members, parties):
@@ -146,7 +148,7 @@ def generate_newsletter_html(data):
                 <tr>
                     <td style="vertical-align: middle;">
                         <div style="font-family: Georgia, 'Times New Roman', serif; font-size: 22px; font-weight: 900; color: #111111; letter-spacing: -0.5px; line-height: 1.15;">
-                            📊 🏛️ RESUMEN DIARIO DEL TOP EN EL CONGRESO AL DÍA DE HOY
+                            🏛️ Resumen del Top de Congresistas al Día de Hoy
                         </div>
                         <div style="font-family: Georgia, 'Times New Roman', serif; font-size: 16px; font-style: italic; font-weight: bold; color: #222222; margin-top: 5px;">
                             🏆 El Chambómetro Legislativo &bull; Edición Bicameral
@@ -167,7 +169,7 @@ def generate_newsletter_html(data):
     <tr>
         <td style="padding: 22px 24px 10px 24px; background-color: #ffffff;">
             <h1 style="font-family: Georgia, 'Times New Roman', serif; font-size: 20px; font-weight: 800; color: #111111; line-height: 1.3; margin: 0 0 12px 0;">
-                📊 🏛️ RESUMEN DIARIO DEL TOP EN EL CONGRESO AL DÍA DE HOY: ¿Quiénes lideran el Senado y la Cámara de Diputados?
+                📊 🏛️ Resumen del Top de Congresistas al Día de Hoy: ¿Quiénes lideran el Senado y la Cámara de Diputados?
             </h1>
             
             <p style="font-size: 14px; line-height: 1.6; color: #333333; margin: 0 0 14px 0;">
@@ -332,8 +334,9 @@ def generate_newsletter_html(data):
 
 def send_email(subject, html_content, to_emails, smtp_host, smtp_port, smtp_user, smtp_pass):
     msg = MIMEMultipart('alternative')
-    msg['Subject'] = subject
-    msg['From'] = f"🏛️ El Chambómetro del Congreso <{smtp_user}>"
+    msg['Subject'] = Header(subject, 'utf-8')
+    sender_title = str(Header('🏛️ El Chambómetro del Congreso', 'utf-8'))
+    msg['From'] = formataddr((sender_title, smtp_user))
     msg['To'] = ", ".join(to_emails) if isinstance(to_emails, list) else to_emails
     
     part = MIMEText(html_content, 'html', 'utf-8')
@@ -364,8 +367,10 @@ if __name__ == '__main__':
     to_emails = os.environ.get('NEWSLETTER_TO')
     
     if smtp_user and smtp_pass and to_emails:
-        default_subj = f"📊 🏛️ RESUMEN DIARIO DEL TOP EN EL CONGRESO AL DÍA DE HOY ({datetime.now().strftime('%d/%m/%Y')})"
-        subject = os.environ.get('EMAIL_SUBJECT', default_subj)
+        default_subj = f"🏛️ Resumen del Top de Congresistas al día de hoy | El Chambómetro ({datetime.now().strftime('%d/%m/%Y')})"
+        env_subj = (os.environ.get('EMAIL_SUBJECT') or '').strip()
+        subject = env_subj if env_subj else default_subj
+        print(f"Sending email with subject: {subject}")
         recipients = [e.strip() for e in to_emails.split(',') if e.strip()]
         send_email(subject, html, recipients, smtp_host, smtp_port, smtp_user, smtp_pass)
     else:
