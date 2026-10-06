@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Pleno del Senado verá mañana autorización de viajes de mandataria a El Salvador y a España",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-vera-manana-autorizacion-de-viajes-de-mandataria-a-el-salvador-y-a-espana/"
+    },
+    {
+      "title": "Conforman grupo de trabajo para estudiar brechas de ciberseguridad en el Estado",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupo-de-trabajo-para-estudiar-brechas-de-ciberseguridad-en-el-estado/"
+    },
+    {
+      "title": "Palacio Legislativo se ilumina para visibilizar lucha contra el cáncer de mama",
+      "source": "Portal del Congreso",
+      "date": "05 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/palacio-legislativo-se-ilumina-para-visibilizar-lucha-contra-el-cancer-de-mama/"
+    },
+    {
       "title": "Comisión Bicameral de Presupuesto recibe sustentación del crédito suplementario por S/ 8 228 millones",
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
@@ -1625,21 +1643,21 @@
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-abordar-la-violencia-escolar-y-las-demandas-de-los-pueblos-indigenas-y-afroperuanos/"
-    },
-    {
-      "title": "ASPEC pide garantizar cumplimiento de leyes en defensa del consumidor",
-      "source": "Portal del Congreso",
-      "date": "05 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aspec-pide-garantizar-cumplimiento-de-leyes-en-defensa-del-consumidor/"
-    },
-    {
-      "title": "Demandan al Ejecutivo un plan urgente para garantizar agua potable a la población",
-      "source": "Portal del Congreso",
-      "date": "05 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-al-ejecutivo-un-plan-urgente-para-garantizar-agua-potable-a-la-poblacion/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Aprueban conformación de comisión especial de seguimiento de recursos destinados a atender el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-conformacion-de-comision-especial-de-seguimiento-de-recursos-destinados-a-atender-el-fenomeno-el-nino/"
+    },
+    {
+      "title": "Conforman grupo de trabajo para estudiar brechas de ciberseguridad en el Estado",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupo-de-trabajo-para-estudiar-brechas-de-ciberseguridad-en-el-estado/"
+    },
     {
       "title": "Palacio Legislativo se ilumina para visibilizar lucha contra el cáncer de mama",
       "source": "Portal del Congreso",
@@ -1675,24 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "05 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupos-para-abordar-la-violencia-escolar-y-las-demandas-de-los-pueblos-indigenas-y-afroperuanos/"
-    },
-    {
-      "title": "ASPEC pide garantizar cumplimiento de leyes en defensa del consumidor",
-      "source": "Portal del Congreso",
-      "date": "05 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aspec-pide-garantizar-cumplimiento-de-leyes-en-defensa-del-consumidor/"
-    },
-    {
-      "title": "Demandan al Ejecutivo un plan urgente para garantizar agua potable a la población",
-      "source": "Portal del Congreso",
-      "date": "05 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/demandan-al-ejecutivo-un-plan-urgente-para-garantizar-agua-potable-a-la-poblacion/"
-    },
-    {
-      "title": "Diputados demandan a OEFA resultados concretos frente a la contaminación ambiental en diversas regiones",
-      "source": "Portal del Congreso",
-      "date": "05 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-demandan-a-oefa-resultados-concretos-frente-a-la-contaminacion-ambiental-en-diversas-regiones/"
     }
   ],
   "events_override": {
@@ -5292,6 +5292,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -5559,6 +5567,14 @@
         "d": "28/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/465",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
       }
     ],
@@ -7860,6 +7876,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 597 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LOS VECINOS, DIRIGENTES Y A TODA LA VALEROSA COMUNIDAD DE...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/597",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 594 (Mociones de Saludo): EXPRESAR EL MÁS EFUSIVO Y CORDIAL SALUDO Y FELICITACIÓN A LA SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PÚBLICOS (SUNARP...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/594",
+        "pts": 3
       }
     ],
     "José Isidro Baella Malca": [
@@ -7893,6 +7933,14 @@
         "d": "11/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/349",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
       }
     ],
@@ -8435,6 +8483,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
       }
     ],
@@ -10512,6 +10568,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/496",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
       }
     ],
     "Jeenny Cristina Samanez Gonzales Vigil": [
@@ -10564,6 +10628,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/203",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
       }
     ],
     "José Marvin Palma Mendoza": [
@@ -10589,6 +10661,14 @@
         "d": "02/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/225",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 588 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN DE LA CÁMARA DE DIPUTADOS AL INSTITUTO DE EDUCACIÓN SUPERIOR «URUSAYHUA», ...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/588",
         "pts": 3
       }
     ],
@@ -11294,6 +11374,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/315",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
       }
     ],
     "Segundo Juan Castrejón Fernández": [
@@ -11708,6 +11796,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/587",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
       }
     ],
     "Alejandro Muñante Barrios": [
@@ -11946,6 +12042,38 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/500",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 593 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DEL DISTRITO DE TENIENTE MANUEL CLAVERO, CON MO...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/593",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 592 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DEL DISTRITO DE SAN PABLO, CON MOTIVO DE CONMEM...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/592",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 591 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DEL DISTRITO DE JENARO HERRERA, CON MOTIVO DE C...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/591",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 590 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DE LA PROVINCIA DE MARISCAL RAMÓN CASTILLA DEL ...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/590",
+        "pts": 3
       }
     ],
     "Carlos Alberto Zegarra Sánchez": [
@@ -12142,6 +12270,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
       }
     ],
     "Jorge Arturo Zeballos Aponte": [
@@ -12151,6 +12287,14 @@
         "d": "11/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/351",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
       }
     ],
@@ -12225,6 +12369,16 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/111",
+        "pts": 3
+      }
+    ],
+    "Norma Martina Yarrow Lumbreras": [
+      {
+        "t": "📌",
+        "a": "Moción N° 595 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL MEJORAMIENTO DE LA INFRAESTRUCTURA DE LA INSTITUCIÓN EDUCATIVA PÚBLI...",
+        "d": "06/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
       }
     ]
