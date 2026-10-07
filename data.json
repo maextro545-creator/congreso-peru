@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Senadores exhortan a ministro de Trabajo a fortalecer labor de la Sunafil",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exhortan-a-ministro-de-trabajo-a-fortalecer-labor-de-la-sunafil/"
+    },
+    {
+      "title": "Comisión de Gestión del Estado cuestiona inasistencia del presidente del INPE y evalúa avances de la reforma del servicio civil",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-gestion-del-estado-cuestiona-inasistencia-del-presidente-del-inpe-y-evalua-avances-de-la-reforma-del-servicio-civil/"
+    },
+    {
+      "title": "Papa León XIV recibirá la Medalla de Honor del Congreso de la República en el grado de Gran Cruz",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/papa-leon-xiv-recibira-la-medalla-de-honor-del-congreso-de-la-republica-en-el-grado-de-gran-cruz/"
+    },
+    {
+      "title": "Resaltan rol de las obstetras como pilares de la salud pública y la reducción de la mortalidad materna en el Perú",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/resaltan-rol-de-las-obstetras-como-pilares-de-la-salud-publica-y-la-reduccion-de-la-mortalidad-materna-en-el-peru/"
+    },
+    {
       "title": "Comisión de Ética declara improcedente denuncia presentada contra Ruth Luque",
       "source": "Portal del Congreso",
       "date": "06 Oct 2026",
@@ -1619,33 +1643,39 @@
       "source": "Portal del Congreso",
       "date": "06 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-proceso-de-formalizacion-y-titulacion-de-tierras-del-proyecto-chinecas/"
-    },
-    {
-      "title": "Comisión de Constitución del Senado se declara en sesión permanente",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-se-declara-en-sesion-permanente/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma compromiso con Juliaca rumbo a su 100.° aniversario de creación política",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-juliaca-rumbo-a-su-100-aniversario-de-creacion-politica/"
-    },
-    {
-      "title": "Pleno del Senado verá mañana autorización de viajes de mandataria a El Salvador y a España",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-vera-manana-autorizacion-de-viajes-de-mandataria-a-el-salvador-y-a-espana/"
-    },
-    {
-      "title": "Conforman grupo de trabajo para estudiar brechas de ciberseguridad en el Estado",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupo-de-trabajo-para-estudiar-brechas-de-ciberseguridad-en-el-estado/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Cámara de Diputados aprueba delegar facultades legislativas al Poder Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-aprueba-delegar-facultades-legislativas-al-poder-ejecutivo/"
+    },
+    {
+      "title": "Comisión de Gestión del Estado cuestiona inasistencia del presidente del INPE y evalúa avances de la reforma del servicio civil",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-gestion-del-estado-cuestiona-inasistencia-del-presidente-del-inpe-y-evalua-avances-de-la-reforma-del-servicio-civil/"
+    },
+    {
+      "title": "Papa León XIV recibirá la Medalla de Honor del Congreso de la República en el grado de Gran Cruz",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/papa-leon-xiv-recibira-la-medalla-de-honor-del-congreso-de-la-republica-en-el-grado-de-gran-cruz/"
+    },
+    {
+      "title": "Resaltan rol de las obstetras como pilares de la salud pública y la reducción de la mortalidad materna en el Perú",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/resaltan-rol-de-las-obstetras-como-pilares-de-la-salud-publica-y-la-reduccion-de-la-mortalidad-materna-en-el-peru/"
+    },
+    {
+      "title": "Presidente del Congreso reconoce trabajo de Julio Salazar a favor de los peruanos residentes en el exterior",
+      "source": "Portal del Congreso",
+      "date": "06 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reconoce-trabajo-de-julio-salazar-a-favor-de-los-peruanos-residentes-en-el-exterior/"
+    },
     {
       "title": "Sustentan iniciativas para garantizar precios justos de medicamentos y proteger a afectados por metales pesados",
       "source": "Portal del Congreso",
@@ -1663,24 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "06 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-proceso-de-formalizacion-y-titulacion-de-tierras-del-proyecto-chinecas/"
-    },
-    {
-      "title": "Presidente del Congreso reafirma compromiso con Juliaca rumbo a su 100.° aniversario de creación política",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reafirma-compromiso-con-juliaca-rumbo-a-su-100-aniversario-de-creacion-politica/"
-    },
-    {
-      "title": "Aprueban conformación de comisión especial de seguimiento de recursos destinados a atender el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-conformacion-de-comision-especial-de-seguimiento-de-recursos-destinados-a-atender-el-fenomeno-el-nino/"
-    },
-    {
-      "title": "Conforman grupo de trabajo para estudiar brechas de ciberseguridad en el Estado",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/conforman-grupo-de-trabajo-para-estudiar-brechas-de-ciberseguridad-en-el-estado/"
     }
   ],
   "events_override": {
@@ -11684,6 +11696,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/109",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores exhortan a ministro de Trabajo a fortalecer labor de la Sunafil",
+        "d": "06/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exhortan-a-ministro-de-trabajo-a-fortalecer-labor-de-la-sunafil/",
+        "pts": 2
       }
     ],
     "Liz Huli Mendoza Bernedo": [
