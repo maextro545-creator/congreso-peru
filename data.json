@@ -1597,6 +1597,36 @@
   },
   "senado_news": [
     {
+      "title": "Senado autoriza viaje de la presidenta de la república a El Salvador y España",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autoriza-viaje-de-la-presidenta-de-la-republica-a-el-salvador-y-espana/"
+    },
+    {
+      "title": "Presidente del Congreso destaca legado del Caballero de los Mares",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-legado-del-caballero-de-los-mares/"
+    },
+    {
+      "title": "Miguel Torres: El Senado cumplirá con el Reglamento y la Constitución en debate de facultades legislativas",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-el-senado-cumplira-con-el-reglamento-y-la-constitucion-en-debate-de-facultades-legislativas/"
+    },
+    {
+      "title": "Senado de la República rindió homenaje a la Marina de Guerra y a Miguel Grau",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-de-la-republica-rindio-homenaje-a-la-marina-de-guerra-y-a-miguel-grau/"
+    },
+    {
+      "title": "Elección de tres directores del BCR entra a su etapa final",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/eleccion-de-tres-directores-del-bcr-entra-a-su-etapa-final/"
+    },
+    {
       "title": "Senadores exhortan a ministro de Trabajo a fortalecer labor de la Sunafil",
       "source": "Portal del Congreso",
       "date": "06 Oct 2026",
@@ -1613,39 +1643,21 @@
       "source": "Portal del Congreso",
       "date": "06 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/papa-leon-xiv-recibira-la-medalla-de-honor-del-congreso-de-la-republica-en-el-grado-de-gran-cruz/"
-    },
-    {
-      "title": "Resaltan rol de las obstetras como pilares de la salud pública y la reducción de la mortalidad materna en el Perú",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/resaltan-rol-de-las-obstetras-como-pilares-de-la-salud-publica-y-la-reduccion-de-la-mortalidad-materna-en-el-peru/"
-    },
-    {
-      "title": "Comisión de Ética declara improcedente denuncia presentada contra Ruth Luque",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-declara-improcedente-denuncia-presentada-contra-ruth-luque/"
-    },
-    {
-      "title": "Presidente del Congreso reconoce trabajo de Julio Salazar a favor de los peruanos residentes en el exterior",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reconoce-trabajo-de-julio-salazar-a-favor-de-los-peruanos-residentes-en-el-exterior/"
-    },
-    {
-      "title": "Sustentan iniciativas para garantizar precios justos de medicamentos y proteger a afectados por metales pesados",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/sustentan-iniciativas-para-garantizar-precios-justos-de-medicamentos-y-proteger-a-afectados-por-metales-pesados/"
-    },
-    {
-      "title": "Analizan proceso de formalización y titulación de tierras del proyecto Chinecas",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-proceso-de-formalizacion-y-titulacion-de-tierras-del-proyecto-chinecas/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Informe final sobre denuncia contra Pedro Castillo y Walter Ayala será remitido al Pleno de Diputados",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/informe-final-sobre-denuncia-contra-pedro-castillo-y-walter-ayala-sera-remitido-al-pleno-de-diputados/"
+    },
+    {
+      "title": "Elección de tres directores del BCR entra a su etapa final",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/eleccion-de-tres-directores-del-bcr-entra-a-su-etapa-final/"
+    },
     {
       "title": "Cámara de Diputados aprueba delegar facultades legislativas al Poder Ejecutivo",
       "source": "Portal del Congreso",
@@ -1663,36 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "06 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/papa-leon-xiv-recibira-la-medalla-de-honor-del-congreso-de-la-republica-en-el-grado-de-gran-cruz/"
-    },
-    {
-      "title": "Resaltan rol de las obstetras como pilares de la salud pública y la reducción de la mortalidad materna en el Perú",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/resaltan-rol-de-las-obstetras-como-pilares-de-la-salud-publica-y-la-reduccion-de-la-mortalidad-materna-en-el-peru/"
-    },
-    {
-      "title": "Presidente del Congreso reconoce trabajo de Julio Salazar a favor de los peruanos residentes en el exterior",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reconoce-trabajo-de-julio-salazar-a-favor-de-los-peruanos-residentes-en-el-exterior/"
-    },
-    {
-      "title": "Sustentan iniciativas para garantizar precios justos de medicamentos y proteger a afectados por metales pesados",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/sustentan-iniciativas-para-garantizar-precios-justos-de-medicamentos-y-proteger-a-afectados-por-metales-pesados/"
-    },
-    {
-      "title": "Pleno inició debate sobre delegación de facultades al Ejecutivo en seguridad ciudadana y fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-inicio-debate-sobre-delegacion-de-facultades-al-ejecutivo-en-seguridad-ciudadana-y-fenomeno-el-nino/"
-    },
-    {
-      "title": "Analizan proceso de formalización y titulación de tierras del proyecto Chinecas",
-      "source": "Portal del Congreso",
-      "date": "06 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-proceso-de-formalizacion-y-titulacion-de-tierras-del-proyecto-chinecas/"
     }
   ],
   "events_override": {
@@ -2434,6 +2416,22 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reconoce-trabajo-de-julio-salazar-a-favor-de-los-peruanos-residentes-en-el-exterior/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso destaca legado del Caballero de los Mares",
+        "d": "07/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-legado-del-caballero-de-los-mares/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres: El Senado cumplirá con el Reglamento y la Constitución en debate de facultades legislativas",
+        "d": "07/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-el-senado-cumplira-con-el-reglamento-y-la-constitucion-en-debate-de-facultades-legislativas/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -2590,6 +2588,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/573",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 600 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR, DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA RESTAURACIÓN, RECUPERACIÓN, CONSERVACIÓN Y PUESTA EN VALOR DE LA IG...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/600",
+        "pts": 3
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -2639,6 +2645,14 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 601 (Conformación de Comisiones de Investigación): CONFORMAR UNA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LAS ACCIONES Y OMISIONES DE LOS FUNCIONARIOS Y SERVIDORES P...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/601",
         "pts": 3
       }
     ],
@@ -2769,6 +2783,14 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 601 (Conformación de Comisiones de Investigación): CONFORMAR UNA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LAS ACCIONES Y OMISIONES DE LOS FUNCIONARIOS Y SERVIDORES P...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/601",
         "pts": 3
       }
     ],
@@ -2915,6 +2937,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/517",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 600 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR, DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA RESTAURACIÓN, RECUPERACIÓN, CONSERVACIÓN Y PUESTA EN VALOR DE LA IG...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/600",
         "pts": 3
       }
     ],
@@ -4135,6 +4165,22 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 601 (Conformación de Comisiones de Investigación): CONFORMAR UNA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LAS ACCIONES Y OMISIONES DE LOS FUNCIONARIOS Y SERVIDORES P...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/601",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 600 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR, DE NECESIDAD PÚBLICA E INTERÉS NACIONAL LA RESTAURACIÓN, RECUPERACIÓN, CONSERVACIÓN Y PUESTA EN VALOR DE LA IG...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/600",
         "pts": 3
       }
     ],
