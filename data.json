@@ -1631,27 +1631,33 @@
       "source": "Portal del Congreso",
       "date": "07 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/al-ritmo-de-cajon-y-panuelo-congreso-celebro-el-dia-de-trujillo-y-su-marinera/"
-    },
-    {
-      "title": "Senado autoriza viaje de la presidenta de la república a El Salvador y España",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autoriza-viaje-de-la-presidenta-de-la-republica-a-el-salvador-y-espana/"
-    },
-    {
-      "title": "Presidente del Congreso destaca legado del Caballero de los Mares",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-legado-del-caballero-de-los-mares/"
-    },
-    {
-      "title": "Miguel Torres: El Senado cumplirá con el Reglamento y la Constitución en debate de facultades legislativas",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-el-senado-cumplira-con-el-reglamento-y-la-constitucion-en-debate-de-facultades-legislativas/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Oscar Reto plantea modernizar la legislación laboral frente a los nuevos retos digitales",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-plantea-modernizar-la-legislacion-laboral-frente-a-los-nuevos-retos-digitales/"
+    },
+    {
+      "title": "Diputados piden a ministro de Cultura no desatender alertas en Machu Picchu y trabajo conjunto con Mincetur",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-piden-a-ministro-de-cultura-no-desatender-alertas-en-machu-picchu-y-trabajo-conjunto-con-mincetur/"
+    },
+    {
+      "title": "Comisión de Trabajo de la Cámara de Diputados aborda situación de EsSalud y medidas para mejorar atención de asegurados",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-trabajo-de-la-camara-de-diputados-aborda-situacion-de-essalud-y-medidas-para-mejorar-atencion-de-asegurados/"
+    },
+    {
+      "title": "Presidente del Congreso se reunió con representantes de la Cámara de Comercio Peruano-China",
+      "source": "Portal del Congreso",
+      "date": "07 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-representantes-de-la-camara-de-comercio-peruano-china/"
+    },
     {
       "title": "Diputados exigen a la Sunat acciones firmes ante millonarias deudas de empresas",
       "source": "Portal del Congreso",
@@ -1681,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "07 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/al-ritmo-de-cajon-y-panuelo-congreso-celebro-el-dia-de-trujillo-y-su-marinera/"
-    },
-    {
-      "title": "Presidente del Congreso destaca legado del Caballero de los Mares",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-legado-del-caballero-de-los-mares/"
     }
   ],
   "events_override": {
@@ -1969,6 +1969,14 @@
         "d": "25/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-las-instituciones-no-pueden-seguir-trabajando-de-forma-aislada/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Oscar Reto plantea modernizar la legislación laboral frente a los nuevos retos digitales",
+        "d": "07/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-plantea-modernizar-la-legislacion-laboral-frente-a-los-nuevos-retos-digitales/",
         "pts": 2
       }
     ],
@@ -3450,6 +3458,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 610 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, COORDINACIÓN Y FORMULACIÓN DE PROPUESTAS LEGISLATI...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
+        "pts": 3
       }
     ],
     "Heber López Letona": [
@@ -3531,6 +3547,22 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 610 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, COORDINACIÓN Y FORMULACIÓN DE PROPUESTAS LEGISLATI...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 605 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LA NATURALEZA, ALCANCE Y CARACTERÍSTICAS DE LOS PRESUNTOS ...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/605",
         "pts": 3
       }
     ],
@@ -3630,6 +3662,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 610 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, COORDINACIÓN Y FORMULACIÓN DE PROPUESTAS LEGISLATI...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
+        "pts": 3
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -3696,6 +3736,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 610 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, COORDINACIÓN Y FORMULACIÓN DE PROPUESTAS LEGISLATI...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
+        "pts": 3
       }
     ],
     "Máximo Peralta Jorpa": [
@@ -3761,6 +3809,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 610 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, COORDINACIÓN Y FORMULACIÓN DE PROPUESTAS LEGISLATI...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
         "pts": 3
       }
     ],
@@ -4028,6 +4084,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 610 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, COORDINACIÓN Y FORMULACIÓN DE PROPUESTAS LEGISLATI...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 605 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR LA NATURALEZA, ALCANCE Y CARACTERÍSTICAS DE LOS PRESUNTOS ...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/605",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -4061,6 +4133,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 610 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, COORDINACIÓN Y FORMULACIÓN DE PROPUESTAS LEGISLATI...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
         "pts": 3
       }
     ],
@@ -4191,6 +4271,14 @@
         "d": "21/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/424",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 610 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA ENCARGADA DEL SEGUIMIENTO, COORDINACIÓN Y FORMULACIÓN DE PROPUESTAS LEGISLATI...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
         "pts": 3
       }
     ],
@@ -8956,6 +9044,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/542",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 608 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO, AFECTUOSO Y EFUSIVO SALUDO Y RECONOCIMIENTO A LAS AUTORIDADES, A LA COMUNIDAD ECLESIÁSTICA Y A T...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/608",
+        "pts": 3
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -9487,6 +9583,38 @@
         "d": "05/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/581",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 609 (Mociones de Saludo): RENDIR SOLEMNE HOMENAJE AL GRAN ALMIRANTE DEL PERÚ,MIGUEL GRAU SEMINARIOY A LOS HÉROES DEL COMBATE NAVAL DE ANGAMOS, CON...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/609",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 607 (Mociones de Saludo): EXPRESAR, CON MOTIVO DE CONMEMORARSE EL 10 DE OCTUBRE DE 2026 EL DÍA MUNDIAL DE LA SALUD MENTAL, SU ESPECIAL RECONOCIMIE...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/607",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 606 (Mociones de Saludo): EXPRESAR SU ESPECIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LOS OBSTETRAS DEL PERÚ, CON MOTIVO DE CONMEMORARSE EL 10 DE...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/606",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 604 (Mociones de Saludo): EXPRESAR SU ESPECIAL SALUDO Y RECONOCIMIENTO CON MOTIVO DE LA FESTIVIDAD DEL SEÑOR CAUTIVO DE AYABACA, CUYO DÍA CENTRAL ...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/604",
         "pts": 3
       }
     ],
@@ -11092,6 +11220,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/146",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 151 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE NUÑOA, PROVINCIA DE MELGAR, REGIÓN PUNO, EN OCASIÓN DE CONM...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/151",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 150 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE JOSÉ DOMINGO CHOQUEHUANCA, PROVINCIA DE AZÁNGARO, DEPARTAME...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/150",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 149 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE ANTAUTA, PROVINCIA DE MELGAR, DEL DEPARTAMENTO DE PUNO, EN ...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/149",
+        "pts": 3
       }
     ],
     "Ana Luisa Yuffra Lugo": [
@@ -11625,6 +11777,14 @@
         "d": "30/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-aprueba-derogar-la-ley-que-crea-el-colegio-de-artistas-del-peru/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputados piden a ministro de Cultura no desatender alertas en Machu Picchu y trabajo conjunto con Mincetur",
+        "d": "07/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-piden-a-ministro-de-cultura-no-desatender-alertas-en-machu-picchu-y-trabajo-conjunto-con-mincetur/",
         "pts": 2
       }
     ],
