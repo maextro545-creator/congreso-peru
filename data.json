@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso participó en ceremonia por el 205.° aniversario de la Marina de Guerra del Perú",
+      "source": "Portal del Congreso",
+      "date": "08 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-la-marina-de-guerra-del-peru/"
+    },
+    {
       "title": "Presidente del Congreso se reunió con representantes de la Cámara de Comercio Peruano-China",
       "source": "Portal del Congreso",
       "date": "07 Oct 2026",
@@ -1625,12 +1631,6 @@
       "source": "Portal del Congreso",
       "date": "07 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-reforzar-herramientas-legales-para-combatir-el-crimen-organizado/"
-    },
-    {
-      "title": "Al ritmo de cajón y pañuelo: Congreso celebró el Día de Trujillo y su Marinera",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/al-ritmo-de-cajon-y-panuelo-congreso-celebro-el-dia-de-trujillo-y-su-marinera/"
     }
   ],
   "diputados_news": [
@@ -1681,12 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "07 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-incorporar-ficha-publica-de-ejecucion-contractual-en-la-ley-general-de-contrataciones-publicas/"
-    },
-    {
-      "title": "Al ritmo de cajón y pañuelo: Congreso celebró el Día de Trujillo y su Marinera",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/al-ritmo-de-cajon-y-panuelo-congreso-celebro-el-dia-de-trujillo-y-su-marinera/"
     }
   ],
   "events_override": {
@@ -2459,6 +2453,14 @@
         "d": "07/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-representantes-de-la-camara-de-comercio-peruano-china/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en ceremonia por el 205.° aniversario de la Marina de Guerra del Perú",
+        "d": "08/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-la-marina-de-guerra-del-peru/",
         "pts": 2
       }
     ],
