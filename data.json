@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Senadores y diputados advierten brechas y menor inversión en regiones",
+      "source": "Portal del Congreso",
+      "date": "09 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-advierten-brechas-y-menor-inversion-en-regiones/"
+    },
+    {
       "title": "Presidente del Congreso participó en ceremonia por el 205.° aniversario de la Marina de Guerra del Perú",
       "source": "Portal del Congreso",
       "date": "08 Oct 2026",
@@ -1625,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "07 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-incorporar-ficha-publica-de-ejecucion-contractual-en-la-ley-general-de-contrataciones-publicas/"
-    },
-    {
-      "title": "Proponen reforzar herramientas legales para combatir el crimen organizado",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-reforzar-herramientas-legales-para-combatir-el-crimen-organizado/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Senadores y diputados advierten brechas y menor inversión en regiones",
+      "source": "Portal del Congreso",
+      "date": "09 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-advierten-brechas-y-menor-inversion-en-regiones/"
+    },
     {
       "title": "Oscar Reto plantea modernizar la legislación laboral frente a los nuevos retos digitales",
       "source": "Portal del Congreso",
@@ -3672,6 +3678,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 615 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA ENCARGADA DE INVESTIGAR LOS INCIDENTES, FALLAS, RUPTURAS, FUGAS, D...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/615",
+        "pts": 3
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -4101,6 +4115,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/605",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 615 (Conformación de Comisiones de Investigación): CONSTITUIR UNA COMISIÓN INVESTIGADORA MULTIPARTIDARIA ENCARGADA DE INVESTIGAR LOS INCIDENTES, FALLAS, RUPTURAS, FUGAS, D...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/615",
         "pts": 3
       }
     ],
@@ -5567,6 +5589,14 @@
         "d": "06/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 611 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA CREACIÓN DE LA ZONA ESPECIAL DE DESARROLLO TURÍSTICO (ZEDT) DE AREQUIPA, QUE COMPRENDA L...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/611",
         "pts": 3
       }
     ],
@@ -8692,6 +8722,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/142",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 152 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y HOMENAJE INSTITUCIONAL A LA MARINA DE GUERRA DEL PERÚ, CON MOTIVO DE CO...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/152",
+        "pts": 3
       }
     ],
     "Roger Miguel Astucuri Laura": [
@@ -11524,6 +11562,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 617 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DE LA PROVINCIA DE YUNGAY, DEPARTAMENTO DE ÁNCA...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/617",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 616 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA POBLACIÓN DE LA PROVINCIA DE BOLOGNESI, DEPARTAMENTO DE Á...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/616",
+        "pts": 3
       }
     ],
     "José Berley Arista Arbildo": [
@@ -12578,6 +12632,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/565",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 614 (Mociones de Saludo): EXPRESAR SU MÁS PROFUNDO SALUDO Y RECONOCIMIENTO A LA NACIÓN PERUANA CON OCASIÓN DE CONMEMORARSE EL COMBATE DE ANGAMOS, ...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/614",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 613 (Mociones de Saludo): EXPRESAR UN SALUDO FRATERNO, RECONOCIMIENTO Y FELICITACIÓN A TODOS LOS PROFESIONALES OBSTETRAS DEL PERÚ, CON MOTIVO DE C...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/613",
+        "pts": 3
       }
     ],
     "Ana Bertha Patiño Urco": [
@@ -12587,6 +12657,14 @@
         "d": "04/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/264",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 612 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE PICHANAQUI, PROVINCIA DE CHANCHAMAYO, DEPARTAMENTOJUNÍN, CON MO...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/612",
         "pts": 3
       }
     ],
