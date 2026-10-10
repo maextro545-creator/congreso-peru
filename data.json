@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Constitución del Senado prosigue análisis de delegación de facultades legislativas al Poder Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "10 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-prosigue-analisis-de-delegacion-de-facultades-legislativas-al-poder-ejecutivo/"
+    },
+    {
       "title": "Reconocen esfuerzo y talento de emprendedores de diferentes regiones del país",
       "source": "Portal del Congreso",
       "date": "09 Oct 2026",
@@ -1631,12 +1637,6 @@
       "source": "Portal del Congreso",
       "date": "09 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-defensor-del-pueblo-fortalecen-coordinacion-interinstitucional/"
-    },
-    {
-      "title": "Senadores y diputados advierten brechas y menor inversión en regiones",
-      "source": "Portal del Congreso",
-      "date": "09 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-advierten-brechas-y-menor-inversion-en-regiones/"
     }
   ],
   "diputados_news": [
@@ -1675,12 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "09 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-recibio-alerta-del-senamhi-ante-el-nino-costero-extraordinario/"
-    },
-    {
-      "title": "Senadores y diputados advierten brechas y menor inversión en regiones",
-      "source": "Portal del Congreso",
-      "date": "09 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-advierten-brechas-y-menor-inversion-en-regiones/"
     }
   ],
   "events_override": {
@@ -9990,6 +9984,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/86",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Constitución del Senado prosigue análisis de delegación de facultades legislativas al Poder Ejecutivo",
+        "d": "10/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-prosigue-analisis-de-delegacion-de-facultades-legislativas-al-poder-ejecutivo/",
+        "pts": 2
       }
     ],
     "Andrés Avelino Ramos Huillcas": [
