@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Reconocen esfuerzo y talento de emprendedores de diferentes regiones del país",
+      "source": "Portal del Congreso",
+      "date": "09 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reconocen-esfuerzo-y-talento-de-emprendedores-de-diferentes-regiones-del-pais/"
+    },
+    {
+      "title": "Instalan Liga Parlamentaria de Amistad Perú-Ecuador y eligen a Héctor Ventura como presidente",
+      "source": "Portal del Congreso",
+      "date": "09 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/instalan-liga-parlamentaria-de-amistad-peru-ecuador-y-eligen-a-hector-ventura-como-presidente/"
+    },
+    {
+      "title": "Comisión de Modernización evalúa propuesta para unificar el sistema digital de salud",
+      "source": "Portal del Congreso",
+      "date": "09 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-evalua-propuesta-para-unificar-el-sistema-digital-de-salud/"
+    },
+    {
       "title": "Comisión de Constitución del Senado inició debate sobre delegación de facultades al Poder Ejecutivo",
       "source": "Portal del Congreso",
       "date": "09 Oct 2026",
@@ -1619,15 +1637,15 @@
       "source": "Portal del Congreso",
       "date": "09 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-advierten-brechas-y-menor-inversion-en-regiones/"
-    },
-    {
-      "title": "Presidente del Congreso participó en ceremonia por el 205.° aniversario de la Marina de Guerra del Perú",
-      "source": "Portal del Congreso",
-      "date": "08 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-la-marina-de-guerra-del-peru/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputado Jorge Zeballos propone implementar el voto postal facultativo para los peruanos residentes en el exterior",
+      "source": "Portal del Congreso",
+      "date": "09 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jorge-zeballos-propone-implementar-el-voto-postal-facultativo-para-los-peruanos-residentes-en-el-exterior/"
+    },
     {
       "title": "Comisión de Modernización evalúa propuesta para unificar el sistema digital de salud",
       "source": "Portal del Congreso",
@@ -1663,24 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "09 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-y-diputados-advierten-brechas-y-menor-inversion-en-regiones/"
-    },
-    {
-      "title": "Presidente del Congreso participó en ceremonia por el 205.° aniversario de la Marina de Guerra del Perú",
-      "source": "Portal del Congreso",
-      "date": "08 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-ceremonia-por-el-205-aniversario-de-la-marina-de-guerra-del-peru/"
-    },
-    {
-      "title": "Oscar Reto plantea modernizar la legislación laboral frente a los nuevos retos digitales",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-plantea-modernizar-la-legislacion-laboral-frente-a-los-nuevos-retos-digitales/"
-    },
-    {
-      "title": "Diputados piden a ministro de Cultura no desatender alertas en Machu Picchu y trabajo conjunto con Mincetur",
-      "source": "Portal del Congreso",
-      "date": "07 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-piden-a-ministro-de-cultura-no-desatender-alertas-en-machu-picchu-y-trabajo-conjunto-con-mincetur/"
     }
   ],
   "events_override": {
@@ -8046,6 +8046,62 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/575",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 628 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN A LA CIUDAD DE CORACORA, CAPITAL DE LA PROVINCIA DE PARINACOCHAS, DEPARTAMENTO...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/628",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 626 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE CHILCAS, PROVINCIA DE LA MAR, DEPARTAMENTO DE AYACUCHO, CON MOT...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/626",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 625 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE LUCANAS, PROVINCIA DE LUCANAS, DEPARTAMENTO DE AYACUCHO, CON MO...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/625",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 624 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LOS PROFESIONALES DE OBSTETRICIA DEL PERÚ Y, DE MANERA ESPECIAL, A LOS INT...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/624",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 622 (Mociones de Saludo): Expresar su cordial saludo y reconocimiento a los licenciados en Turismo del Perú, especialmente a los de la región Ayac...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/622",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 621 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE LARAMATE, PROVINCIA DE LUCANAS, DEPARTAMENTO DE AYACUCHO, CON M...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/621",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 620 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PRIVADO CESDE, DE LA REGIÓN AYA...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/620",
+        "pts": 3
       }
     ],
     "Carlos Alberto Yalta Sotelo": [
@@ -12430,6 +12486,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/411",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 623 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL INSTITUTO NACIONAL MATERNO PERINATAL – EX MATERNIDAD DE...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/623",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 619 (Mociones de Saludo): EXPRESAR EL MÁS SINCERO RECONOCIMIENTO, SALUDO Y FELICITACIÓN A LOS PROFESIONALES DE OBSTETRICIA DEL PERÚ, CON OCASIÓN D...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/619",
+        "pts": 3
       }
     ],
     "Alexander Salas Rivera": [
@@ -12599,6 +12671,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 627 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO A LAS PERSONAS CON DISCAPACIDAD DEL PERÚ, CON MOTIVO DE CONMEMORARSE, EL 16 DE OCTUB...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/627",
         "pts": 3
       }
     ],
@@ -12820,6 +12900,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Jorge Zeballos propone implementar el voto postal facultativo para los peruanos residentes en el exterior",
+        "d": "09/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jorge-zeballos-propone-implementar-el-voto-postal-facultativo-para-los-peruanos-residentes-en-el-exterior/",
+        "pts": 2
       }
     ],
     "Christian Aranda Vasquez": [
@@ -12904,6 +12992,26 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
+      }
+    ],
+    "Rafael Gustavo Yamashiro Ore": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Reconocen esfuerzo y talento de emprendedores de diferentes regiones del país",
+        "d": "09/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/reconocen-esfuerzo-y-talento-de-emprendedores-de-diferentes-regiones-del-pais/",
+        "pts": 2
+      }
+    ],
+    "Héctor José Ventura Angel": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Instalan Liga Parlamentaria de Amistad Perú-Ecuador y eligen a Héctor Ventura como presidente",
+        "d": "09/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/instalan-liga-parlamentaria-de-amistad-peru-ecuador-y-eligen-a-hector-ventura-como-presidente/",
+        "pts": 2
       }
     ]
   },
