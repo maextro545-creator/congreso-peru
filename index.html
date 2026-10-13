@@ -2149,17 +2149,25 @@ function onSizeChange(val){
   } else {
     config.desktop_size = val;
   }
-  document.getElementById('size-val').textContent=val;
-  const pct=((val-1)/9*100).toFixed(0)+'%';
-  document.getElementById('size-slider').style.setProperty('--pct',pct);
-  document.querySelectorAll('.szp').forEach(b=>b.classList.remove('on'));
-  for(const[v,id]of Object.entries(SIZE_PRESETS)){
-    if(Math.abs(parseFloat(v)-val)<0.1)document.getElementById('szp-'+id).classList.add('on');
+  const sizeVal = document.getElementById('size-val');
+  if (sizeVal) sizeVal.textContent = val;
+  const slider = document.getElementById('size-slider');
+  if (slider) {
+    const pct = ((val - 1) / 9 * 100).toFixed(0) + '%';
+    slider.style.setProperty('--pct', pct);
+  }
+  document.querySelectorAll('.szp').forEach(b => b.classList.remove('on'));
+  for (const [v, id] of Object.entries(SIZE_PRESETS)) {
+    if (Math.abs(parseFloat(v) - val) < 0.1) {
+      const btn = document.getElementById('szp-' + id);
+      if (btn) btn.classList.add('on');
+    }
   }
   renderAll(val);
 }
 function setSize(val){
-  document.getElementById('size-slider').value=val;
+  const slider = document.getElementById('size-slider');
+  if (slider) slider.value = val;
   onSizeChange(val);
 }
 
@@ -3118,11 +3126,14 @@ async function init() {
 
     // Synchronize the main page size slider UI
     const slider = document.getElementById('size-slider');
+    const sizeVal = document.getElementById('size-val');
     if (slider) {
       slider.value = initialSize;
-      document.getElementById('size-val').textContent = initialSize;
       const pct = ((initialSize - 1) / 9 * 100).toFixed(0) + '%';
       slider.style.setProperty('--pct', pct);
+    }
+    if (sizeVal) {
+      sizeVal.textContent = initialSize;
     }
     
     // Highlight correct preset button on main page
