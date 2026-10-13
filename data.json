@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Diputados y senadores exigen la masificación del gas para el sur del país y piden no firmar adenda con Cálidda",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-y-senadores-exigen-la-masificacion-del-gas-para-el-sur-del-pais-y-piden-no-firmar-adenda-con-calidda/"
+    },
+    {
+      "title": "Senadores de Buen Gobierno impulsan acciones en favor del empleo, el medio ambiente y los recursos hídricos",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-buen-gobierno-impulsan-acciones-en-favor-del-empleo-el-medio-ambiente-y-los-recursos-hidricos/"
+    },
+    {
+      "title": "Senadores de Juntos por el Perú atienden demandas de pobladores en el interior del país",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-atienden-demandas-de-pobladores-en-el-interior-del-pais/"
+    },
+    {
+      "title": "Comisión de Constitución recoge aportes sobre propuesta de delegación de facultades al Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-recoge-aportes-sobre-propuesta-de-delegacion-de-facultades-al-ejecutivo/"
+    },
+    {
       "title": "Presidente del Congreso y titular de ASBANC abordan agenda legislativa y promoción de inversiones",
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
@@ -1607,27 +1631,39 @@
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-compartio-con-mas-de-50-escolares-de-carapongo-en-visita-guiada-al-palacio-legislativo/"
-    },
-    {
-      "title": "Congreso y CCL articulan medidas de apoyo a emprendedores frente al fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-y-ccl-articulan-medidas-de-apoyo-a-emprendedores-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "Comisión Bicameral recomienda aprobar la Cuenta General de la República 2025",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-recomienda-aprobar-la-cuenta-general-de-la-republica-2025/"
-    },
-    {
-      "title": "Senadores del Partido del Buen Gobierno impulsan acciones para garantizar abastecimiento de agua e innovación rural",
-      "source": "Portal del Congreso",
-      "date": "12 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-impulsan-acciones-para-garantizar-abastecimiento-de-agua-e-innovacion-rural/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputados y senadores exigen la masificación del gas para el sur del país y piden no firmar adenda con Cálidda",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-y-senadores-exigen-la-masificacion-del-gas-para-el-sur-del-pais-y-piden-no-firmar-adenda-con-calidda/"
+    },
+    {
+      "title": "Diputados del Partido del Buen Gobierno priorizan salud, infraestructura y cultura",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-del-buen-gobierno-priorizan-salud-infraestructura-y-cultura/"
+    },
+    {
+      "title": "Oscar Reto lidera mesa multisectorial y exige acciones concretas para prevenir los efectos del fenómeno El Niño en Áncash",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-lidera-mesa-multisectorial-y-exige-acciones-concretas-para-prevenir-los-efectos-del-fenomeno-el-nino-en-ancash/"
+    },
+    {
+      "title": "Diputados de Fuerza Popular fiscalizan obras y coordinan soluciones a problemas de servicios básicos",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-fiscalizan-obras-y-coordinan-soluciones-a-problemas-de-servicios-basicos/"
+    },
+    {
+      "title": "Comisión de Constitución recoge aportes sobre propuesta de delegación de facultades al Ejecutivo",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-recoge-aportes-sobre-propuesta-de-delegacion-de-facultades-al-ejecutivo/"
+    },
     {
       "title": "Diputados de Obras fiscalizan atención en centros de salud y el aeropuerto Jorge Chávez",
       "source": "Portal del Congreso",
@@ -1635,46 +1671,16 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-fiscalizan-atencion-en-centros-de-salud-y-el-aeropuerto-jorge-chavez/"
     },
     {
+      "title": "Presidente del Congreso y titular de ASBANC abordan agenda legislativa y promoción de inversiones",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-de-asbanc-abordan-agenda-legislativa-y-promocion-de-inversiones/"
+    },
+    {
       "title": "Presidente del Congreso compartió con más de 50 escolares de Carapongo en visita guiada al Palacio Legislativo",
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-compartio-con-mas-de-50-escolares-de-carapongo-en-visita-guiada-al-palacio-legislativo/"
-    },
-    {
-      "title": "Congreso y CCL articulan medidas de apoyo a emprendedores frente al fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-y-ccl-articulan-medidas-de-apoyo-a-emprendedores-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "Diputados de Renovación Popular fiscalizan servicios de salud, seguridad e infraestructura",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-fiscalizan-servicios-de-salud-seguridad-e-infraestructura/"
-    },
-    {
-      "title": "Diputados de JPP atendieron demandas en Huancavelica, Lima, Huánuco y Cajamarca",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-jpp-atendieron-demandas-en-huancavelica-lima-huanuco-y-cajamarca/"
-    },
-    {
-      "title": "Comisión Bicameral recomienda aprobar la Cuenta General de la República 2025",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-recomienda-aprobar-la-cuenta-general-de-la-republica-2025/"
-    },
-    {
-      "title": "Diputada Romina Uribe impulsa el liderazgo femenino en evento “Niñas parlamentarias por un día”",
-      "source": "Portal del Congreso",
-      "date": "12 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-romina-uribe-impulsa-el-liderazgo-femenino-en-evento-ninas-parlamentarias-por-un-dia/"
-    },
-    {
-      "title": "Diputados de Ahora Nación atienden demandas educativas en Puno y Lima",
-      "source": "Portal del Congreso",
-      "date": "12 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-atienden-demandas-educativas-en-puno-y-lima/"
     }
   ],
   "events_override": {
@@ -1989,6 +1995,14 @@
         "d": "12/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-otero-continua-su-trabajo-de-fiscalizacion-en-el-norte-chico-y-fiscaliza-avances-de-obras-de-descolmatacion-ante-el-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Oscar Reto lidera mesa multisectorial y exige acciones concretas para prevenir los efectos del fenómeno El Niño en Áncash",
+        "d": "13/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-lidera-mesa-multisectorial-y-exige-acciones-concretas-para-prevenir-los-efectos-del-fenomeno-el-nino-en-ancash/",
         "pts": 2
       }
     ],
@@ -3370,6 +3384,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 645 (Conformación de Comisiones de Investigación): CONFORMAR UNA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR Y ESCLARECER EL PROCESO DE ADQUISICIÓN DE 12 AERONAVES F-16...",
+        "d": "13/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/645",
+        "pts": 3
       }
     ],
     "Arturo César Eusebio Padilla": [
@@ -4167,6 +4189,14 @@
         "d": "09/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/615",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 645 (Conformación de Comisiones de Investigación): CONFORMAR UNA COMISIÓN INVESTIGADORA ENCARGADA DE INVESTIGAR Y ESCLARECER EL PROCESO DE ADQUISICIÓN DE 12 AERONAVES F-16...",
+        "d": "13/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/645",
         "pts": 3
       }
     ],
@@ -12881,6 +12911,14 @@
         "d": "13/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/644",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 646 (Mociones de Saludo): Expresar su más cordial saludo y reconocimiento a la región Ica y a todos sus ciudadanos, con motivo de conmemorarse, el...",
+        "d": "13/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/646",
         "pts": 3
       }
     ],
