@@ -7,17 +7,51 @@ from email.header import Header
 from email.utils import formataddr
 from datetime import datetime
 
-def build_chamber_rows(members, parties):
+def get_trend_badge(curr_rank, prev_rank):
+    if prev_rank is None:
+        return {
+            'text': '★ Nvo',
+            'style': 'color: #b45309; background-color: #fef3c7; border: 1px solid #fde68a;',
+            'title': 'Nuevo ingreso al ranking'
+        }
+    diff = prev_rank - curr_rank
+    if diff > 0:
+        return {
+            'text': f'▲ +{diff}',
+            'style': 'color: #15803d; background-color: #dcfce7; border: 1px solid #bbf7d0;',
+            'title': f'Subió {diff} puestos'
+        }
+    elif diff < 0:
+        return {
+            'text': f'▼ -{abs(diff)}',
+            'style': 'color: #b91c1c; background-color: #fee2e2; border: 1px solid #fecaca;',
+            'title': f'Bajó {abs(diff)} puestos'
+        }
+    else:
+        return {
+            'text': '▬',
+            'style': 'color: #64748b; background-color: #f1f5f9; border: 1px solid #e2e8f0;',
+            'title': 'Mantuvo posición'
+        }
+
+def build_chamber_rows(members, parties, prev_ranks=None):
     rows = ""
     for i, m in enumerate(members, 1):
         pty = m['party']
         pty_color = parties.get(pty, {}).get('c', '#8a1526')
         avatar_html = f"<img src='{m['photo']}' width='34' height='34' style='border-radius:50%;object-fit:cover;vertical-align:middle;margin-right:8px;border:1px solid #ddd;'>" if m.get('photo') else ""
+        prev_rank = prev_ranks.get(m['name']) if prev_ranks else None
+        trend = get_trend_badge(i, prev_rank)
         
         rows += f"""
         <tr style="border-bottom: 1px solid #f0eee8;">
-            <td style="padding: 9px 6px; font-weight: 800; font-size: 13px; color: #333; text-align: center; width: 28px;">
-                {i}°
+            <td style="padding: 8px 4px; text-align: center; width: 44px; vertical-align: middle;">
+                <div style="font-weight: 800; font-size: 13.5px; color: #1a1a1a; line-height: 1;">
+                    {i}°
+                </div>
+                <div style="display: inline-block; font-size: 9px; font-weight: 800; padding: 1px 4px; border-radius: 4px; margin-top: 3px; {trend['style']}">
+                    {trend['text']}
+                </div>
             </td>
             <td style="padding: 9px 8px; font-size: 13.5px; color: #1a1a1a;">
                 {avatar_html}
@@ -36,7 +70,7 @@ def build_chamber_rows(members, parties):
         """
     return rows
 
-def build_podium_html(top3, parties, chamber_name, main_color):
+def build_podium_html(top3, parties, chamber_name, main_color, prev_ranks=None):
     html = ""
     medals = ["🥇 1° Puesto", "🥈 2° Puesto", "🥉 3° Puesto"]
     medals_border = ["#eab308", "#94a3b8", "#b45309"]
@@ -44,12 +78,19 @@ def build_podium_html(top3, parties, chamber_name, main_color):
         pty = m['party']
         pty_color = parties.get(pty, {}).get('c', '#8a1526')
         avatar_img = m.get('photo') if m.get('photo') else f"https://api.dicebear.com/7.x/initials/svg?seed={m['name'][:2]}&backgroundColor={main_color.replace('#','')}&textColor=ffffff&radius=50"
+        curr_rank = i + 1
+        prev_rank = prev_ranks.get(m['name']) if prev_ranks else None
+        trend = get_trend_badge(curr_rank, prev_rank)
         
         html += f"""
         <div style="flex: 1; min-width: 155px; background: #ffffff; border: 2px solid {medals_border[i]}; border-radius: 8px; padding: 12px 8px; text-align: center; margin: 4px;">
-            <div style="font-size: 10.5px; font-weight: 800; text-transform: uppercase; color: {medals_border[i]}; margin-bottom: 5px;">
+            <div style="font-size: 10.5px; font-weight: 800; text-transform: uppercase; color: {medals_border[i]}; margin-bottom: 2px;">
                 {medals[i]}
             </div>
+            <div style="display: inline-block; font-size: 9.5px; font-weight: 800; padding: 1px 6px; border-radius: 8px; margin-bottom: 5px; {trend['style']}">
+                {trend['text']}
+            </div>
+            <br>
             <img src="{avatar_img}" width="54" height="54" style="border-radius: 50%; object-fit: cover; border: 2px solid {medals_border[i]}; margin-bottom: 6px;">
             <div style="font-size: 12px; font-weight: 800; color: #1a1a1a; line-height: 1.2; margin-bottom: 3px;">
                 {m['name']}
@@ -115,12 +156,16 @@ def generate_newsletter_html(data):
         "July", "julio").replace("August", "agosto").replace("September", "septiembre").replace(
         "October", "octubre").replace("November", "noviembre").replace("December", "diciembre")
 
+    previous_ranks = data.get('previous_ranks', {})
+    prev_s = previous_ranks.get('senado', {})
+    prev_d = previous_ranks.get('diputados', {})
+
     # Podium and Tables for each chamber
-    sen_podium = build_podium_html(senators[:3], parties, "Senador", "#8a1526")
-    sen_rows = build_chamber_rows(senators[:8], parties)
+    sen_podium = build_podium_html(senators[:3], parties, "Senador", "#8a1526", prev_s)
+    sen_rows = build_chamber_rows(senators[:8], parties, prev_s)
     
-    dip_podium = build_podium_html(deputies[:3], parties, "Diputado", "#1a2b49")
-    dip_rows = build_chamber_rows(deputies[:8], parties)
+    dip_podium = build_podium_html(deputies[:3], parties, "Diputado", "#1a2b49", prev_d)
+    dip_rows = build_chamber_rows(deputies[:8], parties, prev_d)
 
     html = f"""<!DOCTYPE html>
 <html lang="es">
@@ -213,6 +258,9 @@ def generate_newsletter_html(data):
             </div>
 
             <!-- PODIO SENADO -->
+            <div style="font-size: 10.5px; color: #666; margin-bottom: 6px;">
+                Tendencias: <span style="color:#15803d;font-weight:700;">▲ Subió</span> &bull; <span style="color:#b91c1c;font-weight:700;">▼ Bajó</span> &bull; <span style="color:#64748b;font-weight:700;">▬ Mantuvo</span> &bull; <span style="color:#b45309;font-weight:700;">★ Nuevo</span>
+            </div>
             <div style="display: flex; flex-wrap: wrap; margin-bottom: 16px; justify-content: space-between;">
                 {sen_podium}
             </div>
@@ -221,7 +269,7 @@ def generate_newsletter_html(data):
             <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; margin-bottom: 26px; border: 1px solid #eedcde; border-radius: 6px; overflow: hidden;">
                 <thead>
                     <tr style="background: #8a1526; font-size: 11px; text-transform: uppercase; color: #ffffff;">
-                        <th style="padding: 7px; text-align: center;">#</th>
+                        <th style="padding: 7px; text-align: center; width: 44px;">Pos</th>
                         <th style="padding: 7px; text-align: left;">Senador / Bancada</th>
                         <th style="padding: 7px; text-align: right;">Puntos</th>
                         <th style="padding: 7px; text-align: right;">Act.</th>
@@ -251,6 +299,9 @@ def generate_newsletter_html(data):
             </div>
 
             <!-- PODIO DIPUTADOS -->
+            <div style="font-size: 10.5px; color: #666; margin-bottom: 6px;">
+                Tendencias: <span style="color:#15803d;font-weight:700;">▲ Subió</span> &bull; <span style="color:#b91c1c;font-weight:700;">▼ Bajó</span> &bull; <span style="color:#64748b;font-weight:700;">▬ Mantuvo</span> &bull; <span style="color:#b45309;font-weight:700;">★ Nuevo</span>
+            </div>
             <div style="display: flex; flex-wrap: wrap; margin-bottom: 16px; justify-content: space-between;">
                 {dip_podium}
             </div>
@@ -259,7 +310,7 @@ def generate_newsletter_html(data):
             <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; margin-bottom: 26px; border: 1px solid #dbe4f0; border-radius: 6px; overflow: hidden;">
                 <thead>
                     <tr style="background: #1a2b49; font-size: 11px; text-transform: uppercase; color: #ffffff;">
-                        <th style="padding: 7px; text-align: center;">#</th>
+                        <th style="padding: 7px; text-align: center; width: 44px;">Pos</th>
                         <th style="padding: 7px; text-align: left;">Diputado / Bancada</th>
                         <th style="padding: 7px; text-align: right;">Puntos</th>
                         <th style="padding: 7px; text-align: right;">Act.</th>

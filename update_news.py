@@ -156,6 +156,24 @@ def fetch_smociones_mociones(events_override, all_names):
         except Exception as e:
             print(f"Error fetching SMOCIONES motions for {tag}: {e}")
 
+def compute_ranks_snapshot(data):
+    events = data.get('events_override', {})
+    snms = [name for party, names in data.get('SNMS', {}).items() for name in names]
+    dnms = [name for party, names in data.get('DNMS', {}).items() for name in names]
+
+    def get_pts(n):
+        return sum(e.get('pts', 0) for e in events.get(n, []))
+
+    curr_s = sorted([(n, get_pts(n), len(events.get(n, []))) for n in snms], key=lambda x: (x[1], x[2], x[0]), reverse=True)
+    curr_d = sorted([(n, get_pts(n), len(events.get(n, []))) for n in dnms], key=lambda x: (x[1], x[2], x[0]), reverse=True)
+    curr_all = sorted(curr_s + curr_d, key=lambda x: (x[1], x[2], x[0]), reverse=True)
+
+    return {
+        'senado': {n: i + 1 for i, (n, pts, c) in enumerate(curr_s)},
+        'diputados': {n: i + 1 for i, (n, pts, c) in enumerate(curr_d)},
+        'all': {n: i + 1 for i, (n, pts, c) in enumerate(curr_all)}
+    }
+
 def main():
     if not os.path.exists(DATA_PATH):
         print(f"Error: {DATA_PATH} not found.")
@@ -287,6 +305,8 @@ def main():
     data["senado_news"] = senado_news[:10]
     data["diputados_news"] = diputados_news[:10]
     data["events_override"] = events_override
+    if "previous_ranks" not in data or not data["previous_ranks"]:
+        data["previous_ranks"] = compute_ranks_snapshot(data)
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)

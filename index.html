@@ -722,6 +722,36 @@
     .silver .podium-badge { border-color: #cbd5e1; color: #64748b; }
     .bronze .podium-badge { border-color: #b45309; color: #b45309; }
     
+    .podium-trend {
+      font-size: 0.65rem;
+      font-weight: 800;
+      padding: 2px 7px;
+      border-radius: 10px;
+      margin-bottom: 8px;
+      display: inline-block;
+      line-height: 1.2;
+    }
+    .podium-trend.up {
+      color: #16a34a;
+      background: rgba(22, 163, 74, 0.12);
+      border: 1px solid rgba(22, 163, 74, 0.28);
+    }
+    .podium-trend.down {
+      color: #dc2626;
+      background: rgba(220, 38, 38, 0.12);
+      border: 1px solid rgba(220, 38, 38, 0.28);
+    }
+    .podium-trend.same {
+      color: var(--sub2);
+      background: rgba(148, 163, 184, 0.1);
+      border: 1px solid rgba(148, 163, 184, 0.2);
+    }
+    .podium-trend.new {
+      color: #d97706;
+      background: rgba(217, 119, 6, 0.12);
+      border: 1px solid rgba(217, 119, 6, 0.28);
+    }
+    
     .podium-photo-wrap {
       position: relative;
       width: 64px;
@@ -827,13 +857,49 @@
       border-color: var(--accent);
       transform: translateX(2px);
     }
+    .rank-pos-col {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-width: 44px;
+      margin-right: 12px;
+      flex-shrink: 0;
+    }
     .rank-pos {
-      font-size: 0.8rem;
+      font-size: 0.82rem;
       font-weight: 800;
       color: var(--sub);
-      width: 24px;
       text-align: center;
-      margin-right: 12px;
+      line-height: 1;
+    }
+    .rank-trend {
+      font-size: 0.62rem;
+      font-weight: 800;
+      margin-top: 3px;
+      padding: 1px 4px;
+      border-radius: 4px;
+      line-height: 1;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1px;
+    }
+    .rank-trend.up {
+      color: #16a34a;
+      background: rgba(22, 163, 74, 0.12);
+    }
+    .rank-trend.down {
+      color: #dc2626;
+      background: rgba(220, 38, 38, 0.12);
+    }
+    .rank-trend.same {
+      color: var(--sub2);
+      background: rgba(148, 163, 184, 0.1);
+    }
+    .rank-trend.new {
+      color: #d97706;
+      background: rgba(217, 119, 6, 0.12);
     }
     .rank-photo-wrap {
       position: relative;
@@ -1337,6 +1403,12 @@
     <div class="rank-header">
       <h2>🏆 El Chambómetro Legislativo (Periodo 2026-2031)</h2>
       <p>Ranking general de los congresistas (Senadores y Diputados) con mayor actividad registrada, participación en comisiones y cargos oficiales del parlamento.</p>
+      <div style="display:inline-flex;align-items:center;gap:10px;margin-top:6px;font-size:0.68rem;background:var(--card);border:1px solid var(--border);padding:3px 10px;border-radius:20px;">
+        <span style="color:#16a34a;font-weight:800;">▲ Subió</span>
+        <span style="color:#dc2626;font-weight:800;">▼ Bajó</span>
+        <span style="color:var(--sub2);font-weight:800;">▬ Mantiene</span>
+        <span style="color:#d97706;font-weight:800;">★ Nuevo</span>
+      </div>
     </div>
     
     <div class="podium-container" id="podium-box"></div>
@@ -1601,6 +1673,7 @@ let ACTS = {FP:[],JP:[],RP:[],PBG:[],PCO:[],AN:[]};
 let senadoNews = [];
 let diputadosNews = [];
 let eventsOverride = {};
+let previousRanks = {};
 
 function photoSrc(leg){
   if(!leg || !leg.name) return null;
@@ -2048,6 +2121,7 @@ function renderLeg(cid,dist,ch){
     row.style.cssText = 'cursor:pointer;background:#fff;border:1px solid #ddd;border-radius:7px;margin-bottom:4px;padding:5px 8px;display:flex;align-items:center;justify-content:space-between;';
     const medals = ['🥇','🥈','🥉','4°','5°'];
     const loc = photoSrc(leg), fb = fallbackSrc(leg);
+    const trend = getRankTrend(leg, i + 1, ch);
     row.innerHTML = `
       <div class="legleft" style="display:flex;align-items:center;gap:6px;">
         <span style="font-size:0.85rem;flex-shrink:0">${medals[i]}</span>
@@ -2057,7 +2131,10 @@ function renderLeg(cid,dist,ch){
           <div style="font-size:0.55rem;color:#555">${leg.partyName}</div>
         </div>
       </div>
-      <span style="font-size:0.8rem;font-weight:800;color:#111;margin-left:4px;flex-shrink:0">${leg.score} pts</span>
+      <div style="display:flex;align-items:center;gap:6px;flex-shrink:0;">
+        <span class="rank-trend ${trend.type}" style="font-size:0.58rem;padding:1px 4px;" title="${trend.title}">${trend.text}</span>
+        <span style="font-size:0.8rem;font-weight:800;color:#111;">${leg.score} pts</span>
+      </div>
     `;
     row.onclick = () => openP(leg);
     el.appendChild(row);
@@ -2460,6 +2537,48 @@ function searchRank(val) {
   renderRanking();
 }
 
+function getRankTrend(leg, currentRank, filterType) {
+  if (!previousRanks) return { text: '▬', type: 'same', title: 'Mantiene posición' };
+  
+  const key = filterType === 's' ? 'senado' : (filterType === 'd' ? 'diputados' : 'all');
+  let prevRank = null;
+  
+  if (previousRanks[key] && previousRanks[key][leg.name] !== undefined) {
+    prevRank = previousRanks[key][leg.name];
+  } else if (previousRanks[leg.name] !== undefined) {
+    prevRank = previousRanks[leg.name];
+  }
+  
+  if (prevRank === null || prevRank === undefined) {
+    return {
+      text: '★ Nvo',
+      type: 'new',
+      title: 'Nuevo ingreso en el ranking'
+    };
+  }
+  
+  const diff = prevRank - currentRank;
+  if (diff > 0) {
+    return {
+      text: `▲ +${diff}`,
+      type: 'up',
+      title: `Subió ${diff} puesto${diff > 1 ? 's' : ''} (antes #${prevRank})`
+    };
+  } else if (diff < 0) {
+    return {
+      text: `▼ -${Math.abs(diff)}`,
+      type: 'down',
+      title: `Bajó ${Math.abs(diff)} puesto${Math.abs(diff) > 1 ? 's' : ''} (antes #${prevRank})`
+    };
+  } else {
+    return {
+      text: '▬',
+      type: 'same',
+      title: `Mantiene el puesto #${currentRank}`
+    };
+  }
+}
+
 function renderRanking() {
   let all = [...senators, ...deputies];
   
@@ -2473,6 +2592,11 @@ function renderRanking() {
   if (currentRankFilter !== 'ALL') {
     all = all.filter(leg => leg.type === currentRankFilter);
   }
+
+  // Pre-calculate official rank within the selected chamber filter
+  all.forEach((leg, idx) => {
+    leg.officialRank = idx + 1;
+  });
   
   if (currentRankSearch) {
     all = all.filter(leg => 
@@ -2500,15 +2624,17 @@ function renderRanking() {
     order.forEach(idx => {
       const leg = top3[idx];
       if (!leg) return;
-      const rank = idx + 1;
+      const rank = leg.officialRank || (idx + 1);
       const rankClass = rank === 1 ? 'gold' : rank === 2 ? 'silver' : 'bronze';
       const badge = rank === 1 ? '👑' : rank === 2 ? '🥈' : '🥉';
+      const trend = getRankTrend(leg, rank, currentRankFilter);
       
       const loc = photoSrc(leg), fb = fallbackSrc(leg);
       
       podiumHtml += `
         <div class="podium-card ${rankClass}" onclick="openLegById('${leg.type}', ${leg.seatNum})">
           <div class="podium-badge">${badge}</div>
+          <div class="podium-trend ${trend.type}" title="${trend.title}">${trend.text}</div>
           <div class="podium-photo-wrap">
             <img class="podium-photo" src="${loc || fb}" alt="${leg.name}" onerror="this.src='${fb}'"/>
             <div class="podium-pty" style="background:${leg.color}">${P[leg.party].ab}</div>
@@ -2529,12 +2655,16 @@ function renderRanking() {
   
   for (let i = startIdx; i < all.length; i++) {
     const leg = all[i];
-    const rank = i + 1;
+    const rank = leg.officialRank || (i + 1);
+    const trend = getRankTrend(leg, rank, currentRankFilter);
     const loc = photoSrc(leg), fb = fallbackSrc(leg);
     
     listHtml += `
       <div class="rank-item" onclick="openLegById('${leg.type}', ${leg.seatNum})">
-        <div class="rank-pos">#${rank}</div>
+        <div class="rank-pos-col">
+          <div class="rank-pos">#${rank}</div>
+          <div class="rank-trend ${trend.type}" title="${trend.title}">${trend.text}</div>
+        </div>
         <div class="rank-photo-wrap">
           <img class="rank-photo" src="${loc || fb}" alt="${leg.name}" onerror="this.src='${fb}'"/>
           <div class="rank-party-ico" style="background:${leg.color}">${P[leg.party].ab}</div>
@@ -2928,6 +3058,7 @@ async function saveAdminChanges() {
     senado_news: senadoNews,
     diputados_news: diputadosNews,
     events_override: eventsOverride,
+    previous_ranks: previousRanks,
     config: config
   };
   
@@ -2969,6 +3100,7 @@ async function init() {
     senadoNews = data.senado_news || [];
     diputadosNews = data.diputados_news || [];
     eventsOverride = data.events_override || {};
+    previousRanks = data.previous_ranks || {};
     if (data.config) {
       config = data.config;
     }
