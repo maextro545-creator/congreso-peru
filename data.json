@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Senadores del Partido del Buen Gobierno impulsan acciones para garantizar abastecimiento de agua e innovación rural",
+      "source": "Portal del Congreso",
+      "date": "12 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-impulsan-acciones-para-garantizar-abastecimiento-de-agua-e-innovacion-rural/"
+    },
+    {
       "title": "Analizan impacto de las redes sociales en los menores de edad",
       "source": "Portal del Congreso",
       "date": "12 Oct 2026",
@@ -1613,32 +1619,32 @@
       "source": "Portal del Congreso",
       "date": "12 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-debatira-y-votara-dictamen-sobre-la-cuenta-general-de-la-republica-del-ejercicio-fiscal-2025/"
-    },
-    {
-      "title": "Presidente del Congreso verificó organización de misa del papa León XIV y vuelos cívicos a Pucallpa",
-      "source": "Portal del Congreso",
-      "date": "12 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-verifico-organizacion-de-misa-del-papa-leon-xiv-y-vuelos-civicos-a-pucallpa/"
-    },
-    {
-      "title": "Presidente del Congreso y jefe de la DINI fortalecen coordinación por la seguridad del país",
-      "source": "Portal del Congreso",
-      "date": "12 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-jefe-de-la-dini-fortalecen-coordinacion-por-la-seguridad-del-pais/"
-    },
-    {
-      "title": "Comisión de Constitución del Senado prosigue análisis de delegación de facultades legislativas al Poder Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "10 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-prosigue-analisis-de-delegacion-de-facultades-legislativas-al-poder-ejecutivo/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputada Romina Uribe impulsa el liderazgo femenino en evento “Niñas parlamentarias por un día”",
+      "source": "Portal del Congreso",
+      "date": "12 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-romina-uribe-impulsa-el-liderazgo-femenino-en-evento-ninas-parlamentarias-por-un-dia/"
+    },
+    {
+      "title": "Diputados de Ahora Nación atienden demandas educativas en Puno y Lima",
+      "source": "Portal del Congreso",
+      "date": "12 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-atienden-demandas-educativas-en-puno-y-lima/"
+    },
     {
       "title": "Diputados de Fuerza Popular inician su semana de representación en Piura, Pasco, Amazonas, San Martín y Áncash",
       "source": "Portal del Congreso",
       "date": "12 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-inician-su-semana-de-representacion-en-piura-pasco-amazonas-san-martin-y-ancash/"
+    },
+    {
+      "title": "Analizan impacto de las redes sociales en los menores de edad",
+      "source": "Portal del Congreso",
+      "date": "12 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-impacto-de-las-redes-sociales-en-los-menores-de-edad/"
     },
     {
       "title": "Diputados de Juntos por el Perú fiscalizan infraestructura educativa y atención de incendios forestales",
@@ -1657,18 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "12 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-la-bancada-del-partido-del-buen-gobierno-ponen-enfasis-en-salud-publica-y-prevencion-de-desastres/"
-    },
-    {
-      "title": "Presidente del Congreso verificó organización de misa del papa León XIV y vuelos cívicos a Pucallpa",
-      "source": "Portal del Congreso",
-      "date": "12 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-verifico-organizacion-de-misa-del-papa-leon-xiv-y-vuelos-civicos-a-pucallpa/"
-    },
-    {
-      "title": "Presidente del Congreso y jefe de la DINI fortalecen coordinación por la seguridad del país",
-      "source": "Portal del Congreso",
-      "date": "12 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-jefe-de-la-dini-fortalecen-coordinacion-por-la-seguridad-del-pais/"
     }
   ],
   "events_override": {
@@ -3126,6 +3120,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/448",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputados de Ahora Nación atienden demandas educativas en Puno y Lima",
+        "d": "12/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-atienden-demandas-educativas-en-puno-y-lima/",
+        "pts": 2
       }
     ],
     "Edgar Adrián Alvaron De la Cruz": [
@@ -5896,6 +5898,54 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 642 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/642",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 641 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/641",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 640 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/640",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 639 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/639",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 638 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/638",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 637 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/637",
+        "pts": 3
       }
     ],
     "Azucena Isla Rojas": [
@@ -6583,6 +6633,22 @@
         "d": "05/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/566",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 636 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y ESPECIAL SALUDO AL INSTITUTO NACIONAL MATERNO PERINATAL – INMP, CON MOTIVO DE SU 200.º ANIVERSA...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/636",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 635 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL HOSPITAL REGIONAL ELEAZAR GUZMÁN BARRÓN, UBICADO EN EL DISTRITO DE NUEV...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/635",
         "pts": 3
       }
     ],
@@ -12212,6 +12278,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/632",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 633 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO PARA QUE, POR INTERMEDIO DE LA PRESIDENCIA DEL CONSEJO DE MINISTROS Y DEL MINISTERIO DE TRAB...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/633",
+        "pts": 3
       }
     ],
     "Juana Guisella Ticona Cohaila": [
@@ -12614,6 +12688,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-romina-uribe-organiza-mesa-de-trabajo-sobre-sistemas-de-becas/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputada Romina Uribe impulsa el liderazgo femenino en evento “Niñas parlamentarias por un día”",
+        "d": "12/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-romina-uribe-impulsa-el-liderazgo-femenino-en-evento-ninas-parlamentarias-por-un-dia/",
+        "pts": 2
       }
     ],
     "Jacques Salomón Rodrich Ackerman": [
@@ -12821,6 +12903,14 @@
         "d": "12/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/630",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 634 (Mociones de Saludo): EXPRESAR EL SALUDO Y RECONOCIMIENTO DEL DIPUTADO JOSÉ RICARDO YATACO TORREALVA A TODOS LOS PUEBLOS ORIGINARIOS DEL PERÚ,...",
+        "d": "12/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/634",
         "pts": 3
       }
     ],
