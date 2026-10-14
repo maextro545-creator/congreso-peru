@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Fuerza Popular supervisan trabajos de prevención y ejecución de obras de desarrollo",
+      "source": "Portal del Congreso",
+      "date": "14 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-supervisan-trabajos-de-prevencion-y-ejecucion-de-obras-de-desarrollo/"
+    },
+    {
+      "title": "Renovación Popular continúa labores de fiscalización y atención de demandas ciudadanas",
+      "source": "Portal del Congreso",
+      "date": "14 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/renovacion-popular-continua-labores-de-fiscalizacion-y-atencion-de-demandas-ciudadanas/"
+    },
+    {
       "title": "Comisión de Constitución del Senado debatirá y votará mañana pedido de delegación de facultades",
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
@@ -1613,32 +1625,20 @@
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-y-senadores-exigen-la-masificacion-del-gas-para-el-sur-del-pais-y-piden-no-firmar-adenda-con-calidda/"
-    },
-    {
-      "title": "Senadores de Buen Gobierno impulsan acciones en favor del empleo, el medio ambiente y los recursos hídricos",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-buen-gobierno-impulsan-acciones-en-favor-del-empleo-el-medio-ambiente-y-los-recursos-hidricos/"
-    },
-    {
-      "title": "Senadores de Juntos por el Perú atienden demandas de pobladores en el interior del país",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-atienden-demandas-de-pobladores-en-el-interior-del-pais/"
-    },
-    {
-      "title": "Comisión de Constitución recoge aportes sobre propuesta de delegación de facultades al Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-recoge-aportes-sobre-propuesta-de-delegacion-de-facultades-al-ejecutivo/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Comisión de Constitución del Senado debatirá y votará mañana pedido de delegación de facultades",
+      "title": "Diputada y líderes estudiantiles plantean medidas contra el embarazo adolescente y la violencia escolar",
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-debatira-y-votara-manana-pedido-de-delegacion-de-facultades/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-y-lideres-estudiantiles-plantean-medidas-contra-el-embarazo-adolescente-y-la-violencia-escolar/"
+    },
+    {
+      "title": "Renovación Popular continúa labores de fiscalización y atención de demandas ciudadanas",
+      "source": "Portal del Congreso",
+      "date": "14 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/renovacion-popular-continua-labores-de-fiscalizacion-y-atencion-de-demandas-ciudadanas/"
     },
     {
       "title": "Diputados de Ahora Nación abordan derechos laborales y recogen demandas tras incendios forestales en Cusco",
@@ -1669,12 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-fiscalizan-obras-y-coordinan-soluciones-a-problemas-de-servicios-basicos/"
-    },
-    {
-      "title": "Comisión de Constitución recoge aportes sobre propuesta de delegación de facultades al Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-recoge-aportes-sobre-propuesta-de-delegacion-de-facultades-al-ejecutivo/"
     }
   ],
   "events_override": {
@@ -7712,6 +7706,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 649 (Mociones de Saludo): EXPRESAR EL SALUDO Y RECONOCIMIENTO A LAS ORGANIZACIONES DE BASE, QUE CONFORMAN LAS OLLAS COMUNES, ASÍ COMO A LOS COMEDO...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/649",
+        "pts": 3
       }
     ],
     "Edwin Espinoza Huillca": [
@@ -7748,6 +7750,14 @@
         "tipo": "Proyecto de Ley",
         "url": "https://wb2server.congreso.gob.pe/spley-portal/#/diputados/expediente/2026/12",
         "pts": 5
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputada y líderes estudiantiles plantean medidas contra el embarazo adolescente y la violencia escolar",
+        "d": "14/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-y-lideres-estudiantiles-plantean-medidas-contra-el-embarazo-adolescente-y-la-violencia-escolar/",
+        "pts": 2
       }
     ],
     "Fernando Alberto García Huby": [
@@ -8990,6 +9000,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/152",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 156 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL CENTRO POBLADO PARACHIQUE-LA BOCANA, PROVINCIA DE SECHU...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/156",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 155 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL COLEGIO SALESIANO DON BOSCO DE PIURA, CON MOTIVO DE CONM...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/155",
+        "pts": 3
       }
     ],
     "Roger Miguel Astucuri Laura": [
@@ -9931,6 +9957,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/604",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 609 (Mociones de Saludo): RENDIR SOLEMNE HOMENAJE AL GRAN ALMIRANTE DEL PERÚ, MIGUEL GRAU SEMINARIO Y A LOS HÉROES DEL COMBATE NAVAL DE ANGAMOS, C...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/609",
         "pts": 3
       }
     ],
@@ -12892,6 +12926,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-romina-uribe-impulsa-el-liderazgo-femenino-en-evento-ninas-parlamentarias-por-un-dia/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputada y líderes estudiantiles plantean medidas contra el embarazo adolescente y la violencia escolar",
+        "d": "14/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-y-lideres-estudiantiles-plantean-medidas-contra-el-embarazo-adolescente-y-la-violencia-escolar/",
+        "pts": 2
       }
     ],
     "Jacques Salomón Rodrich Ackerman": [
@@ -13138,6 +13180,22 @@
       {
         "t": "📌",
         "a": "Moción N° 612 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE PICHANAQUI, PROVINCIA DE CHANCHAMAYO, DEPARTAMENTOJUNÍN, CON MO...",
+        "d": "09/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/612",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 650 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE MARCO, PROVINCIA DE JAUJA, DEPARTAMENTO JUNÍN, CON MOTIVO DE CO...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/650",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 612 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE PICHANAQUI, PROVINCIA DE CHANCHAMAYO, DEPARTAMENTO JUNÍN, CON M...",
         "d": "09/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/612",
