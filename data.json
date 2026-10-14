@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Torres Morales: Desde el Congreso estamos comprometidos con la salud de todos los peruanos",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-desde-el-congreso-estamos-comprometidos-con-la-salud-de-todos-los-peruanos/"
+    },
+    {
       "title": "Diputados y senadores exigen la masificación del gas para el sur del país y piden no firmar adenda con Cálidda",
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
@@ -1619,21 +1625,21 @@
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-recoge-aportes-sobre-propuesta-de-delegacion-de-facultades-al-ejecutivo/"
-    },
-    {
-      "title": "Presidente del Congreso y titular de ASBANC abordan agenda legislativa y promoción de inversiones",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-de-asbanc-abordan-agenda-legislativa-y-promocion-de-inversiones/"
-    },
-    {
-      "title": "Presidente del Congreso compartió con más de 50 escolares de Carapongo en visita guiada al Palacio Legislativo",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-compartio-con-mas-de-50-escolares-de-carapongo-en-visita-guiada-al-palacio-legislativo/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputados de Ahora Nación abordan derechos laborales y recogen demandas tras incendios forestales en Cusco",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-abordan-derechos-laborales-y-recogen-demandas-tras-incendios-forestales-en-cusco/"
+    },
+    {
+      "title": "Torres Morales: Desde el Congreso estamos comprometidos con la salud de todos los peruanos",
+      "source": "Portal del Congreso",
+      "date": "13 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-desde-el-congreso-estamos-comprometidos-con-la-salud-de-todos-los-peruanos/"
+    },
     {
       "title": "Diputados y senadores exigen la masificación del gas para el sur del país y piden no firmar adenda con Cálidda",
       "source": "Portal del Congreso",
@@ -1669,18 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-fiscalizan-atencion-en-centros-de-salud-y-el-aeropuerto-jorge-chavez/"
-    },
-    {
-      "title": "Presidente del Congreso y titular de ASBANC abordan agenda legislativa y promoción de inversiones",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-y-titular-de-asbanc-abordan-agenda-legislativa-y-promocion-de-inversiones/"
-    },
-    {
-      "title": "Presidente del Congreso compartió con más de 50 escolares de Carapongo en visita guiada al Palacio Legislativo",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-compartio-con-mas-de-50-escolares-de-carapongo-en-visita-guiada-al-palacio-legislativo/"
     }
   ],
   "events_override": {
@@ -2509,6 +2503,14 @@
         "d": "13/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-compartio-con-mas-de-50-escolares-de-carapongo-en-visita-guiada-al-palacio-legislativo/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Torres Morales: Desde el Congreso estamos comprometidos con la salud de todos los peruanos",
+        "d": "13/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-desde-el-congreso-estamos-comprometidos-con-la-salud-de-todos-los-peruanos/",
         "pts": 2
       }
     ],
@@ -4378,6 +4380,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputados de Ahora Nación abordan derechos laborales y recogen demandas tras incendios forestales en Cusco",
+        "d": "13/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-abordan-derechos-laborales-y-recogen-demandas-tras-incendios-forestales-en-cusco/",
+        "pts": 2
       }
     ],
     "Harvey Julio Colchado Huamani": [
@@ -11038,6 +11048,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/141",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Torres Morales: Desde el Congreso estamos comprometidos con la salud de todos los peruanos",
+        "d": "13/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-desde-el-congreso-estamos-comprometidos-con-la-salud-de-todos-los-peruanos/",
+        "pts": 2
       }
     ],
     "Kim Tami Muñoz Yurivilca": [
