@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Constitución del Senado debatirá y votará mañana pedido de delegación de facultades",
+      "source": "Portal del Congreso",
+      "date": "14 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-debatira-y-votara-manana-pedido-de-delegacion-de-facultades/"
+    },
+    {
       "title": "Torres Morales: Desde el Congreso estamos comprometidos con la salud de todos los peruanos",
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
@@ -1629,16 +1635,16 @@
   ],
   "diputados_news": [
     {
+      "title": "Comisión de Constitución del Senado debatirá y votará mañana pedido de delegación de facultades",
+      "source": "Portal del Congreso",
+      "date": "14 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-debatira-y-votara-manana-pedido-de-delegacion-de-facultades/"
+    },
+    {
       "title": "Diputados de Ahora Nación abordan derechos laborales y recogen demandas tras incendios forestales en Cusco",
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-abordan-derechos-laborales-y-recogen-demandas-tras-incendios-forestales-en-cusco/"
-    },
-    {
-      "title": "Torres Morales: Desde el Congreso estamos comprometidos con la salud de todos los peruanos",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-desde-el-congreso-estamos-comprometidos-con-la-salud-de-todos-los-peruanos/"
     },
     {
       "title": "Diputados y senadores exigen la masificación del gas para el sur del país y piden no firmar adenda con Cálidda",
@@ -1669,12 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "13 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-recoge-aportes-sobre-propuesta-de-delegacion-de-facultades-al-ejecutivo/"
-    },
-    {
-      "title": "Diputados de Obras fiscalizan atención en centros de salud y el aeropuerto Jorge Chávez",
-      "source": "Portal del Congreso",
-      "date": "13 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-fiscalizan-atencion-en-centros-de-salud-y-el-aeropuerto-jorge-chavez/"
     }
   ],
   "events_override": {
@@ -4746,6 +4746,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/145",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
+        "pts": 3
       }
     ],
     "Saul Andrés Armacanqui Morales": [
@@ -4771,6 +4779,14 @@
         "d": "07/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/74",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
       }
     ],
@@ -4839,6 +4855,14 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
       }
     ],
@@ -4947,6 +4971,14 @@
         "d": "15/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/95",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
       }
     ],
@@ -5283,6 +5315,14 @@
         "d": "29/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/479",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 648 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO DE LA CÁMARA DE DIPUTADOS A LA PROVINCIA DE CANCHIS, DEPARTAMENTO DEL CUSCO, CO...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/648",
         "pts": 3
       }
     ],
@@ -10042,6 +10082,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-asuntos-de-gestion-del-estado-y-contraloria-del-senado-recibio-al-ministro-de-salud/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
+        "pts": 3
       }
     ],
     "Fernando Miguel Rospigliosi Capurro": [
@@ -10648,6 +10696,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-culmina-entrevistas-a-candidatos-al-directorio-del-bcrp/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
+        "pts": 3
       }
     ],
     "Henry Antonio Albañil Carmona": [
@@ -11029,6 +11085,14 @@
         "d": "24/08/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/31",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
       }
     ],
@@ -11559,6 +11623,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/149",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
       }
     ],
@@ -12243,6 +12315,14 @@
         "d": "30/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/133",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
       }
     ],
@@ -13294,6 +13374,16 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/instalan-liga-parlamentaria-de-amistad-peru-ecuador-y-eligen-a-hector-ventura-como-presidente/",
         "pts": 2
+      }
+    ],
+    "Edyson Humberto Morales Ramírez": [
+      {
+        "t": "📌",
+        "a": "Moción N° 154 (DE INTERÉS NACIONAL): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS, AL MINISTERIO DE SALUD Y AL MINISTERIO DE ECONOMÍA Y FINANZAS PARA Q...",
+        "d": "14/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
+        "pts": 3
       }
     ]
   },
