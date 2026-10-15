@@ -1619,15 +1619,15 @@
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-refuerzan-su-labor-de-representacion-en-todo-el-pais/"
-    },
-    {
-      "title": "Bancada Ahora Nación promueve espacios de diálogo en favor del desarrollo y las demandas ciudadanas",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-ahora-nacion-promueve-espacios-de-dialogo-en-favor-del-desarrollo-y-las-demandas-ciudadanas/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Desarrollo Agrario evaluó acciones preventivas ante el fenómeno El Niño en Piura",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-evaluo-acciones-preventivas-ante-el-fenomeno-el-nino-en-piura/"
+    },
     {
       "title": "Diputados de Renovación Popular fiscalizan servicio de transporte y atención de salud pública",
       "source": "Portal del Congreso",
@@ -1663,12 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-por-encima-de-cualquier-bandera-politica-debemos-atender-a-la-poblacion/"
-    },
-    {
-      "title": "Bancada Ahora Nación promueve espacios de diálogo en favor del desarrollo y las demandas ciudadanas",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-ahora-nacion-promueve-espacios-de-dialogo-en-favor-del-desarrollo-y-las-demandas-ciudadanas/"
     }
   ],
   "events_override": {
@@ -3280,6 +3274,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Desarrollo Agrario evaluó acciones preventivas ante el fenómeno El Niño en Piura",
+        "d": "15/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-evaluo-acciones-preventivas-ante-el-fenomeno-el-nino-en-piura/",
+        "pts": 2
       }
     ],
     "Juan César Cabrera Nieto": [
