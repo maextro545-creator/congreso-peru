@@ -1625,26 +1625,32 @@
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-ahora-nacion-promueve-espacios-de-dialogo-en-favor-del-desarrollo-y-las-demandas-ciudadanas/"
-    },
-    {
-      "title": "Senadores del Partido del Buen Gobierno impulsan acciones contra el crimen organizado y promueven la formalización de emprendimientos",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-impulsan-acciones-contra-el-crimen-organizado-y-promueven-la-formalizacion-de-emprendimientos/"
-    },
-    {
-      "title": "Congreso del Perú invita a participar del Concurso Nacional de Dibujo y Pintura Infantil “La Magia de la Navidad Peruana”",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-del-peru-invita-a-participar-del-concurso-nacional-de-dibujo-y-pintura-infantil-la-magia-de-la-navidad-peruana/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Presidente del Senado dialogó con alcaldes electos de Cusco para fortalecer la seguridad ciudadana",
+      "title": "Diputados de Renovación Popular fiscalizan servicio de transporte y atención de salud pública",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-fiscalizan-servicio-de-transporte-y-atencion-de-salud-publica/"
+    },
+    {
+      "title": "Presidente de la Cámara de Diputados, Reto Otero, exige en Satipo soluciones urgentes ante crisis sanitaria",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-reto-otero-exige-en-satipo-soluciones-urgentes-ante-crisis-sanitaria/"
+    },
+    {
+      "title": "En Satipo: Reto Otero continúa fiscalización de obras preventivas ante el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-satipo-reto-otero-continua-fiscalizacion-de-obras-preventivas-ante-el-fenomeno-el-nino/"
+    },
+    {
+      "title": "Presidente del Congreso visitó el Centro Médico VIDAWASI y destacó su aporte a la descentralización de la salud infantil",
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-dialogo-con-alcaldes-electos-de-cusco-para-fortalecer-la-seguridad-ciudadana/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-el-centro-medico-vidawasi-y-destaco-su-aporte-a-la-descentralizacion-de-la-salud-infantil/"
     },
     {
       "title": "Diputados de Obras impulsan el desarrollo regional, la movilidad sostenible y la protección del patrimonio cultural",
@@ -1663,18 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-ahora-nacion-promueve-espacios-de-dialogo-en-favor-del-desarrollo-y-las-demandas-ciudadanas/"
-    },
-    {
-      "title": "Congreso del Perú invita a participar del Concurso Nacional de Dibujo y Pintura Infantil “La Magia de la Navidad Peruana”",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-del-peru-invita-a-participar-del-concurso-nacional-de-dibujo-y-pintura-infantil-la-magia-de-la-navidad-peruana/"
-    },
-    {
-      "title": "Presidente Reto Otero constata deficiencias en la atención de pacientes en hospital del Minsa en Junín",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-otero-constata-deficiencias-en-la-atencion-de-pacientes-en-hospital-del-minsa-en-junin/"
     }
   ],
   "events_override": {
@@ -2013,6 +2007,22 @@
         "d": "14/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-otero-constata-deficiencias-en-la-atencion-de-pacientes-en-hospital-del-minsa-en-junin/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados, Reto Otero, exige en Satipo soluciones urgentes ante crisis sanitaria",
+        "d": "15/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-reto-otero-exige-en-satipo-soluciones-urgentes-ante-crisis-sanitaria/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: En Satipo: Reto Otero continúa fiscalización de obras preventivas ante el fenómeno El Niño",
+        "d": "15/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/en-satipo-reto-otero-continua-fiscalizacion-de-obras-preventivas-ante-el-fenomeno-el-nino/",
         "pts": 2
       }
     ],
@@ -11253,6 +11263,14 @@
         "d": "14/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 157 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN A LAS AUTORIDADES Y A LA POBLACIÓN DE LA CIUDAD DE TINGO MARÍA, PROVINCIA D...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/157",
         "pts": 3
       }
     ],
