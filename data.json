@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Juntos por el Perú centraron sus actividades de representación en instituciones educativas y centros de salud",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-centraron-sus-actividades-de-representacion-en-instituciones-educativas-y-centros-de-salud/"
+    },
+    {
+      "title": "Bancada de Partido del Buen Gobierno prioriza atención a poblaciones vulnerables y salud pública",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-de-partido-del-buen-gobierno-prioriza-atencion-a-poblaciones-vulnerables-y-salud-publica/"
+    },
+    {
+      "title": "Plantean delegar facultades al Ejecutivo por 90 días para enfrentar la criminalidad y el fenómeno de El Niño",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/plantean-delegar-facultades-al-ejecutivo-por-90-dias-para-enfrentar-la-criminalidad-y-el-fenomeno-de-el-nino/"
+    },
+    {
+      "title": "Comisión de Desarrollo Agrario evaluó acciones preventivas ante el fenómeno El Niño en Piura",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-evaluo-acciones-preventivas-ante-el-fenomeno-el-nino-en-piura/"
+    },
+    {
       "title": "Presidente del Senado dialogó con alcaldes electos de Cusco para fortalecer la seguridad ciudadana",
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
@@ -1607,21 +1631,27 @@
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-el-centro-medico-vidawasi-y-destaco-su-aporte-a-la-descentralizacion-de-la-salud-infantil/"
-    },
-    {
-      "title": "Torres Morales: “La infraestructura es motor de desarrollo, empleo e inclusión para el país”",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-la-infraestructura-es-motor-de-desarrollo-empleo-e-inclusion-para-el-pais/"
-    },
-    {
-      "title": "Senadores de Renovación Popular refuerzan su labor de representación en todo el país",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-refuerzan-su-labor-de-representacion-en-todo-el-pais/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Bancada de Partido del Buen Gobierno prioriza atención a poblaciones vulnerables y salud pública",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-de-partido-del-buen-gobierno-prioriza-atencion-a-poblaciones-vulnerables-y-salud-publica/"
+    },
+    {
+      "title": "Plantean delegar facultades al Ejecutivo por 90 días para enfrentar la criminalidad y el fenómeno de El Niño",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/plantean-delegar-facultades-al-ejecutivo-por-90-dias-para-enfrentar-la-criminalidad-y-el-fenomeno-de-el-nino/"
+    },
+    {
+      "title": "Diputados de Juntos por el Perú continúan con visitas de inspección en el interior del país",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-continuan-con-visitas-de-inspeccion-en-el-interior-del-pais-2/"
+    },
     {
       "title": "Comisión de Desarrollo Agrario evaluó acciones preventivas ante el fenómeno El Niño en Piura",
       "source": "Portal del Congreso",
@@ -1651,18 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "14 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-el-centro-medico-vidawasi-y-destaco-su-aporte-a-la-descentralizacion-de-la-salud-infantil/"
-    },
-    {
-      "title": "Diputados de Obras impulsan el desarrollo regional, la movilidad sostenible y la protección del patrimonio cultural",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-impulsan-el-desarrollo-regional-la-movilidad-sostenible-y-la-proteccion-del-patrimonio-cultural/"
-    },
-    {
-      "title": "Reto Otero: «Por encima de cualquier bandera política, debemos atender a la población»",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-otero-por-encima-de-cualquier-bandera-politica-debemos-atender-a-la-poblacion/"
     }
   ],
   "events_override": {
@@ -6842,6 +6860,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/635",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 653 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL COLEGIO DE ENFERMEROS DEL PERÚ, CONMOTIVO DE SU 48.º AN...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/653",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -10585,6 +10611,14 @@
         "d": "13/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/644",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 654 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PÚBLICOS (SUNARP), CON OCA...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/654",
         "pts": 3
       }
     ],
