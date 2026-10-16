@@ -1631,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "15 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-nilson-flores-plantea-mayor-presencia-policial-ante-inseguridad-en-majes-arequipa/"
-    },
-    {
-      "title": "Senadores de Juntos por el Perú centraron sus actividades de representación en instituciones educativas y centros de salud",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-centraron-sus-actividades-de-representacion-en-instituciones-educativas-y-centros-de-salud/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Oscar Reto advierte deficiencias en entrega de ayuda humanitaria a los damnificados por sismo en Junín",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-advierte-deficiencias-en-entrega-de-ayuda-humanitaria-a-los-damnificados-por-sismo-en-junin/"
+    },
     {
       "title": "Presidente del Congreso inauguró encuentro macrorregional de mypes en el Cusco",
       "source": "Portal del Congreso",
@@ -2017,6 +2017,14 @@
         "d": "15/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/en-satipo-reto-otero-continua-fiscalizacion-de-obras-preventivas-ante-el-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Oscar Reto advierte deficiencias en entrega de ayuda humanitaria a los damnificados por sismo en Junín",
+        "d": "16/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-advierte-deficiencias-en-entrega-de-ayuda-humanitaria-a-los-damnificados-por-sismo-en-junin/",
         "pts": 2
       }
     ],
@@ -8621,6 +8629,14 @@
         "d": "06/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/594",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 670 (Mociones de Saludo): Expresar el más cálido saludo, reconocimiento y felicitación a los vecinos y a la comunidad en general del distrito de L...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/670",
         "pts": 3
       }
     ],
