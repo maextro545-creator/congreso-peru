@@ -1597,72 +1597,84 @@
   },
   "senado_news": [
     {
+      "title": "Miguel Torres desde Pucallpa: «El objetivo del Congreso es ser un puente para acercar ayuda a los más necesitados»",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-desde-pucallpa-el-objetivo-del-congreso-es-ser-un-puente-para-acercar-ayuda-a-los-mas-necesitados/"
+    },
+    {
+      "title": "Senadores de Juntos por el Perú inspeccionan centros educativos y de salud en diversos puntos del país",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-inspeccionan-centros-educativos-y-de-salud-en-diversos-puntos-del-pais/"
+    },
+    {
+      "title": "Senadores de la bancada de Fuerza Popular canalizarán demandas de la población de Cajamarca y Piura",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-de-fuerza-popular-canalizaran-demandas-de-la-poblacion-de-cajamarca-y-piura/"
+    },
+    {
+      "title": "Presidente Reto recibe informe sobre atención a damnificados y obras pendientes en Junín",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-recibe-informe-sobre-atencion-a-damnificados-y-obras-pendientes-en-junin/"
+    },
+    {
+      "title": "Presidente del Congreso supervisó reinicio de vuelos humanitarios en la ruta Pucallpa-Purús",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-superviso-reinicio-de-vuelos-humanitarios-en-la-ruta-pucallpa-purus/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto recibió la sustentación de cuatro pliegos regionales",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-la-sustentacion-de-cuatro-pliegos-regionales/"
+    },
+    {
       "title": "Senadores de Renovación Popular continúan con sus actividades por la semana de representación",
       "source": "Portal del Congreso",
       "date": "15 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-continuan-con-sus-actividades-por-la-semana-de-representacion/"
-    },
-    {
-      "title": "Miguel Torres inspecciona construcción de nuevo Centro de Salud Siete Cuartones en el Cusco",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-inspecciona-construccion-de-nuevo-centro-de-salud-siete-cuartones-en-el-cusco/"
-    },
-    {
-      "title": "Presidente del Congreso inauguró encuentro macrorregional de mypes en el Cusco",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inauguro-encuentro-macrorregional-de-mypes-en-el-cusco/"
-    },
-    {
-      "title": "Senador de Ahora Nación impulsa cumplimiento de la ley para el pase de trabajadores cas al régimen laboral 728",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-de-ahora-nacion-impulsa-cumplimiento-de-la-ley-para-el-pase-de-trabajadores-cas-al-regimen-laboral-728/"
-    },
-    {
-      "title": "Senadores de Obras intensifican diálogo con la ciudadanía y autoridades regionales",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-obras-intensifican-dialogo-con-la-ciudadania-y-autoridades-regionales/"
-    },
-    {
-      "title": "Senador Nilson Flores plantea mayor presencia policial ante inseguridad en Majes, Arequipa",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-nilson-flores-plantea-mayor-presencia-policial-ante-inseguridad-en-majes-arequipa/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Miguel Torres desde Pucallpa: «El objetivo del Congreso es ser un puente para acercar ayuda a los más necesitados»",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-desde-pucallpa-el-objetivo-del-congreso-es-ser-un-puente-para-acercar-ayuda-a-los-mas-necesitados/"
+    },
+    {
+      "title": "Diputados de Obras abordan problemática del agua y la cosecha del café, e impulsan ciclovías",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-abordan-problematica-del-agua-y-la-cosecha-del-cafe-e-impulsan-ciclovias/"
+    },
+    {
+      "title": "Presidente Reto recibe informe sobre atención a damnificados y obras pendientes en Junín",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-recibe-informe-sobre-atencion-a-damnificados-y-obras-pendientes-en-junin/"
+    },
+    {
+      "title": "Diputados del Partido de Buen Gobierno se reúnen con autoridades y fiscalizan en regiones",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-de-buen-gobierno-se-reunen-con-autoridades-y-fiscalizan-en-regiones/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto recibió la sustentación de cuatro pliegos regionales",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-la-sustentacion-de-cuatro-pliegos-regionales/"
+    },
     {
       "title": "Oscar Reto advierte deficiencias en entrega de ayuda humanitaria a los damnificados por sismo en Junín",
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-advierte-deficiencias-en-entrega-de-ayuda-humanitaria-a-los-damnificados-por-sismo-en-junin/"
-    },
-    {
-      "title": "Presidente del Congreso inauguró encuentro macrorregional de mypes en el Cusco",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inauguro-encuentro-macrorregional-de-mypes-en-el-cusco/"
-    },
-    {
-      "title": "Diputados de Obras impulsan acciones en favor de la energía, la seguridad y la educación técnica",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-impulsan-acciones-en-favor-de-la-energia-la-seguridad-y-la-educacion-tecnica/"
-    },
-    {
-      "title": "Diputados de Ahora Nación recogen demandas por incendios y problemática presupuestaria en regiones",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-recogen-demandas-por-incendios-y-problematica-presupuestaria-en-regiones/"
-    },
-    {
-      "title": "Diputados de Fuerza Popular continúan atendiendo demandas en Lima, Tumbes, Callao e Ica",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-continuan-atendiendo-demandas-en-lima-tumbes-callao-e-ica/"
     }
   ],
   "events_override": {
@@ -2571,6 +2583,22 @@
         "d": "15/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-inspecciona-construccion-de-nuevo-centro-de-salud-siete-cuartones-en-el-cusco/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres desde Pucallpa: «El objetivo del Congreso es ser un puente para acercar ayuda a los más necesitados»",
+        "d": "16/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-desde-pucallpa-el-objetivo-del-congreso-es-ser-un-puente-para-acercar-ayuda-a-los-mas-necesitados/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso supervisó reinicio de vuelos humanitarios en la ruta Pucallpa-Purús",
+        "d": "16/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-superviso-reinicio-de-vuelos-humanitarios-en-la-ruta-pucallpa-purus/",
         "pts": 2
       }
     ],
@@ -3519,6 +3547,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 672 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y UN JUSTO RECONOCIMIENTO INSTITUCIONAL A LIONS CLUBS INTERNATIONAL –DISTRITO MÚLTIPLE H D...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/672",
         "pts": 3
       }
     ],
@@ -9794,6 +9830,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/293",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 673 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR A LA PRESIDENCIA DEL CONSEJO DE MINISTROS Y AL MINISTERIO DE EDUCACIÓN PARA QUE, EN EL MARCO DE SUS RESPECTIVAS...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/673",
+        "pts": 3
       }
     ],
     "Eduardo Enrique Castillo Rivas": [
@@ -11294,6 +11338,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/109",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 158 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO Y RECONOCIMIENTO INSTITUCIONAL A LA ASOCIACIÓN FE Y ALEGRÍA DEL PERÚ AL CONMEMORARSE EL SEXAGÉSIMO (6...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/158",
+        "pts": 3
       }
     ],
     "Patricia Milagros Iturregui Byrne": [
@@ -11673,6 +11725,14 @@
         "d": "07/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/71",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 148 (DE INTERÉS NACIONAL): DECLARAR DE INTERÉS NACIONAL Y RECONOCIMIENTO SOCIAL LA DESTACADA LABOR ESPIRITUAL, COMUNITARIA, EDUCATIVA Y DE ASISTENC...",
+        "d": "07/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/148",
         "pts": 3
       }
     ],
@@ -12726,6 +12786,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/644",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 671 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PUESTA EN VALOR, PROMOCIÓN Y DESARROLLO TURÍSTICO SOSTENIBLE DE LA LAGUNA DE LAMEDEROS, ...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/671",
+        "pts": 3
       }
     ],
     "Juana Guisella Ticona Cohaila": [
@@ -12875,6 +12943,14 @@
         "d": "05/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/561",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 674 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO SALUDO Y FELICITACIÓN A TODA LA COMUNIDAD DE PERUANOS RESIDENTES EN EL EXTERIOR, AL CONMEMORARSE ...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/674",
         "pts": 3
       }
     ],
@@ -13605,6 +13681,14 @@
         "d": "12/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/632",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 671 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PUESTA EN VALOR, PROMOCIÓN Y DESARROLLO TURÍSTICO SOSTENIBLE DE LA LAGUNA DE LAMEDEROS, ...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/671",
         "pts": 3
       }
     ],
