@@ -1597,90 +1597,72 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Renovación Popular continúan con sus actividades por la semana de representación",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-continuan-con-sus-actividades-por-la-semana-de-representacion/"
+    },
+    {
+      "title": "Miguel Torres inspecciona construcción de nuevo Centro de Salud Siete Cuartones en el Cusco",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-inspecciona-construccion-de-nuevo-centro-de-salud-siete-cuartones-en-el-cusco/"
+    },
+    {
+      "title": "Presidente del Congreso inauguró encuentro macrorregional de mypes en el Cusco",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inauguro-encuentro-macrorregional-de-mypes-en-el-cusco/"
+    },
+    {
+      "title": "Senador de Ahora Nación impulsa cumplimiento de la ley para el pase de trabajadores cas al régimen laboral 728",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-de-ahora-nacion-impulsa-cumplimiento-de-la-ley-para-el-pase-de-trabajadores-cas-al-regimen-laboral-728/"
+    },
+    {
+      "title": "Senadores de Obras intensifican diálogo con la ciudadanía y autoridades regionales",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-obras-intensifican-dialogo-con-la-ciudadania-y-autoridades-regionales/"
+    },
+    {
+      "title": "Senador Nilson Flores plantea mayor presencia policial ante inseguridad en Majes, Arequipa",
+      "source": "Portal del Congreso",
+      "date": "15 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-nilson-flores-plantea-mayor-presencia-policial-ante-inseguridad-en-majes-arequipa/"
+    },
+    {
       "title": "Senadores de Juntos por el Perú centraron sus actividades de representación en instituciones educativas y centros de salud",
       "source": "Portal del Congreso",
       "date": "15 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-centraron-sus-actividades-de-representacion-en-instituciones-educativas-y-centros-de-salud/"
-    },
-    {
-      "title": "Bancada de Partido del Buen Gobierno prioriza atención a poblaciones vulnerables y salud pública",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-de-partido-del-buen-gobierno-prioriza-atencion-a-poblaciones-vulnerables-y-salud-publica/"
-    },
-    {
-      "title": "Plantean delegar facultades al Ejecutivo por 90 días para enfrentar la criminalidad y el fenómeno de El Niño",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/plantean-delegar-facultades-al-ejecutivo-por-90-dias-para-enfrentar-la-criminalidad-y-el-fenomeno-de-el-nino/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario evaluó acciones preventivas ante el fenómeno El Niño en Piura",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-evaluo-acciones-preventivas-ante-el-fenomeno-el-nino-en-piura/"
-    },
-    {
-      "title": "Presidente del Senado dialogó con alcaldes electos de Cusco para fortalecer la seguridad ciudadana",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-dialogo-con-alcaldes-electos-de-cusco-para-fortalecer-la-seguridad-ciudadana/"
-    },
-    {
-      "title": "Presidente del Congreso visitó el Centro Médico VIDAWASI y destacó su aporte a la descentralización de la salud infantil",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-el-centro-medico-vidawasi-y-destaco-su-aporte-a-la-descentralizacion-de-la-salud-infantil/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Bancada de Partido del Buen Gobierno prioriza atención a poblaciones vulnerables y salud pública",
+      "title": "Presidente del Congreso inauguró encuentro macrorregional de mypes en el Cusco",
       "source": "Portal del Congreso",
       "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-de-partido-del-buen-gobierno-prioriza-atencion-a-poblaciones-vulnerables-y-salud-publica/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inauguro-encuentro-macrorregional-de-mypes-en-el-cusco/"
     },
     {
-      "title": "Plantean delegar facultades al Ejecutivo por 90 días para enfrentar la criminalidad y el fenómeno de El Niño",
+      "title": "Diputados de Obras impulsan acciones en favor de la energía, la seguridad y la educación técnica",
       "source": "Portal del Congreso",
       "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/plantean-delegar-facultades-al-ejecutivo-por-90-dias-para-enfrentar-la-criminalidad-y-el-fenomeno-de-el-nino/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-impulsan-acciones-en-favor-de-la-energia-la-seguridad-y-la-educacion-tecnica/"
     },
     {
-      "title": "Diputados de Juntos por el Perú continúan con visitas de inspección en el interior del país",
+      "title": "Diputados de Ahora Nación recogen demandas por incendios y problemática presupuestaria en regiones",
       "source": "Portal del Congreso",
       "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-continuan-con-visitas-de-inspeccion-en-el-interior-del-pais-2/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-recogen-demandas-por-incendios-y-problematica-presupuestaria-en-regiones/"
     },
     {
-      "title": "Comisión de Desarrollo Agrario evaluó acciones preventivas ante el fenómeno El Niño en Piura",
+      "title": "Diputados de Fuerza Popular continúan atendiendo demandas en Lima, Tumbes, Callao e Ica",
       "source": "Portal del Congreso",
       "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-evaluo-acciones-preventivas-ante-el-fenomeno-el-nino-en-piura/"
-    },
-    {
-      "title": "Diputados de Renovación Popular fiscalizan servicio de transporte y atención de salud pública",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-fiscalizan-servicio-de-transporte-y-atencion-de-salud-publica/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados, Reto Otero, exige en Satipo soluciones urgentes ante crisis sanitaria",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-reto-otero-exige-en-satipo-soluciones-urgentes-ante-crisis-sanitaria/"
-    },
-    {
-      "title": "En Satipo: Reto Otero continúa fiscalización de obras preventivas ante el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-satipo-reto-otero-continua-fiscalizacion-de-obras-preventivas-ante-el-fenomeno-el-nino/"
-    },
-    {
-      "title": "Presidente del Congreso visitó el Centro Médico VIDAWASI y destacó su aporte a la descentralización de la salud infantil",
-      "source": "Portal del Congreso",
-      "date": "14 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visito-el-centro-medico-vidawasi-y-destaco-su-aporte-a-la-descentralizacion-de-la-salud-infantil/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-continuan-atendiendo-demandas-en-lima-tumbes-callao-e-ica/"
     }
   ],
   "events_override": {
@@ -2573,6 +2555,14 @@
         "d": "14/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-la-infraestructura-es-motor-de-desarrollo-empleo-e-inclusion-para-el-pais/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres inspecciona construcción de nuevo Centro de Salud Siete Cuartones en el Cusco",
+        "d": "15/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-inspecciona-construccion-de-nuevo-centro-de-salud-siete-cuartones-en-el-cusco/",
         "pts": 2
       }
     ],
@@ -6147,6 +6137,22 @@
         "d": "14/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/651",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 657 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚB...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/657",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 655 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A TODOS L...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/655",
         "pts": 3
       }
     ],
@@ -10620,6 +10626,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/654",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 656 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PÚBLICOS (SUNARP), CON OCA...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/656",
+        "pts": 3
       }
     ],
     "Geanmarco Antonio Quezada Castro": [
@@ -13087,6 +13101,46 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/444",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 669 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE SAN JOAQUÍN, PROVINCIA DE YAUYOS, DEPARTAMENTO DE LIMA, CON MOT...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/669",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 666 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE SAN PEDRO DE PILAS, PROVINCIA DE YAUYOS, DEPARTAMENTO DE LIMA, ...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/666",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 662 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE SANTA CRUZ DE COCACHACRA, PROVINCIA DE HUAROCHIRÍ, DEPARTAMENTO...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/662",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 661 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE MARIATANA, PROVINCIA DE HUAROCHIRÍ, DEPARTAMENTO DE LIMA, CON M...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/661",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 659 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN A LA SOCIEDAD DE BENEFICENCIA DE HUACHO, CON MOTIVO DE CONMEMORARSE, EL 28 DE ...",
+        "d": "15/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/659",
         "pts": 3
       }
     ],
