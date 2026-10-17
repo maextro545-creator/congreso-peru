@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Renovación Popular culminan semana de representación atendiendo demandas ciudadanas",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion-atendiendo-demandas-ciudadanas/"
+    },
+    {
+      "title": "Presidente del Congreso lidera reunión para destrabe de proyectos eléctricos en Pucallpa y zonas rurales",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-reunion-para-destrabe-de-proyectos-electricos-en-pucallpa-y-zonas-rurales/"
+    },
+    {
+      "title": "Senadores del Buen Gobierno impulsan desarrollo agrícola y atención de necesidades regionales",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-buen-gobierno-impulsan-desarrollo-agricola-y-atencion-de-necesidades-regionales/"
+    },
+    {
+      "title": "Senadores de Obras realizan visitas de fiscalización y dialogan con autoridades y gremios",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-obras-realizan-visitas-de-fiscalizacion-y-dialogan-con-autoridades-y-gremios/"
+    },
+    {
       "title": "Miguel Torres desde Pucallpa: «El objetivo del Congreso es ser un puente para acercar ayuda a los más necesitados»",
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
@@ -1607,74 +1631,44 @@
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-inspeccionan-centros-educativos-y-de-salud-en-diversos-puntos-del-pais/"
-    },
-    {
-      "title": "Senadores de la bancada de Fuerza Popular canalizarán demandas de la población de Cajamarca y Piura",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-de-fuerza-popular-canalizaran-demandas-de-la-poblacion-de-cajamarca-y-piura/"
-    },
-    {
-      "title": "Presidente Reto recibe informe sobre atención a damnificados y obras pendientes en Junín",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-recibe-informe-sobre-atencion-a-damnificados-y-obras-pendientes-en-junin/"
-    },
-    {
-      "title": "Presidente del Congreso supervisó reinicio de vuelos humanitarios en la ruta Pucallpa-Purús",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-superviso-reinicio-de-vuelos-humanitarios-en-la-ruta-pucallpa-purus/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto recibió la sustentación de cuatro pliegos regionales",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-la-sustentacion-de-cuatro-pliegos-regionales/"
-    },
-    {
-      "title": "Senadores de Renovación Popular continúan con sus actividades por la semana de representación",
-      "source": "Portal del Congreso",
-      "date": "15 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-continuan-con-sus-actividades-por-la-semana-de-representacion/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Miguel Torres desde Pucallpa: «El objetivo del Congreso es ser un puente para acercar ayuda a los más necesitados»",
+      "title": "Senadores de Renovación Popular culminan semana de representación atendiendo demandas ciudadanas",
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-desde-pucallpa-el-objetivo-del-congreso-es-ser-un-puente-para-acercar-ayuda-a-los-mas-necesitados/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion-atendiendo-demandas-ciudadanas/"
+    },
+    {
+      "title": "Diputado José Baella propone enseñar historia del terrorismo en universidades y escuelas de formación policial y militar",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jose-baella-propone-ensenar-historia-del-terrorismo-en-universidades-y-escuelas-de-formacion-policial-y-militar/"
+    },
+    {
+      "title": "Presidente del Congreso lidera reunión para destrabe de proyectos eléctricos en Pucallpa y zonas rurales",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-lidera-reunion-para-destrabe-de-proyectos-electricos-en-pucallpa-y-zonas-rurales/"
+    },
+    {
+      "title": "Diputados de Ahora Nación realizan actividades vinculadas a la conectividad y prevención sanitaria ante el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-realizan-actividades-vinculadas-a-la-conectividad-y-prevencion-sanitaria-ante-el-fenomeno-el-nino/"
+    },
+    {
+      "title": "Diputados de Fuerza Popular impulsan gestiones en salud, agua potable y transportes",
+      "source": "Portal del Congreso",
+      "date": "16 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-impulsan-gestiones-en-salud-agua-potable-y-transportes/"
     },
     {
       "title": "Diputados de Obras abordan problemática del agua y la cosecha del café, e impulsan ciclovías",
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-abordan-problematica-del-agua-y-la-cosecha-del-cafe-e-impulsan-ciclovias/"
-    },
-    {
-      "title": "Presidente Reto recibe informe sobre atención a damnificados y obras pendientes en Junín",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-recibe-informe-sobre-atencion-a-damnificados-y-obras-pendientes-en-junin/"
-    },
-    {
-      "title": "Diputados del Partido de Buen Gobierno se reúnen con autoridades y fiscalizan en regiones",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-del-partido-de-buen-gobierno-se-reunen-con-autoridades-y-fiscalizan-en-regiones/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto recibió la sustentación de cuatro pliegos regionales",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-recibio-la-sustentacion-de-cuatro-pliegos-regionales/"
-    },
-    {
-      "title": "Oscar Reto advierte deficiencias en entrega de ayuda humanitaria a los damnificados por sismo en Junín",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-advierte-deficiencias-en-entrega-de-ayuda-humanitaria-a-los-damnificados-por-sismo-en-junin/"
     }
   ],
   "events_override": {
@@ -2600,6 +2594,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-superviso-reinicio-de-vuelos-humanitarios-en-la-ruta-pucallpa-purus/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 159 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS SINCERO SALUDO Y RECONOCIMIENTO INSTITUCIONAL AL PARLAMENTO ANDINO, AL CONMEMORARSE SU CUADRAGÉSIMO SÉPT...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/159",
+        "pts": 3
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -4858,6 +4860,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 161 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO A LA SELECCIÓN NACIONAL DE FUTSAL DE LA FEDERACIÓN DEPORTIVA NACIONAL DE PERSONAS CON SÍNDROME DE DOW...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/161",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 160 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO A TODAS LAS PERSONAS CON DISCAPACIDAD, AL CONMEMORARSE ESTE 16 DE OCTUBRE EL \"DÍA NACIONAL DE LA PERS...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/160",
+        "pts": 3
       }
     ],
     "Saul Andrés Armacanqui Morales": [
@@ -5849,6 +5867,14 @@
         "d": "09/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/611",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 677 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y ACOMPAÑAMIENTO DE LOS FIDEICOMISOS Y PROYECTOS DE INVERSIÓN ...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/677",
         "pts": 3
       }
     ],
@@ -7428,6 +7454,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/652",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 675 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO, A TRAVÉS DE LA PRESIDENCIA DEL CONSEJO DE MINISTROS, A DECLARAR EL ESTADO DE EMERGENCIA EN ...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/675",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -8716,6 +8750,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado José Baella propone enseñar historia del terrorismo en universidades y escuelas de formación policial y militar",
+        "d": "16/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jose-baella-propone-ensenar-historia-del-terrorismo-en-universidades-y-escuelas-de-formacion-policial-y-militar/",
+        "pts": 2
       }
     ],
     "Nary Benvinda Pinasco Montenegro": [
@@ -10693,6 +10735,14 @@
         "d": "15/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/656",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 676 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL CENTRO POBLADO DE NUEVO BAMBAMARCA Y A TODA SU POBLACIÓN, CON OCASIÓN D...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/676",
         "pts": 3
       }
     ],
@@ -12794,6 +12844,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/671",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 677 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y ACOMPAÑAMIENTO DE LOS FIDEICOMISOS Y PROYECTOS DE INVERSIÓN ...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/677",
+        "pts": 3
       }
     ],
     "Juana Guisella Ticona Cohaila": [
@@ -13328,6 +13386,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/590",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 677 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO Y ACOMPAÑAMIENTO DE LOS FIDEICOMISOS Y PROYECTOS DE INVERSIÓN ...",
+        "d": "16/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/677",
+        "pts": 3
       }
     ],
     "Carlos Alberto Zegarra Sánchez": [
@@ -13620,6 +13686,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores de Renovación Popular culminan semana de representación atendiendo demandas ciudadanas",
+        "d": "16/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion-atendiendo-demandas-ciudadanas/",
+        "pts": 2
       }
     ],
     "Jorge Arturo Zeballos Aponte": [
