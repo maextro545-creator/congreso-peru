@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Miguel Torres reafirma compromiso del Congreso de legislar en fortalecimiento de prevención del cáncer de mama",
+      "source": "Portal del Congreso",
+      "date": "19 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-reafirma-compromiso-del-congreso-de-legislar-en-fortalecimiento-de-prevencion-del-cancer-de-mama/"
+    },
+    {
+      "title": "Presidente del Congreso, Miguel Torres, inauguró el evento “Digitalización, Redes Sociales e IA”",
+      "source": "Portal del Congreso",
+      "date": "19 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-torres-inauguro-el-evento-digitalizacion-redes-sociales-e-ia/"
+    },
+    {
       "title": "Congreso de la República rindió homenaje al Señor de los Milagros",
       "source": "Portal del Congreso",
       "date": "18 Oct 2026",
@@ -1619,32 +1631,26 @@
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-buen-gobierno-impulsan-desarrollo-agricola-y-atencion-de-necesidades-regionales/"
-    },
-    {
-      "title": "Senadores de Obras realizan visitas de fiscalización y dialogan con autoridades y gremios",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-obras-realizan-visitas-de-fiscalizacion-y-dialogan-con-autoridades-y-gremios/"
-    },
-    {
-      "title": "Miguel Torres desde Pucallpa: «El objetivo del Congreso es ser un puente para acercar ayuda a los más necesitados»",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-desde-pucallpa-el-objetivo-del-congreso-es-ser-un-puente-para-acercar-ayuda-a-los-mas-necesitados/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Medio Ambiente citará a ministros y funcionarios por evaluación del potencial gasífero en Bahuaja Sonene",
+      "source": "Portal del Congreso",
+      "date": "19 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-citara-a-ministros-y-funcionarios-por-evaluacion-del-potencial-gasifero-en-bahuaja-sonene/"
+    },
+    {
+      "title": "Diputado Gabriel González presidirá Comisión especial de fiscalización de recursos ante el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "19 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-gabriel-gonzalez-presidira-comision-especial-de-fiscalizacion-de-recursos-ante-el-fenomeno-el-nino/"
+    },
     {
       "title": "Congreso de la República rindió homenaje al Señor de los Milagros",
       "source": "Portal del Congreso",
       "date": "18 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-rindio-homenaje-al-senor-de-los-milagros/"
-    },
-    {
-      "title": "Senadores de Renovación Popular culminan semana de representación atendiendo demandas ciudadanas",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion-atendiendo-demandas-ciudadanas/"
     },
     {
       "title": "Diputado José Baella propone enseñar historia del terrorismo en universidades y escuelas de formación policial y militar",
@@ -1663,18 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-realizan-actividades-vinculadas-a-la-conectividad-y-prevencion-sanitaria-ante-el-fenomeno-el-nino/"
-    },
-    {
-      "title": "Diputados de Fuerza Popular impulsan gestiones en salud, agua potable y transportes",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-impulsan-gestiones-en-salud-agua-potable-y-transportes/"
-    },
-    {
-      "title": "Diputados de Obras abordan problemática del agua y la cosecha del café, e impulsan ciclovías",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-obras-abordan-problematica-del-agua-y-la-cosecha-del-cafe-e-impulsan-ciclovias/"
     }
   ],
   "events_override": {
@@ -2623,6 +2617,22 @@
         "d": "18/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-rindio-homenaje-al-senor-de-los-milagros/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres reafirma compromiso del Congreso de legislar en fortalecimiento de prevención del cáncer de mama",
+        "d": "19/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-reafirma-compromiso-del-congreso-de-legislar-en-fortalecimiento-de-prevencion-del-cancer-de-mama/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso, Miguel Torres, inauguró el evento “Digitalización, Redes Sociales e IA”",
+        "d": "19/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-torres-inauguro-el-evento-digitalizacion-redes-sociales-e-ia/",
         "pts": 2
       }
     ],
@@ -12100,6 +12110,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/364",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Medio Ambiente citará a ministros y funcionarios por evaluación del potencial gasífero en Bahuaja Sonene",
+        "d": "19/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-citara-a-ministros-y-funcionarios-por-evaluacion-del-potencial-gasifero-en-bahuaja-sonene/",
+        "pts": 2
       }
     ],
     "Luis Eliseo Quispe Candia": [
