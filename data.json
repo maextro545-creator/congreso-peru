@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Congreso de la República rindió homenaje al Señor de los Milagros",
+      "source": "Portal del Congreso",
+      "date": "18 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-rindio-homenaje-al-senor-de-los-milagros/"
+    },
+    {
       "title": "Senadores de Renovación Popular culminan semana de representación atendiendo demandas ciudadanas",
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
@@ -1625,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "16 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-desde-pucallpa-el-objetivo-del-congreso-es-ser-un-puente-para-acercar-ayuda-a-los-mas-necesitados/"
-    },
-    {
-      "title": "Senadores de Juntos por el Perú inspeccionan centros educativos y de salud en diversos puntos del país",
-      "source": "Portal del Congreso",
-      "date": "16 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-inspeccionan-centros-educativos-y-de-salud-en-diversos-puntos-del-pais/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Congreso de la República rindió homenaje al Señor de los Milagros",
+      "source": "Portal del Congreso",
+      "date": "18 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-rindio-homenaje-al-senor-de-los-milagros/"
+    },
     {
       "title": "Senadores de Renovación Popular culminan semana de representación atendiendo demandas ciudadanas",
       "source": "Portal del Congreso",
@@ -2031,6 +2037,14 @@
         "d": "16/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-advierte-deficiencias-en-entrega-de-ayuda-humanitaria-a-los-damnificados-por-sismo-en-junin/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso de la República rindió homenaje al Señor de los Milagros",
+        "d": "18/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-rindio-homenaje-al-senor-de-los-milagros/",
         "pts": 2
       }
     ],
@@ -2602,6 +2616,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/159",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso de la República rindió homenaje al Señor de los Milagros",
+        "d": "18/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-rindio-homenaje-al-senor-de-los-milagros/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
