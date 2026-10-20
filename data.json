@@ -1597,7 +1597,7 @@
   },
   "senado_news": [
     {
-      "title": "Congreso se ilumina de rosa y reafirma su compromiso en la lucha contra el Cáncer de Mama",
+      "title": "Congreso se ilumina de rosa y reafirma su compromiso en la lucha contra el cáncer de mama",
       "source": "Portal del Congreso",
       "date": "19 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-se-ilumina-de-rosa-y-reafirma-su-compromiso-en-la-lucha-contra-el-cancer-de-mama/"
@@ -1631,17 +1631,17 @@
       "source": "Portal del Congreso",
       "date": "19 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-en-asuntos-de-salud-solicita-medidas-urgentes-para-proteger-a-mujeres-ninas-y-poblaciones-vulnerables-frente-a-la-violencia/"
-    },
-    {
-      "title": "Se instaló grupo de trabajo sobre economías ilícitas",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instalo-grupo-de-trabajo-sobre-economias-ilicitas/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Congreso se ilumina de rosa y reafirma su compromiso en la lucha contra el Cáncer de Mama",
+      "title": "Diputados piden reforzar la protección de menores frente a la violencia sexual",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-piden-reforzar-la-proteccion-de-menores-frente-a-la-violencia-sexual/"
+    },
+    {
+      "title": "Congreso se ilumina de rosa y reafirma su compromiso en la lucha contra el cáncer de mama",
       "source": "Portal del Congreso",
       "date": "19 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-se-ilumina-de-rosa-y-reafirma-su-compromiso-en-la-lucha-contra-el-cancer-de-mama/"
@@ -1669,12 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "19 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-informe-final-que-recomienda-suspender-por-120-dias-a-diputado-julian-perez-mallqui/"
-    },
-    {
-      "title": "Se instaló grupo de trabajo sobre economías ilícitas",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instalo-grupo-de-trabajo-sobre-economias-ilicitas/"
     }
   ],
   "events_override": {
@@ -2808,6 +2802,14 @@
       {
         "t": "📌",
         "a": "Moción N° 684 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDOY FELICITACIÓN A LA MUNICIPALIDAD DISTRITAL DE DEÁN VALDIVIA, EN LA PERSONA DE SU ALCALDE,...",
+        "d": "19/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/684",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 684 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA MUNICIPALIDAD DISTRITAL DE DEÁN VALDIVIA, EN LA PERSONA DE SU ALCALDE...",
         "d": "19/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/684",
@@ -11894,6 +11896,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/148",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 163 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO Y FELICITACIÓN A LA REPÚBLICA DE TURQUÍA, CON OCASIÓN DEL 103º ANIVERSARIO DE LA PROCLAMACIÓN DE LA R...",
+        "d": "20/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/163",
+        "pts": 3
       }
     ],
     "Jaime Moises Chipana Chipana": [
@@ -12728,6 +12738,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/644",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputados piden reforzar la protección de menores frente a la violencia sexual",
+        "d": "20/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-piden-reforzar-la-proteccion-de-menores-frente-a-la-violencia-sexual/",
+        "pts": 2
       }
     ],
     "Miguel Felix Huamán Cornejo": [
