@@ -1597,37 +1597,61 @@
   },
   "senado_news": [
     {
+      "title": "Presupuesto 2027: Justicia, Vivienda y Lima Metropolitana exponen sus demandas ante el Congreso",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presupuesto-2027-justicia-vivienda-y-lima-metropolitana-exponen-sus-demandas-ante-el-congreso/"
+    },
+    {
+      "title": "Miguel Ángel Torres: Agradezco a los voluntariados y reafirmo mi compromiso con las personas más vulnerables del país",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-angel-torres-agradezco-a-los-voluntariados-y-reafirmo-mi-compromiso-con-las-personas-mas-vulnerables-del-pais/"
+    },
+    {
+      "title": "Comisión de Energía y Minas citará al ministro del sector para la siguiente sesión ordinaria",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-citara-al-ministro-del-sector-para-la-siguiente-sesion-ordinaria/"
+    },
+    {
       "title": "Congreso se ilumina de rosa y reafirma su compromiso en la lucha contra el cáncer de mama",
       "source": "Portal del Congreso",
       "date": "19 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-se-ilumina-de-rosa-y-reafirma-su-compromiso-en-la-lucha-contra-el-cancer-de-mama/"
-    },
-    {
-      "title": "Simposio en el Congreso promueve la prevención y detección temprana del cáncer de mama",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/simposio-en-el-congreso-promueve-la-prevencion-y-deteccion-temprana-del-cancer-de-mama/"
-    },
-    {
-      "title": "Comisión de Economía del Senado anuncia mesas de trabajo y audiencias públicas tras presentación de titular Indecopi",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-del-senado-anuncia-mesas-de-trabajo-y-audiencias-publicas-tras-presentacion-de-titular-indecopi/"
-    },
-    {
-      "title": "Presidente del Senado visita COER Cusco ante emergencia por incendios forestales",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-visita-coer-cusco-ante-emergencia-por-incendios-forestales/"
-    },
-    {
-      "title": "Presidente del Congreso conoció el modelo educativo de PROEDUCA-UNIR",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-conocio-el-modelo-educativo-de-proeduca-unir/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Producción acuerda reprogramar presentación del ministro y aborda desafíos del sector pesquero",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-acuerda-reprogramar-presentacion-del-ministro-y-aborda-desafios-del-sector-pesquero/"
+    },
+    {
+      "title": "Presupuesto 2027: Justicia, Vivienda y Lima Metropolitana exponen sus demandas ante el Congreso",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presupuesto-2027-justicia-vivienda-y-lima-metropolitana-exponen-sus-demandas-ante-el-congreso/"
+    },
+    {
+      "title": "Presidente Oscar Reto exige reducir brechas de agua y saneamiento en Junín para frenar la anemia infantil",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-oscar-reto-exige-reducir-brechas-de-agua-y-saneamiento-en-junin-para-frenar-la-anemia-infantil/"
+    },
+    {
+      "title": "Comisión de Energía y Minas citará al ministro del sector para la siguiente sesión ordinaria",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-citara-al-ministro-del-sector-para-la-siguiente-sesion-ordinaria/"
+    },
+    {
+      "title": "Comisión de Salud aprueba medidas para atender a la población expuesta a metales pesados",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-aprueba-medidas-para-atender-a-la-poblacion-expuesta-a-metales-pesados/"
+    },
     {
       "title": "Dictámenes y mociones ingresan a la agenda del Pleno de la Cámara de Diputados",
       "source": "Portal del Congreso",
@@ -1651,24 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "19 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/canciller-expuso-ante-diputados-sobre-escudo-de-las-americas-situacion-de-peruanos-en-rusia-y-visita-del-papa-al-peru/"
-    },
-    {
-      "title": "Resaltan el rol del periodismo en la democracia",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/resaltan-el-rol-del-periodismo-en-la-democracia/"
-    },
-    {
-      "title": "Simposio en el Congreso promueve la prevención y detección temprana del cáncer de mama",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/simposio-en-el-congreso-promueve-la-prevencion-y-deteccion-temprana-del-cancer-de-mama/"
-    },
-    {
-      "title": "Aprueban informe final que recomienda suspender por 120 días a diputado Julián Pérez Mallqui",
-      "source": "Portal del Congreso",
-      "date": "19 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-informe-final-que-recomienda-suspender-por-120-dias-a-diputado-julian-perez-mallqui/"
     }
   ],
   "events_override": {
@@ -2039,6 +2045,14 @@
         "d": "18/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-de-la-republica-rindio-homenaje-al-senor-de-los-milagros/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente Oscar Reto exige reducir brechas de agua y saneamiento en Junín para frenar la anemia infantil",
+        "d": "20/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-oscar-reto-exige-reducir-brechas-de-agua-y-saneamiento-en-junin-para-frenar-la-anemia-infantil/",
         "pts": 2
       }
     ],
@@ -2633,6 +2647,14 @@
         "d": "19/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-torres-inauguro-el-evento-digitalizacion-redes-sociales-e-ia/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Ángel Torres: Agradezco a los voluntariados y reafirmo mi compromiso con las personas más vulnerables del país",
+        "d": "20/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-angel-torres-agradezco-a-los-voluntariados-y-reafirmo-mi-compromiso-con-las-personas-mas-vulnerables-del-pais/",
         "pts": 2
       }
     ],
@@ -3695,6 +3717,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 689 (Mociones de Saludo): EXPRESAR SU AFECTUOSO SALUDO Y FELICITACIÓN A LAS AUTORIDADES Y CIUDADANÍA DE LA PROVINCIA DE SAN ROMÁN, REGIÓN PUNO, CO...",
+        "d": "20/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/689",
         "pts": 3
       }
     ],
@@ -10326,6 +10356,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/679",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 688 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN A LA CIUDAD DE SANDIA, CAPITAL DE LA PROVINCIA DE SANDIA, DEPARTAMENTO DE PUNO...",
+        "d": "20/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/688",
+        "pts": 3
       }
     ],
     "Gabriel Robertino Gonzales Delgado": [
@@ -11846,6 +11884,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/681",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Producción acuerda reprogramar presentación del ministro y aborda desafíos del sector pesquero",
+        "d": "20/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-acuerda-reprogramar-presentacion-del-ministro-y-aborda-desafios-del-sector-pesquero/",
+        "pts": 2
       }
     ],
     "María Lourdes Pia Luisa Alcorta Suero": [
