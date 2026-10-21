@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Senado otorga facultades al Ejecutivo para que legisle contra la inseguridad ciudadana y El Niño",
+      "source": "Portal del Congreso",
+      "date": "21 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-otorga-facultades-al-ejecutivo-para-que-legisle-contra-la-inseguridad-ciudadana-y-el-nino/"
+    },
+    {
+      "title": "Comisión de Acusaciones Constitucionales admite a trámite denuncia contra exministro Juan José Santiváñez",
+      "source": "Portal del Congreso",
+      "date": "21 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-acusaciones-constitucionales-admite-a-tramite-denuncia-contra-exministro-juan-jose-santivanez/"
+    },
+    {
+      "title": "Aprueban dictamen que propone derogar parcialmente la Ley 32735 para precisar el delito de función",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-propone-derogar-parcialmente-la-ley-32735-para-precisar-el-delito-de-funcion/"
+    },
+    {
       "title": "Evalúan acciones del Ejecutivo y planes de prevención frente al fenómeno de El Niño",
       "source": "Portal del Congreso",
       "date": "20 Oct 2026",
@@ -1613,27 +1631,21 @@
       "source": "Portal del Congreso",
       "date": "20 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-recibe-a-comites-de-autodefensa-y-expresa-respaldo-a-su-reglamentacion/"
-    },
-    {
-      "title": "Presidente del Senado reafirma compromiso con sector gastronómico y respaldo a IGV reducido para mypes",
-      "source": "Portal del Congreso",
-      "date": "20 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-reafirma-compromiso-con-sector-gastronomico-y-respaldo-a-igv-reducido-para-mypes/"
-    },
-    {
-      "title": "Pleno del Senado debatirá por dos horas y media el dictamen sobre delegación de facultades",
-      "source": "Portal del Congreso",
-      "date": "20 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-debatira-por-dos-horas-y-media-el-dictamen-sobre-delegacion-de-facultades/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario cuestiona ausencia de ministro de Economía y jefa del Senasa",
-      "source": "Portal del Congreso",
-      "date": "20 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-cuestiona-ausencia-de-ministro-de-economia-y-jefa-del-senasa/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Aprueban iniciativa para fortalecer la eficiencia en la gestión del riesgo de desastres",
+      "source": "Portal del Congreso",
+      "date": "21 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-iniciativa-para-fortalecer-la-eficiencia-en-la-gestion-del-riesgo-de-desastres/"
+    },
+    {
+      "title": "Reto: “Estoy muy preocupado por la seguridad alimentaria del Perú»",
+      "source": "Portal del Congreso",
+      "date": "21 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-estoy-muy-preocupado-por-la-seguridad-alimentaria-del-peru/"
+    },
     {
       "title": "Comisión de Acusaciones Constitucionales admite a trámite denuncia contra exministro Juan José Santiváñez",
       "source": "Portal del Congreso",
@@ -1669,12 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "20 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-georgina-duarte-preside-mesa-de-trabajo-para-abordar-la-violencia-escolar/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario cuestiona ausencia de ministro de Economía y jefa del Senasa",
-      "source": "Portal del Congreso",
-      "date": "20 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-cuestiona-ausencia-de-ministro-de-economia-y-jefa-del-senasa/"
     }
   ],
   "events_override": {
@@ -2053,6 +2059,14 @@
         "d": "20/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-oscar-reto-exige-reducir-brechas-de-agua-y-saneamiento-en-junin-para-frenar-la-anemia-infantil/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Reto: “Estoy muy preocupado por la seguridad alimentaria del Perú»",
+        "d": "21/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-estoy-muy-preocupado-por-la-seguridad-alimentaria-del-peru/",
         "pts": 2
       }
     ],
@@ -3428,6 +3442,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/698",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 703 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN A LA POBLACIÓN DE LA PROVINCIA DE SAN ROMÁN, EN EL DEPARTAMENTO DE PUNO, CO...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/703",
+        "pts": 3
       }
     ],
     "Edgar Adrián Alvaron De la Cruz": [
@@ -3747,6 +3769,14 @@
         "d": "16/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/672",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 702 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y UN JUSTO RECONOCIMIENTO INSTITUCIONAL A LIONS CLUBS INTERNATIONAL – DISTRITO H4 DE LEONE...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/702",
         "pts": 3
       }
     ],
@@ -12578,6 +12608,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-evalua-propuesta-para-unificar-el-sistema-digital-de-salud/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban iniciativa para fortalecer la eficiencia en la gestión del riesgo de desastres",
+        "d": "21/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-iniciativa-para-fortalecer-la-eficiencia-en-la-gestion-del-riesgo-de-desastres/",
+        "pts": 2
       }
     ],
     "Angel Bruno Bobadilla Galindo": [
@@ -14114,6 +14152,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/462",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 700 (Mociones de Saludo): EXPRESAR EL MÁS EFUSIVO SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA PROVINCIA DE CUTERVO, POR INTERMEDIO DEL SEÑOR ALCALD...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/700",
+        "pts": 3
       }
     ],
     "Aldo Antonio Bravo Quispe": [
@@ -14255,6 +14301,14 @@
         "d": "24/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/111",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 167 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA CONFEDERACIÓN NACIONAL DE COMERCIANTES CONACO, CON MO...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/167",
         "pts": 3
       }
     ],
