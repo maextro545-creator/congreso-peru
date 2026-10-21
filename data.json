@@ -1631,20 +1631,26 @@
       "source": "Portal del Congreso",
       "date": "20 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-cuestiona-ausencia-de-ministro-de-economia-y-jefa-del-senasa/"
-    },
-    {
-      "title": "Comisión de Defensa Nacional citará a ministro del Interior por hechos ocurridos en Sicuani, Cusco",
-      "source": "Portal del Congreso",
-      "date": "20 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-citara-a-ministro-del-interior-por-hechos-ocurridos-en-sicuani-cusco/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Acusaciones Constitucionales admite a trámite denuncia contra exministro Juan José Santiváñez",
+      "source": "Portal del Congreso",
+      "date": "21 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-acusaciones-constitucionales-admite-a-tramite-denuncia-contra-exministro-juan-jose-santivanez/"
+    },
     {
       "title": "Aprueban dictamen que propone derogar parcialmente la Ley 32735 para precisar el delito de función",
       "source": "Portal del Congreso",
       "date": "20 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-propone-derogar-parcialmente-la-ley-32735-para-precisar-el-delito-de-funcion/"
+    },
+    {
+      "title": "Evalúan acciones del Ejecutivo y planes de prevención frente al fenómeno de El Niño",
+      "source": "Portal del Congreso",
+      "date": "20 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/evaluan-acciones-del-ejecutivo-y-planes-de-prevencion-frente-al-fenomeno-de-el-nino/"
     },
     {
       "title": "Maricultores piden intervención del Congreso tras proyecto de derivación del río Piura que amenaza economía de más de 40 mil familias",
@@ -1669,12 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "20 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-cuestiona-ausencia-de-ministro-de-economia-y-jefa-del-senasa/"
-    },
-    {
-      "title": "Comisión de Defensa Nacional citará a ministro del Interior por hechos ocurridos en Sicuani, Cusco",
-      "source": "Portal del Congreso",
-      "date": "20 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-citara-a-ministro-del-interior-por-hechos-ocurridos-en-sicuani-cusco/"
     }
   ],
   "events_override": {
@@ -3414,6 +3414,30 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-evaluo-acciones-preventivas-ante-el-fenomeno-el-nino-en-piura/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 697 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LAS AUTORIDADES, INSTITUCIONES Y A TODA LA POBLACIÓN DE LA PROVINCIA DE ...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/697",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 696 (Mociones de Saludo): EXPRESAR el más cordial saludo y felicitación a las autoridades, instituciones y a toda la población de la provincia de ...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/696",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 695 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LAS AUTORIDADES, INSTITUCIONES Y A TODA LA POBLACIÓN DE LA PROVINCIA DE ...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/695",
+        "pts": 3
       }
     ],
     "Juan César Cabrera Nieto": [
@@ -6642,6 +6666,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-propone-derogar-parcialmente-la-ley-32735-para-precisar-el-delito-de-funcion/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 694 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA EVALUACIÓN DE LA VIABILIDAD DE LA CREACIÓN DEL AERÓDROMO DE COCHABAMBA, EN EL DISTRITO D...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/694",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -6779,6 +6811,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 694 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA EVALUACIÓN DE LA VIABILIDAD DE LA CREACIÓN DEL AERÓDROMO DE COCHABAMBA, EN EL DISTRITO D...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/694",
         "pts": 3
       }
     ],
@@ -7062,6 +7102,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/653",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Acusaciones Constitucionales admite a trámite denuncia contra exministro Juan José Santiváñez",
+        "d": "21/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-acusaciones-constitucionales-admite-a-tramite-denuncia-contra-exministro-juan-jose-santivanez/",
+        "pts": 2
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -7580,6 +7628,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/675",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 694 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA EVALUACIÓN DE LA VIABILIDAD DE LA CREACIÓN DEL AERÓDROMO DE COCHABAMBA, EN EL DISTRITO D...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/694",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -7971,6 +8027,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/523",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 694 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA EVALUACIÓN DE LA VIABILIDAD DE LA CREACIÓN DEL AERÓDROMO DE COCHABAMBA, EN EL DISTRITO D...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/694",
         "pts": 3
       }
     ],
@@ -12942,6 +13006,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-declara-improcedente-denuncia-presentada-contra-ruth-luque/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 166 (MOCIÓN DE SALUDO): EXPRESAR LAS MÁS SINCERAS FELICITACIONES Y EL SALUDO INSTITUCIONAL DEL SENADO DE LA REPÚBLICA A LA ASOCIACIÓN OKINAWENSE...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/166",
+        "pts": 3
       }
     ],
     "Segundo Leocadio Tapia Bernal": [
@@ -13255,6 +13327,14 @@
         "d": "16/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/674",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 693 (Mociones de Saludo): Expresar un afectuoso saludo a los vecinos del distrito de Ancón, al conmemorarse el 29 de octubre el 152° aniversario d...",
+        "d": "21/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/693",
         "pts": 3
       }
     ],
