@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Aprueban resolución legislativa que autoriza ingreso de unidad naval a territorio peruano",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-resolucion-legislativa-que-autoriza-ingreso-de-unidad-naval-a-territorio-peruano/"
+    },
+    {
+      "title": "Miguel Torres se reúne con coordinadora residente de la ONU y fortalecen cooperación en desarrollo y seguridad",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-se-reune-con-coordinadora-residente-de-la-onu-y-fortalecen-cooperacion-en-desarrollo-y-seguridad/"
+    },
+    {
       "title": "Presidente del Senado recibe a alumnos del colegio Altair y destaca importancia de la bicameralidad",
       "source": "Portal del Congreso",
       "date": "22 Oct 2026",
@@ -1613,38 +1625,20 @@
       "source": "Portal del Congreso",
       "date": "21 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-no-ha-habido-ningun-tipo-de-desnaturalizacion-en-la-delegacion-de-facultades-al-ejecutivo/"
-    },
-    {
-      "title": "Presidente del Congreso, Miguel Torres, firma autógrafa que faculta al Ejecutivo a legislar contra la delincuencia y frente al fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-torres-firma-autografa-que-faculta-al-ejecutivo-a-legislar-contra-la-delincuencia-y-frente-al-fenomeno-el-nino/"
-    },
-    {
-      "title": "Senado aprueba nómina de integrantes de la Comisión Especial Multipartidaria de Protección Integral de la Infancia y la Adolescencia",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-nomina-de-integrantes-de-la-comision-especial-multipartidaria-de-proteccion-integral-de-la-infancia-y-la-adolescencia/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto aprueba crédito suplementario para fenómeno El Niño y fortalecimiento en sectores",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-aprueba-credito-suplementario-para-fenomeno-el-nino-y-fortalecimiento-en-sectores/"
-    },
-    {
-      "title": "Senado eligió a directores del Banco Central de Reserva del Perú para el periodo 2026–2031",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-eligio-a-directores-del-banco-central-de-reserva-del-peru-para-el-periodo-2026-2031/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Miguel Torres visitó el INEN y reafirma compromiso del Congreso con la lucha contra el cáncer infantil",
+      "title": "Aprueban medidas para proteger a niños y adolescentes en orfandad o desprotección familiar",
       "source": "Portal del Congreso",
       "date": "22 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-visito-el-inen-y-reafirma-compromiso-del-congreso-con-la-lucha-contra-el-cancer-infantil/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-medidas-para-proteger-a-ninos-y-adolescentes-en-orfandad-o-desproteccion-familiar/"
+    },
+    {
+      "title": "Cámara de Diputados aprueba dictamen que deroga ley que creaba el Colegio Profesional de Artistas del Perú",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-aprueba-dictamen-que-deroga-ley-que-creaba-el-colegio-profesional-de-artistas-del-peru/"
     },
     {
       "title": "Dan cuenta de moción que propone interpelar a ministro de Educación",
@@ -1663,12 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "21 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-de-la-camara-de-diputados-aprueba-realizar-audiencia-publica-en-quilca-arequipa/"
-    },
-    {
-      "title": "Comisión Bicameral de Presupuesto aprueba crédito suplementario para fenómeno El Niño y fortalecimiento en sectores",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-aprueba-credito-suplementario-para-fenomeno-el-nino-y-fortalecimiento-en-sectores/"
     }
   ],
   "events_override": {
@@ -2697,6 +2685,14 @@
         "d": "22/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-recibe-a-alumnos-del-colegio-altair-y-destaca-importancia-de-la-bicameralidad/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres se reúne con coordinadora residente de la ONU y fortalecen cooperación en desarrollo y seguridad",
+        "d": "22/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-se-reune-con-coordinadora-residente-de-la-onu-y-fortalecen-cooperacion-en-desarrollo-y-seguridad/",
         "pts": 2
       }
     ],
@@ -6097,6 +6093,22 @@
         "d": "14/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/652",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 741 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE PALCA, PROVINCIA DE LAMPA, REGIÓN PUNO, POR CON...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/741",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 739 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE MELGAR, REGIÓN PUNO, CON MOTIVO DE CELEBRAR EL 25 DE OCT...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/739",
         "pts": 3
       }
     ],
@@ -10326,6 +10338,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/400",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 735 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA PROVINCIA SAN ROMAN-JULIACA, CON MOTIVO DE CONMEMORAR...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/735",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 733 (Mociones de Saludo): EXPRESARSU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTOA LA PROVINCIA DE MELGAR - AYAVIRI, CON MOTIVO DE CONMEMORAR...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/733",
+        "pts": 3
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -11560,6 +11588,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/139",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban resolución legislativa que autoriza ingreso de unidad naval a territorio peruano",
+        "d": "22/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-resolucion-legislativa-que-autoriza-ingreso-de-unidad-naval-a-territorio-peruano/",
+        "pts": 2
       }
     ],
     "Hugo Isaac Ccahuana Aymachoque": [
@@ -12232,6 +12268,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 734 (Mociones de Saludo): EXPRESAR UN FERVIENTE SALUDO Y RUEGO DE RECONOCIMIENTO A TODOS LOS VETERANOS DE GUERRA Y DE LA PACIFICACIÓN NACIONAL, AL...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/734",
+        "pts": 3
       }
     ],
     "Jeenny Cristina Samanez Gonzales Vigil": [
@@ -12768,6 +12812,22 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-vivienda-y-transportes-cita-a-ministro-de-transportes-jose-angello-tangherlini/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 738 (Mociones de Saludo): EXPRESAR MI MÁS FERVIENTE SALUDO Y FELICITACIÓN AL PARLAMENTO ANDINO, POR INTERMEDIO DE SU MESA DIRECTIVA, AL CELEBRARSE...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/738",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 736 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO, HOMENAJE Y GRATITUD AL PERSONAL EN SITUACIÓN DE RETIRO DE LA BENEMÉRITA GUARDIA CIVIL DEL PE...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/736",
+        "pts": 3
       }
     ],
     "Diethell Columbus Murata": [
