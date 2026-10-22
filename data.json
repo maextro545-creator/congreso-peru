@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Miguel Torres visitó el INEN y reafirma compromiso del Congreso con la lucha contra el cáncer infantil",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-visito-el-inen-y-reafirma-compromiso-del-congreso-con-la-lucha-contra-el-cancer-infantil/"
+    },
+    {
       "title": "Miguel Torres: “No ha habido ningún tipo de desnaturalización” en la delegación de facultades al Ejecutivo",
       "source": "Portal del Congreso",
       "date": "21 Oct 2026",
@@ -1631,21 +1637,21 @@
       "source": "Portal del Congreso",
       "date": "21 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/ministro-de-economia-anuncia-nuevas-medidas-para-enfrentar-el-nino-y-riesgos-externos/"
-    },
-    {
-      "title": "Autorizan prórroga de plazo de estados de emergencia en Cajamarca, Madre de Dios, Lima y el Callao",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/autorizan-prorroga-de-plazo-de-estados-de-emergencia-en-cajamarca-madre-de-dios-lima-y-el-callao/"
-    },
-    {
-      "title": "Aprueban iniciativa para fortalecer la eficiencia en la gestión del riesgo de desastres",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-iniciativa-para-fortalecer-la-eficiencia-en-la-gestion-del-riesgo-de-desastres/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Miguel Torres visitó el INEN y reafirma compromiso del Congreso con la lucha contra el cáncer infantil",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-visito-el-inen-y-reafirma-compromiso-del-congreso-con-la-lucha-contra-el-cancer-infantil/"
+    },
+    {
+      "title": "Dan cuenta de moción que propone interpelar a ministro de Educación",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/dan-cuenta-de-mocion-que-propone-interpelar-a-ministro-de-educacion/"
+    },
     {
       "title": "Diputada Ana Luisa Yuffra convoca reunión de trabajo para fortalecer la lucha contra la anemia en Loreto",
       "source": "Portal del Congreso",
@@ -1669,12 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "21 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/ministro-de-economia-anuncia-nuevas-medidas-para-enfrentar-el-nino-y-riesgos-externos/"
-    },
-    {
-      "title": "Aprueban iniciativa para fortalecer la eficiencia en la gestión del riesgo de desastres",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-iniciativa-para-fortalecer-la-eficiencia-en-la-gestion-del-riesgo-de-desastres/"
     }
   ],
   "events_override": {
@@ -2688,6 +2688,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-miguel-torres-firma-autografa-que-faculta-al-ejecutivo-a-legislar-contra-la-delincuencia-y-frente-al-fenomeno-el-nino/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres visitó el INEN y reafirma compromiso del Congreso con la lucha contra el cáncer infantil",
+        "d": "22/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-visito-el-inen-y-reafirma-compromiso-del-congreso-con-la-lucha-contra-el-cancer-infantil/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -2899,6 +2907,14 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/706",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 728 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA CÁMARA DE COMERCIO E INDUSTRIA DE AREQUIPA, CON OCASI...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/728",
         "pts": 3
       }
     ],
@@ -4031,6 +4047,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/605",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 717 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA UNIDAD DE SEGURIDAD...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/717",
         "pts": 3
       }
     ],
@@ -5822,6 +5846,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/704",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres visitó el INEN y reafirma compromiso del Congreso con la lucha contra el cáncer infantil",
+        "d": "22/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-visito-el-inen-y-reafirma-compromiso-del-congreso-con-la-lucha-contra-el-cancer-infantil/",
+        "pts": 2
       }
     ],
     "César Hugo Tito Rojas": [
@@ -7868,6 +7900,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/694",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 718 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO A LOS TRABAJADORES Y TRABAJADORAS DE CONSTRUCCIÓN CIVIL DEL PERÚ, A SUS FAMILIAS, A ...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/718",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -7994,6 +8034,14 @@
       {
         "t": "📌",
         "a": "Moción N° 691 (Mociones de Saludo): EXPRESAR EL MÁS EFUSIVO Y CORPORATIVO SALUDO Y FELICITACIÓN A LAS AUTORIDADES LOCALES, LIDERADAS POR EL ALCALDE PROVINCI...",
+        "d": "20/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/691",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 691 (Mociones de Saludo): FE DE ERRATAS: EXPRESAR EL MÁS EFUSIVO SALUDO Y FELICITACIÓN A LA POBLACIÓN DE LA PROVINCIA DE CUTERVO, AL CONMEMORARSE ...",
         "d": "20/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/691",
@@ -8489,6 +8537,14 @@
         "d": "30/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/507",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 716 (Mociones de Saludo): EXPRESAR SU ESPECIAL SALUDO Y FELICITACIÓN AL PROGRAMA CHAN CHAN PARA TODOS QUE PROMUEVE EL MINISTERIO DE CULTURA POR EL...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/716",
         "pts": 3
       }
     ],
@@ -11601,6 +11657,22 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 722 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y RECONOCIMIENTO AL SERVICIO NACIONAL DE CAPACITACIÓN PARA LA INDUSTRIA DE LA CONSTRUCCIÓ...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/722",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 720 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y RECONOCIMIENTO A LA INSTITUCIÓN EDUCATIVA N.° 14643 \"SANTA ROSA DE LIMA\", DEL DISTRITO ...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/720",
         "pts": 3
       }
     ],
