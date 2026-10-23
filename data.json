@@ -1635,6 +1635,12 @@
   ],
   "diputados_news": [
     {
+      "title": "Diputados proponen reforzar medidas de saneamiento por El Niño",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-proponen-reforzar-medidas-de-saneamiento-por-el-nino/"
+    },
+    {
       "title": "Aprueban resolución legislativa que autoriza ingreso de unidad naval a territorio peruano",
       "source": "Portal del Congreso",
       "date": "22 Oct 2026",
@@ -1657,12 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "22 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/dan-cuenta-de-mocion-que-propone-interpelar-a-ministro-de-educacion/"
-    },
-    {
-      "title": "Diputada Ana Luisa Yuffra convoca reunión de trabajo para fortalecer la lucha contra la anemia en Loreto",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-ana-luisa-yuffra-convoca-reunion-de-trabajo-para-fortalecer-la-lucha-contra-la-anemia-en-loreto/"
     }
   ],
   "events_override": {
@@ -12122,6 +12122,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/130",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 176 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA CONFEDERACIÓN NACIONAL DE COMERCIANTES – CONACO CON MOTIVO DE SU ...",
+        "d": "23/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/176",
+        "pts": 3
       }
     ],
     "Carlos David Caballero León": [
@@ -12843,6 +12851,14 @@
         "d": "22/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/169",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 177 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE ROSASPATA, PROVINCIA DE HUANCANÉ, DEPARTAMENTO DE PUNO, EN ...",
+        "d": "23/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/177",
         "pts": 3
       }
     ],
