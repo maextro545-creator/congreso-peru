@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Ética del Senado promueve la integridad y la transparencia en la función parlamentaria",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-promueve-la-integridad-y-la-transparencia-en-la-funcion-parlamentaria/"
+    },
+    {
+      "title": "Comisión de Justicia y Derechos Humanos del Senado fortalece la fiscalización frente a la inseguridad en región La Libertad",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-del-senado-fortalece-la-fiscalizacion-frente-a-la-inseguridad-en-region-la-libertad/"
+    },
+    {
       "title": "Aprueban resolución legislativa que autoriza ingreso de unidad naval a territorio peruano",
       "source": "Portal del Congreso",
       "date": "22 Oct 2026",
@@ -1619,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "22 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-visito-el-inen-y-reafirma-compromiso-del-congreso-con-la-lucha-contra-el-cancer-infantil/"
-    },
-    {
-      "title": "Miguel Torres: “No ha habido ningún tipo de desnaturalización” en la delegación de facultades al Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-no-ha-habido-ningun-tipo-de-desnaturalizacion-en-la-delegacion-de-facultades-al-ejecutivo/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Aprueban resolución legislativa que autoriza ingreso de unidad naval a territorio peruano",
+      "source": "Portal del Congreso",
+      "date": "22 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-resolucion-legislativa-que-autoriza-ingreso-de-unidad-naval-a-territorio-peruano/"
+    },
     {
       "title": "Aprueban medidas para proteger a niños y adolescentes en orfandad o desprotección familiar",
       "source": "Portal del Congreso",
@@ -1651,12 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "21 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-ana-luisa-yuffra-convoca-reunion-de-trabajo-para-fortalecer-la-lucha-contra-la-anemia-en-loreto/"
-    },
-    {
-      "title": "Comisión de Ciencia de la Cámara de Diputados aprueba realizar audiencia pública en Quilca, Arequipa",
-      "source": "Portal del Congreso",
-      "date": "21 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-de-la-camara-de-diputados-aprueba-realizar-audiencia-publica-en-quilca-arequipa/"
     }
   ],
   "events_override": {
@@ -6110,6 +6116,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/739",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 743 (Mociones de Saludo): EXPRESAR SU SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE ROSASPATA, PROVINCIA DE HUANCANÉ, REGIÓN PUNO, CON MOTI...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/743",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 742 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA CIUDAD DE SANDIA, REGIÓN PUNO, CON MOTIVO DE CONMEMORAR E...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/742",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 740 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA PROVINCIA DE SAN ROMÁN, REGIÓN PUNO, CON MOTIVO DE CO...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/740",
+        "pts": 3
       }
     ],
     "Roxana María Rocha Gallegos": [
@@ -6279,6 +6309,14 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/704",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 754 (Conformación de Comisiones Especiales): CREAR LA COMISIÓN ESPECIAL MULTIPARTIDARIA DE SEGUIMIENTO A LA REACTIVACIÓN Y CULMINACIÓN DE LAS OBRAS PÚBLICAS PARALIZA...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/754",
         "pts": 3
       }
     ],
@@ -7388,6 +7426,38 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-acusaciones-constitucionales-admite-a-tramite-denuncia-contra-exministro-juan-jose-santivanez/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 752 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE YUNGAY, DEPARTAMENTO DE ÁNCASH, CON MOTIVO DE CONMEMORAR...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/752",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 750 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE YAUTÁN, PROVINCIA DE CASMA, DEPARTAMENTO DE ÁNCASH, CON MOT...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/750",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 746 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE ANTONIO RAIMONDI, DEPARTAMENTO DE ÁNCASH, CON MOTIVO DE ...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/746",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 744 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y ESPECIAL RECONOCIMIENTO AL DISTRITO DE CAJAMARQUILLA, PROVINCIA DE OCROS, DEPARTAMENTO ...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/744",
+        "pts": 3
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -8142,6 +8212,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 753 (Mociones de Saludo): EXPRESAR EL SALUDO, HOMENAJE Y RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DE LA REPÚBLICA CON MOTIVO DE LA CONMEMORACIÓN D...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/753",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 748 (Mociones de Saludo): EXPRESAR EL SALUDO, FELICITACIÓN Y RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DE LA REPÚBLICA A LA PROVINCIA DE ABANCAY, D...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/748",
+        "pts": 3
       }
     ],
     "Jacqueline Viviana Tapullima Insapillo": [
@@ -8533,6 +8619,38 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 755 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA, PROMOCIÓN Y FORTALECIMIENTO DE LA PICANTERÍA AREQUIPEÑA COMO E...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/755",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 749 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL EL RECONOCIMIENTO DE LA UNIVERSIDAD NACIONAL DE SAN AGUSTÍN DE AREQUIPA (UNSA) COMO UNIVERS...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/749",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 747 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR COMO INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA FORMULACIÓN, EVALUACIÓN, VIABILIDAD Y EJECUCIÓN DEL PROYECTO DE IN...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/747",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 745 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL AL COLEGIO INDEPENDENCIA AMERICANA DE AREQUIPA COMO BALUARTE HISTÓRICO Y EDUCATIVO POR SUS ...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/745",
         "pts": 3
       }
     ],
@@ -10354,6 +10472,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/733",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 756 (Mociones de Saludo): EXPRESAR EL MÁS FERVOROSO SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL CELEBRARSE ESTE 25 DE OCTUBRE, EL DÍA DE LOS TRABAJAD...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/756",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 751 (Mociones de Saludo): EXPRESAR EL MÁS FERVOROSO SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL “SINDICATO DE TRABAJADORES EN CONSTRUCCIÓN CIVIL BASE...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/751",
+        "pts": 3
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -11176,6 +11310,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/140",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética del Senado promueve la integridad y la transparencia en la función parlamentaria",
+        "d": "22/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-promueve-la-integridad-y-la-transparencia-en-la-funcion-parlamentaria/",
+        "pts": 2
       }
     ],
     "Silvana Emperatriz Robles Araujo": [
@@ -11761,6 +11903,14 @@
         "d": "12/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-impacto-de-las-redes-sociales-en-los-menores-de-edad/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Justicia y Derechos Humanos del Senado fortalece la fiscalización frente a la inseguridad en región La Libertad",
+        "d": "22/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-del-senado-fortalece-la-fiscalizacion-frente-a-la-inseguridad-en-region-la-libertad/",
         "pts": 2
       }
     ],
@@ -13078,6 +13228,30 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-debatira-y-votara-dictamen-sobre-la-cuenta-general-de-la-republica-del-ejercicio-fiscal-2025/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 174 (MOCIÓN DE SALUDO): EXPRESAR UN AFECTUOSO SALUDO Y FELICITACIÓN AL DISTRITO DE CHIRIMOTO, PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPARTAMENTO DE...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/174",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 173 (MOCIÓN DE SALUDO): SALUDAR Y FELICITAR AL DISTRITO DE COCHAMAL, PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPARTAMENTO DE AMAZONAS, AL CONMEMORARS...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/173",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 172 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CÁLIDO, EFUSIVO Y FRATERNO SALUDO Y FELICITACIÓN AL DISTRITO DE VISTA ALEGRE, PROVINCIA DE RODRÍGUEZ DE ...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/172",
+        "pts": 3
       }
     ],
     "Jhonn Brayam Valqui Ordoñez": [
@@ -14701,6 +14875,16 @@
         "d": "14/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
+        "pts": 3
+      }
+    ],
+    "Nilza Merly Chacón Trujillo": [
+      {
+        "t": "📌",
+        "a": "Moción N° 171 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL RECONOCIMIENTO A LA CONFEDERACIÓN NACIONAL DE COMERCIANTES (CONACO), CON MOT...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/171",
         "pts": 3
       }
     ]
