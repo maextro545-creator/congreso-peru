@@ -1597,10 +1597,34 @@
   },
   "senado_news": [
     {
-      "title": "Presidente del Senado supervisa Dren Boquerón de Núñez, obra que protegerá a más de 250 mil familias en Sullana y Bellavista",
+      "title": "Mesa técnica busca impulsar acciones para prevenir y erradicar el racismo y la discriminación en el Perú",
       "source": "Portal del Congreso",
       "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-supervisa-dren-boqueron-de-nunez-obra-que-protegera-a-mas-de-250-mil-familias-en-sullana-y-bellavista/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-tecnica-busca-impulsar-acciones-para-prevenir-y-erradicar-el-racismo-y-la-discriminacion-en-el-peru/"
+    },
+    {
+      "title": "Titulares de la PCM, MEF, MTC y Gobierno Regional de Madre de Dios sustentan sus presupuestos para 2027",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-de-la-pcm-mef-mtc-y-gobierno-regional-de-madre-de-dios-sustentan-sus-presupuestos-para-2027/"
+    },
+    {
+      "title": "Congreso reconoce a compatriotas destacados y reafirma su compromiso con sus derechos",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-reconoce-a-compatriotas-destacados-y-reafirma-su-compromiso-con-sus-derechos/"
+    },
+    {
+      "title": "Retorno de la bicameralidad reunió a especialistas de España y Perú para analizar fortalezas y desafíos del sistema parlamentario",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/retorno-de-la-bicameralidad-reunio-a-especialistas-de-espana-y-peru-para-analizar-fortalezas-y-desafios-del-sistema-parlamentario/"
+    },
+    {
+      "title": "Presidente del Congreso supervisa el Dren Boquerón de Núñez, obra clave para mitigar inundaciones ante El Niño",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-el-dren-boqueron-de-nunez-obra-clave-para-mitigar-inundaciones-ante-el-nino/"
     },
     {
       "title": "Miguel Torres inspecciona canal Miguel Checa, obra que beneficiará a más de 90 mil pobladores en Sullana y Paita",
@@ -1619,62 +1643,50 @@
       "source": "Portal del Congreso",
       "date": "23 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visita-hogar-santa-rosa-en-piura-y-se-compromete-a-ser-puente-para-atender-sus-necesidades/"
-    },
-    {
-      "title": "Comisión de Ética del Senado promueve la integridad y la transparencia en la función parlamentaria",
-      "source": "Portal del Congreso",
-      "date": "22 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-promueve-la-integridad-y-la-transparencia-en-la-funcion-parlamentaria/"
-    },
-    {
-      "title": "Comisión de Justicia y Derechos Humanos del Senado fortalece la fiscalización frente a la inseguridad en región La Libertad",
-      "source": "Portal del Congreso",
-      "date": "22 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-del-senado-fortalece-la-fiscalizacion-frente-a-la-inseguridad-en-region-la-libertad/"
-    },
-    {
-      "title": "Aprueban resolución legislativa que autoriza ingreso de unidad naval a territorio peruano",
-      "source": "Portal del Congreso",
-      "date": "22 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-resolucion-legislativa-que-autoriza-ingreso-de-unidad-naval-a-territorio-peruano/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Presidente del Senado supervisa Dren Boquerón de Núñez, obra que protegerá a más de 250 mil familias en Sullana y Bellavista",
+      "title": "Mesa técnica busca impulsar acciones para prevenir y erradicar el racismo y la discriminación en el Perú",
       "source": "Portal del Congreso",
       "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-supervisa-dren-boqueron-de-nunez-obra-que-protegera-a-mas-de-250-mil-familias-en-sullana-y-bellavista/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-tecnica-busca-impulsar-acciones-para-prevenir-y-erradicar-el-racismo-y-la-discriminacion-en-el-peru/"
     },
     {
-      "title": "Miguel Torres inspecciona canal Miguel Checa, obra que beneficiará a más de 90 mil pobladores en Sullana y Paita",
+      "title": "Titulares de la PCM, MEF, MTC y Gobierno Regional de Madre de Dios sustentan sus presupuestos para 2027",
       "source": "Portal del Congreso",
       "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-inspecciona-canal-miguel-checa-obra-que-beneficiara-a-mas-de-90-mil-pobladores-en-sullana-y-paita/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-de-la-pcm-mef-mtc-y-gobierno-regional-de-madre-de-dios-sustentan-sus-presupuestos-para-2027/"
+    },
+    {
+      "title": "Congreso reconoce a compatriotas destacados y reafirma su compromiso con sus derechos",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-reconoce-a-compatriotas-destacados-y-reafirma-su-compromiso-con-sus-derechos/"
+    },
+    {
+      "title": "Comisión de Educación de la Cámara de Diputados realiza su primera audiencia pública descentralizada en Lambayeque",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-de-la-camara-de-diputados-realiza-su-primera-audiencia-publica-descentralizada-en-lambayeque/"
+    },
+    {
+      "title": "Retorno de la bicameralidad reunió a especialistas de España y Perú para analizar fortalezas y desafíos del sistema parlamentario",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/retorno-de-la-bicameralidad-reunio-a-especialistas-de-espana-y-peru-para-analizar-fortalezas-y-desafios-del-sistema-parlamentario/"
+    },
+    {
+      "title": "Presidente del Congreso supervisa el Dren Boquerón de Núñez, obra clave para mitigar inundaciones ante El Niño",
+      "source": "Portal del Congreso",
+      "date": "23 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-el-dren-boqueron-de-nunez-obra-clave-para-mitigar-inundaciones-ante-el-nino/"
     },
     {
       "title": "Presidente de la Cámara de Diputados participa en reconocimiento a jóvenes talentos de la matemática de Ica",
       "source": "Portal del Congreso",
       "date": "23 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-participa-en-reconocimiento-a-jovenes-talentos-de-la-matematica-de-ica/"
-    },
-    {
-      "title": "Diputados proponen reforzar medidas de saneamiento por El Niño",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-proponen-reforzar-medidas-de-saneamiento-por-el-nino/"
-    },
-    {
-      "title": "Aprueban resolución legislativa que autoriza ingreso de unidad naval a territorio peruano",
-      "source": "Portal del Congreso",
-      "date": "22 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-resolucion-legislativa-que-autoriza-ingreso-de-unidad-naval-a-territorio-peruano/"
-    },
-    {
-      "title": "Aprueban medidas para proteger a niños y adolescentes en orfandad o desprotección familiar",
-      "source": "Portal del Congreso",
-      "date": "22 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-medidas-para-proteger-a-ninos-y-adolescentes-en-orfandad-o-desproteccion-familiar/"
     }
   ],
   "events_override": {
@@ -3662,6 +3674,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/695",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 764 (Mociones de Saludo): EXPRESAR SU MÁS FERVIENTE SALUDO, FELICITACIÓN Y ESPECIAL RECONOCIMIENTO A LOS INTEGRANTES DE LA DELEGACIÓN PERUANA DE F...",
+        "d": "23/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/764",
+        "pts": 3
       }
     ],
     "Juan César Cabrera Nieto": [
@@ -3727,6 +3747,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 763 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO SALUDO Y LA SINCERA FELICITACIÓN DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LAS AUT...",
+        "d": "23/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/763",
         "pts": 3
       }
     ],
@@ -14122,6 +14150,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 762 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA CONFEDERACIÓN NACIONAL DE COMERCIANTES - CONACO, CON OCASIÓN DE CELEB...",
+        "d": "23/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/762",
+        "pts": 3
       }
     ],
     "Alejandro Muñante Barrios": [
@@ -14943,6 +14979,14 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/167",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 179 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA UNIVERSIDAD NACIONAL JOSÉ MARÍA ARGUEDAS (UNAJMA), CON MOTIVO DE CONM...",
+        "d": "23/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/179",
         "pts": 3
       }
     ],
