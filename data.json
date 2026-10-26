@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Miguel Torres: Voluntariado del Congreso y VIDAWASI unidos por los más vulnerables de Cusco y del país",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-voluntariado-del-congreso-y-vidawasi-unidos-por-los-mas-vulnerables-de-cusco-y-del-pais/"
+    },
+    {
+      "title": "Presidente del Congreso visita Casa Hogar de la Paz y se compromete con la labor de las Misioneras de la Caridad",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visita-casa-hogar-de-la-paz-y-se-compromete-con-la-labor-de-las-misioneras-de-la-caridad/"
+    },
+    {
+      "title": "Miguel Torres: “La bicameralidad es una oportunidad para hacer leyes de mayor calidad, en beneficio de la población”",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-la-bicameralidad-es-una-oportunidad-para-hacer-leyes-de-mayor-calidad-en-beneficio-de-la-poblacion/"
+    },
+    {
+      "title": "Pleno del Senado analizará este miércoles el reglamento de elección de magistrados del TC",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-analizara-este-miercoles-el-reglamento-de-eleccion-de-magistrados-del-tc/"
+    },
+    {
       "title": "Mesa técnica busca impulsar acciones para prevenir y erradicar el racismo y la discriminación en el Perú",
       "source": "Portal del Congreso",
       "date": "23 Oct 2026",
@@ -1613,39 +1637,21 @@
       "source": "Portal del Congreso",
       "date": "23 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-reconoce-a-compatriotas-destacados-y-reafirma-su-compromiso-con-sus-derechos/"
-    },
-    {
-      "title": "Retorno de la bicameralidad reunió a especialistas de España y Perú para analizar fortalezas y desafíos del sistema parlamentario",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/retorno-de-la-bicameralidad-reunio-a-especialistas-de-espana-y-peru-para-analizar-fortalezas-y-desafios-del-sistema-parlamentario/"
-    },
-    {
-      "title": "Presidente del Congreso supervisa el Dren Boquerón de Núñez, obra clave para mitigar inundaciones ante El Niño",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-el-dren-boqueron-de-nunez-obra-clave-para-mitigar-inundaciones-ante-el-nino/"
-    },
-    {
-      "title": "Miguel Torres inspecciona canal Miguel Checa, obra que beneficiará a más de 90 mil pobladores en Sullana y Paita",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-inspecciona-canal-miguel-checa-obra-que-beneficiara-a-mas-de-90-mil-pobladores-en-sullana-y-paita/"
-    },
-    {
-      "title": "Comisión de Constitución del Senado aprueba Reglamento para elegir a magistrados del TC",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-aprueba-reglamento-para-elegir-a-magistrados-del-tc/"
-    },
-    {
-      "title": "Presidente del Congreso visita Hogar Santa Rosa en Piura y se compromete a ser puente para atender sus necesidades",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visita-hogar-santa-rosa-en-piura-y-se-compromete-a-ser-puente-para-atender-sus-necesidades/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Defensa del Consumidor de Diputados cita al ministro de Transportes y Comunicaciones",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-de-diputados-cita-al-ministro-de-transportes-y-comunicaciones/"
+    },
+    {
+      "title": "Presidente Reto: El futuro del Perú pasa por el desarrollo de nuestra Amazonía",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-el-futuro-del-peru-pasa-por-el-desarrollo-de-nuestra-amazonia/"
+    },
     {
       "title": "Mesa técnica busca impulsar acciones para prevenir y erradicar el racismo y la discriminación en el Perú",
       "source": "Portal del Congreso",
@@ -1669,24 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "23 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-de-la-camara-de-diputados-realiza-su-primera-audiencia-publica-descentralizada-en-lambayeque/"
-    },
-    {
-      "title": "Retorno de la bicameralidad reunió a especialistas de España y Perú para analizar fortalezas y desafíos del sistema parlamentario",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/retorno-de-la-bicameralidad-reunio-a-especialistas-de-espana-y-peru-para-analizar-fortalezas-y-desafios-del-sistema-parlamentario/"
-    },
-    {
-      "title": "Presidente del Congreso supervisa el Dren Boquerón de Núñez, obra clave para mitigar inundaciones ante El Niño",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-supervisa-el-dren-boqueron-de-nunez-obra-clave-para-mitigar-inundaciones-ante-el-nino/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados participa en reconocimiento a jóvenes talentos de la matemática de Ica",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-participa-en-reconocimiento-a-jovenes-talentos-de-la-matematica-de-ica/"
     }
   ],
   "events_override": {
@@ -2081,6 +2069,14 @@
         "d": "23/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-participa-en-reconocimiento-a-jovenes-talentos-de-la-matematica-de-ica/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente Reto: El futuro del Perú pasa por el desarrollo de nuestra Amazonía",
+        "d": "26/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-el-futuro-del-peru-pasa-por-el-desarrollo-de-nuestra-amazonia/",
         "pts": 2
       }
     ],
@@ -2748,6 +2744,22 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-inspecciona-canal-miguel-checa-obra-que-beneficiara-a-mas-de-90-mil-pobladores-en-sullana-y-paita/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres: Voluntariado del Congreso y VIDAWASI unidos por los más vulnerables de Cusco y del país",
+        "d": "26/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-voluntariado-del-congreso-y-vidawasi-unidos-por-los-mas-vulnerables-de-cusco-y-del-pais/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres: “La bicameralidad es una oportunidad para hacer leyes de mayor calidad, en beneficio de la población”",
+        "d": "26/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-la-bicameralidad-es-una-oportunidad-para-hacer-leyes-de-mayor-calidad-en-beneficio-de-la-poblacion/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -3228,6 +3240,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/706",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Defensa del Consumidor de Diputados cita al ministro de Transportes y Comunicaciones",
+        "d": "26/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-de-diputados-cita-al-ministro-de-transportes-y-comunicaciones/",
+        "pts": 2
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -3853,6 +3873,14 @@
         "d": "13/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/645",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 767 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL, MEDIANTE EL PRESENTE ACUERDO PARLAMENTARIO, LA EJECUCIÓN DEL PROYECTO ...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/767",
         "pts": 3
       }
     ],
@@ -4691,6 +4719,14 @@
         "d": "13/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/645",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 767 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL, MEDIANTE EL PRESENTE ACUERDO PARLAMENTARIO, LA EJECUCIÓN DEL PROYECTO ...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/767",
         "pts": 3
       }
     ],
@@ -8604,6 +8640,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/649",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 765 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE - INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EVALUACIÓN Y FORMULACIÓN DE UNA SOLUCIÓN VIAL DEFINITIVA EN EL SEC...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/765",
+        "pts": 3
       }
     ],
     "Edwin Espinoza Huillca": [
@@ -8648,6 +8692,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-y-lideres-estudiantiles-plantean-medidas-contra-el-embarazo-adolescente-y-la-violencia-escolar/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 765 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE - INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EVALUACIÓN Y FORMULACIÓN DE UNA SOLUCIÓN VIAL DEFINITIVA EN EL SEC...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/765",
+        "pts": 3
       }
     ],
     "Fernando Alberto García Huby": [
@@ -8697,6 +8749,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 765 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE - INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EVALUACIÓN Y FORMULACIÓN DE UNA SOLUCIÓN VIAL DEFINITIVA EN EL SEC...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/765",
         "pts": 3
       }
     ],
@@ -10600,6 +10660,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/760",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 733 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA PROVINCIA DE MELGAR - AYAVIRI, CON MOTIVO DE CONMEMOR...",
+        "d": "22/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/733",
+        "pts": 3
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -10657,6 +10725,14 @@
         "d": "19/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/682",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 776 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN A LA CONFEDERACIÓN NACIONAL DE COMERCIANTES - CONACO, AL CONMEMORARSE SU 81.° ANIVERSA...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/776",
         "pts": 3
       }
     ],
@@ -10845,6 +10921,14 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/709",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 765 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE - INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EVALUACIÓN Y FORMULACIÓN DE UNA SOLUCIÓN VIAL DEFINITIVA EN EL SEC...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/765",
         "pts": 3
       }
     ],
@@ -12184,6 +12268,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/416",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 765 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE - INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EVALUACIÓN Y FORMULACIÓN DE UNA SOLUCIÓN VIAL DEFINITIVA EN EL SEC...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/765",
+        "pts": 3
       }
     ],
     "Nora Bonifaz Carmona": [
@@ -12664,6 +12756,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-acuerda-reprogramar-presentacion-del-ministro-y-aborda-desafios-del-sector-pesquero/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 777 (Mociones de Saludo): EXPRESAR SU MÁS SINCERO SALUDO Y FELICITACIÓN INSTITUCIONAL AL SERVICIO NACIONAL DE CAPACITACIÓN PARA LA INDUSTRIA DE LA...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/777",
+        "pts": 3
       }
     ],
     "María Lourdes Pia Luisa Alcorta Suero": [
