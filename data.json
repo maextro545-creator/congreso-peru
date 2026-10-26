@@ -1597,6 +1597,42 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Economía del Senado recibió al titular de la SUNAT",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-del-senado-recibio-al-titular-de-la-sunat/"
+    },
+    {
+      "title": "Grupo de trabajo sobre economías ilícitas analiza el impacto fiscal y económico de la minería ilegal en el Perú",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-analiza-el-impacto-fiscal-y-economico-de-la-mineria-ilegal-en-el-peru/"
+    },
+    {
+      "title": "Comisión de Constitución debate iniciativas contra el crimen organizado y sobre la gestión del Despacho Presidencial",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-debate-iniciativas-contra-el-crimen-organizado-y-sobre-la-gestion-del-despacho-presidencial/"
+    },
+    {
+      "title": "Comisión de Medio Ambiente evaluará en mesa técnica ley agraria para la Amazonía",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-evaluara-en-mesa-tecnica-ley-agraria-para-la-amazonia/"
+    },
+    {
+      "title": "Senadores solicitan fortalecer la protección del patrimonio cultural y la atención de las regiones",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-solicitan-fortalecer-la-proteccion-del-patrimonio-cultural-y-la-atencion-de-las-regiones/"
+    },
+    {
+      "title": "Presidente Reto: El futuro del Perú pasa por el desarrollo de nuestra Amazonía",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-el-futuro-del-peru-pasa-por-el-desarrollo-de-nuestra-amazonia/"
+    },
+    {
       "title": "Miguel Torres: Voluntariado del Congreso y VIDAWASI unidos por los más vulnerables de Cusco y del país",
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
@@ -1607,39 +1643,33 @@
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visita-casa-hogar-de-la-paz-y-se-compromete-con-la-labor-de-las-misioneras-de-la-caridad/"
-    },
-    {
-      "title": "Miguel Torres: “La bicameralidad es una oportunidad para hacer leyes de mayor calidad, en beneficio de la población”",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-la-bicameralidad-es-una-oportunidad-para-hacer-leyes-de-mayor-calidad-en-beneficio-de-la-poblacion/"
-    },
-    {
-      "title": "Pleno del Senado analizará este miércoles el reglamento de elección de magistrados del TC",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-analizara-este-miercoles-el-reglamento-de-eleccion-de-magistrados-del-tc/"
-    },
-    {
-      "title": "Mesa técnica busca impulsar acciones para prevenir y erradicar el racismo y la discriminación en el Perú",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-tecnica-busca-impulsar-acciones-para-prevenir-y-erradicar-el-racismo-y-la-discriminacion-en-el-peru/"
-    },
-    {
-      "title": "Titulares de la PCM, MEF, MTC y Gobierno Regional de Madre de Dios sustentan sus presupuestos para 2027",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-de-la-pcm-mef-mtc-y-gobierno-regional-de-madre-de-dios-sustentan-sus-presupuestos-para-2027/"
-    },
-    {
-      "title": "Congreso reconoce a compatriotas destacados y reafirma su compromiso con sus derechos",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-reconoce-a-compatriotas-destacados-y-reafirma-su-compromiso-con-sus-derechos/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente de la Cámara de Diputados impulsará gestiones para defensa ribereña que protegerá a 135 asentamientos humanos en Pucallpa",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsara-gestiones-para-defensa-riberena-que-protegera-a-135-asentamientos-humanos-en-pucallpa/"
+    },
+    {
+      "title": "Grupo de trabajo sobre economías ilícitas analiza el impacto fiscal y económico de la minería ilegal en el Perú",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-analiza-el-impacto-fiscal-y-economico-de-la-mineria-ilegal-en-el-peru/"
+    },
+    {
+      "title": "Comisión de Constitución debate iniciativas contra el crimen organizado y sobre la gestión del Despacho Presidencial",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-debate-iniciativas-contra-el-crimen-organizado-y-sobre-la-gestion-del-despacho-presidencial/"
+    },
+    {
+      "title": "Comisión de Medio Ambiente evaluará en mesa técnica ley agraria para la Amazonía",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-evaluara-en-mesa-tecnica-ley-agraria-para-la-amazonia/"
+    },
     {
       "title": "Comisión de Defensa del Consumidor de Diputados cita al ministro de Transportes y Comunicaciones",
       "source": "Portal del Congreso",
@@ -1651,30 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-el-futuro-del-peru-pasa-por-el-desarrollo-de-nuestra-amazonia/"
-    },
-    {
-      "title": "Mesa técnica busca impulsar acciones para prevenir y erradicar el racismo y la discriminación en el Perú",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-tecnica-busca-impulsar-acciones-para-prevenir-y-erradicar-el-racismo-y-la-discriminacion-en-el-peru/"
-    },
-    {
-      "title": "Titulares de la PCM, MEF, MTC y Gobierno Regional de Madre de Dios sustentan sus presupuestos para 2027",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-de-la-pcm-mef-mtc-y-gobierno-regional-de-madre-de-dios-sustentan-sus-presupuestos-para-2027/"
-    },
-    {
-      "title": "Congreso reconoce a compatriotas destacados y reafirma su compromiso con sus derechos",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-reconoce-a-compatriotas-destacados-y-reafirma-su-compromiso-con-sus-derechos/"
-    },
-    {
-      "title": "Comisión de Educación de la Cámara de Diputados realiza su primera audiencia pública descentralizada en Lambayeque",
-      "source": "Portal del Congreso",
-      "date": "23 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-educacion-de-la-camara-de-diputados-realiza-su-primera-audiencia-publica-descentralizada-en-lambayeque/"
     }
   ],
   "events_override": {
@@ -2077,6 +2083,14 @@
         "d": "26/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-el-futuro-del-peru-pasa-por-el-desarrollo-de-nuestra-amazonia/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de la Cámara de Diputados impulsará gestiones para defensa ribereña que protegerá a 135 asentamientos humanos en Pucallpa",
+        "d": "26/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsara-gestiones-para-defensa-riberena-que-protegera-a-135-asentamientos-humanos-en-pucallpa/",
         "pts": 2
       }
     ],
@@ -10054,6 +10068,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/155",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 181 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE LA BREA, NEGRITOS, PROVINCIA DE TALARA, DEP...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/181",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 180 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE VEINTISÉIS DE OCTUBRE, PROVINCIA Y DEPARTAM...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/180",
+        "pts": 3
       }
     ],
     "Roger Miguel Astucuri Laura": [
@@ -12764,6 +12794,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/777",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 778 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y FERVIENTE SALUDO AL TRADICIONAL DISTRITO DE MONSEFÚ, PROVINCIA DE CHICLAYO, DEPARTAMENTO DE LA...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/778",
+        "pts": 3
       }
     ],
     "María Lourdes Pia Luisa Alcorta Suero": [
@@ -14276,6 +14314,22 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 183 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA UNIVERSIDAD NACIONAL JOSÉ MARÍA ARGUEDAS DE ANDAHUAYL...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/183",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 182 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL SERVICIO NACIONAL DE CAPACITACIÓN PARA LA INDUSTRIA DE ...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/182",
+        "pts": 3
       }
     ],
     "Rafael Aldo Celiz Castillo": [
