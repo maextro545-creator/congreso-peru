@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Congreso ahorra S/ 303 millones con medidas de austeridad y devuelve S/ 270 millones al Ejecutivo para atender prioridades del país",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ahorra-s-303-millones-con-medidas-de-austeridad-y-devuelve-s-270-millones-al-ejecutivo-para-atender-prioridades-del-pais/"
+    },
+    {
+      "title": "Pleno del Congreso verá mañana dictamen de crédito suplementario por más de S/ 8 228 millones",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-vera-manana-dictamen-de-credito-suplementario-por-mas-de-s-8-228-millones/"
+    },
+    {
       "title": "Titular del Midis anuncia medidas para proteger a poblaciones vulnerables ante el fenómeno El Niño",
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
@@ -1625,27 +1637,21 @@
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-analiza-el-impacto-fiscal-y-economico-de-la-mineria-ilegal-en-el-peru/"
-    },
-    {
-      "title": "Comisión de Constitución debate iniciativas contra el crimen organizado y sobre la gestión del Despacho Presidencial",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-debate-iniciativas-contra-el-crimen-organizado-y-sobre-la-gestion-del-despacho-presidencial/"
-    },
-    {
-      "title": "Comisión de Medio Ambiente evaluará en mesa técnica ley agraria para la Amazonía",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-evaluara-en-mesa-tecnica-ley-agraria-para-la-amazonia/"
-    },
-    {
-      "title": "Senadores solicitan fortalecer la protección del patrimonio cultural y la atención de las regiones",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-solicitan-fortalecer-la-proteccion-del-patrimonio-cultural-y-la-atencion-de-las-regiones/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Salud pide reforzar atención en regiones y garantizar medicamentos ante El Niño",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-pide-reforzar-atencion-en-regiones-y-garantizar-medicamentos-ante-el-nino/"
+    },
+    {
+      "title": "Pleno del Congreso verá mañana dictamen de crédito suplementario por más de S/ 8 228 millones",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-vera-manana-dictamen-de-credito-suplementario-por-mas-de-s-8-228-millones/"
+    },
     {
       "title": "Presidente Reto: “Austeridad y vocación de servicio son pilares del nuevo Congreso bicameral”",
       "source": "Portal del Congreso",
@@ -1681,18 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-analiza-el-impacto-fiscal-y-economico-de-la-mineria-ilegal-en-el-peru/"
-    },
-    {
-      "title": "Comisión de Constitución debate iniciativas contra el crimen organizado y sobre la gestión del Despacho Presidencial",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-debate-iniciativas-contra-el-crimen-organizado-y-sobre-la-gestion-del-despacho-presidencial/"
-    },
-    {
-      "title": "Comisión de Medio Ambiente evaluará en mesa técnica ley agraria para la Amazonía",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-evaluara-en-mesa-tecnica-ley-agraria-para-la-amazonia/"
     }
   ],
   "events_override": {
@@ -2793,6 +2787,14 @@
         "d": "26/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-la-bicameralidad-es-una-oportunidad-para-hacer-leyes-de-mayor-calidad-en-beneficio-de-la-poblacion/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso ahorra S/ 303 millones con medidas de austeridad y devuelve S/ 270 millones al Ejecutivo para atender prioridades del país",
+        "d": "27/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ahorra-s-303-millones-con-medidas-de-austeridad-y-devuelve-s-270-millones-al-ejecutivo-para-atender-prioridades-del-pais/",
         "pts": 2
       }
     ],
@@ -13891,6 +13893,14 @@
         "d": "15/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-convoca-a-presidenta-ejecutiva-de-essalud-y-al-ministro-de-trabajo/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Salud pide reforzar atención en regiones y garantizar medicamentos ante El Niño",
+        "d": "27/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-pide-reforzar-atencion-en-regiones-y-garantizar-medicamentos-ante-el-nino/",
         "pts": 2
       }
     ],
