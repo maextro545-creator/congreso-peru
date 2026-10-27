@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Titular del Midis anuncia medidas para proteger a poblaciones vulnerables ante el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titular-del-midis-anuncia-medidas-para-proteger-a-poblaciones-vulnerables-ante-el-fenomeno-el-nino/"
+    },
+    {
+      "title": "Informan sobre acciones de fiscalización de Ositrán en carreteras y vías concesionadas del país",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/informan-sobre-acciones-de-fiscalizacion-de-ositran-en-carreteras-y-vias-concesionadas-del-pais/"
+    },
+    {
       "title": "Comisión de Economía del Senado recibió al titular de la SUNAT",
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
@@ -1625,27 +1637,27 @@
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-solicitan-fortalecer-la-proteccion-del-patrimonio-cultural-y-la-atencion-de-las-regiones/"
-    },
-    {
-      "title": "Presidente Reto: El futuro del Perú pasa por el desarrollo de nuestra Amazonía",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-el-futuro-del-peru-pasa-por-el-desarrollo-de-nuestra-amazonia/"
-    },
-    {
-      "title": "Miguel Torres: Voluntariado del Congreso y VIDAWASI unidos por los más vulnerables de Cusco y del país",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-voluntariado-del-congreso-y-vidawasi-unidos-por-los-mas-vulnerables-de-cusco-y-del-pais/"
-    },
-    {
-      "title": "Presidente del Congreso visita Casa Hogar de la Paz y se compromete con la labor de las Misioneras de la Caridad",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visita-casa-hogar-de-la-paz-y-se-compromete-con-la-labor-de-las-misioneras-de-la-caridad/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Titular del Midis anuncia medidas para proteger a poblaciones vulnerables ante el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titular-del-midis-anuncia-medidas-para-proteger-a-poblaciones-vulnerables-ante-el-fenomeno-el-nino/"
+    },
+    {
+      "title": "Mesa de trabajo reunió a representantes de la sociedad civil y autoridades para promover una respuesta organizada ante situaciones de emergencia y desastres",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-de-trabajo-reunio-a-representantes-de-la-sociedad-civil-y-autoridades-para-promover-una-respuesta-organizada-ante-situaciones-de-emergencia-y-desastres/"
+    },
+    {
+      "title": "Informan sobre acciones de fiscalización de Ositrán en carreteras y vías concesionadas del país",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/informan-sobre-acciones-de-fiscalizacion-de-ositran-en-carreteras-y-vias-concesionadas-del-pais/"
+    },
     {
       "title": "Presidente de la Cámara de Diputados impulsará gestiones para defensa ribereña que protegerá a 135 asentamientos humanos en Pucallpa",
       "source": "Portal del Congreso",
@@ -1675,12 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-de-diputados-cita-al-ministro-de-transportes-y-comunicaciones/"
-    },
-    {
-      "title": "Presidente Reto: El futuro del Perú pasa por el desarrollo de nuestra Amazonía",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-el-futuro-del-peru-pasa-por-el-desarrollo-de-nuestra-amazonia/"
     }
   ],
   "events_override": {
@@ -7289,6 +7295,14 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/694",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 783 (Mociones de Saludo): SOLICITA HACER EXTENSIVO EL SALUDO AL DISTRITO DE JEPELACIO EN LA PROVINCIA DE MOYOBAMBA REGIÓN SAN MARTÍN, CON MOTIVO D...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/783",
         "pts": 3
       }
     ],
@@ -14254,6 +14268,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/693",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 781 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL GOBIERNO DE LA REPÚBLICA ARGELINA DEMOCRÁTICA Y POPULAR, CON OCASIÓN DE...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/781",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 780 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL GOBIERNO DE LA REPÚBLICA DE PANAMÁ, CON OCASIÓN DEL CENTÉSIMO VIGÉSIMO ...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/780",
+        "pts": 3
       }
     ],
     "Diego Alonso Fernando Bazán Calderón": [
@@ -14984,6 +15014,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/700",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 784 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO A LA CIUDAD DE CHOTA, PROVINCIA DE CHOTA, DEPARTAMENTO DE CAJAMARCA, TIERRA DE AKUNTA Y DE...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/784",
+        "pts": 3
       }
     ],
     "Aldo Antonio Bravo Quispe": [
@@ -15181,6 +15219,14 @@
         "d": "14/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 184 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA INSTITUCIÓN EDUCATIVA PRIVADA (I.E.P.) JOHANNES GUTENBERG DE HUANTA, ...",
+        "d": "26/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/184",
         "pts": 3
       }
     ],
