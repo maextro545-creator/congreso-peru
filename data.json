@@ -1603,6 +1603,12 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/titular-del-midis-anuncia-medidas-para-proteger-a-poblaciones-vulnerables-ante-el-fenomeno-el-nino/"
     },
     {
+      "title": "Mesa de trabajo reunió a representantes de la sociedad civil y autoridades para promover una respuesta organizada ante situaciones de emergencia y desastres",
+      "source": "Portal del Congreso",
+      "date": "26 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-de-trabajo-reunio-a-representantes-de-la-sociedad-civil-y-autoridades-para-promover-una-respuesta-organizada-ante-situaciones-de-emergencia-y-desastres/"
+    },
+    {
       "title": "Informan sobre acciones de fiscalización de Ositrán en carreteras y vías concesionadas del país",
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
@@ -1640,6 +1646,12 @@
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente Reto: “Austeridad y vocación de servicio son pilares del nuevo Congreso bicameral”",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-austeridad-y-vocacion-de-servicio-son-pilares-del-nuevo-congreso-bicameral/"
+    },
     {
       "title": "Titular del Midis anuncia medidas para proteger a poblaciones vulnerables ante el fenómeno El Niño",
       "source": "Portal del Congreso",
@@ -1681,12 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "26 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-evaluara-en-mesa-tecnica-ley-agraria-para-la-amazonia/"
-    },
-    {
-      "title": "Comisión de Defensa del Consumidor de Diputados cita al ministro de Transportes y Comunicaciones",
-      "source": "Portal del Congreso",
-      "date": "26 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-de-diputados-cita-al-ministro-de-transportes-y-comunicaciones/"
     }
   ],
   "events_override": {
@@ -2097,6 +2103,14 @@
         "d": "26/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsara-gestiones-para-defensa-riberena-que-protegera-a-135-asentamientos-humanos-en-pucallpa/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente Reto: “Austeridad y vocación de servicio son pilares del nuevo Congreso bicameral”",
+        "d": "27/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-austeridad-y-vocacion-de-servicio-son-pilares-del-nuevo-congreso-bicameral/",
         "pts": 2
       }
     ],
@@ -10851,6 +10865,22 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 786 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS AUTORIDADES MUNICIPALES, AGRICULTORES, Y A TODOS LOS...",
+        "d": "27/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/786",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 785 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS AUTORIDADES, AGRICULTORES, Y A TODOS LOS CIUDADANOS ...",
+        "d": "27/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/785",
         "pts": 3
       }
     ],
