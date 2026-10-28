@@ -1643,15 +1643,21 @@
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-oficializa-devolucion-de-mas-de-s-270-millones-al-mef-para-seguridad-ciudadana-y-atencion-de-emergencias/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario aprueba sesionar en la ciudad de Arequipa",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-aprueba-sesionar-en-la-ciudad-de-arequipa/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Grupo de Trabajo sobre Economías Ilícitas organizó mesa técnica sobre minería ilegal para buscar soluciones inmediatas y combatir este delito",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-organizo-mesa-tecnica-sobre-mineria-ilegal-para-buscar-soluciones-inmediatas-y-combatir-este-delito/"
+    },
+    {
+      "title": "Aprueban tres dictámenes sobre donaciones ante desastres, beneficios para editoriales y exoneraciones tributarias",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-tres-dictamenes-sobre-donaciones-ante-desastres-beneficios-para-editoriales-y-exoneraciones-tributarias/"
+    },
     {
       "title": "Pleno del Congreso aprueba dictamen de la Cuenta General de la República 2025",
       "source": "Portal del Congreso",
@@ -1669,18 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-medidas-de-eficiencia-y-ahorro-adoptadas-con-la-camara-de-diputados/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario aprueba sesionar en la ciudad de Arequipa",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-aprueba-sesionar-en-la-ciudad-de-arequipa/"
-    },
-    {
-      "title": "Diputada Anali Marquez impulsa Mesa Técnica para evaluar los derechos de las trabajadoras del hogar",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-anali-marquez-impulsa-mesa-tecnica-para-evaluar-los-derechos-de-las-trabajadoras-del-hogar/"
     }
   ],
   "events_override": {
@@ -3041,6 +3035,22 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/807",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 812 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE CAYMA DE LA PROVINCIA Y DEPARTAMENTO DE AREQUIPA, CON MOTIVO DE...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/812",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 811 (Mociones de Saludo): Expresar el más cordial y efusivo saludo y felicitación a la Universidad Nacional de San Agustín de Arequipa (UNSA), con...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/811",
         "pts": 3
       }
     ],
@@ -5382,6 +5392,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/706",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban tres dictámenes sobre donaciones ante desastres, beneficios para editoriales y exoneraciones tributarias",
+        "d": "28/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-tres-dictamenes-sobre-donaciones-ante-desastres-beneficios-para-editoriales-y-exoneraciones-tributarias/",
+        "pts": 2
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -5520,6 +5538,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/160",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
+        "pts": 3
       }
     ],
     "Saul Andrés Armacanqui Morales": [
@@ -5554,6 +5580,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
+        "pts": 3
       }
     ],
     "Víctor Raúl Cutipa Ccama": [
@@ -5587,6 +5621,14 @@
         "d": "25/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/127",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
         "pts": 3
       }
     ],
@@ -5638,6 +5680,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-desestima-inicio-de-investigacion-contra-jaime-quito-sarmiento/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
+        "pts": 3
       }
     ],
     "Jaime Ricardo Delgado Zegarra": [
@@ -11880,6 +11930,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-promueve-la-integridad-y-la-transparencia-en-la-funcion-parlamentaria/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
+        "pts": 3
       }
     ],
     "Silvana Emperatriz Robles Araujo": [
@@ -12812,6 +12870,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/168",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
+        "pts": 3
       }
     ],
     "Marco Antonio Pacheco Quispe": [
@@ -13061,6 +13127,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 813 (Mociones de Saludo): EXPRESAR EL MÁS SINCERO RECONOCIMIENTO, FELICITACIÓN Y APLAUSO DE LA CÁMARA DE DIPUTADOS AL ILUSTRE ESTUDIANTE JOFRAN ES...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/813",
         "pts": 3
       }
     ],
@@ -13445,6 +13519,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/185",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
         "pts": 3
       }
     ],
@@ -14072,6 +14154,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/568",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Grupo de Trabajo sobre Economías Ilícitas organizó mesa técnica sobre minería ilegal para buscar soluciones inmediatas y combatir este delito",
+        "d": "28/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-organizo-mesa-tecnica-sobre-mineria-ilegal-para-buscar-soluciones-inmediatas-y-combatir-este-delito/",
+        "pts": 2
       }
     ],
     "Frank Krklec Torres": [
@@ -14265,6 +14355,14 @@
         "d": "14/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
         "pts": 3
       }
     ],
@@ -15316,6 +15414,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/612",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 814 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN A LOS PARTICIPANTES Y, EN PARTICULAR, A LOS GANADORES DEL IV CONGRESO NACIONAL...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/814",
+        "pts": 3
       }
     ],
     "César Augusto Astudillo Salcedo": [
@@ -15613,6 +15719,14 @@
         "d": "26/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/184",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 186 (DE INTERÉS NACIONAL): APREMIAR AL GOBIERNO REGIONAL DE CUSCO PARA QUE, EN EL MARCO DE SUS COMPETENCIAS, CONSIDEREN Y PRIORICEN LA GESTIÓN Y EN...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
         "pts": 3
       }
     ],
