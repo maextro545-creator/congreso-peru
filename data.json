@@ -1597,43 +1597,41 @@
   },
   "senado_news": [
     {
-      "title": "Senadores exigen medidas al jefe del INPE frente a crisis carcelaria, obras paralizadas y redes de comercio ilegal en penales",
+      "title": "Pleno del Congreso aprueba dictamen de la Cuenta General de la República 2025",
       "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exigen-medidas-al-jefe-del-inpe-frente-a-crisis-carcelaria-obras-paralizadas-y-redes-de-comercio-ilegal-en-penales/"
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-dictamen-de-la-cuenta-general-de-la-republica-2025/"
     },
     {
-      "title": "Comisión de Ética Parlamentaria desestima inicio de investigación contra Jaime Quito Sarmiento",
+      "title": "Senado aprobó reglamento para la selección y elección de los magistrados del TC",
       "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-desestima-inicio-de-investigacion-contra-jaime-quito-sarmiento/"
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprobo-reglamento-para-la-seleccion-y-eleccion-de-los-magistrados-del-tc/"
     },
     {
-      "title": "Comisión de Justicia aprueba dictámenes sobre prescripción penal y extinción de dominio",
+      "title": "Senado aprobó prórroga de estados de emergencia solicitada por el Poder Ejecutivo",
       "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-sobre-prescripcion-penal-y-extincion-de-dominio/"
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprobo-prorroga-de-estados-de-emergencia-solicitadas-por-el-poder-ejecutivo/"
     },
     {
-      "title": "Grupo de trabajo de Salud aprueba plan para supervisar hospitales y centros especializados",
+      "title": "Autorizan ingreso de unidad naval chilena para ejercicio de control de contaminación por derrame de hidrocarburos",
       "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-de-salud-aprueba-plan-para-supervisar-hospitales-y-centros-especializados/"
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/autorizan-ingreso-de-unidad-naval-chilena-para-ejercicio-de-control-de-contaminacion-por-derrame-de-hidrocarburos/"
     },
     {
-      "title": "Presidente del Senado recibe a jóvenes líderes de Iberoamérica del CEFAS y comparte el retorno de la bicameralidad",
+      "title": "Presidente del Congreso destaca medidas de eficiencia y ahorro adoptadas con la Cámara de Diputados",
       "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-recibe-a-jovenes-lideres-de-iberoamerica-del-cefas-y-comparte-el-retorno-de-la-bicameralidad/"
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-medidas-de-eficiencia-y-ahorro-adoptadas-con-la-camara-de-diputados/"
     },
     {
-      "title": "En Comisión de Energía y Minas exponen alcances de Proyecto de Ley MAPE",
+      "title": "Presidente del Congreso oficializa devolución de más de S/ 270 millones al MEF para seguridad ciudadana y atención de emergencias",
       "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-comision-de-energia-y-minas-exponen-alcances-de-proyecto-de-ley-mape/"
-    }
-  ],
-  "diputados_news": [
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-oficializa-devolucion-de-mas-de-s-270-millones-al-mef-para-seguridad-ciudadana-y-atencion-de-emergencias/"
+    },
     {
       "title": "Comisión de Desarrollo Agrario aprueba sesionar en la ciudad de Arequipa",
       "source": "Portal del Congreso",
@@ -1641,40 +1639,42 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-aprueba-sesionar-en-la-ciudad-de-arequipa/"
     },
     {
-      "title": "Diputada Anali Márquez impulsa Mesa Técnica para evaluar los derechos de las trabajadoras del hogar",
+      "title": "Senadores exigen medidas al jefe del INPE frente a crisis carcelaria, obras paralizadas y redes de comercio ilegal en penales",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exigen-medidas-al-jefe-del-inpe-frente-a-crisis-carcelaria-obras-paralizadas-y-redes-de-comercio-ilegal-en-penales/"
+    }
+  ],
+  "diputados_news": [
+    {
+      "title": "Pleno del Congreso aprueba dictamen de la Cuenta General de la República 2025",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-dictamen-de-la-cuenta-general-de-la-republica-2025/"
+    },
+    {
+      "title": "Admiten a trámite denuncia constitucional contra excongresista Elvis Vergara",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-excongresista-elvis-vergara/"
+    },
+    {
+      "title": "Presidente del Congreso destaca medidas de eficiencia y ahorro adoptadas con la Cámara de Diputados",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-medidas-de-eficiencia-y-ahorro-adoptadas-con-la-camara-de-diputados/"
+    },
+    {
+      "title": "Comisión de Desarrollo Agrario aprueba sesionar en la ciudad de Arequipa",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-aprueba-sesionar-en-la-ciudad-de-arequipa/"
+    },
+    {
+      "title": "Diputada Anali Marquez impulsa Mesa Técnica para evaluar los derechos de las trabajadoras del hogar",
       "source": "Portal del Congreso",
       "date": "27 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-anali-marquez-impulsa-mesa-tecnica-para-evaluar-los-derechos-de-las-trabajadoras-del-hogar/"
-    },
-    {
-      "title": "Diputados exigen cerrar brechas digitales y regular el uso de la inteligencia artificial",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-exigen-cerrar-brechas-digitales-y-regular-el-uso-de-la-inteligencia-artificial/"
-    },
-    {
-      "title": "Comisión de Justicia aprueba dictámenes sobre prescripción penal y extinción de dominio",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-sobre-prescripcion-penal-y-extincion-de-dominio/"
-    },
-    {
-      "title": "Grupo de trabajo de Salud aprueba plan para supervisar hospitales y centros especializados",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-de-salud-aprueba-plan-para-supervisar-hospitales-y-centros-especializados/"
-    },
-    {
-      "title": "Diputados piden medidas inmediatas a titular de Producción por fenómeno El Niño, apoyo a mypes y pesca artesanal",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-piden-medidas-inmediatas-a-titular-de-produccion-por-fenomeno-el-nino-apoyo-a-mypes-y-pesca-artesanal/"
-    },
-    {
-      "title": "En Comisión de Energía y Minas exponen alcances de Proyecto de Ley MAPE",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-comision-de-energia-y-minas-exponen-alcances-de-proyecto-de-ley-mape/"
     }
   ],
   "events_override": {
@@ -2784,6 +2784,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ahorra-s-303-millones-con-medidas-de-austeridad-y-devuelve-s-270-millones-al-ejecutivo-para-atender-prioridades-del-pais/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso destaca medidas de eficiencia y ahorro adoptadas con la Cámara de Diputados",
+        "d": "28/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-medidas-de-eficiencia-y-ahorro-adoptadas-con-la-camara-de-diputados/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -3004,6 +3012,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/728",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 806 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO INSTITUCIONAL A LA PROVINCIA DE CAMANÁ, DE LA REGIÓN AREQUIPA, CON MOTIVO DE C...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/806",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL“EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -3085,6 +3109,14 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/707",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL“EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
         "pts": 3
       }
     ],
@@ -3272,6 +3304,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-de-diputados-cita-al-ministro-de-transportes-y-comunicaciones/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL“EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -3458,6 +3498,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/706",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL“EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
       }
     ],
     "Helard Bladimir Sonco Villanueva": [
@@ -3627,6 +3675,30 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/703",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL“EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 797 (Mociones de Saludo): EXPRESAR UN EFUSIVO SALUDO Y FELICITACIÓN A LA PROVINCIA DE SANDIA, REGIÓN PUNO, AL CONMEMORARSE EL 28 DE OCTUBRE DE 202...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/797",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 796 (Mociones de Saludo): EXPRESAR UN CÁLIDO Y EUFÓRICO SALUDO Y FELICITACIÓN AL DISTRITO DE LIMBANI, PROVINCIA DE SANDIA, REGIÓN PUNO, AL CONMEMO...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/796",
         "pts": 3
       }
     ],
@@ -7842,6 +7914,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/652",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 803 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA UNIVERSIDAD NACIONAL JOSÉ MARÍA ARGUEDAS (UNAJMA) DE ...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/803",
+        "pts": 3
       }
     ],
     "Ernesto Alonso Zunini Yerren": [
@@ -8730,6 +8810,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 801 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO SALUDO, FELICITACIÓN Y RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL C...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/801",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 800 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO SALUDO, FELICITACIÓN Y RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS AL ILUSTRE COLEGIO ...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/800",
+        "pts": 3
       }
     ],
     "Hilda Judit Fernández de la Torre": [
@@ -8916,6 +9012,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-iniciar-investigacion-a-diputada-milagros-santana-vera/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 795 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE HUARAL, PROVINCIA DE HUARAL, DEPARTAMENTO D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/795",
+        "pts": 3
       }
     ],
     "Yenifer Noelia Paredes Navarro": [
@@ -9784,6 +9888,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/canciller-expuso-ante-diputados-sobre-escudo-de-las-americas-situacion-de-peruanos-en-rusia-y-visita-del-papa-al-peru/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 802 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO A LA UNIVERSIDAD NACIONAL FEDERICO VILLARREAL, CON MOTIVO DE LA CONMEMORACIÓN DE SU ...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/802",
+        "pts": 3
       }
     ],
     "Marco Antonio Flores Valdizan": [
@@ -11049,6 +11161,14 @@
         "d": "26/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/765",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 805 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA LA JUNTA DE USUARIOS DEL...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/805",
         "pts": 3
       }
     ],
@@ -13184,6 +13304,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/177",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 185 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE SANDIA, DEPARTAMENTO DE PUNO, CON MOTIVO DE CONMEMORARSE...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/185",
+        "pts": 3
       }
     ],
     "Ana Luisa Yuffra Lugo": [
@@ -13300,6 +13428,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-medio-ambiente-citara-a-ministros-y-funcionarios-por-evaluacion-del-potencial-gasifero-en-bahuaja-sonene/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 799 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LOS CIUDADANOS DEL DISTRITO DE MORALES CON MOTIVO DE CELEBRARSE, EL 31 D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/799",
+        "pts": 3
       }
     ],
     "Luis Eliseo Quispe Candia": [
@@ -13735,6 +13871,14 @@
         "d": "05/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/567",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 804 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE ANCÓN, EN LA PERSONA DE SU ALCALDE, SAMUEL DAZA TAYPE, CUER...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/804",
         "pts": 3
       }
     ],
@@ -15355,6 +15499,16 @@
         "d": "23/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-inspecciona-canal-miguel-checa-obra-que-beneficiara-a-mas-de-90-mil-pobladores-en-sullana-y-paita/",
+        "pts": 2
+      }
+    ],
+    "Analí Marquez Huanca": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputada Anali Marquez impulsa Mesa Técnica para evaluar los derechos de las trabajadoras del hogar",
+        "d": "27/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-anali-marquez-impulsa-mesa-tecnica-para-evaluar-los-derechos-de-las-trabajadoras-del-hogar/",
         "pts": 2
       }
     ]
