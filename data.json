@@ -1597,37 +1597,73 @@
   },
   "senado_news": [
     {
-      "title": "Preocupación por financiamiento para programas de vivienda y acciones para enfrentar El Niño",
+      "title": "Senadores exigen medidas al jefe del INPE frente a crisis carcelaria, obras paralizadas y redes de comercio ilegal en penales",
       "source": "Portal del Congreso",
       "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/preocupacion-por-financiamiento-para-programas-de-vivienda-y-acciones-para-enfrentar-el-nino/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exigen-medidas-al-jefe-del-inpe-frente-a-crisis-carcelaria-obras-paralizadas-y-redes-de-comercio-ilegal-en-penales/"
     },
     {
-      "title": "Realizan campaña preventiva contra el cáncer",
+      "title": "Comisión de Ética Parlamentaria desestima inicio de investigación contra Jaime Quito Sarmiento",
       "source": "Portal del Congreso",
       "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/realizan-campana-preventiva-contra-el-cancer/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-desestima-inicio-de-investigacion-contra-jaime-quito-sarmiento/"
     },
     {
-      "title": "Comisión de Defensa Nacional y Orden Interno debatió propuestas sobre infraestructura, gestión del riesgo y requisitos de funcionarios",
+      "title": "Comisión de Justicia aprueba dictámenes sobre prescripción penal y extinción de dominio",
       "source": "Portal del Congreso",
       "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-debatio-propuestas-sobre-infraestructura-gestion-del-riesgo-y-requisitos-de-funcionarios/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-sobre-prescripcion-penal-y-extincion-de-dominio/"
     },
     {
-      "title": "Congreso ahorra S/ 303 millones con medidas de austeridad y devuelve S/ 270 millones al Ejecutivo para atender prioridades del país",
+      "title": "Grupo de trabajo de Salud aprueba plan para supervisar hospitales y centros especializados",
       "source": "Portal del Congreso",
       "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ahorra-s-303-millones-con-medidas-de-austeridad-y-devuelve-s-270-millones-al-ejecutivo-para-atender-prioridades-del-pais/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-de-salud-aprueba-plan-para-supervisar-hospitales-y-centros-especializados/"
     },
     {
-      "title": "Pleno del Congreso verá mañana dictamen de crédito suplementario por más de S/ 8 228 millones",
+      "title": "Presidente del Senado recibe a jóvenes líderes de Iberoamérica del CEFAS y comparte el retorno de la bicameralidad",
       "source": "Portal del Congreso",
       "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-vera-manana-dictamen-de-credito-suplementario-por-mas-de-s-8-228-millones/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-recibe-a-jovenes-lideres-de-iberoamerica-del-cefas-y-comparte-el-retorno-de-la-bicameralidad/"
+    },
+    {
+      "title": "En Comisión de Energía y Minas exponen alcances de Proyecto de Ley MAPE",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-comision-de-energia-y-minas-exponen-alcances-de-proyecto-de-ley-mape/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Desarrollo Agrario aprueba sesionar en la ciudad de Arequipa",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-aprueba-sesionar-en-la-ciudad-de-arequipa/"
+    },
+    {
+      "title": "Diputada Anali Márquez impulsa Mesa Técnica para evaluar los derechos de las trabajadoras del hogar",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-anali-marquez-impulsa-mesa-tecnica-para-evaluar-los-derechos-de-las-trabajadoras-del-hogar/"
+    },
+    {
+      "title": "Diputados exigen cerrar brechas digitales y regular el uso de la inteligencia artificial",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-exigen-cerrar-brechas-digitales-y-regular-el-uso-de-la-inteligencia-artificial/"
+    },
+    {
+      "title": "Comisión de Justicia aprueba dictámenes sobre prescripción penal y extinción de dominio",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-sobre-prescripcion-penal-y-extincion-de-dominio/"
+    },
+    {
+      "title": "Grupo de trabajo de Salud aprueba plan para supervisar hospitales y centros especializados",
+      "source": "Portal del Congreso",
+      "date": "27 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-de-salud-aprueba-plan-para-supervisar-hospitales-y-centros-especializados/"
+    },
     {
       "title": "Diputados piden medidas inmediatas a titular de Producción por fenómeno El Niño, apoyo a mypes y pesca artesanal",
       "source": "Portal del Congreso",
@@ -1639,54 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "27 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/en-comision-de-energia-y-minas-exponen-alcances-de-proyecto-de-ley-mape/"
-    },
-    {
-      "title": "Preocupación por financiamiento para programas de vivienda y acciones para enfrentar El Niño",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/preocupacion-por-financiamiento-para-programas-de-vivienda-y-acciones-para-enfrentar-el-nino/"
-    },
-    {
-      "title": "Realizan campaña preventiva contra el cáncer",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/realizan-campana-preventiva-contra-el-cancer/"
-    },
-    {
-      "title": "Comisión de Defensa Nacional y Orden Interno debatió propuestas sobre infraestructura, gestión del riesgo y requisitos de funcionarios",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-nacional-y-orden-interno-debatio-propuestas-sobre-infraestructura-gestion-del-riesgo-y-requisitos-de-funcionarios/"
-    },
-    {
-      "title": "Pleno de Cámara de Diputados recibirá este jueves 29 al ministro del Ambiente",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-camara-de-diputados-recibira-este-jueves-29-al-ministro-del-ambiente/"
-    },
-    {
-      "title": "Comisión de Salud pide reforzar atención en regiones y garantizar medicamentos ante El Niño",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-pide-reforzar-atencion-en-regiones-y-garantizar-medicamentos-ante-el-nino/"
-    },
-    {
-      "title": "Congreso ahorra S/ 303 millones con medidas de austeridad y devuelve S/ 270 millones al Ejecutivo para atender prioridades del país",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ahorra-s-303-millones-con-medidas-de-austeridad-y-devuelve-s-270-millones-al-ejecutivo-para-atender-prioridades-del-pais/"
-    },
-    {
-      "title": "Pleno del Congreso verá mañana dictamen de crédito suplementario por más de S/ 8 228 millones",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-vera-manana-dictamen-de-credito-suplementario-por-mas-de-s-8-228-millones/"
-    },
-    {
-      "title": "Presidente Reto: “Austeridad y vocación de servicio son pilares del nuevo Congreso bicameral”",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-austeridad-y-vocacion-de-servicio-son-pilares-del-nuevo-congreso-bicameral/"
     }
   ],
   "events_override": {
@@ -5476,6 +5464,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética Parlamentaria desestima inicio de investigación contra Jaime Quito Sarmiento",
+        "d": "27/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-parlamentaria-desestima-inicio-de-investigacion-contra-jaime-quito-sarmiento/",
+        "pts": 2
       }
     ],
     "Jaime Ricardo Delgado Zegarra": [
@@ -6857,6 +6853,14 @@
         "d": "27/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/793",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 794 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL SEMINA...",
+        "d": "27/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/794",
         "pts": 3
       }
     ],
@@ -11422,6 +11426,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/154",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores exigen medidas al jefe del INPE frente a crisis carcelaria, obras paralizadas y redes de comercio ilegal en penales",
+        "d": "27/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exigen-medidas-al-jefe-del-inpe-frente-a-crisis-carcelaria-obras-paralizadas-y-redes-de-comercio-ilegal-en-penales/",
+        "pts": 2
       }
     ],
     "Fernando Miguel Rospigliosi Capurro": [
