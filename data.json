@@ -1597,10 +1597,22 @@
   },
   "senado_news": [
     {
+      "title": "Milagros Jáuregui presidirá la Comisión Especial de Protección Integral de la Infancia y la Adolescencia",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/milagros-jauregui-presidira-la-comision-especial-de-proteccion-integral-de-la-infancia-y-la-adolescencia/"
+    },
+    {
       "title": "Pleno del Congreso aprueba dictamen de la Cuenta General de la República 2025",
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-dictamen-de-la-cuenta-general-de-la-republica-2025/"
+    },
+    {
+      "title": "Admiten a trámite denuncia constitucional contra excongresista Elvis Vergara",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-excongresista-elvis-vergara/"
     },
     {
       "title": "Senado aprobó reglamento para la selección y elección de los magistrados del TC",
@@ -1637,12 +1649,6 @@
       "source": "Portal del Congreso",
       "date": "27 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-aprueba-sesionar-en-la-ciudad-de-arequipa/"
-    },
-    {
-      "title": "Senadores exigen medidas al jefe del INPE frente a crisis carcelaria, obras paralizadas y redes de comercio ilegal en penales",
-      "source": "Portal del Congreso",
-      "date": "27 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exigen-medidas-al-jefe-del-inpe-frente-a-crisis-carcelaria-obras-paralizadas-y-redes-de-comercio-ilegal-en-penales/"
     }
   ],
   "diputados_news": [
@@ -3028,6 +3034,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 807 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y RECONOCIMIENTO A TODOS LOS TRABAJADORES Y TRABAJADORAS MUNICIPALES DEL PERÚ, CON MOTIVO...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/807",
+        "pts": 3
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -3872,6 +3886,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/763",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
       }
     ],
     "Raúl Jesús Camargo Porta": [
@@ -3978,6 +4000,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/767",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
       }
     ],
     "Arturo César Eusebio Padilla": [
@@ -4051,6 +4081,14 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/702",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
       }
     ],
@@ -4141,6 +4179,14 @@
         "d": "20/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/689",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
       }
     ],
@@ -4247,6 +4293,14 @@
         "d": "22/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/717",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
       }
     ],
@@ -4362,6 +4416,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/615",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -4435,6 +4497,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
       }
     ],
@@ -4518,6 +4588,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-evalua-propuesta-para-unificar-el-sistema-digital-de-salud/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
       }
     ],
     "Víctor Eduardo Piñán Mamani": [
@@ -4824,6 +4902,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/767",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -4865,6 +4951,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/610",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
       }
     ],
@@ -6651,6 +6745,22 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/704",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 810 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIONES, A TODAS LAS IGLESIAS EVANGÉLICAS DEL PERÚ, Y DE MANERA PARTICULAR DE LA ...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/810",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 809 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DISTRITO DE JACAS GRANDE, PROVINCIA DE HUAMALIES Y DEPARTAMENTO DE HUÁNU...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/809",
         "pts": 3
       }
     ],
@@ -11170,6 +11280,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/805",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 805 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA JUNTA DE USUARIOS D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/805",
+        "pts": 3
       }
     ],
     "Carmela Paucara Paxi": [
@@ -12298,6 +12416,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/720",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
       }
     ],
     "Katherine Milagros Ampuero Meza": [
@@ -12927,6 +13053,14 @@
         "d": "07/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/603",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
       }
     ],
@@ -15139,6 +15273,14 @@
         "d": "19/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/683",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 808 (Pedidos de Declaración de necesidad pública o interes nacional): EXIGIR AL MINISTRO DEL INTERIOR QUE, EN EL USO DE SUS ATRIBUCIONES Y LAS DE SUS ASESORES PROFESIONALES, ASUMA LA RESPONS...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
       }
     ],
