@@ -1597,10 +1597,28 @@
   },
   "senado_news": [
     {
-      "title": "Milagros Jáuregui presidirá la Comisión Especial de Protección Integral de la Infancia y la Adolescencia",
+      "title": "Congreso aprueba crédito suplementario de más de S/ 8 200 millones para enfrentar el fenómeno El Niño e impulsar la infraestructura",
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/milagros-jauregui-presidira-la-comision-especial-de-proteccion-integral-de-la-infancia-y-la-adolescencia/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-aprueba-credito-suplementario-de-mas-de-s-8-200-millones-para-enfrentar-el-fenomeno-el-nino-e-impulsar-la-infraestructura/"
+    },
+    {
+      "title": "Aprueban dictámenes sobre beneficio fiscal para industria del libro y moratoria universitaria de cinco años",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-sobre-beneficio-fiscal-para-industria-del-libro-y-moratoria-universitaria-de-cinco-anos/"
+    },
+    {
+      "title": "Grupo de Trabajo sobre Economías Ilícitas organizó mesa técnica sobre minería ilegal para buscar soluciones inmediatas y combatir este delito",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-organizo-mesa-tecnica-sobre-mineria-ilegal-para-buscar-soluciones-inmediatas-y-combatir-este-delito/"
+    },
+    {
+      "title": "Aprueban tres dictámenes sobre donaciones ante desastres, beneficios para editoriales y exoneraciones tributarias",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-tres-dictamenes-sobre-donaciones-ante-desastres-beneficios-para-editoriales-y-exoneraciones-tributarias/"
     },
     {
       "title": "Pleno del Congreso aprueba dictamen de la Cuenta General de la República 2025",
@@ -1631,21 +1649,27 @@
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/autorizan-ingreso-de-unidad-naval-chilena-para-ejercicio-de-control-de-contaminacion-por-derrame-de-hidrocarburos/"
-    },
-    {
-      "title": "Presidente del Congreso destaca medidas de eficiencia y ahorro adoptadas con la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-medidas-de-eficiencia-y-ahorro-adoptadas-con-la-camara-de-diputados/"
-    },
-    {
-      "title": "Presidente del Congreso oficializa devolución de más de S/ 270 millones al MEF para seguridad ciudadana y atención de emergencias",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-oficializa-devolucion-de-mas-de-s-270-millones-al-mef-para-seguridad-ciudadana-y-atencion-de-emergencias/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Congreso aprueba crédito suplementario de más de S/ 8 200 millones para enfrentar el fenómeno El Niño e impulsar la infraestructura",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-aprueba-credito-suplementario-de-mas-de-s-8-200-millones-para-enfrentar-el-fenomeno-el-nino-e-impulsar-la-infraestructura/"
+    },
+    {
+      "title": "Comisión de Energía y Minas recogió propuestas de gremios para la formalización de la pequeña minería y minería artesanal",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-recogio-propuestas-de-gremios-para-la-formalizacion-de-la-pequena-mineria-y-mineria-artesanal/"
+    },
+    {
+      "title": "Aprueban dictámenes sobre beneficio fiscal para industria del libro y moratoria universitaria de cinco años",
+      "source": "Portal del Congreso",
+      "date": "28 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-sobre-beneficio-fiscal-para-industria-del-libro-y-moratoria-universitaria-de-cinco-anos/"
+    },
     {
       "title": "Grupo de Trabajo sobre Economías Ilícitas organizó mesa técnica sobre minería ilegal para buscar soluciones inmediatas y combatir este delito",
       "source": "Portal del Congreso",
@@ -1669,12 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-excongresista-elvis-vergara/"
-    },
-    {
-      "title": "Presidente del Congreso destaca medidas de eficiencia y ahorro adoptadas con la Cámara de Diputados",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-medidas-de-eficiencia-y-ahorro-adoptadas-con-la-camara-de-diputados/"
     }
   ],
   "events_override": {
@@ -3822,6 +3840,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/764",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 818 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO A TRAVÉS DEL MINISTERIO DE DESARROLLO AGRARIO Y RIEGO A DESTINAR RECURSOS PARA EL DESARROLLO...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
+        "pts": 3
       }
     ],
     "Juan César Cabrera Nieto": [
@@ -4516,6 +4542,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 818 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO A TRAVÉS DEL MINISTERIO DE DESARROLLO AGRARIO Y RIEGO A DESTINAR RECURSOS PARA EL DESARROLLO...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
+        "pts": 3
       }
     ],
     "Máximo Peralta Jorpa": [
@@ -4920,6 +4954,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 818 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO A TRAVÉS DEL MINISTERIO DE DESARROLLO AGRARIO Y RIEGO A DESTINAR RECURSOS PARA EL DESARROLLO...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
+        "pts": 3
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
@@ -4969,6 +5011,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 818 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO A TRAVÉS DEL MINISTERIO DE DESARROLLO AGRARIO Y RIEGO A DESTINAR RECURSOS PARA EL DESARROLLO...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
         "pts": 3
       }
     ],
@@ -7564,6 +7614,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/783",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 818 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO A TRAVÉS DEL MINISTERIO DE DESARROLLO AGRARIO Y RIEGO A DESTINAR RECURSOS PARA EL DESARROLLO...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
+        "pts": 3
       }
     ],
     "Daniel Jefferson Varas Seguin": [
@@ -7885,6 +7943,14 @@
         "d": "22/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/744",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 816 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE SALUDO Y FELICITACIÓN AL MINISTERIO DE LA MUJER Y POBLACIONES VULNERABLES (MIMP), CON MOTIVO D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/816",
         "pts": 3
       }
     ],
@@ -12482,6 +12548,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 815 (Mociones de Saludo): EXPRESAR UN FERVIENTE SALUDO Y RECONOCIMIENTO A LA PROVINCIA DE SULLANA, DEPARTAMENTO DE PIURA, CON MOTIVO DE CONMEMORAR...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/815",
+        "pts": 3
       }
     ],
     "Katherine Milagros Ampuero Meza": [
@@ -14280,6 +14354,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/704",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 817 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y PROFUNDO RECONOCIMIENTO A TODAS LAS PERSONAS CUIDADORAS EN EL PERÚ, TANTO REMUNERADAS C...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/817",
+        "pts": 3
       }
     ],
     "Miguel Felix Huamán Cornejo": [
@@ -15540,6 +15622,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-culminan-semana-de-representacion-atendiendo-demandas-ciudadanas/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 818 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO A TRAVÉS DEL MINISTERIO DE DESARROLLO AGRARIO Y RIEGO A DESTINAR RECURSOS PARA EL DESARROLLO...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
+        "pts": 3
       }
     ],
     "Jorge Arturo Zeballos Aponte": [
