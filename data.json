@@ -1597,10 +1597,22 @@
   },
   "senado_news": [
     {
-      "title": "Pleno de la Cámara de Diputados reprograma debate de informe final",
+      "title": "Reprograman citación de ministro del Interior y presidenta del Poder Judicial",
       "source": "Portal del Congreso",
       "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-reprograma-debate-de-informe-final/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-citacion-de-ministro-del-interior-y-presidenta-del-poder-judicial/"
+    },
+    {
+      "title": "Comisión de Control Político del Senado aprueba dictámenes sobre un tratado internacional y dos decretos supremos",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-del-senado-aprueba-dictamenes-sobre-un-tratado-internacional-y-dos-decretos-supremos/"
+    },
+    {
+      "title": "Presidente del Senado se reúne con director regional de UNICEF para fortalecer acciones en favor de la niñez y adolescencia del Perú",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-se-reune-con-director-regional-de-unicef-para-fortalecer-acciones-en-favor-de-la-ninez-y-adolescencia-del-peru/"
     },
     {
       "title": "Presidente del Congreso inaugura el XII Encuentro de Líderes Empresariales 2026 de CAENE",
@@ -1613,27 +1625,15 @@
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-aprueba-credito-suplementario-de-mas-de-s-8-200-millones-para-enfrentar-el-fenomeno-el-nino-e-impulsar-la-infraestructura/"
-    },
-    {
-      "title": "Aprueban dictámenes sobre beneficio fiscal para industria del libro y moratoria universitaria de cinco años",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-sobre-beneficio-fiscal-para-industria-del-libro-y-moratoria-universitaria-de-cinco-anos/"
-    },
-    {
-      "title": "Grupo de Trabajo sobre Economías Ilícitas organizó mesa técnica sobre minería ilegal para buscar soluciones inmediatas y combatir este delito",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-organizo-mesa-tecnica-sobre-mineria-ilegal-para-buscar-soluciones-inmediatas-y-combatir-este-delito/"
-    },
-    {
-      "title": "Aprueban tres dictámenes sobre donaciones ante desastres, beneficios para editoriales y exoneraciones tributarias",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-tres-dictamenes-sobre-donaciones-ante-desastres-beneficios-para-editoriales-y-exoneraciones-tributarias/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Cámara de Diputados archiva moción de interpelación al ministro de Educación, José Chang",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-archiva-mocion-de-interpelacion-al-ministro-de-educacion-jose-chang/"
+    },
     {
       "title": "Cámara de Diputados instala Liga Parlamentaria de Amistad Perú–Turquía",
       "source": "Portal del Congreso",
@@ -1663,30 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-aprueba-credito-suplementario-de-mas-de-s-8-200-millones-para-enfrentar-el-fenomeno-el-nino-e-impulsar-la-infraestructura/"
-    },
-    {
-      "title": "Comisión de Energía y Minas recogió propuestas de gremios para la formalización de la pequeña minería y minería artesanal",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-recogio-propuestas-de-gremios-para-la-formalizacion-de-la-pequena-mineria-y-mineria-artesanal/"
-    },
-    {
-      "title": "Aprueban dictámenes sobre beneficio fiscal para industria del libro y moratoria universitaria de cinco años",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-sobre-beneficio-fiscal-para-industria-del-libro-y-moratoria-universitaria-de-cinco-anos/"
-    },
-    {
-      "title": "Grupo de Trabajo sobre Economías Ilícitas organizó mesa técnica sobre minería ilegal para buscar soluciones inmediatas y combatir este delito",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-organizo-mesa-tecnica-sobre-mineria-ilegal-para-buscar-soluciones-inmediatas-y-combatir-este-delito/"
-    },
-    {
-      "title": "Aprueban tres dictámenes sobre donaciones ante desastres, beneficios para editoriales y exoneraciones tributarias",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-tres-dictamenes-sobre-donaciones-ante-desastres-beneficios-para-editoriales-y-exoneraciones-tributarias/"
     }
   ],
   "events_override": {
@@ -3589,6 +3565,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 842 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, A TODOS LOS A...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/842",
         "pts": 3
       }
     ],
@@ -6683,6 +6667,46 @@
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 846 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y ESPECIAL SALUDO AL DISTRITO DE SAN JUAN DE SALINAS, PROVINCIA DE AZÁNGARO, REGIÓN PUNO, CON MO...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/846",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 844 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y ESPECIAL SALUDO AL DISTRITO DE QUILCAPUNCU, PROVINCIA DE SAN ANTONIO DE PUTINA, REGIÓN PUNO, C...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/844",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 841 (Mociones de Saludo): EXPRESAR SU CORDIAL Y ESPECIAL SALUDO AL DISTRITO DE SAN JUAN DEL ORO, PROVINCIA DE SANDIA, REGIÓN PUNO, CON MOTIVO DE C...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/841",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 840 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y ESPECIAL SALUDO A LA CIUDAD DE PUNO, CON MOTIVO DE CONMEMORARSE EL 358.º ANIVERSARIO DE SU FUN...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/840",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 839 (Mociones de Saludo): EXPRESAR SU CORDIAL Y ESPECIAL SALUDO AL DISTRITO DE TIRAPATA, PROVINCIA DE AZÁNGARO, REGIÓN PUNO, CON MOTIVO DE CONMEMO...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/839",
         "pts": 3
       }
     ],
@@ -11336,6 +11360,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/828",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 828 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA PROVINCIA DE PUNO; AL CONMEMORARSE ESTE 04 DE NOVIEMB...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/828",
+        "pts": 3
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -12004,6 +12036,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/decretos-dictados-para-atender-emergencia-climatica-cumplen-con-parametros-constitucionales/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Control Político del Senado aprueba dictámenes sobre un tratado internacional y dos decretos supremos",
+        "d": "29/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-del-senado-aprueba-dictamenes-sobre-un-tratado-internacional-y-dos-decretos-supremos/",
+        "pts": 2
       }
     ],
     "Percy Herbert Osorio Palpán": [
@@ -12433,6 +12473,14 @@
         "d": "16/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/676",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 852 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DEPARTAMENTO DE SEGURIDAD DE BANCOS DE LA POLICÍA NACIONAL DEL PERÚ “ÁG...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/852",
         "pts": 3
       }
     ],
@@ -12887,6 +12935,14 @@
         "d": "22/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-del-senado-fortalece-la-fiscalizacion-frente-a-la-inseguridad-en-region-la-libertad/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Reprograman citación de ministro del Interior y presidenta del Poder Judicial",
+        "d": "29/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-citacion-de-ministro-del-interior-y-presidenta-del-poder-judicial/",
         "pts": 2
       }
     ],
@@ -13351,6 +13407,14 @@
         "d": "16/09/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/380",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 853 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO, AFECTUOSO Y EFUSIVO SALUDO A LA POBLACIÓN Y A LAS AUTORIDADES DEL DISTRITO DE HUARAL, EN LA PROV...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/853",
         "pts": 3
       }
     ],
@@ -13891,6 +13955,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 187 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA CIUDAD DE PUNO, CAPITAL DE LA PROVINCIA Y DEPARTAMENT...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/187",
         "pts": 3
       }
     ],
@@ -15851,6 +15923,14 @@
         "d": "17/09/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-expresan-posiciones-diversas-y-exigen-puesta-en-marcha-de-planes-operativos-contra-la-inseguridad/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Reprograman citación de ministro del Interior y presidenta del Poder Judicial",
+        "d": "29/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-citacion-de-ministro-del-interior-y-presidenta-del-poder-judicial/",
         "pts": 2
       }
     ],
