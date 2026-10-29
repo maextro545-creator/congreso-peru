@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Pleno de la Cámara de Diputados reprograma debate de informe final",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-reprograma-debate-de-informe-final/"
+    },
+    {
+      "title": "Presidente del Congreso inaugura el XII Encuentro de Líderes Empresariales 2026 de CAENE",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inaugura-el-xii-encuentro-de-lideres-empresariales-2026-de-caene/"
+    },
+    {
       "title": "Congreso aprueba crédito suplementario de más de S/ 8 200 millones para enfrentar el fenómeno El Niño e impulsar la infraestructura",
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
@@ -1619,39 +1631,33 @@
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-tres-dictamenes-sobre-donaciones-ante-desastres-beneficios-para-editoriales-y-exoneraciones-tributarias/"
-    },
-    {
-      "title": "Pleno del Congreso aprueba dictamen de la Cuenta General de la República 2025",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-dictamen-de-la-cuenta-general-de-la-republica-2025/"
-    },
-    {
-      "title": "Admiten a trámite denuncia constitucional contra excongresista Elvis Vergara",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-excongresista-elvis-vergara/"
-    },
-    {
-      "title": "Senado aprobó reglamento para la selección y elección de los magistrados del TC",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprobo-reglamento-para-la-seleccion-y-eleccion-de-los-magistrados-del-tc/"
-    },
-    {
-      "title": "Senado aprobó prórroga de estados de emergencia solicitada por el Poder Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprobo-prorroga-de-estados-de-emergencia-solicitadas-por-el-poder-ejecutivo/"
-    },
-    {
-      "title": "Autorizan ingreso de unidad naval chilena para ejercicio de control de contaminación por derrame de hidrocarburos",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/autorizan-ingreso-de-unidad-naval-chilena-para-ejercicio-de-control-de-contaminacion-por-derrame-de-hidrocarburos/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Cámara de Diputados instala Liga Parlamentaria de Amistad Perú–Turquía",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-instala-liga-parlamentaria-de-amistad-peru-turquia/"
+    },
+    {
+      "title": "Pleno de la Cámara de Diputados reprograma debate de informe final",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-reprograma-debate-de-informe-final/"
+    },
+    {
+      "title": "Aprueban Agenda Legislativa para el Período Anual de Sesiones 2026-2027",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-agenda-legislativa-para-el-periodo-anual-de-sesiones-2026-2027/"
+    },
+    {
+      "title": "Cámara de Diputados aprueba dictamen que fortalece la profesión de Enfermería y la seguridad de los pacientes",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-aprueba-dictamen-que-fortalece-la-profesion-de-enfermeria-y-la-seguridad-de-los-pacientes/"
+    },
     {
       "title": "Congreso aprueba crédito suplementario de más de S/ 8 200 millones para enfrentar el fenómeno El Niño e impulsar la infraestructura",
       "source": "Portal del Congreso",
@@ -1681,18 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "28 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-tres-dictamenes-sobre-donaciones-ante-desastres-beneficios-para-editoriales-y-exoneraciones-tributarias/"
-    },
-    {
-      "title": "Pleno del Congreso aprueba dictamen de la Cuenta General de la República 2025",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-dictamen-de-la-cuenta-general-de-la-republica-2025/"
-    },
-    {
-      "title": "Admiten a trámite denuncia constitucional contra excongresista Elvis Vergara",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-a-tramite-denuncia-constitucional-contra-excongresista-elvis-vergara/"
     }
   ],
   "events_override": {
@@ -2111,6 +2105,14 @@
         "d": "27/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-austeridad-y-vocacion-de-servicio-son-pilares-del-nuevo-congreso-bicameral/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Pleno de la Cámara de Diputados reprograma debate de informe final",
+        "d": "29/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-reprograma-debate-de-informe-final/",
         "pts": 2
       }
     ],
@@ -3070,6 +3072,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/811",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES ...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -3156,6 +3166,14 @@
       {
         "t": "📌",
         "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL“EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES ...",
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
@@ -3354,6 +3372,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES ...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -3544,6 +3570,22 @@
       {
         "t": "📌",
         "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL“EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES D...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 838 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO D...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/838",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES ...",
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
@@ -3742,6 +3784,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/796",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 798 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “EL RECONOCIMIENTO, LA PROTECCIÓN Y LA SALVAGUARDIA DE LOS CULTORES ...",
+        "d": "28/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
+        "pts": 3
       }
     ],
     "Edgar Adrián Alvaron De la Cruz": [
@@ -3847,6 +3897,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
         "pts": 3
       }
     ],
@@ -4224,6 +4282,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 822 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y FRATERNO SALUDO, FELICITACIÓN Y JUSTO RECONOCIMIENTO A LAS AUTORIDADES Y A TODA LA CIUDADANÍA D...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/822",
+        "pts": 3
       }
     ],
     "Heber López Letona": [
@@ -4550,6 +4616,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 827 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO INSTITUCIONAL POR LA REALIZACIÓN DE THE WORLD’S 50 BEST RESTAURANTS 2026, DEL 2 AL 4...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/827",
+        "pts": 3
       }
     ],
     "Máximo Peralta Jorpa": [
@@ -4639,6 +4713,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/808",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 829 (Mociones de Saludo): EXPRESAR UN FERVIENTE SALUDO Y FELICITACIÓN A LAS ATLETAS DE JUNÍN INÉS TERESA PARDAVÉ ZAPATA, DANAE JURADO RÍOS Y MELAN...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/829",
         "pts": 3
       }
     ],
@@ -4961,6 +5043,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
         "pts": 3
       }
     ],
@@ -5596,6 +5686,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/186",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Pleno de la Cámara de Diputados reprograma debate de informe final",
+        "d": "29/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-reprograma-debate-de-informe-final/",
+        "pts": 2
       }
     ],
     "Saul Andrés Armacanqui Morales": [
@@ -6246,6 +6344,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/757",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
+        "pts": 3
       }
     ],
     "Pierangeli Daniela Dodero Jovich": [
@@ -6570,6 +6676,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/740",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
+        "pts": 3
       }
     ],
     "Roxana María Rocha Gallegos": [
@@ -6756,6 +6870,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/761",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -6861,6 +6983,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/809",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 821 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DISTRITO DE SAN BUENAVENTURA, PROVINCIA DE MARAÑÓN Y DEPARTAMENTO DE HUÁ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/821",
         "pts": 3
       }
     ],
@@ -7143,6 +7273,14 @@
         "d": "27/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/794",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
         "pts": 3
       }
     ],
@@ -7460,6 +7598,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/694",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
+        "pts": 3
       }
     ],
     "Olver Peña Córdova": [
@@ -7621,6 +7767,14 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
         "pts": 3
       }
     ],
@@ -8148,6 +8302,30 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/803",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 835 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO A LA PROVINCIA DE GRAU, CON OCASIÓN DE CONMEMORARSE EL 04 DE NOVIEMBRE D...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/835",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 833 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y RECONOCIMIENTO A LA PROVINCIA DE ABANCAY, CON OCASIÓN DE CONMEMORARSE EL 03 DE NOVIEMBR...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/833",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
+        "pts": 3
       }
     ],
     "Ernesto Alonso Zunini Yerren": [
@@ -8494,6 +8672,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/718",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
+        "pts": 3
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -8835,6 +9021,14 @@
         "d": "01/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/522",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 830 (Conformación de Comisiones Especiales): Aprobar la presente Moción de Orden del Día y CONFORMAR la Comisión Especial Multipartidaria para la Prevención, Atenció...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
         "pts": 3
       }
     ],
@@ -9876,6 +10070,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/670",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "José Isidro Baella Malca": [
@@ -9926,6 +10128,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jose-baella-propone-ensenar-historia-del-terrorismo-en-universidades-y-escuelas-de-formacion-policial-y-militar/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Nary Benvinda Pinasco Montenegro": [
@@ -10564,6 +10774,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/643",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Marlon Alberto Aguirre Ramos": [
@@ -11110,6 +11328,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/733",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 828 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTOA LA PROVINCIA DE PUNO; AL CONMEMORARSE ESTE 04 DE NOVIEMBR...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/828",
+        "pts": 3
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -11175,6 +11401,22 @@
         "d": "26/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/776",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 831 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN A LA PROVINCIA DE CHINCHA, UBICADA EN EL DEPARTAMENTO DE ICA, AL CONMEMORARSE SU 158.°...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/831",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 826 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN AL DISTRITO DE ANCÓN, UBICADO EN LA PROVINCIA Y DEPARTAMENTO DE LIMA, AL CELEBRAR SU 1...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/826",
         "pts": 3
       }
     ],
@@ -11265,6 +11507,14 @@
         "d": "27/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/785",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 832 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS AUTORIDADES, INSTITUCIONES PÚBLICAS Y PRIVADAS, Y A ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/832",
         "pts": 3
       }
     ],
@@ -11403,6 +11653,22 @@
         "d": "28/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/805",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 820 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA CÁMARA DE COMERCIO ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/820",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 819 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DE LA PRO...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/819",
         "pts": 3
       }
     ],
@@ -12556,6 +12822,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/815",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 834 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE EL ARENAL, PROVINCIA DE PAITA, DEPARTAMENTO DE PIURA, AL CO...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/834",
+        "pts": 3
       }
     ],
     "Katherine Milagros Ampuero Meza": [
@@ -13152,6 +13426,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/734",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Jeenny Cristina Samanez Gonzales Vigil": [
@@ -13235,6 +13517,14 @@
         "d": "06/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
         "pts": 3
       }
     ],
@@ -14261,6 +14551,14 @@
         "d": "06/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
         "pts": 3
       }
     ],
@@ -15630,6 +15928,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/818",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Jorge Arturo Zeballos Aponte": [
@@ -15656,6 +15962,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jorge-zeballos-propone-implementar-el-voto-postal-facultativo-para-los-peruanos-residentes-en-el-exterior/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Christian Aranda Vasquez": [
@@ -15772,6 +16086,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/595",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Rafael Gustavo Yamashiro Ore": [
@@ -15855,6 +16177,16 @@
         "d": "27/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-anali-marquez-impulsa-mesa-tecnica-para-evaluar-los-derechos-de-las-trabajadoras-del-hogar/",
+        "pts": 2
+      }
+    ],
+    "Royser Castro Grandez": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Cámara de Diputados instala Liga Parlamentaria de Amistad Perú–Turquía",
+        "d": "29/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-instala-liga-parlamentaria-de-amistad-peru-turquia/",
         "pts": 2
       }
     ]
