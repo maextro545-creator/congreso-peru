@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Aprueba plan de trabajo para fiscalizar recursos destinados a prevenir los efectos del fenómeno El Niño y eligen a su vicepresidente",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-plan-de-trabajo-para-fiscalizar-recursos-destinados-a-prevenir-los-efectos-del-fenomeno-el-nino-y-eligen-a-su-vicepresidente/"
+    },
+    {
       "title": "Senadores respaldan mayor presupuesto para la Marina de Guerra y destacan su labor social",
       "source": "Portal del Congreso",
       "date": "29 Oct 2026",
@@ -1622,6 +1628,12 @@
     }
   ],
   "diputados_news": [
+    {
+      "title": "Realizarán mesas técnicas para dar seguimiento a 59 leyes sin reglamentar",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/realizaran-mesas-tecnicas-para-dar-seguimiento-a-59-leyes-sin-reglamentar/"
+    },
     {
       "title": "Cámara de Diputados rindió homenaje a maestras tejedoras del Cusco en el 30° aniversario del CTTC",
       "source": "Portal del Congreso",
@@ -1651,12 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "29 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-reprograma-debate-de-informe-final/"
-    },
-    {
-      "title": "Aprueban Agenda Legislativa para el Período Anual de Sesiones 2026-2027",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-agenda-legislativa-para-el-periodo-anual-de-sesiones-2026-2027/"
     }
   ],
   "events_override": {
@@ -6904,6 +6910,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -7304,6 +7318,14 @@
       {
         "t": "📌",
         "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
@@ -10104,6 +10126,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "José Isidro Baella Malca": [
@@ -10158,6 +10188,14 @@
       {
         "t": "📌",
         "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
@@ -10804,6 +10842,14 @@
       {
         "t": "📌",
         "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
@@ -11913,6 +11959,14 @@
         "d": "20/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/688",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 857 (Mociones de Saludo): EXPRESAR SU ESPECIAL SALUDO Y FELICITACIÓN AL DISTRITO DE LA BREA, PROVINCIA DE TALARA, DEPARTAMENTO DE PIURA, CON OCASI...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/857",
         "pts": 3
       }
     ],
@@ -13508,6 +13562,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Jeenny Cristina Samanez Gonzales Vigil": [
@@ -13596,6 +13658,14 @@
       {
         "t": "📌",
         "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
@@ -14047,6 +14117,14 @@
         "d": "21/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/704",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 856 (Pedidos para que el pleno se pronuncie sobre interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL FORTALECIMIENTO DE LAS ACCIONES PARA AVANZAR HACIA LA ELIMINACIÓN DE...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/856",
         "pts": 3
       }
     ],
@@ -14608,6 +14686,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-sobre-economias-ilicitas-organizo-mesa-tecnica-sobre-mineria-ilegal-para-buscar-soluciones-inmediatas-y-combatir-este-delito/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Realizarán mesas técnicas para dar seguimiento a 59 leyes sin reglamentar",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/realizaran-mesas-tecnicas-para-dar-seguimiento-a-59-leyes-sin-reglamentar/",
+        "pts": 2
       }
     ],
     "Frank Krklec Torres": [
@@ -14638,6 +14724,14 @@
       {
         "t": "📌",
         "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
@@ -15031,6 +15125,14 @@
         "d": "27/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/792",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 856 (Pedidos para que el pleno se pronuncie sobre interes nacional): DECLARAR DE NECESIDAD PÚBLICA E INTERÉS NACIONAL EL FORTALECIMIENTO DE LAS ACCIONES PARA AVANZAR HACIA LA ELIMINACIÓN DE...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/856",
         "pts": 3
       }
     ],
@@ -16026,6 +16128,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
       }
     ],
     "Jorge Arturo Zeballos Aponte": [
@@ -16056,6 +16166,14 @@
       {
         "t": "📌",
         "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
@@ -16180,6 +16298,14 @@
       {
         "t": "📌",
         "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE FENSA CIVIL ...",
+        "d": "29/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 837 (Pedidos de Declaración de necesidad pública o interes nacional): REQUERIR AL PODER EJECUTIVO, ATRAVÉS DE LA PRESIDENCIA DEL CONCEJO DE MINISTROS Y DEL INSTITUTO NACIONAL DE DEFENSA CIVI...",
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
