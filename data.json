@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Senadores respaldan mayor presupuesto para la Marina de Guerra y destacan su labor social",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-respaldan-mayor-presupuesto-para-la-marina-de-guerra-y-destacan-su-labor-social/"
+    },
+    {
       "title": "Reprograman citación de ministro del Interior y presidenta del Poder Judicial",
       "source": "Portal del Congreso",
       "date": "29 Oct 2026",
@@ -1613,21 +1619,21 @@
       "source": "Portal del Congreso",
       "date": "29 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-se-reune-con-director-regional-de-unicef-para-fortalecer-acciones-en-favor-de-la-ninez-y-adolescencia-del-peru/"
-    },
-    {
-      "title": "Presidente del Congreso inaugura el XII Encuentro de Líderes Empresariales 2026 de CAENE",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inaugura-el-xii-encuentro-de-lideres-empresariales-2026-de-caene/"
-    },
-    {
-      "title": "Congreso aprueba crédito suplementario de más de S/ 8 200 millones para enfrentar el fenómeno El Niño e impulsar la infraestructura",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-aprueba-credito-suplementario-de-mas-de-s-8-200-millones-para-enfrentar-el-fenomeno-el-nino-e-impulsar-la-infraestructura/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Cámara de Diputados rindió homenaje a maestras tejedoras del Cusco en el 30° aniversario del CTTC",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-rindio-homenaje-a-maestras-tejedoras-del-cusco-en-el-30-aniversario-del-cttc/"
+    },
+    {
+      "title": "Aprueba plan de trabajo para fiscalizar recursos destinados a prevenir los efectos del fenómeno El Niño y eligen a su vicepresidente",
+      "source": "Portal del Congreso",
+      "date": "29 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-plan-de-trabajo-para-fiscalizar-recursos-destinados-a-prevenir-los-efectos-del-fenomeno-el-nino-y-eligen-a-su-vicepresidente/"
+    },
     {
       "title": "Cámara de Diputados archiva moción de interpelación al ministro de Educación, José Chang",
       "source": "Portal del Congreso",
@@ -1651,18 +1657,6 @@
       "source": "Portal del Congreso",
       "date": "29 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-agenda-legislativa-para-el-periodo-anual-de-sesiones-2026-2027/"
-    },
-    {
-      "title": "Cámara de Diputados aprueba dictamen que fortalece la profesión de Enfermería y la seguridad de los pacientes",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-aprueba-dictamen-que-fortalece-la-profesion-de-enfermeria-y-la-seguridad-de-los-pacientes/"
-    },
-    {
-      "title": "Congreso aprueba crédito suplementario de más de S/ 8 200 millones para enfrentar el fenómeno El Niño e impulsar la infraestructura",
-      "source": "Portal del Congreso",
-      "date": "28 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-aprueba-credito-suplementario-de-mas-de-s-8-200-millones-para-enfrentar-el-fenomeno-el-nino-e-impulsar-la-infraestructura/"
     }
   ],
   "events_override": {
@@ -2089,6 +2083,14 @@
         "d": "29/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-reprograma-debate-de-informe-final/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Cámara de Diputados rindió homenaje a maestras tejedoras del Cusco en el 30° aniversario del CTTC",
+        "d": "29/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-rindio-homenaje-a-maestras-tejedoras-del-cusco-en-el-30-aniversario-del-cttc/",
         "pts": 2
       }
     ],
@@ -11993,6 +11995,14 @@
         "d": "19/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-gabriel-gonzales-presidira-comision-especial-de-fiscalizacion-de-recursos-ante-el-fenomeno-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueba plan de trabajo para fiscalizar recursos destinados a prevenir los efectos del fenómeno El Niño y eligen a su vicepresidente",
+        "d": "29/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-plan-de-trabajo-para-fiscalizar-recursos-destinados-a-prevenir-los-efectos-del-fenomeno-el-nino-y-eligen-a-su-vicepresidente/",
         "pts": 2
       }
     ],
