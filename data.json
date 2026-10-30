@@ -1597,37 +1597,85 @@
   },
   "senado_news": [
     {
+      "title": "En mesa de trabajo promueven el diálogo participativo para optimizar dictamen sobre sostenibilidad agraria amazónica",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-mesa-de-trabajo-promueven-el-dialogo-participativo-para-optimizar-dictamen-sobre-sostenibilidad-agraria-amazonica/"
+    },
+    {
+      "title": "Arequipa: Comisión en asuntos de Desarrollo Productivo evaluó los avances y desafíos del sector",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/arequipa-comision-en-asuntos-de-desarrollo-productivo-evaluo-los-avances-y-desafios-del-sector/"
+    },
+    {
+      "title": "Se instaló la Liga Parlamentaria de Amistad Perú–Colombia",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instalo-la-liga-parlamentaria-de-amistad-peru-colombia/"
+    },
+    {
+      "title": "Analizan problemática de mujeres emprendedoras en el exterior",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-mujeres-emprendedoras-en-el-exterior/"
+    },
+    {
+      "title": "Realizarán mesas técnicas para dar seguimiento a 59 leyes sin reglamentar",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/realizaran-mesas-tecnicas-para-dar-seguimiento-a-59-leyes-sin-reglamentar/"
+    },
+    {
       "title": "Aprueba plan de trabajo para fiscalizar recursos destinados a prevenir los efectos del fenómeno El Niño y eligen a su vicepresidente",
       "source": "Portal del Congreso",
       "date": "29 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-plan-de-trabajo-para-fiscalizar-recursos-destinados-a-prevenir-los-efectos-del-fenomeno-el-nino-y-eligen-a-su-vicepresidente/"
-    },
-    {
-      "title": "Senadores respaldan mayor presupuesto para la Marina de Guerra y destacan su labor social",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-respaldan-mayor-presupuesto-para-la-marina-de-guerra-y-destacan-su-labor-social/"
-    },
-    {
-      "title": "Reprograman citación de ministro del Interior y presidenta del Poder Judicial",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-citacion-de-ministro-del-interior-y-presidenta-del-poder-judicial/"
-    },
-    {
-      "title": "Comisión de Control Político del Senado aprueba dictámenes sobre un tratado internacional y dos decretos supremos",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-control-politico-del-senado-aprueba-dictamenes-sobre-un-tratado-internacional-y-dos-decretos-supremos/"
-    },
-    {
-      "title": "Presidente del Senado se reúne con director regional de UNICEF para fortalecer acciones en favor de la niñez y adolescencia del Perú",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-se-reune-con-director-regional-de-unicef-para-fortalecer-acciones-en-favor-de-la-ninez-y-adolescencia-del-peru/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Leticia Leiva Baylon fue elegida presidenta de la Liga Parlamentaria de Amistad Perú-Estados Unidos",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/leticia-leiva-baylon-fue-elegida-presidenta-de-la-liga-parlamentaria-de-amistad-peru-estados-unidos/"
+    },
+    {
+      "title": "Liga Parlamentaria de Amistad Perú-China eligió al diputado Félix Chang como presidente",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-china-eligio-al-diputado-felix-chang-como-presidente/"
+    },
+    {
+      "title": "En mesa de trabajo promueven el diálogo participativo para optimizar dictamen sobre sostenibilidad agraria amazónica",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-mesa-de-trabajo-promueven-el-dialogo-participativo-para-optimizar-dictamen-sobre-sostenibilidad-agraria-amazonica/"
+    },
+    {
+      "title": "Arequipa: Comisión en asuntos de Desarrollo Productivo evaluó los avances y desafíos del sector",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/arequipa-comision-en-asuntos-de-desarrollo-productivo-evaluo-los-avances-y-desafios-del-sector/"
+    },
+    {
+      "title": "Realizan mesa técnica sobre atención estética en el marco de una nueva propuesta normativa",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/realizan-mesa-tecnica-sobre-atencion-estetica-en-el-marco-de-una-nueva-propuesta-normativa/"
+    },
+    {
+      "title": "Se instaló la Liga Parlamentaria de Amistad Perú–Colombia",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instalo-la-liga-parlamentaria-de-amistad-peru-colombia/"
+    },
+    {
+      "title": "Analizan problemática de mujeres emprendedoras en el exterior",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-mujeres-emprendedoras-en-el-exterior/"
+    },
     {
       "title": "Realizarán mesas técnicas para dar seguimiento a 59 leyes sin reglamentar",
       "source": "Portal del Congreso",
@@ -1645,24 +1693,6 @@
       "source": "Portal del Congreso",
       "date": "29 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-plan-de-trabajo-para-fiscalizar-recursos-destinados-a-prevenir-los-efectos-del-fenomeno-el-nino-y-eligen-a-su-vicepresidente/"
-    },
-    {
-      "title": "Cámara de Diputados archiva moción de interpelación al ministro de Educación, José Chang",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-archiva-mocion-de-interpelacion-al-ministro-de-educacion-jose-chang/"
-    },
-    {
-      "title": "Cámara de Diputados instala Liga Parlamentaria de Amistad Perú–Turquía",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-instala-liga-parlamentaria-de-amistad-peru-turquia/"
-    },
-    {
-      "title": "Pleno de la Cámara de Diputados reprograma debate de informe final",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-reprograma-debate-de-informe-final/"
     }
   ],
   "events_override": {
@@ -3064,6 +3094,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Realizan mesa técnica sobre atención estética en el marco de una nueva propuesta normativa",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/realizan-mesa-tecnica-sobre-atencion-estetica-en-el-marco-de-una-nueva-propuesta-normativa/",
+        "pts": 2
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -3162,6 +3200,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/798",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Liga Parlamentaria de Amistad Perú-China eligió al diputado Félix Chang como presidente",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-china-eligio-al-diputado-felix-chang-como-presidente/",
+        "pts": 2
       }
     ],
     "Angel Renato Meneses Crispin": [
@@ -5043,6 +5089,14 @@
         "d": "29/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/830",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 860 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y EFUSIVO SALUDO A LA PROVINCIA DE CHINCHA, REGIÓN ICA, CON OCASIÓN DE CONMEMORARSE EL 158.º ANI...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/860",
         "pts": 3
       }
     ],
@@ -9194,6 +9248,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/445",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Liga Parlamentaria de Amistad Perú-China eligió al diputado Félix Chang como presidente",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-china-eligio-al-diputado-felix-chang-como-presidente/",
+        "pts": 2
       }
     ],
     "Georgina Duarte de Pezet": [
@@ -10854,6 +10916,14 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/837",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Liga Parlamentaria de Amistad Perú-China eligió al diputado Félix Chang como presidente",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-china-eligio-al-diputado-felix-chang-como-presidente/",
+        "pts": 2
       }
     ],
     "Marlon Alberto Aguirre Ramos": [
@@ -11967,6 +12037,22 @@
         "d": "30/10/2026",
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/857",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 859 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO INSTITUCIONAL CON MOTIVO DE CONMEMORARSE, ESTE 31 DE OCTUBRE, EL DÍA DE LA CANCIÓN C...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/859",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 858 (Mociones de Saludo): EXPRESAR SU ESPECIAL SALUDO Y FELICITACIÓN AL DISTRITO DE CURA MORI, PROVINCIA Y DEPARTAMENTO DE PIURA, CON OCASIÓN DE L...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/858",
         "pts": 3
       }
     ],
@@ -15540,6 +15626,62 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/690",
         "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 867 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO A LA PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPARTAMENTO DE AMAZONAS, AL CONMEMORAR...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/867",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 866 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE MILPUC, PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPARTAMENTO DE ...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/866",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 865 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE VISTA ALEGRE, PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPARTAMEN...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/865",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 864 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE LIMABAMBA, UBICADO EN LA PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPA...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/864",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 863 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE LONGAR, PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPARTAMENTO DE ...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/863",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 862 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE COCHAMAL, UBICADO EN LA PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPAR...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/862",
+        "pts": 3
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 861 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y EMOTIVO SALUDO AL DISTRITO DE CHIRIMOTO, UBICADO EN LA PROVINCIA DE RODRÍGUEZ DE MENDOZA, DEPA...",
+        "d": "30/10/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/861",
+        "pts": 3
       }
     ],
     "Alexander Salas Rivera": [
@@ -16403,6 +16545,16 @@
         "d": "29/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-instala-liga-parlamentaria-de-amistad-peru-turquia/",
+        "pts": 2
+      }
+    ],
+    "Leticia Maruja Leiva Baylon": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Leticia Leiva Baylon fue elegida presidenta de la Liga Parlamentaria de Amistad Perú-Estados Unidos",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/leticia-leiva-baylon-fue-elegida-presidenta-de-la-liga-parlamentaria-de-amistad-peru-estados-unidos/",
         "pts": 2
       }
     ]
