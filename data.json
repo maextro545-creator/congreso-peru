@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Liga Parlamentaria de Amistad Perú-Israel: Comité Consultivo se compromete a fortalecer lazos de cooperación entre ambos países",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-israel-comite-consultivo-se-compromete-a-fortalecer-lazos-de-cooperacion-entre-ambos-paises/"
+    },
+    {
       "title": "En mesa de trabajo promueven el diálogo participativo para optimizar dictamen sobre sostenibilidad agraria amazónica",
       "source": "Portal del Congreso",
       "date": "30 Oct 2026",
@@ -1613,27 +1619,33 @@
       "source": "Portal del Congreso",
       "date": "30 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instalo-la-liga-parlamentaria-de-amistad-peru-colombia/"
-    },
-    {
-      "title": "Analizan problemática de mujeres emprendedoras en el exterior",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-mujeres-emprendedoras-en-el-exterior/"
-    },
-    {
-      "title": "Realizarán mesas técnicas para dar seguimiento a 59 leyes sin reglamentar",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/realizaran-mesas-tecnicas-para-dar-seguimiento-a-59-leyes-sin-reglamentar/"
-    },
-    {
-      "title": "Aprueba plan de trabajo para fiscalizar recursos destinados a prevenir los efectos del fenómeno El Niño y eligen a su vicepresidente",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-plan-de-trabajo-para-fiscalizar-recursos-destinados-a-prevenir-los-efectos-del-fenomeno-el-nino-y-eligen-a-su-vicepresidente/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Instalaron la Liga Parlamentaria de Amistad Perú-Japón y eligieron a Marco Pacheco Quispe como presidente",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/instalaron-la-liga-parlamentaria-de-amistad-peru-japon-y-eligieron-a-marco-pacheco-quispe-como-presidente/"
+    },
+    {
+      "title": "Destacan importancia de profesionalizar la comunicación y las campañas políticas",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/destacan-importancia-de-profesionalizar-la-comunicacion-y-las-campanas-politicas/"
+    },
+    {
+      "title": "Liga Parlamentaria de Amistad Perú-El Salvador quedó instalada y eligió a Diego Bazán como presidente",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-el-salvador-quedo-instalada-y-eligio-a-diego-bazan-como-presidente/"
+    },
+    {
+      "title": "Liga Parlamentaria de Amistad Perú-Israel: Comité Consultivo se compromete a fortalecer lazos de cooperación entre ambos países",
+      "source": "Portal del Congreso",
+      "date": "30 Oct 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-israel-comite-consultivo-se-compromete-a-fortalecer-lazos-de-cooperacion-entre-ambos-paises/"
+    },
     {
       "title": "Leticia Leiva Baylon fue elegida presidenta de la Liga Parlamentaria de Amistad Perú-Estados Unidos",
       "source": "Portal del Congreso",
@@ -1669,30 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "30 Oct 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instalo-la-liga-parlamentaria-de-amistad-peru-colombia/"
-    },
-    {
-      "title": "Analizan problemática de mujeres emprendedoras en el exterior",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-problematica-de-mujeres-emprendedoras-en-el-exterior/"
-    },
-    {
-      "title": "Realizarán mesas técnicas para dar seguimiento a 59 leyes sin reglamentar",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/realizaran-mesas-tecnicas-para-dar-seguimiento-a-59-leyes-sin-reglamentar/"
-    },
-    {
-      "title": "Cámara de Diputados rindió homenaje a maestras tejedoras del Cusco en el 30° aniversario del CTTC",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-rindio-homenaje-a-maestras-tejedoras-del-cusco-en-el-30-aniversario-del-cttc/"
-    },
-    {
-      "title": "Aprueba plan de trabajo para fiscalizar recursos destinados a prevenir los efectos del fenómeno El Niño y eligen a su vicepresidente",
-      "source": "Portal del Congreso",
-      "date": "29 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-plan-de-trabajo-para-fiscalizar-recursos-destinados-a-prevenir-los-efectos-del-fenomeno-el-nino-y-eligen-a-su-vicepresidente/"
     }
   ],
   "events_override": {
@@ -13458,6 +13446,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/torres-morales-desde-el-congreso-estamos-comprometidos-con-la-salud-de-todos-los-peruanos/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Instalaron la Liga Parlamentaria de Amistad Perú-Japón y eligieron a Marco Pacheco Quispe como presidente",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/instalaron-la-liga-parlamentaria-de-amistad-peru-japon-y-eligieron-a-marco-pacheco-quispe-como-presidente/",
+        "pts": 2
       }
     ],
     "Kim Tami Muñoz Yurivilca": [
@@ -15452,6 +15448,22 @@
         "tipo": "Moción de Orden del Día",
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/762",
         "pts": 3
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Destacan importancia de profesionalizar la comunicación y las campañas políticas",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/destacan-importancia-de-profesionalizar-la-comunicacion-y-las-campanas-politicas/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Liga Parlamentaria de Amistad Perú-El Salvador quedó instalada y eligió a Diego Bazán como presidente",
+        "d": "30/10/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-el-salvador-quedo-instalada-y-eligio-a-diego-bazan-como-presidente/",
+        "pts": 2
       }
     ],
     "Alejandro Muñante Barrios": [
