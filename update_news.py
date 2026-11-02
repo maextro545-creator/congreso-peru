@@ -92,7 +92,12 @@ def fetch_spley_bills(events_override, all_names):
                                 "d": fec,
                                 "tipo": "Proyecto de Ley",
                                 "url": pley_url,
-                                "pts": 5
+                                "pts": 5,
+                                "titulo_completo": titulo,
+                                "estado": clean_text(p.get("desEstado", "Presentado")),
+                                "proponente": clean_text(p.get("desProponente", "")),
+                                "autores": autores_raw,
+                                "expediente": num_pley
                             })
                             print(f"Added bill event (+5 Pts) for: {leg_name} -> {num_pley}")
     except Exception as e:
@@ -150,7 +155,13 @@ def fetch_smociones_mociones(events_override, all_names):
                                     "d": fec,
                                     "tipo": "Moción de Orden del Día",
                                     "url": mocion_url,
-                                    "pts": 3
+                                    "pts": 3,
+                                    "sumilla": sumilla,
+                                    "estado": clean_text(m.get("desEstadoMocion", "")),
+                                    "grupo": clean_text(m.get("desGpar", "")),
+                                    "autores": autores_raw,
+                                    "expediente": m.get("mocion", ""),
+                                    "subtipo": tipo
                                 })
                                 print(f"Added motion event (+3 Pts) for: {leg_name} -> Moción N° {num_mocion}")
         except Exception as e:

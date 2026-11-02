@@ -106,6 +106,91 @@
       transform: translateY(-2px);
       box-shadow: 0 6px 16px rgba(22,101,52,0.08);
     }
+    .evt-inner.expanded {
+      border-color: var(--accent) !important;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12) !important;
+    }
+    .evt-chevron {
+      transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .evt-inner.expanded .evt-chevron {
+      transform: rotate(180deg);
+    }
+    .evt-details-box {
+      border-top: 1px dashed rgba(0,0,0,0.15);
+      margin-top: 10px;
+      padding-top: 10px;
+      font-size: 0.72rem;
+      color: var(--text);
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      animation: evtFadeIn 0.2s ease;
+    }
+    @keyframes evtFadeIn {
+      from { opacity: 0; transform: translateY(-4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .evt-meta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 6px 12px;
+      background: rgba(255,255,255,0.7);
+      padding: 8px 10px;
+      border-radius: 6px;
+      border: 1px solid rgba(0,0,0,0.06);
+    }
+    .evt-meta-item {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .evt-meta-label {
+      font-size: 0.6rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--sub);
+    }
+    .evt-meta-val {
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: var(--text);
+      word-break: break-word;
+    }
+    .evt-sumilla-text {
+      background: rgba(255,255,255,0.85);
+      border: 1px solid rgba(0,0,0,0.08);
+      border-radius: 6px;
+      padding: 9px 12px;
+      line-height: 1.5;
+      font-size: 0.72rem;
+      color: #1f2937;
+      text-align: justify;
+      word-break: break-word;
+    }
+    .evt-visit-btn {
+      align-self: flex-start;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--dark);
+      color: #fff !important;
+      text-decoration: none;
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 0.68rem;
+      font-weight: 700;
+      transition: all 0.15s ease;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.15);
+      margin-top: 4px;
+    }
+    .evt-visit-btn:hover {
+      background: var(--accent);
+      color: #fff !important;
+      transform: translateY(-1px);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    }
 
     .pbar{background:var(--card);border-bottom:1px solid var(--border);
       display:flex;gap:0;overflow-x:auto;scrollbar-width:none;
@@ -2243,30 +2328,77 @@ function openP(leg){
           '<input type="text" id="leg-evt-search" placeholder="🔍 Filtrar leyes, mociones o temas..." oninput="filterLegEvts(this.value)" style="width:100%;box-sizing:border-box;padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--text);font-size:0.75rem;font-family:inherit;outline:none;box-shadow:var(--shadow);" onfocus="this.style.borderColor=\'var(--accent)\'" onblur="this.style.borderColor=\'var(--border)\'" />' +
         '</div>';
 
-        const cards = sorted.map(e=>{
-          const href = e.url ? ' href="' + e.url + '" target="_blank" style="text-decoration:none;display:block;transition:all 0.15s;cursor:pointer;" class="evt-card"' : ' style="display:block;text-decoration:none;"';
+        const cards = sorted.map((e, idx)=>{
           const isNeg = (e.pts && e.pts < 0) || (e.tipo && (e.tipo.includes('Sanción') || e.tipo.includes('Polémica')));
           const cardBg = isNeg ? '#fef2f2' : '#f0fdf4';
           const cardBorder = isNeg ? '#fecaca' : '#bbf7d0';
           const txtColor = isNeg ? '#991b1b' : '#166534';
-          const dateColor = isNeg ? '#ef4444' : '#4ade80';
+          const dateColor = isNeg ? '#ef4444' : '#15803d';
           const badgeBg = isNeg ? '#fee2e2' : '#dcfce7';
           const ptsBg = isNeg ? '#fee2e2' : '#e0f2fe';
           const ptsColor = isNeg ? '#991b1b' : '#0369a1';
           const ptsLabel = e.pts ? (e.pts > 0 ? '+' + e.pts : e.pts) + ' Pts' : '';
-          const searchData = ((e.t || '') + ' ' + (e.a || '') + ' ' + (e.tipo || '') + ' ' + (e.d || '')).toLowerCase().replace(/"/g, '&quot;');
+          const searchData = ((e.t || '') + ' ' + (e.a || '') + ' ' + (e.tipo || '') + ' ' + (e.d || '') + ' ' + (e.sumilla || '') + ' ' + (e.titulo_completo || '') + ' ' + (e.expediente || '')).toLowerCase().replace(/"/g, '&quot;');
+          const evtId = 'leg-evt-box-' + idx;
+
+          // Preparar datos detallados para el acordeón expandible
+          const isMocion = e.tipo && e.tipo.includes('Moción');
+          const isProyecto = e.tipo && e.tipo.includes('Proyecto');
+          const isOfficialDoc = isMocion || isProyecto;
+
+          const numExp = e.expediente || (e.a.match(/(?:N°|Ley)\s*([0-9\-\w]+)/i) ? e.a.match(/(?:N°|Ley)\s*([0-9\-\w]+)/i)[1] : '');
+          const sumillaText = e.sumilla || e.titulo_completo || e.a;
+          const estadoText = e.estado || (isOfficialDoc ? 'Ingresado / En Trámite' : 'Registrado');
+          const grupoText = e.grupo || e.proponente || '';
+          const autoresText = e.autores || '';
+          const subtipoText = e.subtipo || e.tipo || '';
+
+          let detailsHtml = '';
+          if (isOfficialDoc || e.url) {
+            let metaItems = '';
+            if (numExp) {
+              metaItems += '<div class="evt-meta-item"><span class="evt-meta-label">Expediente Oficial</span><span class="evt-meta-val">📁 ' + numExp + '</span></div>';
+            }
+            if (subtipoText) {
+              metaItems += '<div class="evt-meta-item"><span class="evt-meta-label">Subtipo</span><span class="evt-meta-val">🔖 ' + subtipoText + '</span></div>';
+            }
+            if (estadoText) {
+              metaItems += '<div class="evt-meta-item"><span class="evt-meta-label">Estado de Trámite</span><span class="evt-meta-val" style="color:#2563eb;">⚡ ' + estadoText + '</span></div>';
+            }
+            if (grupoText) {
+              metaItems += '<div class="evt-meta-item"><span class="evt-meta-label">' + (isProyecto ? 'Proponente' : 'Grupo Parlamentario') + '</span><span class="evt-meta-val">🏛️ ' + grupoText + '</span></div>';
+            }
+            if (autoresText) {
+              metaItems += '<div class="evt-meta-item" style="grid-column: 1 / -1;"><span class="evt-meta-label">Autores / Firmantes</span><span class="evt-meta-val" style="font-weight:600;font-size:0.65rem;">✍️ ' + autoresText + '</span></div>';
+            }
+
+            const visitBtnText = isMocion ? '📄 Visitar Moción en Portal Oficial ↗' : (isProyecto ? '📜 Visitar Proyecto de Ley en Portal Oficial ↗' : '🌐 Ver Fuente Oficial ↗');
+            const visitBtn = e.url ? '<a href="' + e.url + '" target="_blank" rel="noopener noreferrer" class="evt-visit-btn" onclick="event.stopPropagation();">' + visitBtnText + '</a>' : '';
+
+            detailsHtml = '<div id="' + evtId + '" class="evt-details-box" style="display:none;" onclick="event.stopPropagation();">' +
+              (metaItems ? '<div class="evt-meta-grid">' + metaItems + '</div>' : '') +
+              '<div style="font-weight:800;font-size:0.65rem;text-transform:uppercase;color:var(--sub);margin-top:2px;">Contenido / Sumilla Oficial:</div>' +
+              '<div class="evt-sumilla-text">' + sumillaText + '</div>' +
+              visitBtn +
+            '</div>';
+          }
 
           return '<div class="evt-card-wrapper" data-search="' + searchData + '">' +
-            '<a' + href + '><div style="background:' + cardBg + ';border:1px solid ' + cardBorder + ';border-radius:10px;padding:12px 14px;margin-bottom:8px;transition:all 0.15s;" class="evt-inner">' +
-              '<div style="display:flex;justify-content:space-between;align-items:center">' +
-                '<div style="font-size:.78rem;font-weight:700;color:' + txtColor + ';text-align:left;line-height:1.4;">' + e.t + ' ' + e.a + ' &rarr;</div>' +
-                '<div style="display:flex;gap:4px;flex-shrink:0;">' +
+            '<div style="background:' + cardBg + ';border:1px solid ' + cardBorder + ';border-radius:10px;padding:12px 14px;margin-bottom:8px;transition:all 0.15s;cursor:pointer;" class="evt-inner" onclick="toggleEvtCard(this, \'' + evtId + '\')">' +
+              '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8px;">' +
+                '<div style="font-size:.78rem;font-weight:700;color:' + txtColor + ';text-align:left;line-height:1.4;flex:1;">' + e.t + ' ' + e.a + '</div>' +
+                '<div style="display:flex;align-items:center;gap:6px;flex-shrink:0;">' +
                   '<span style="font-size:.58rem;padding:2px 8px;border-radius:50px;background:' + badgeBg + ';color:' + txtColor + ';font-weight:600">' + e.tipo + '</span>' +
                   (ptsLabel ? '<span style="font-size:.58rem;padding:2px 8px;border-radius:50px;background:' + ptsBg + ';color:' + ptsColor + ';font-weight:700">' + ptsLabel + '</span>' : '') +
+                  '<span class="evt-chevron" style="display:inline-block;font-size:0.7rem;color:' + txtColor + ';margin-left:2px;user-select:none;">▼</span>' +
                 '</div>' +
               '</div>' +
-              '<div style="font-size:.62rem;color:' + dateColor + ';margin-top:3px">&#128197; ' + e.d + '</div>' +
-            '</div></a>' +
+              '<div style="display:flex;justify-content:space-between;align-items:center;margin-top:4px;">' +
+                '<div style="font-size:.62rem;color:' + dateColor + ';font-weight:600;">&#128197; ' + e.d + '</div>' +
+                '<div style="font-size:.6rem;color:var(--sub);font-style:italic;">Haz clic para ' + (isOfficialDoc ? 'ver detalles de la moción' : 'expandir información') + '</div>' +
+              '</div>' +
+              detailsHtml +
+            '</div>' +
           '</div>';
         }).join('');
 
@@ -2306,6 +2438,17 @@ function filterLegEvts(query) {
   const noRes = document.getElementById('leg-evt-no-results');
   if (noRes) {
     noRes.style.display = (visible === 0 && q) ? 'block' : 'none';
+  }
+}
+function toggleEvtCard(cardEl, detailsId) {
+  const box = document.getElementById(detailsId);
+  if (!box) return;
+  const isHidden = box.style.display === 'none';
+  box.style.display = isHidden ? 'flex' : 'none';
+  if (isHidden) {
+    cardEl.classList.add('expanded');
+  } else {
+    cardEl.classList.remove('expanded');
   }
 }
 function closeP(){
