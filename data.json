@@ -1597,10 +1597,22 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Renovación Popular desarrollan agenda de fiscalización en Lima y Puno",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-desarrollan-agenda-de-fiscalizacion-en-lima-y-puno/"
+    },
+    {
       "title": "Alejandro Muñante organiza mesa de diálogo sobre operatividad del aeropuerto de Jaén",
       "source": "Portal del Congreso",
       "date": "02 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/alejandro-munante-organiza-mesa-de-dialogo-sobre-operatividad-del-aeropuerto-de-jaen/"
+    },
+    {
+      "title": "Congreso impulsa el uso de la inteligencia artificial para modernizar la gestión del Estado",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsa-el-uso-de-la-inteligencia-artificial-para-modernizar-la-gestion-del-estado/"
     },
     {
       "title": "Bancada de Fuerza Popular inicia semana de representación con agenda centrada en infraestructura y servicios básicos",
@@ -1651,12 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "02 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-de-fuerza-popular-inicia-semana-de-representacion-con-agenda-centrada-en-infraestructura-y-servicios-basicos/"
-    },
-    {
-      "title": "En semana de representación promueven espacios de diálogo para fortalecer políticas contra la violencia de género",
-      "source": "Portal del Congreso",
-      "date": "02 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-semana-de-representacion-promueven-espacios-de-dialogo-para-fortalecer-politicas-contra-la-violencia-de-genero/"
     },
     {
       "title": "Congreso recibe inmueble de Pronabi para optimizar sus espacios de almacenamiento",
