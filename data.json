@@ -1597,19 +1597,79 @@
   },
   "senado_news": [
     {
-      "title": "Liga Parlamentaria de Amistad Perú-Israel: Comité Consultivo se compromete a fortalecer lazos de cooperación entre ambos países",
+      "title": "Alejandro Muñante organiza mesa de diálogo sobre operatividad del aeropuerto de Jaén",
       "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-israel-comite-consultivo-se-compromete-a-fortalecer-lazos-de-cooperacion-entre-ambos-paises/"
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/alejandro-munante-organiza-mesa-de-dialogo-sobre-operatividad-del-aeropuerto-de-jaen/"
     },
     {
-      "title": "En mesa de trabajo promueven el diálogo participativo para optimizar dictamen sobre sostenibilidad agraria amazónica",
+      "title": "Bancada de Fuerza Popular inicia semana de representación con agenda centrada en infraestructura y servicios básicos",
       "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-mesa-de-trabajo-promueven-el-dialogo-participativo-para-optimizar-dictamen-sobre-sostenibilidad-agraria-amazonica/"
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-de-fuerza-popular-inicia-semana-de-representacion-con-agenda-centrada-en-infraestructura-y-servicios-basicos/"
+    },
+    {
+      "title": "Congreso recibe inmueble de Pronabi para optimizar sus espacios de almacenamiento",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-recibe-inmueble-de-pronabi-para-optimizar-sus-espacios-de-almacenamiento/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto aprueba dictámenes de Endeudamiento y Equilibrio Financiero para el 2027",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-aprueba-dictamenes-de-endeudamiento-y-equilibrio-financiero-para-el-2027/"
+    },
+    {
+      "title": "Senadores de Ahora Nación inician Semana de Representación",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-inician-semana-de-representacion/"
+    },
+    {
+      "title": "Presentan informe de vigilancia ciudadana para una vida libre de violencia de género en Lima Metropolitana 2025",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presentan-informe-de-vigilancia-ciudadana-para-una-vida-libre-de-violencia-de-genero-en-lima-metropolitana-2025/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Congreso impulsa el uso de la inteligencia artificial para modernizar la gestión del Estado",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsa-el-uso-de-la-inteligencia-artificial-para-modernizar-la-gestion-del-estado/"
+    },
+    {
+      "title": "Diputados de Juntos por el Perú priorizan el fortalecimiento de la salud y la protección de los recursos naturales",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-priorizan-el-fortalecimiento-de-la-salud-y-la-proteccion-de-los-recursos-naturales/"
+    },
+    {
+      "title": "Bancada de Fuerza Popular inicia semana de representación con agenda centrada en infraestructura y servicios básicos",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/bancada-de-fuerza-popular-inicia-semana-de-representacion-con-agenda-centrada-en-infraestructura-y-servicios-basicos/"
+    },
+    {
+      "title": "En semana de representación promueven espacios de diálogo para fortalecer políticas contra la violencia de género",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-semana-de-representacion-promueven-espacios-de-dialogo-para-fortalecer-politicas-contra-la-violencia-de-genero/"
+    },
+    {
+      "title": "Congreso recibe inmueble de Pronabi para optimizar sus espacios de almacenamiento",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-recibe-inmueble-de-pronabi-para-optimizar-sus-espacios-de-almacenamiento/"
+    },
+    {
+      "title": "Comisión Bicameral de Presupuesto aprueba dictámenes de Endeudamiento y Equilibrio Financiero para el 2027",
+      "source": "Portal del Congreso",
+      "date": "02 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-bicameral-de-presupuesto-aprueba-dictamenes-de-endeudamiento-y-equilibrio-financiero-para-el-2027/"
+    },
     {
       "title": "Presentan informe de vigilancia ciudadana para una vida libre de violencia de género en Lima Metropolitana 2025",
       "source": "Portal del Congreso",
@@ -1621,54 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "02 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-impulsan-gestiones-sobre-titulacion-salud-y-servicios-basicos-en-tres-regiones-del-pais/"
-    },
-    {
-      "title": "Reto: “Hay esperanza en el Perú al ver jóvenes que buscan el bien común”",
-      "source": "Portal del Congreso",
-      "date": "02 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-hay-esperanza-en-el-peru-al-ver-jovenes-que-buscan-el-bien-comun/"
-    },
-    {
-      "title": "Instalaron la Liga Parlamentaria de Amistad Perú-Japón y eligieron a Marco Pacheco Quispe como presidente",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/instalaron-la-liga-parlamentaria-de-amistad-peru-japon-y-eligieron-a-marco-pacheco-quispe-como-presidente/"
-    },
-    {
-      "title": "Destacan importancia de profesionalizar la comunicación y las campañas políticas",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/destacan-importancia-de-profesionalizar-la-comunicacion-y-las-campanas-politicas/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú-El Salvador quedó instalada y eligió a Diego Bazán como presidente",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-el-salvador-quedo-instalada-y-eligio-a-diego-bazan-como-presidente/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú-Israel: Comité Consultivo se compromete a fortalecer lazos de cooperación entre ambos países",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-israel-comite-consultivo-se-compromete-a-fortalecer-lazos-de-cooperacion-entre-ambos-paises/"
-    },
-    {
-      "title": "Leticia Leiva Baylon fue elegida presidenta de la Liga Parlamentaria de Amistad Perú-Estados Unidos",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/leticia-leiva-baylon-fue-elegida-presidenta-de-la-liga-parlamentaria-de-amistad-peru-estados-unidos/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú-China eligió al diputado Félix Chang como presidente",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-china-eligio-al-diputado-felix-chang-como-presidente/"
-    },
-    {
-      "title": "En mesa de trabajo promueven el diálogo participativo para optimizar dictamen sobre sostenibilidad agraria amazónica",
-      "source": "Portal del Congreso",
-      "date": "30 Oct 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-mesa-de-trabajo-promueven-el-dialogo-participativo-para-optimizar-dictamen-sobre-sostenibilidad-agraria-amazonica/"
     }
   ],
   "events_override": {
@@ -8645,6 +8657,14 @@
         "d": "22/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-visito-el-inen-y-reafirma-compromiso-del-congreso-con-la-lucha-contra-el-cancer-infantil/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso impulsa el uso de la inteligencia artificial para modernizar la gestión del Estado",
+        "d": "02/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsa-el-uso-de-la-inteligencia-artificial-para-modernizar-la-gestion-del-estado/",
         "pts": 2
       }
     ],
@@ -23452,6 +23472,14 @@
         "autores": "(P)Muñante Barrios, Alejandro (Renovación Popular)",
         "expediente": "00182-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Alejandro Muñante organiza mesa de diálogo sobre operatividad del aeropuerto de Jaén",
+        "d": "02/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/alejandro-munante-organiza-mesa-de-dialogo-sobre-operatividad-del-aeropuerto-de-jaen/",
+        "pts": 2
       }
     ],
     "Rafael Aldo Celiz Castillo": [
