@@ -1597,37 +1597,73 @@
   },
   "senado_news": [
     {
-      "title": "Senadores de Fuerza Popular realizan labor de fiscalización y gestión en favor del desarrollo regional",
+      "title": "Senadores de Ahora Nación exigen acciones ante crisis sanitaria en Máncora y problemas ambientales en regiones",
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-realizan-labor-de-fiscalizacion-y-gestion-en-favor-del-desarrollo-regional/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-exigen-acciones-ante-crisis-sanitaria-en-mancora-y-problemas-ambientales-en-regiones/"
     },
     {
-      "title": "Senadores de Juntos por el Perú priorizan fiscalización en salud, seguridad y proyectos regionales",
+      "title": "Impulsan el liderazgo social juvenil en la I Jornada de Capacitación de Voluntarios 2026",
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-priorizan-fiscalizacion-en-salud-seguridad-y-proyectos-regionales/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-el-liderazgo-social-juvenil-en-la-i-jornada-de-capacitacion-de-voluntarios-2026/"
     },
     {
-      "title": "Senadores de Renovación Popular desarrollan agenda de fiscalización en Lima y Puno",
+      "title": "Senadores del Partido Cívico Obras prioriza la reactivación comercial, educación pública y proyectos trabados en regiones",
       "source": "Portal del Congreso",
-      "date": "02 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-desarrollan-agenda-de-fiscalizacion-en-lima-y-puno/"
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadors-del-partido-civico-obras-prioriza-la-reactivacion-comercial-educacion-publica-y-proyectos-trabados-en-regiones/"
     },
     {
-      "title": "Alejandro Muñante organiza mesa de diálogo sobre operatividad del aeropuerto de Jaén",
+      "title": "Parlamentarios plantean prioridades de inversión y atención de demandas sociales en el Presupuesto 2027",
       "source": "Portal del Congreso",
-      "date": "02 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/alejandro-munante-organiza-mesa-de-dialogo-sobre-operatividad-del-aeropuerto-de-jaen/"
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-plantean-prioridades-de-inversion-y-atencion-de-demandas-sociales-en-el-presupuesto-2027/"
     },
     {
-      "title": "Congreso impulsa el uso de la inteligencia artificial para modernizar la gestión del Estado",
+      "title": "Senadores del Partido del Buen Gobierno atienden demandas sobre seguridad, servicios eléctricos y derechos laborales",
       "source": "Portal del Congreso",
-      "date": "02 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsa-el-uso-de-la-inteligencia-artificial-para-modernizar-la-gestion-del-estado/"
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-atienden-demandas-sobre-seguridad-servicios-electricos-y-derechos-laborales/"
+    },
+    {
+      "title": "Presidente Reto impulsa coordinaciones en Tumbes para fortalecer la respuesta ante el fenómeno El Niño",
+      "source": "Portal del Congreso",
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-impulsa-coordinaciones-en-tumbes-para-fortalecer-la-respuesta-ante-el-fenomeno-el-nino/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Salud demanda respuestas concretas ante El Niño y el dengue en Piura",
+      "source": "Portal del Congreso",
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-demanda-respuestas-concretas-ante-el-nino-y-el-dengue-en-piura/"
+    },
+    {
+      "title": "Impulsan el liderazgo social juvenil en la I Jornada de Capacitación de Voluntarios 2026",
+      "source": "Portal del Congreso",
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-el-liderazgo-social-juvenil-en-la-i-jornada-de-capacitacion-de-voluntarios-2026/"
+    },
+    {
+      "title": "Diputados de Ahora Nación fiscalizaron servicios de salud e infraestructura en Piura y Ayacucho",
+      "source": "Portal del Congreso",
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-fiscalizaron-servicios-de-salud-e-infraestructura-en-piura-y-ayacucho/"
+    },
+    {
+      "title": "Diputados de Partido del Buen Gobierno continúan con visitas de inspección en el interior del país",
+      "source": "Portal del Congreso",
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-partido-del-buen-gobierno-continuan-con-visitas-de-inspeccion-en-el-interior-del-pais/"
+    },
+    {
+      "title": "Parlamentarios plantean prioridades de inversión y atención de demandas sociales en el Presupuesto 2027",
+      "source": "Portal del Congreso",
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-plantean-prioridades-de-inversion-y-atencion-de-demandas-sociales-en-el-presupuesto-2027/"
+    },
     {
       "title": "Diputados de Fuerza Popular realizan visitas de fiscalización en Piura, Amazonas, Junín y Callao",
       "source": "Portal del Congreso",
@@ -1639,30 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-impulsa-coordinaciones-en-tumbes-para-fortalecer-la-respuesta-ante-el-fenomeno-el-nino/"
-    },
-    {
-      "title": "Diputados de Renovación Popular desarrollan acciones de fiscalización y recoge demandas ciudadanas",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-desarrollan-acciones-de-fiscalizacion-y-recoge-demandas-ciudadanas/"
-    },
-    {
-      "title": "Diputados de Juntos por el Perú inspeccionan obras públicas y canalizan demandas de servicios básicos",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-inspeccionan-obras-publicas-y-canalizan-demandas-de-servicios-basicos/"
-    },
-    {
-      "title": "Congreso impulsa el uso de la inteligencia artificial para modernizar la gestión del Estado",
-      "source": "Portal del Congreso",
-      "date": "02 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsa-el-uso-de-la-inteligencia-artificial-para-modernizar-la-gestion-del-estado/"
-    },
-    {
-      "title": "Diputados de Juntos por el Perú priorizan el fortalecimiento de la salud y la protección de los recursos naturales",
-      "source": "Portal del Congreso",
-      "date": "02 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-priorizan-el-fortalecimiento-de-la-salud-y-la-proteccion-de-los-recursos-naturales/"
     }
   ],
   "events_override": {
@@ -2104,6 +2116,20 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-impulsa-coordinaciones-en-tumbes-para-fortalecer-la-respuesta-ante-el-fenomeno-el-nino/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 896 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE SALUDO Y RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DEL PERÚ, CON MOT...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/896",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS FERVIENTE SALUDO Y RECONOCIMIENTO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DEL PERÚ, CON MOTIVO DE CONMEMORARSE LOS 210 AÑOS DEL NATALICIO DEL CORONEL FRANCISCO BOLOGNESI CERVANTES, RENOVANDO EL SAGRADO JURAMENTO DE FIDELIDAD A LOS VALORES CÍVICOS Y MORALES QUE LEGÓ A LA POSTERIDAD DE NUESTRA REPÚBLICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Reto Otero, Oscar de Jesús (Partido del Buen Gobierno)",
+        "expediente": "00896-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Miguel Ángel Torres Morales": [
@@ -13484,6 +13510,20 @@
         "autores": "(P)Espinoza Huillca, Edwin (Partido del Buen Gobierno)",
         "expediente": "00800-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 899 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GE...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/899",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GESTIÓN INTEGRAL Y SOSTENIBLE DEL AGUA, AL AFIANZAMIENTO HÍDRICO Y A LA RECUPERACIÓN DE LOS ACUÍFEROS DE ICA, VILLACURÍ Y LANCHAS, EN EL DEPARTAMENTO DE ICA, INCLUIDO EL PROYECTO \"AFIANZAMIENTO HÍDRICO DE PAMPAS DE VILLACURÍ Y LANCHAS\", CONPRIORIDAD DEL CONSUMO HUMANO, SOSTENIBILIDAD DEL RECURSO, NO AMPLIACIÓN DE LA FRONTERA AGRÍCOLA E INCLUSIÓN EFECTIVA DE LOS PEQUEÑOS PRODUCTORES AGRARIOS Y DE LA AGRICULTURA FAMILIAR.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
+        "expediente": "00899-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Hilda Judit Fernández de la Torre": [
@@ -13515,6 +13555,20 @@
         "grupo": "Partido del Buen Gobierno",
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "00765-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 899 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GE...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/899",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GESTIÓN INTEGRAL Y SOSTENIBLE DEL AGUA, AL AFIANZAMIENTO HÍDRICO Y A LA RECUPERACIÓN DE LOS ACUÍFEROS DE ICA, VILLACURÍ Y LANCHAS, EN EL DEPARTAMENTO DE ICA, INCLUIDO EL PROYECTO \"AFIANZAMIENTO HÍDRICO DE PAMPAS DE VILLACURÍ Y LANCHAS\", CONPRIORIDAD DEL CONSUMO HUMANO, SOSTENIBILIDAD DEL RECURSO, NO AMPLIACIÓN DE LA FRONTERA AGRÍCOLA E INCLUSIÓN EFECTIVA DE LOS PEQUEÑOS PRODUCTORES AGRARIOS Y DE LA AGRICULTURA FAMILIAR.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
+        "expediente": "00899-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
@@ -13609,6 +13663,20 @@
         "grupo": "Partido del Buen Gobierno",
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "00765-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 899 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GE...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/899",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GESTIÓN INTEGRAL Y SOSTENIBLE DEL AGUA, AL AFIANZAMIENTO HÍDRICO Y A LA RECUPERACIÓN DE LOS ACUÍFEROS DE ICA, VILLACURÍ Y LANCHAS, EN EL DEPARTAMENTO DE ICA, INCLUIDO EL PROYECTO \"AFIANZAMIENTO HÍDRICO DE PAMPAS DE VILLACURÍ Y LANCHAS\", CONPRIORIDAD DEL CONSUMO HUMANO, SOSTENIBILIDAD DEL RECURSO, NO AMPLIACIÓN DE LA FRONTERA AGRÍCOLA E INCLUSIÓN EFECTIVA DE LOS PEQUEÑOS PRODUCTORES AGRARIOS Y DE LA AGRICULTURA FAMILIAR.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
+        "expediente": "00899-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
@@ -17630,6 +17698,20 @@
         "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
         "expediente": "00819-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 899 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GE...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/899",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GESTIÓN INTEGRAL Y SOSTENIBLE DEL AGUA, AL AFIANZAMIENTO HÍDRICO Y A LA RECUPERACIÓN DE LOS ACUÍFEROS DE ICA, VILLACURÍ Y LANCHAS, EN EL DEPARTAMENTO DE ICA, INCLUIDO EL PROYECTO \"AFIANZAMIENTO HÍDRICO DE PAMPAS DE VILLACURÍ Y LANCHAS\", CONPRIORIDAD DEL CONSUMO HUMANO, SOSTENIBILIDAD DEL RECURSO, NO AMPLIACIÓN DE LA FRONTERA AGRÍCOLA E INCLUSIÓN EFECTIVA DE LOS PEQUEÑOS PRODUCTORES AGRARIOS Y DE LA AGRICULTURA FAMILIAR.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
+        "expediente": "00899-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Carmela Paucara Paxi": [
@@ -19904,6 +19986,20 @@
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "00765-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 899 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GE...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/899",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA LA EJECUCIÓN DE PROYECTOS DE INFRAESTRUCTURA HÍDRICA DESTINADOS A LA GESTIÓN INTEGRAL Y SOSTENIBLE DEL AGUA, AL AFIANZAMIENTO HÍDRICO Y A LA RECUPERACIÓN DE LOS ACUÍFEROS DE ICA, VILLACURÍ Y LANCHAS, EN EL DEPARTAMENTO DE ICA, INCLUIDO EL PROYECTO \"AFIANZAMIENTO HÍDRICO DE PAMPAS DE VILLACURÍ Y LANCHAS\", CONPRIORIDAD DEL CONSUMO HUMANO, SOSTENIBILIDAD DEL RECURSO, NO AMPLIACIÓN DE LA FRONTERA AGRÍCOLA E INCLUSIÓN EFECTIVA DE LOS PEQUEÑOS PRODUCTORES AGRARIOS Y DE LA AGRICULTURA FAMILIAR.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
+        "expediente": "00899-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Nora Bonifaz Carmona": [
@@ -20531,6 +20627,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Andrade Salguero de Alvarez, Gladys Griselda (Fuerza Popular)",
         "expediente": "00872-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 897 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN A LA CIUDAD DE HUACHO, CAPITAL DE LA PROVINCIA DE HUAURA, DEPARTAMENTO DE LIMA, Y A TO...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/897",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO Y FELICITACIÓN A LA CIUDAD DE HUACHO, CAPITAL DE LA PROVINCIA DE HUAURA, DEPARTAMENTO DE LIMA, Y A TODA SU POBLACIÓN, CON OCASIÓN DE CONMEMORARSE EL 10 DE NOVIEMBRE DE 2026 EL 152.º ANIVERSARIO DE SU ELEVACIÓN AL RANGO DE CIUDAD Y CAPITAL DE PROVINCIA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Andrade Salguero de Alvarez, Gladys Griselda (Fuerza Popular)",
+        "expediente": "00897-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -21580,6 +21690,34 @@
         "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular)",
         "expediente": "00856-2026-2031-CD",
         "subtipo": "Pedidos para que el pleno se pronuncie sobre interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 901 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDOSALUDO, RECONOCIMIENTO Y FELICITACIÓNAL DISTRITO BELEN, PROVINCIA DE MAYNAS, DEL DEPARTAMENTO DE L...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/901",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDOSALUDO, RECONOCIMIENTO Y FELICITACIÓNAL DISTRITO BELEN, PROVINCIA DE MAYNAS, DEL DEPARTAMENTO DE LORETO, CON OCASIÓN DE CONMEMORARSE, EL 5 DE NOVIEMBREDE 2026, SU VIGÉSIMO SÉPTIMO ANIVERSARIO (27°) DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular)",
+        "expediente": "00901-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 900 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDOSALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO SAN JUAN BAUTISTA, PROVINCIA DE MAYNAS, DEL DEPA...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/900",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDOSALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO SAN JUAN BAUTISTA, PROVINCIA DE MAYNAS, DEL DEPARTAMENTO DE LORETO, CON OCASIÓN DE CONMEMORARSE, EL 5 DE NOVIEMBRE DE 2026, SU VIGÉSIMO SÉPTIMO ANIVERSARIO (27°) DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular)",
+        "expediente": "00900-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Luis Arturo Alegría García": [
@@ -22629,6 +22767,14 @@
         "d": "27/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-pide-reforzar-atencion-en-regiones-y-garantizar-medicamentos-ante-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Salud demanda respuestas concretas ante El Niño y el dengue en Piura",
+        "d": "03/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-demanda-respuestas-concretas-ante-el-nino-y-el-dengue-en-piura/",
         "pts": 2
       }
     ],
