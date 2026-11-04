@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Visitas de inspección y encuentros con la población fueron las actividades priorizadas por los senadores de Juntos por el Perú",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/visitas-de-inspeccion-y-encuentros-con-la-poblacion-fueron-las-actividades-priorizadas-por-los-senadores-de-juntos-por-el-peru/"
+    },
+    {
+      "title": "Promueven agenda legislativa para fortalecer los derechos de niñas, niños y adolescentes",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/promueven-agenda-legislativa-para-fortalecer-los-derechos-de-ninas-ninos-y-adolescentes/"
+    },
+    {
+      "title": "Senadores de Fuerza Popular continúan labor de fiscalización en su tercer día de Semana de Representación",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-continuan-labor-de-fiscalizacion-en-su-tercer-dia-de-semana-de-representacion/"
+    },
+    {
+      "title": "Delegación China entrega Constitución Política del Perú en edición bilingüe y propone fortalecer la cooperación académica",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-china-entrega-constitucion-politica-del-peru-en-edicion-bilingue-y-propone-fortalecer-la-cooperacion-academica/"
+    },
+    {
       "title": "Primer vicepresidente lidera mesa multisectorial para atender demandas de armadores pesqueros",
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
@@ -1607,68 +1631,50 @@
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-de-renovacion-popular-priorizan-salud-seguridad-y-crisis-hidrica-en-lima-y-tacna/"
-    },
-    {
-      "title": "Senadores de Ahora Nación exigen acciones ante crisis sanitaria en Máncora y problemas ambientales en regiones",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-exigen-acciones-ante-crisis-sanitaria-en-mancora-y-problemas-ambientales-en-regiones/"
-    },
-    {
-      "title": "Impulsan el liderazgo social juvenil en la I Jornada de Capacitación de Voluntarios 2026",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-el-liderazgo-social-juvenil-en-la-i-jornada-de-capacitacion-de-voluntarios-2026/"
-    },
-    {
-      "title": "Senadores del Partido Cívico Obras prioriza la reactivación comercial, educación pública y proyectos trabados en regiones",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadors-del-partido-civico-obras-prioriza-la-reactivacion-comercial-educacion-publica-y-proyectos-trabados-en-regiones/"
-    },
-    {
-      "title": "Parlamentarios plantean prioridades de inversión y atención de demandas sociales en el Presupuesto 2027",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-plantean-prioridades-de-inversion-y-atencion-de-demandas-sociales-en-el-presupuesto-2027/"
-    },
-    {
-      "title": "Senadores del Partido del Buen Gobierno atienden demandas sobre seguridad, servicios eléctricos y derechos laborales",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-atienden-demandas-sobre-seguridad-servicios-electricos-y-derechos-laborales/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Comisión de Salud demanda respuestas concretas ante El Niño y el dengue en Piura",
+      "title": "Promueven agenda legislativa para fortalecer los derechos de niñas, niños y adolescentes",
       "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-demanda-respuestas-concretas-ante-el-nino-y-el-dengue-en-piura/"
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/promueven-agenda-legislativa-para-fortalecer-los-derechos-de-ninas-ninos-y-adolescentes/"
     },
     {
-      "title": "Impulsan el liderazgo social juvenil en la I Jornada de Capacitación de Voluntarios 2026",
+      "title": "Diputados de la bancada de Fuerza Popular priorizan cierre de brechas económicas y sociales en regiones",
       "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-el-liderazgo-social-juvenil-en-la-i-jornada-de-capacitacion-de-voluntarios-2026/"
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-la-bancada-de-fuerza-popular-priorizan-cierre-de-brechas-economicas-y-sociales-en-regiones/"
     },
     {
-      "title": "Diputados de Ahora Nación fiscalizaron servicios de salud e infraestructura en Piura y Ayacucho",
+      "title": "Diputados de Renovación Popular supervisan medidas ante El Niño y necesidades de servicios públicos",
       "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-fiscalizaron-servicios-de-salud-e-infraestructura-en-piura-y-ayacucho/"
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-supervisan-medidas-ante-el-nino-y-necesidades-de-servicios-publicos/"
     },
     {
-      "title": "Diputados de Partido del Buen Gobierno continúan con visitas de inspección en el interior del país",
+      "title": "Oscar Reto fiscaliza acciones de prevención ante el fenómeno El Niño y exige articulación entre los tres niveles de gobierno",
       "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-partido-del-buen-gobierno-continuan-con-visitas-de-inspeccion-en-el-interior-del-pais/"
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-fiscaliza-acciones-de-prevencion-ante-el-fenomeno-el-nino-y-exige-articulacion-entre-los-tres-niveles-de-gobierno/"
     },
     {
-      "title": "Parlamentarios plantean prioridades de inversión y atención de demandas sociales en el Presupuesto 2027",
+      "title": "Delegación China entrega Constitución Política del Perú en edición bilingüe y propone fortalecer la cooperación académica",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-china-entrega-constitucion-politica-del-peru-en-edicion-bilingue-y-propone-fortalecer-la-cooperacion-academica/"
+    },
+    {
+      "title": "Diputados de Juntos por el Perú desarrollan actividades de fiscalización y gestión en Áncash, Puno y Amazonas",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-desarrollan-actividades-de-fiscalizacion-y-gestion-en-ancash-puno-y-amazonas/"
+    },
+    {
+      "title": "Primer vicepresidente lidera mesa multisectorial para atender demandas de armadores pesqueros",
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-plantean-prioridades-de-inversion-y-atencion-de-demandas-sociales-en-el-presupuesto-2027/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/primer-vicepresidente-lidera-mesa-multisectorial-para-atender-demandas-de-armadores-pesqueros/"
     }
   ],
   "events_override": {
@@ -2124,6 +2130,14 @@
         "autores": "(P)Reto Otero, Oscar de Jesús (Partido del Buen Gobierno)",
         "expediente": "00896-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Oscar Reto fiscaliza acciones de prevención ante el fenómeno El Niño y exige articulación entre los tres niveles de gobierno",
+        "d": "04/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-fiscaliza-acciones-de-prevencion-ante-el-fenomeno-el-nino-y-exige-articulacion-entre-los-tres-niveles-de-gobierno/",
+        "pts": 2
       }
     ],
     "Miguel Ángel Torres Morales": [
@@ -8718,6 +8732,20 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-impulsa-el-uso-de-la-inteligencia-artificial-para-modernizar-la-gestion-del-estado/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 909 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/909",
+        "pts": 3,
+        "sumilla": "CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE A LA HISTÓRICA MESA DE MUJERES PARLAMENTARIAS PERUANAS, A FIN DE EJERCER UN LIDERAZGO CONSOLIDADO EN EL TRABAJO LEGISLATIVO, PROMOVIENDO LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA DE LAS MUJERES EN LAS ESTRUCTURAS SOCIALES Y ECONÓMICAS DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
+        "expediente": "00909-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones Especiales"
       }
     ],
     "César Hugo Tito Rojas": [
@@ -9602,6 +9630,20 @@
         "autores": "(P)Aranda Vásquez, Christian (Renovación Popular); (P)Yonz Nuñez, Mady Verónica (Renovación Popular); (P)Yalta Sotelo, Carlos Alberto (Renovación Popular); (P)Baella Malca, José Isidro (Renovación Popular); (P)Martínez Paitan, Paola Isabel (Renovación Popular); (P)Krklec Torres, Frank (Renovación Popular); (P)Segura Figueroa, Gustavo Alexander (Renovación Popular); (P)Chang Apuy, Félix See Hung (Renovación Popular); (P)Zeballos Aponte, Jorge Arturo (Renovación Popular); (P)Bravo Quispe, Aldo Antonio (Renovación Popular); (P)Rocha Gallegos, Roxana María (Renovación Popular); (P)Yarrow Lumbreras, Norma Martina (Renovación Popular); (P)Cipriani Thorne, Javier José María (Renovación Popular); (P)De Paz Lancho, Leo Miguel (Renovación Popular)",
         "expediente": "00837-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 909 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/909",
+        "pts": 3,
+        "sumilla": "CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE A LA HISTÓRICA MESA DE MUJERES PARLAMENTARIAS PERUANAS, A FIN DE EJERCER UN LIDERAZGO CONSOLIDADO EN EL TRABAJO LEGISLATIVO, PROMOVIENDO LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA DE LAS MUJERES EN LAS ESTRUCTURAS SOCIALES Y ECONÓMICAS DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
+        "expediente": "00909-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones Especiales"
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -9799,6 +9841,34 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Beteta Rubín, Karina Juliza (Fuerza Popular)",
         "expediente": "00821-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 909 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/909",
+        "pts": 3,
+        "sumilla": "CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE A LA HISTÓRICA MESA DE MUJERES PARLAMENTARIAS PERUANAS, A FIN DE EJERCER UN LIDERAZGO CONSOLIDADO EN EL TRABAJO LEGISLATIVO, PROMOVIENDO LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA DE LAS MUJERES EN LAS ESTRUCTURAS SOCIALES Y ECONÓMICAS DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
+        "expediente": "00909-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones Especiales"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 904 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN, A LAS AUTORIDADES POLÍTICAS, EDILES, ECLESIÁSTICAS, COMUNALES Y, DE MANERA...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/904",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN, A LAS AUTORIDADES POLÍTICAS, EDILES, ECLESIÁSTICAS, COMUNALES Y, DE MANERA MUY ESPECIAL, A TODA LA NOBLE POBLACIÓN DE LA PROVINCIA DE DOS DE MAYO Y SU CAPITAL LA UNIÓN, PERTENECIENTE AL DEPARTAMENTO DE HUÁNUCO, CON MOTIVO DE CELEBRARSE SU CLVI ANIVERSARIO DE CREACIÓN POLÍTICA, EXPRESANDO LOS MEJORES DESEOS PARA CONSOLIDAR SU RUMBO HACIA EL DESARROLLO ECONÓMICO, LA JUSTICIA SOCIAL Y LA PROSPERIDAD DE TODA SU POBLACIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Beteta Rubín, Karina Juliza (Fuerza Popular)",
+        "expediente": "00904-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -11649,6 +11719,20 @@
         "grupo": "Juntos por el Perú",
         "autores": "(P)Varas Seguin, Daniel Jefferson (Juntos por el Perú)",
         "expediente": "00744-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 905 (Mociones de Saludo): EXPRESAR EL SALUDO Y LA FELICITACIÓN A LA COMPAÑÍA DE BOMBEROS VOLUNTARIOS PERÚ N° 18, DE LA PROVINCIA CONSTITUCIONAL DE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/905",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL SALUDO Y LA FELICITACIÓN A LA COMPAÑÍA DE BOMBEROS VOLUNTARIOS PERÚ N° 18, DE LA PROVINCIA CONSTITUCIONAL DEL CALLAO, CON MOTIVO DE CONMEMORARSE, EL 4 DE NOVIEMBRE DE 2026, SU 119.º ANIVERSARIO DE FUNDACIÓN INSTITUCIONAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Varas Seguin, Daniel Jefferson (Juntos por el Perú)",
+        "expediente": "00905-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -13518,6 +13602,34 @@
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "00899-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 903 (Mociones de Saludo): EXPRESAR EL MÁS CALUROSO SALUDO, FELICITACIÓN Y HOMENAJE INSTITUCIONAL A LA CIUDAD DE SICUANI, CAPITAL DE LA PROVINCIA D...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/903",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CALUROSO SALUDO, FELICITACIÓN Y HOMENAJE INSTITUCIONAL A LA CIUDAD DE SICUANI, CAPITAL DE LA PROVINCIA DE CANCHIS, DEPARTAMENTO DEL CUSCO, AL CONMEMORARSE EL 4 DE NOVIEMBRE DE 2026 SU 139.° ANIVERSARIO DE ELEVACIÓN A LA CATEGORÍA DE CIUDAD, RECONOCIENDO SU TRAYECTORIA HISTÓRICA, SU PROTAGONISMO EN LA HISTORIA REPUBLICANA DEL SUR PERUANO Y EL CONSTANTE ESFUERZO DE SU POBLACIÓN POR EL PROGRESO DE LA REGIÓN CUSCO Y DEL PERÚ.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Espinoza Huillca, Edwin (Partido del Buen Gobierno)",
+        "expediente": "00903-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 902 (Mociones de Saludo): EXPRESAR EL MÁS CALUROSO SALUDO, FELICITACIÓN Y HOMENAJE INSTITUCIONAL A LA COMUNIDAD CAMPESINA DE PAMPACHIRI, DEL DISTR...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/902",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CALUROSO SALUDO, FELICITACIÓN Y HOMENAJE INSTITUCIONAL A LA COMUNIDAD CAMPESINA DE PAMPACHIRI, DEL DISTRITO DE PITUMARCA, PROVINCIA DE CANCHIS, DEPARTAMENTO DEL CUSCO, AL CONMEMORARSE EL 5 DE NOVIEMBRE DE 2026 SU CENTENARIO (100.° ANIVERSARIO) DE RECONOCIMIENTO OFICIAL, RECONOCIENDO SU TRAYECTORIA HISTÓRICA, SU FIRME DEFENSA DE LA IDENTIDAD ANDINA, SU AUTONOMÍA COMUNAL Y LA DEFENSA DE SU TERRITORIO, ASÍ COMO SU CONSTANTE APORTE AL PROGRESO DE LA REGIÓN CUSCO Y DEL PERÚ.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Espinoza Huillca, Edwin (Partido del Buen Gobierno)",
+        "expediente": "00902-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Hilda Judit Fernández de la Torre": [
@@ -15150,6 +15262,20 @@
         "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Domínguez Herrera, Carlos Alberto (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
         "expediente": "00704-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 909 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/909",
+        "pts": 3,
+        "sumilla": "CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE A LA HISTÓRICA MESA DE MUJERES PARLAMENTARIAS PERUANAS, A FIN DE EJERCER UN LIDERAZGO CONSOLIDADO EN EL TRABAJO LEGISLATIVO, PROMOVIENDO LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA DE LAS MUJERES EN LAS ESTRUCTURAS SOCIALES Y ECONÓMICAS DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
+        "expediente": "00909-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones Especiales"
       }
     ],
     "Giannina Iris Avendaño Vilca": [
@@ -17124,6 +17250,20 @@
         "autores": "(P)Condori Flores, Remigio (Juntos por el Perú)",
         "expediente": "00828-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 910 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL CENTRO DE EDUCACIÓN TÉCNICO PRODUCTIVA (CETPRO) KELLUYO...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/910",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL CENTRO DE EDUCACIÓN TÉCNICO PRODUCTIVA (CETPRO) KELLUYO; AL CONMEMORARSE ESTE 08 DE NOVIEMBRE DEL PRESENTE AÑO SU VIGÉSIMO QUINTO (25º) ANIVERSARIO DE FUNDACIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Condori Flores, Remigio (Juntos por el Perú)",
+        "expediente": "00910-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Rosangela Andrea Barbarán Reyes": [
@@ -17706,6 +17846,132 @@
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "00899-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 919 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/919",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE MARISCAL CÁCERES, PROVINCIA DE CAMANÁ, DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL OCTOGÉSIMO SEGUNDO ANIVERSARIO DE SU CREACIÓN POLÍTICA, QUE SE CONMEMORA EL 3 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE SALUDO A SUS PUEBLOS, ORGANIZACIONES Y FAMILIAS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00919-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 918 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/918",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE NICOLÁS DE PIÉROLA, PROVINCIA DE CAMANÁ, DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL OCTOGÉSIMO SEGUNDO ANIVERSARIO DE SU CREACIÓN POLÍTICA, QUE SE CONMEMORA EL 3 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE SALUDO A SUS PUEBLOS, ANEXOS, ORGANIZACIONES Y FAMILIAS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00918-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 917 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/917",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE MARIANO NICOLÁS VALCÁRCEL, PROVINCIA DE CAMANÁ, DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL OCTOGÉSIMO SEGUNDO ANIVERSARIO DE SU CREACIÓN POLÍTICA, QUE SE CONMEMORA EL 3 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE SALUDO A SUS PUEBLOS, ORGANIZACIONES Y FAMILIAS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00917-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 916 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/916",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE SAMUEL PASTOR, PROVINCIA DE CAMANÁ, DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL OCTOGÉSIMO SEGUNDO ANIVERSARIO DE SU CREACIÓN POLÍTICA, QUE SE CONMEMORA EL 3 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE SALUDO A SUS CENTROS POBLADOS, ORGANIZACIONES Y FAMILIAS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00916-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 915 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/915",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE TIABAYA, PROVINCIA Y DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL CENTÉSIMO QUINCUAGÉSIMO SEXTO ANIVERSARIO DE SU ELEVACIÓN A LA CATEGORÍA DE CIUDAD, QUE SE CONMEMORA EL 8 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE RECONOCIMIENTO A SUS FAMILIAS, INSTITUCIONES Y ORGANIZACIONES REPRESENTATIVAS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00915-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 914 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/914",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE CAYMA, PROVINCIA Y DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL DUCENTÉSIMO TERCERO ANIVERSARIO DE SU CREACIÓN POLÍTICA, QUE SE CONMEMORA EL 12 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE SALUDO A SUS PUEBLOS TRADICIONALES, URBANIZACIONES, ASOCIACIONES, ORGANIZACIONES Y FAMILIAS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00914-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 913 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/913",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE JOSÉ MARÍA QUIMPER, PROVINCIA DE CAMANÁ, DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL OCTOGÉSIMO SEGUNDO ANIVERSARIO DE SU CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00913-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 912 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/912",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE ALTO SELVA ALEGRE, PROVINCIA Y DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL TRIGÉSIMO CUARTO ANIVERSARIO DE SU CREACIÓN POLÍTICA, CUYA SESIÓN SOLEMNE CONMEMORATIVA HA SIDO CONVOCADA PARA EL 6 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE SALUDO A SUS BARRIOS, URBANIZACIONES, ORGANIZACIONES Y FAMILIAS.",
+        "estado": "PRESENTADO",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00912-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 911 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DE LA CIU...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/911",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DE LA CIUDAD DE PUNO, PROVINCIA Y DEPARTAMENTO DE PUNO, CON MOTIVO DEL TRICENTÉSIMO QUINCUAGÉSIMO OCTAVO ANIVERSARIO DE SU FUNDACIÓN, QUE SE CONMEMORA EL 4 DE NOVIEMBRE DE 2026.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "00911-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Carmela Paucara Paxi": [
@@ -18113,6 +18379,48 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Paucara Paxi, Carmela (Fuerza Popular)",
         "expediente": "00857-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 908 (Mociones de Saludo): EXPRESAR SU ESPECIAL SALUDO Y RECONOCIMIENTO A LA PROVINCIA DE SULLANA, DEPARTAMENTO DE PIURA, CON MOTIVO DE CONMEMORARS...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/908",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU ESPECIAL SALUDO Y RECONOCIMIENTO A LA PROVINCIA DE SULLANA, DEPARTAMENTO DE PIURA, CON MOTIVO DE CONMEMORARSE, EL 4 DE NOVIEMBRE DE 2026, SU 115.º ANIVERSARIO DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Paucara Paxi, Carmela (Fuerza Popular)",
+        "expediente": "00908-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 907 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO DE SANTO DOMINGO, PROVINCIA DE MORROPÓN, DEPAR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/907",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO DE SANTO DOMINGO, PROVINCIA DE MORROPÓN, DEPARTAMENTO DE PIURA, CON MOTIVO DE CONMEMORARSE, EL 4 DE NOVIEMBRE DE 2026, SU 139.º ANIVERSARIO DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Paucara Paxi, Carmela (Fuerza Popular)",
+        "expediente": "00907-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 906 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN AL DISTRITO DE LA MATANZA, PROVINCIA DE MORROPÓN, DEPARTAMENTO DE PIURA, CON OCASIÓN D...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/906",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO Y FELICITACIÓN AL DISTRITO DE LA MATANZA, PROVINCIA DE MORROPÓN, DEPARTAMENTO DE PIURA, CON OCASIÓN DE CONMEMORARSE, EL 5 DE NOVIEMBRE DE 2026, SU 62° ANIVERSARIO DE CREACIÓN POLÍTICA, DESTACANDO SU TRASCENDENCIA HISTÓRICA, RIQUEZA CULTURAL Y CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Paucara Paxi, Carmela (Fuerza Popular)",
+        "expediente": "00906-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -18697,6 +19005,20 @@
         "grupo": "Juntos por el Perú",
         "autores": "(P)Ramos Huillcas, Andrés Avelino (Juntos por el Perú)",
         "expediente": "00203-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 213 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS AUTORIDADES Y A LA POBLACIÓN DE LA PROVINCIA DE GRAU...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/213",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LAS AUTORIDADES Y A LA POBLACIÓN DE LA PROVINCIA DE GRAU, DEPARTAMENTO DE APURÍMAC, CON OCASIÓN DE CONMEMORARSE, EL 4 DE NOVIEMBRE DE 2026, EL 107.º ANIVERSARIO DE LA PROMULGACIÓN DE LA LEY N.º 4008, QUE ESTABLECIÓ SU DENOMINACIÓN ACTUAL; HACIENDO EXTENSIVO ESTE RECONOCIMIENTO A SUS CATORCE DISTRITOS Y COMUNIDADES POR SU VALIOSO APORTE HISTÓRICO, SOCIAL, CULTURAL Y PRODUCTIVO A LA REGIÓN Y AL PAÍS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Ramos Huillcas, Andrés Avelino (Juntos por el Perú)",
+        "expediente": "00213-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
@@ -21712,6 +22034,48 @@
         "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular)",
         "expediente": "00900-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 909 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/909",
+        "pts": 3,
+        "sumilla": "CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE A LA HISTÓRICA MESA DE MUJERES PARLAMENTARIAS PERUANAS, A FIN DE EJERCER UN LIDERAZGO CONSOLIDADO EN EL TRABAJO LEGISLATIVO, PROMOVIENDO LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA DE LAS MUJERES EN LAS ESTRUCTURAS SOCIALES Y ECONÓMICAS DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
+        "expediente": "00909-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones Especiales"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 901 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO BELEN, PROVINCIA DE MAYNAS, DEL DEPARTAMENTO DE...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/901",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO BELEN, PROVINCIA DE MAYNAS, DEL DEPARTAMENTO DE LORETO, CON OCASIÓN DE CONMEMORARSE, EL 5 DE NOVIEMBRE DE 2026, SU VIGÉSIMO SÉPTIMO ANIVERSARIO (27°) DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular)",
+        "expediente": "00901-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 900 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO SAN JUAN BAUTISTA, PROVINCIA DE MAYNAS, DEL DEP...",
+        "d": "03/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/900",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO SAN JUAN BAUTISTA, PROVINCIA DE MAYNAS, DEL DEPARTAMENTO DE LORETO, CON OCASIÓN DE CONMEMORARSE, EL 5 DE NOVIEMBRE DE 2026, SU VIGÉSIMO SÉPTIMO ANIVERSARIO (27°) DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular)",
+        "expediente": "00900-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Luis Arturo Alegría García": [
@@ -22720,6 +23084,20 @@
         "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Domínguez Herrera, Carlos Alberto (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
         "expediente": "00704-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 909 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/909",
+        "pts": 3,
+        "sumilla": "CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE A LA HISTÓRICA MESA DE MUJERES PARLAMENTARIAS PERUANAS, A FIN DE EJERCER UN LIDERAZGO CONSOLIDADO EN EL TRABAJO LEGISLATIVO, PROMOVIENDO LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA DE LAS MUJERES EN LAS ESTRUCTURAS SOCIALES Y ECONÓMICAS DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
+        "expediente": "00909-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones Especiales"
       }
     ],
     "Miguel Felix Huamán Cornejo": [
@@ -23194,6 +23572,20 @@
         "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular)",
         "expediente": "00856-2026-2031-CD",
         "subtipo": "Pedidos para que el pleno se pronuncie sobre interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 909 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/909",
+        "pts": 3,
+        "sumilla": "CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE A LA HISTÓRICA MESA DE MUJERES PARLAMENTARIAS PERUANAS, A FIN DE EJERCER UN LIDERAZGO CONSOLIDADO EN EL TRABAJO LEGISLATIVO, PROMOVIENDO LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA DE LAS MUJERES EN LAS ESTRUCTURAS SOCIALES Y ECONÓMICAS DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
+        "expediente": "00909-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones Especiales"
       }
     ],
     "Juana Guisella Ticona Cohaila": [
@@ -25076,6 +25468,20 @@
         "autores": "(P)Ramos Rosales, María Candelaria (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular)",
         "expediente": "00671-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 909 (Conformación de Comisiones Especiales): CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/909",
+        "pts": 3,
+        "sumilla": "CONFORMAR LA COMISIÓN ESPECIAL DE MUJERES PARLAMENTARIAS DE LA CÁMARA DE DIPUTADOS, DE CARÁCTER MULTIPARTIDARIO, EN BASE A LA HISTÓRICA MESA DE MUJERES PARLAMENTARIAS PERUANAS, A FIN DE EJERCER UN LIDERAZGO CONSOLIDADO EN EL TRABAJO LEGISLATIVO, PROMOVIENDO LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA DE LAS MUJERES EN LAS ESTRUCTURAS SOCIALES Y ECONÓMICAS DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
+        "expediente": "00909-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones Especiales"
       }
     ],
     "Walter Francisco Gago Rodríguez": [
