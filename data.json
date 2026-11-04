@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Primer vicepresidente lidera mesa multisectorial para atender demandas de armadores pesqueros",
+      "source": "Portal del Congreso",
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/primer-vicepresidente-lidera-mesa-multisectorial-para-atender-demandas-de-armadores-pesqueros/"
+    },
+    {
+      "title": "Senadores de la bancada de Renovación Popular priorizan salud, seguridad y crisis hídrica en Lima, Tacna y Puno",
+      "source": "Portal del Congreso",
+      "date": "03 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-de-renovacion-popular-priorizan-salud-seguridad-y-crisis-hidrica-en-lima-y-tacna/"
+    },
+    {
       "title": "Senadores de Ahora Nación exigen acciones ante crisis sanitaria en Máncora y problemas ambientales en regiones",
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
@@ -1625,12 +1637,6 @@
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-atienden-demandas-sobre-seguridad-servicios-electricos-y-derechos-laborales/"
-    },
-    {
-      "title": "Presidente Reto impulsa coordinaciones en Tumbes para fortalecer la respuesta ante el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-impulsa-coordinaciones-en-tumbes-para-fortalecer-la-respuesta-ante-el-fenomeno-el-nino/"
     }
   ],
   "diputados_news": [
@@ -1663,18 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "03 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-plantean-prioridades-de-inversion-y-atencion-de-demandas-sociales-en-el-presupuesto-2027/"
-    },
-    {
-      "title": "Diputados de Fuerza Popular realizan visitas de fiscalización en Piura, Amazonas, Junín y Callao",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-fuerza-popular-realizan-visitas-de-fiscalizacion-en-piura-amazonas-junin-y-callao/"
-    },
-    {
-      "title": "Presidente Reto impulsa coordinaciones en Tumbes para fortalecer la respuesta ante el fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-reto-impulsa-coordinaciones-en-tumbes-para-fortalecer-la-respuesta-ante-el-fenomeno-el-nino/"
     }
   ],
   "events_override": {
@@ -23671,6 +23665,14 @@
         "d": "02/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/alejandro-munante-organiza-mesa-de-dialogo-sobre-operatividad-del-aeropuerto-de-jaen/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Primer vicepresidente lidera mesa multisectorial para atender demandas de armadores pesqueros",
+        "d": "03/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/primer-vicepresidente-lidera-mesa-multisectorial-para-atender-demandas-de-armadores-pesqueros/",
         "pts": 2
       }
     ],
