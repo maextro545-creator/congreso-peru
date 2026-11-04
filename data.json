@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Senadores del Partido del Buen Gobierno exigen seguridad jurídica para territorios indígenas y respeto a la vivienda",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-del-buen-gobierno-exigen-seguridad-juridica-para-territorios-indigenas-y-respeto-a-la-vivienda/"
+    },
+    {
+      "title": "Senadores de Renovación Popular priorizan salud, seguridad y demandas regionales",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-priorizan-salud-seguridad-y-demandas-regionales/"
+    },
+    {
+      "title": "Senadores de Obras continúan semana de representación con visitas y reuniones de diálogo social",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-obras-continuan-semana-de-representacion-con-visitas-y-reuniones-de-dialogo-social/"
+    },
+    {
+      "title": "Autoridades electas reciben asistencia técnica para asegurar una transferencia ordenada y transparente",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/autoridades-electas-reciben-asistencia-tecnica-para-asegurar-una-transferencia-ordenada-y-transparente/"
+    },
+    {
       "title": "Visitas de inspección y encuentros con la población fueron las actividades priorizadas por los senadores de Juntos por el Perú",
       "source": "Portal del Congreso",
       "date": "04 Nov 2026",
@@ -1607,33 +1631,33 @@
       "source": "Portal del Congreso",
       "date": "04 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/promueven-agenda-legislativa-para-fortalecer-los-derechos-de-ninas-ninos-y-adolescentes/"
-    },
-    {
-      "title": "Senadores de Fuerza Popular continúan labor de fiscalización en su tercer día de Semana de Representación",
-      "source": "Portal del Congreso",
-      "date": "04 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-continuan-labor-de-fiscalizacion-en-su-tercer-dia-de-semana-de-representacion/"
-    },
-    {
-      "title": "Delegación China entrega Constitución Política del Perú en edición bilingüe y propone fortalecer la cooperación académica",
-      "source": "Portal del Congreso",
-      "date": "04 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-china-entrega-constitucion-politica-del-peru-en-edicion-bilingue-y-propone-fortalecer-la-cooperacion-academica/"
-    },
-    {
-      "title": "Primer vicepresidente lidera mesa multisectorial para atender demandas de armadores pesqueros",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/primer-vicepresidente-lidera-mesa-multisectorial-para-atender-demandas-de-armadores-pesqueros/"
-    },
-    {
-      "title": "Senadores de la bancada de Renovación Popular priorizan salud, seguridad y crisis hídrica en Lima, Tacna y Puno",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-la-bancada-de-renovacion-popular-priorizan-salud-seguridad-y-crisis-hidrica-en-lima-y-tacna/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Congreso reconoce a niños y jóvenes destacados en la cultura y el deporte",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-reconoce-a-ninos-y-jovenes-destacados-en-la-cultura-y-el-deporte/"
+    },
+    {
+      "title": "Autoridades electas reciben asistencia técnica para asegurar una transferencia ordenada y transparente",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/autoridades-electas-reciben-asistencia-tecnica-para-asegurar-una-transferencia-ordenada-y-transparente/"
+    },
+    {
+      "title": "Diputados de Ahora Nación respaldan la identidad cultural y el desarrollo económico en Apurímac y Cusco",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-ahora-nacion-respaldan-la-identidad-cultural-y-el-desarrollo-economico-en-apurimac-y-cusco/"
+    },
+    {
+      "title": "Diputados de Partido Cívico Obras fiscalizan problemas de saneamiento, patrimonio arqueológico y acceso al agua en Junín, Lima y Tumbes",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-partido-civico-obras-fiscalizan-problemas-de-saneamiento-patrimonio-arqueologico-y-acceso-al-agua-en-junin-lima-y-tumbes/"
+    },
     {
       "title": "Promueven agenda legislativa para fortalecer los derechos de niñas, niños y adolescentes",
       "source": "Portal del Congreso",
@@ -1645,36 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "04 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-la-bancada-de-fuerza-popular-priorizan-cierre-de-brechas-economicas-y-sociales-en-regiones/"
-    },
-    {
-      "title": "Diputados de Renovación Popular supervisan medidas ante El Niño y necesidades de servicios públicos",
-      "source": "Portal del Congreso",
-      "date": "04 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-renovacion-popular-supervisan-medidas-ante-el-nino-y-necesidades-de-servicios-publicos/"
-    },
-    {
-      "title": "Oscar Reto fiscaliza acciones de prevención ante el fenómeno El Niño y exige articulación entre los tres niveles de gobierno",
-      "source": "Portal del Congreso",
-      "date": "04 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-fiscaliza-acciones-de-prevencion-ante-el-fenomeno-el-nino-y-exige-articulacion-entre-los-tres-niveles-de-gobierno/"
-    },
-    {
-      "title": "Delegación China entrega Constitución Política del Perú en edición bilingüe y propone fortalecer la cooperación académica",
-      "source": "Portal del Congreso",
-      "date": "04 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/delegacion-china-entrega-constitucion-politica-del-peru-en-edicion-bilingue-y-propone-fortalecer-la-cooperacion-academica/"
-    },
-    {
-      "title": "Diputados de Juntos por el Perú desarrollan actividades de fiscalización y gestión en Áncash, Puno y Amazonas",
-      "source": "Portal del Congreso",
-      "date": "04 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-juntos-por-el-peru-desarrollan-actividades-de-fiscalizacion-y-gestion-en-ancash-puno-y-amazonas/"
-    },
-    {
-      "title": "Primer vicepresidente lidera mesa multisectorial para atender demandas de armadores pesqueros",
-      "source": "Portal del Congreso",
-      "date": "03 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/primer-vicepresidente-lidera-mesa-multisectorial-para-atender-demandas-de-armadores-pesqueros/"
     }
   ],
   "events_override": {
@@ -4559,6 +4553,34 @@
         "autores": "(P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); Medina Stein, Andrea Dayna (Partido Cívico Obras); Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); Bravo Quispe, Aldo Antonio (Renovación Popular); Yonz Nuñez, Mady Verónica (Renovación Popular); Peña Córdova, Olver (Juntos por el Perú)",
         "expediente": "00818-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 922 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO Y FELICITACIÓN A LAS AUTORIDADES, INSTITUCIONES Y POBLACIÓN DEL DISTRITO DE LL...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/922",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL Y FRATERNO SALUDO Y FELICITACIÓN A LAS AUTORIDADES, INSTITUCIONES Y POBLACIÓN DEL DISTRITO DE LLIPA, PROVINCIA DE OCROS, DEPARTAMENTO DE ÁNCASH, POR EL 69.º ANIVERSARIO DE SU CREACIÓN POLÍTICA, QUE SE CONMEMORA EL 15 DE NOVIEMBRE DE 2026.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras)",
+        "expediente": "00922-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 920 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL Y FRATERNO SALUDO Y FELICITACIÓN A LAS AUTORIDADES, INSTITUCIONES Y POBLACIÓN DEL DISTRITO DE IN...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/920",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL Y FRATERNO SALUDO Y FELICITACIÓN A LAS AUTORIDADES, INSTITUCIONES Y POBLACIÓN DEL DISTRITO DE INDEPENDENCIA, PROVINCIA DE HUARAZ, DEPARTAMENTO DE ÁNCASH, CON OCASIÓN DEL 34.º ANIVERSARIO DE SU CREACIÓN POLÍTICA, QUE SE CONMEMORA EL 16 DE NOVIEMBRE DE 2026.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras)",
+        "expediente": "00920-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Juan César Cabrera Nieto": [
@@ -9644,6 +9666,14 @@
         "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Ramos Rosales, María Candelaria (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
         "expediente": "00909-2026-2031-CD",
         "subtipo": "Conformación de Comisiones Especiales"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso reconoce a niños y jóvenes destacados en la cultura y el deporte",
+        "d": "04/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-reconoce-a-ninos-y-jovenes-destacados-en-la-cultura-y-el-deporte/",
+        "pts": 2
       }
     ],
     "Karina Juliza Beteta Rubín": [
@@ -11734,6 +11764,20 @@
         "autores": "(P)Varas Seguin, Daniel Jefferson (Juntos por el Perú)",
         "expediente": "00905-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 921 (Mociones de Saludo): EXPRESAR EL SALUDO Y LA FELICITACIÓN A LA MUNICIPALIDAD DISTRITAL DE INDEPENDENCIA, PROVINCIA DE HUARAZ, DEPARTAMENTO DE...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/921",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL SALUDO Y LA FELICITACIÓN A LA MUNICIPALIDAD DISTRITAL DE INDEPENDENCIA, PROVINCIA DE HUARAZ, DEPARTAMENTO DE ÁNCASH, CON MOTIVO DE CONMEMORARSE, EL 6 DE NOVIEMBRE DE 2026, SU 34.º ANIVERSARIO DE FUNCIONAMIENTO INSTITUCIONAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Varas Seguin, Daniel Jefferson (Juntos por el Perú)",
+        "expediente": "00921-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Amalia Emilia Palomino Pacheco": [
@@ -12692,6 +12736,20 @@
         "autores": "(P)Pérez Alccahuaman, Jesús (Juntos por el Perú); Holguín Aguirre, James Arturo (Juntos por el Perú); Palomino Casavilca, Catherin Norma (Juntos por el Perú); Peña Córdova, Olver (Juntos por el Perú); Pérez Mallqui, Julián Luis (Juntos por el Perú); Tapullima Insapillo, Jacqueline Viviana (Juntos por el Perú); Tito Rojas, César Hugo (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú); Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); Piñán Mamani, Víctor Eduardo (Partido Cívico Obras)",
         "expediente": "00830-2026-2031-CD",
         "subtipo": "Conformación de Comisiones Especiales"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 923 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO A CUMPLIR, POR INTERMEDIO DE LOS SECTORES COMPETENTES, LAS OBLIGACIONES DE COOPERACIÓN DEL E...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/923",
+        "pts": 3,
+        "sumilla": "EXHORTAR AL PODER EJECUTIVO A CUMPLIR, POR INTERMEDIO DE LOS SECTORES COMPETENTES, LAS OBLIGACIONES DE COOPERACIÓN DEL ESTADO PERUANO CON EL GRUPO DE TRABAJO SOBRE LA DETENCIÓN ARBITRARIA RESPECTO DE LA OPINIÓN NÚM. 78/2025, EN PARTICULAR SU DIFUSIÓN Y LA REMISIÓN DE LA INFORMACIÓN DE SEGUIMIENTO SOLICITADA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Paredes Navarro, Yenifer Noelia (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú)",
+        "expediente": "00923-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -14242,6 +14300,20 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/en-comision-de-energia-y-minas-exponen-alcances-de-proyecto-de-ley-mape/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 923 (Pedidos de Declaración de necesidad pública o interes nacional): EXHORTAR AL PODER EJECUTIVO A CUMPLIR, POR INTERMEDIO DE LOS SECTORES COMPETENTES, LAS OBLIGACIONES DE COOPERACIÓN DEL E...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/923",
+        "pts": 3,
+        "sumilla": "EXHORTAR AL PODER EJECUTIVO A CUMPLIR, POR INTERMEDIO DE LOS SECTORES COMPETENTES, LAS OBLIGACIONES DE COOPERACIÓN DEL ESTADO PERUANO CON EL GRUPO DE TRABAJO SOBRE LA DETENCIÓN ARBITRARIA RESPECTO DE LA OPINIÓN NÚM. 78/2025, EN PARTICULAR SU DIFUSIÓN Y LA REMISIÓN DE LA INFORMACIÓN DE SEGUIMIENTO SOLICITADA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Paredes Navarro, Yenifer Noelia (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú)",
+        "expediente": "00923-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Pilar Sulca Castillo": [
@@ -21870,6 +21942,76 @@
         "autores": "(P)Verano Saravia, Wilfredo (Juntos por el Perú); Andrés Luján, Serafín (Juntos por el Perú); Armacanqui Morales, Saúl Andrés (Juntos por el Perú); Castillo Terrones, José Mercedes (Juntos por el Perú); Chipana Chipana, Jose Moises (Juntos por el Perú); Cutipa Ccama, Víctor Raúl (Juntos por el Perú); Maraví Olarte, Iber Antenor (Juntos por el Perú); Morales Ramírez, Edyson Humberto (Juntos por el Perú); Quito Sarmiento, Bernardo Jaime (Juntos por el Perú); Ramos Huillcas, Andrés Avelino (Juntos por el Perú)",
         "expediente": "00186-2026-2031-S",
         "subtipo": "DE INTERÉS NACIONAL"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 218 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE TIRAPATA, PROVINCIA DE AZÁNGARO, DEPARTAMEN...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/218",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE TIRAPATA, PROVINCIA DE AZÁNGARO, DEPARTAMENTO DE PUNO, CON OCASIÓN DE CONMEMORARSE SU OCTOGÉSIMO TERCER (LXXXIII) ANIVERSARIO DE CREACIÓN POLÍTICA, EL PRÓXIMO 10 DE NOVIEMBRE DE 2026, DESTACANDO SU HISTORIA, RIQUEZA CULTURAL Y, ESPECIALMENTE, SU RECONOCIDA TRADICIÓN ALFARERA, QUE CONSTITUYE MOTIVO DE ORGULLO PARA LA REGIÓN PUNO Y EL PERÚ",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Chipana Chipana, Jose Moises (Juntos por el Perú)",
+        "expediente": "00218-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 217 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SAN JUAN DEL ORO, PROVINCIA DE SANDIA, DEPA...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/217",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SAN JUAN DEL ORO, PROVINCIA DE SANDIA, DEPARTAMENTO DE PUNO, CON OCASIÓN DE CONMEMORARSE SU SEPTUAGÉSIMO PRIMER (LXXI) ANIVERSARIO DE CREACIÓN POLÍTICA, EL PRÓXIMO 7 DE NOVIEMBRE DE 2026, DESTACANDO SU RIQUEZA HISTÓRICA, CULTURAL Y PRODUCTIVA, ASÍ COMO EL ESFUERZO Y LA CONTRIBUCIÓN DE SU POBLACIÓN AL DESARROLLO DE LA REGIÓN PUNO Y DEL PAÍS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Chipana Chipana, Jose Moises (Juntos por el Perú)",
+        "expediente": "00217-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 216 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE CAMINACA, PROVINCIA DE AZÁNGARO, DEPARTAMEN...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/216",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE CAMINACA, PROVINCIA DE AZÁNGARO, DEPARTAMENTO DE PUNO, CON OCASIÓN DE CONMEMORARSE SU CENTÉSIMO SEPTUAGÉSIMO SEGUNDO (CLXXII) ANIVERSARIO DE CREACIÓN POLÍTICA, EL PRÓXIMO 12 DE NOVIEMBRE DE 2026, DESTACANDO SU HISTORIA, VOCACIÓN AGROPECUARIA, RIQUEZA PRODUCTIVA, PATRIMONIO RELIGIOSO Y TRADICIONES CULTURALES, QUE CONSTITUYEN MOTIVO DE ORGULLO PARA LA REGIÓN PUNO Y EL PAÍS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Chipana Chipana, Jose Moises (Juntos por el Perú)",
+        "expediente": "00216-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 215 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SAMÁN, PROVINCIA DE AZÁNGARO, DEPARTAMENTO ...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/215",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SAMÁN, PROVINCIA DE AZÁNGARO, DEPARTAMENTO DE PUNO, CON OCASIÓN DE CONMEMORARSE UN ANIVERSARIO MÁS DE SU CREACIÓN POLÍTICA, EL PRÓXIMO 12 DE NOVIEMBRE DE 2026, DESTACANDO SU TRAYECTORIA HISTÓRICA REPUBLICANA Y SU GRAN APORTE EN EL DESARROLLO DE LA REGIÓN Y EL PAÍS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Chipana Chipana, Jose Moises (Juntos por el Perú)",
+        "expediente": "00215-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 214 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE ARAPA, PROVINCIA DE AZÁNGARO, DEPARTAMENTO ...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/214",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE ARAPA, PROVINCIA DE AZÁNGARO, DEPARTAMENTO DE PUNO, CON OCASIÓN DE CONMEMORARSE UN ANIVERSARIO MÁS DE SU CREACIÓN POLÍTICA, EL PRÓXIMO 12 DE NOVIEMBRE DE 2026, DESTACANDO SU LEGADO HISTÓRICO, SU PARTICIPACIÓN EN LAS LUCHAS EMANCIPADORAS, SU PATRIMONIO CULTURAL Y LA RIQUEZA NATURAL DE LA LAGUNA DE ARAPA, ELEMENTOS QUE CONSTITUYEN MOTIVO DE ORGULLO PARA LA REGIÓN PUNO Y EL PAÍS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Chipana Chipana, Jose Moises (Juntos por el Perú)",
+        "expediente": "00214-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
     "Ana Luisa Yuffra Lugo": [
