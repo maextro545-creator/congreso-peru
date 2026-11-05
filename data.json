@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Ahora Nación realizan acciones de fiscalización en Cusco y Lima en favor de los derechos humanos y la salud",
+      "source": "Portal del Congreso",
+      "date": "04 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-realizan-acciones-de-fiscalizacion-en-cusco-y-lima-en-favor-de-los-derechos-humanos-y-la-salud/"
+    },
+    {
       "title": "Senadores del Partido del Buen Gobierno exigen seguridad jurídica para territorios indígenas y respeto a la vivienda",
       "source": "Portal del Congreso",
       "date": "04 Nov 2026",
@@ -1663,12 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "04 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/promueven-agenda-legislativa-para-fortalecer-los-derechos-de-ninas-ninos-y-adolescentes/"
-    },
-    {
-      "title": "Diputados de la bancada de Fuerza Popular priorizan cierre de brechas económicas y sociales en regiones",
-      "source": "Portal del Congreso",
-      "date": "04 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-de-la-bancada-de-fuerza-popular-priorizan-cierre-de-brechas-economicas-y-sociales-en-regiones/"
     }
   ],
   "events_override": {
@@ -7586,6 +7586,34 @@
         "autores": "(P)Castillo Terrones, José Mercedes (Juntos por el Perú)",
         "expediente": "00211-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 220 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO A LOS HOMBRES Y MUJERES QUE LABORAN EN LOS GOBIERNOS LOCALES AL SERVICIO DE LA CIUDADANÍA AL CONMEMOR...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/220",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO A LOS HOMBRES Y MUJERES QUE LABORAN EN LOS GOBIERNOS LOCALES AL SERVICIO DE LA CIUDADANÍA AL CONMEMORARSE EL 5 DE NOVIEMBRE EL DÍA DEL TRABAJADOR MUNICIPAL",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Castillo Terrones, José Mercedes (Juntos por el Perú)",
+        "expediente": "00220-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 219 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO Y ESPECIAL RECONOCIMIENTO A LAS AUTORIDADES, ORGANIZACIONES SOCIALES, INSTITUCIONES Y A TODA LA POBLA...",
+        "d": "04/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/219",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO Y ESPECIAL RECONOCIMIENTO A LAS AUTORIDADES, ORGANIZACIONES SOCIALES, INSTITUCIONES Y A TODA LA POBLACIÓN DE LA CIUDAD DE PUNO, CON MOTIVO DE CELEBRARSE EL 358° ANIVERSARIO DE SU FUNDACIÓN",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Castillo Terrones, José Mercedes (Juntos por el Perú)",
+        "expediente": "00219-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
     "Saul Andrés Armacanqui Morales": [
@@ -8113,6 +8141,14 @@
         "d": "06/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-declara-improcedente-denuncia-presentada-contra-ruth-luque/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores de Ahora Nación realizan acciones de fiscalización en Cusco y Lima en favor de los derechos humanos y la salud",
+        "d": "04/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-realizan-acciones-de-fiscalizacion-en-cusco-y-lima-en-favor-de-los-derechos-humanos-y-la-salud/",
         "pts": 2
       }
     ],
