@@ -1597,10 +1597,22 @@
   },
   "senado_news": [
     {
+      "title": "Senadores Renovación Popular priorizan fiscalización de infraestructura vial, educación y salud en Loreto y Amazonas",
+      "source": "Portal del Congreso",
+      "date": "05 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-renovacion-popular-priorizan-fiscalizacion-de-infraestructura-vial-educacion-y-salud-en-loreto-y-amazonas/"
+    },
+    {
       "title": "Presidente del Congreso recibe a estudiantes de la Gran Unidad Escolar San Carlos de Puno",
       "source": "Portal del Congreso",
       "date": "05 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibe-a-estudiantes-de-la-gran-unidad-escolar-san-carlos-de-puno/"
+    },
+    {
+      "title": "Congreso busca fortalecer defensa de los derechos de menores trabajadores",
+      "source": "Portal del Congreso",
+      "date": "05 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-busca-fortalecer-defensa-de-los-derechos-de-menores-trabajadores/"
     },
     {
       "title": "Senadores de Ahora Nación gestionan atención a demandas de infraestructura, servicios básicos y comercio regional",
@@ -1631,12 +1643,6 @@
       "source": "Portal del Congreso",
       "date": "05 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-de-buen-gobierno-priorizan-salud-infraestructura-y-educacion/"
-    },
-    {
-      "title": "Impulsan convalidación de experiencia laboral para facilitar el acceso a títulos técnicos",
-      "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-convalidacion-de-experiencia-laboral-para-facilitar-el-acceso-a-titulos-tecnicos/"
     }
   ],
   "diputados_news": [
@@ -1663,12 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "05 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-diethell-columbus-reconoce-los-76-anos-de-labor-de-la-liga-contra-el-cancer-en-el-peru/"
-    },
-    {
-      "title": "Impulsan convalidación de experiencia laboral para facilitar el acceso a títulos técnicos",
-      "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/impulsan-convalidacion-de-experiencia-laboral-para-facilitar-el-acceso-a-titulos-tecnicos/"
     }
   ],
   "events_override": {
@@ -24459,6 +24459,14 @@
         "d": "03/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/primer-vicepresidente-lidera-mesa-multisectorial-para-atender-demandas-de-armadores-pesqueros/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores Renovación Popular priorizan fiscalización de infraestructura vial, educación y salud en Loreto y Amazonas",
+        "d": "05/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-renovacion-popular-priorizan-fiscalizacion-de-infraestructura-vial-educacion-y-salud-en-loreto-y-amazonas/",
         "pts": 2
       }
     ],
