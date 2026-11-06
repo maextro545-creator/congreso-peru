@@ -1597,6 +1597,42 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Juntos por el Perú constatan deficiencias en infraestructura y salud pública al interior del país",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-constatan-deficiencias-en-infraestructura-y-salud-publica-al-interior-del-pais/"
+    },
+    {
+      "title": "Senadores culminan Semana de Representación con reuniones y actividades de fiscalización",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-culminan-semana-de-representacion-con-reuniones-y-actividades-de-fiscalizacion/"
+    },
+    {
+      "title": "Presidente del Senado participa en clausura de la 60.ª Asamblea Anual de FELABAN",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-participa-en-clausura-de-la-60-a-asamblea-anual-de-felaban/"
+    },
+    {
+      "title": "Presidente del Congreso visita Centro Juvenil de Diagnóstico y Rehabilitación de Lima para conocer avances en reinserción social",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visita-centro-juvenil-de-diagnostico-y-rehabilitacion-de-lima-para-conocer-avances-en-reinsercion-social/"
+    },
+    {
+      "title": "Senadores de Fuerza Popular culminan semana de representación con visitas de supervisión y diálogo ciudadano en diversas regiones del país",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-fuerza-popular-culminan-semana-de-representacion-con-visitas-de-supervision-y-dialogo-ciudadano-en-diversas-regiones-del-pais/"
+    },
+    {
+      "title": "Reto advierte desde Ica: “Hemos avanzado, pero aún nos falta para responder ante una emergencia”",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-advierte-desde-ica-hemos-avanzado-pero-aun-nos-falta-para-responder-ante-una-emergencia/"
+    },
+    {
       "title": "Senadores Renovación Popular priorizan fiscalización de infraestructura vial, educación y salud en Loreto y Amazonas",
       "source": "Portal del Congreso",
       "date": "05 Nov 2026",
@@ -1607,68 +1643,32 @@
       "source": "Portal del Congreso",
       "date": "05 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibe-a-estudiantes-de-la-gran-unidad-escolar-san-carlos-de-puno/"
-    },
-    {
-      "title": "Congreso busca fortalecer defensa de los derechos de menores trabajadores",
-      "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-busca-fortalecer-defensa-de-los-derechos-de-menores-trabajadores/"
-    },
-    {
-      "title": "Senadores de Ahora Nación gestionan atención a demandas de infraestructura, servicios básicos y comercio regional",
-      "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-ahora-nacion-gestionan-atencion-a-demandas-de-infraestructura-servicios-basicos-y-comercio-regional/"
-    },
-    {
-      "title": "Miguel Ángel Torres: “La clave está en prevenir y actuar a tiempo ante una emergencia”",
-      "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-angel-torres-la-clave-esta-en-prevenir-y-actuar-a-tiempo-ante-una-emergencia/"
-    },
-    {
-      "title": "Buscan acelerar planes de contingencia frente a sismos de gran magnitud",
-      "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/buscan-acelerar-planes-de-contingencia-frente-a-sismos-de-gran-magnitud/"
-    },
-    {
-      "title": "Senadores de Partido Cívico Obras recogen demandas locales en Tacna, Junín y Villa El Salvador",
-      "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-partido-civico-obras-recogen-demandas-locales-en-tacna-junin-y-villa-el-salvador/"
-    },
-    {
-      "title": "Senadores del Partido de Buen Gobierno priorizan salud, infraestructura y educación",
-      "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-del-partido-de-buen-gobierno-priorizan-salud-infraestructura-y-educacion/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Congreso busca fortalecer defensa de los derechos de menores trabajadores",
+      "title": "Partido Cívico Obras culmina semana de representación con actividades en diversas regiones del país",
       "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-busca-fortalecer-defensa-de-los-derechos-de-menores-trabajadores/"
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/partido-civico-obras-culmina-semana-de-representacion-con-actividades-en-diversas-regiones-del-pais/"
     },
     {
-      "title": "Buscan acelerar planes de contingencia frente a sismos de gran magnitud",
+      "title": "Reto advierte desde Ica: “Hemos avanzado, pero aún nos falta para responder ante una emergencia”",
       "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/buscan-acelerar-planes-de-contingencia-frente-a-sismos-de-gran-magnitud/"
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reto-advierte-desde-ica-hemos-avanzado-pero-aun-nos-falta-para-responder-ante-una-emergencia/"
     },
     {
-      "title": "Presidente Oscar Reto supervisa preparación de albergues en Piura y destaca compromiso del Ejército para salvar vidas ante El Niño",
+      "title": "Renovación Popular culmina semana de representación con acciones de fiscalización y atención a demandas ciudadanas",
       "source": "Portal del Congreso",
-      "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-oscar-reto-supervisa-preparacion-de-albergues-en-piura-y-destaca-compromiso-del-ejercito-para-salvar-vidas-ante-el-nino/"
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/renovacion-popular-culmina-semana-de-representacion-con-acciones-de-fiscalizacion-y-atencion-a-demandas-ciudadanas/"
     },
     {
-      "title": "Diputado Diethell Columbus reconoce los 76 años de labor de la Liga Contra el Cáncer en el Perú",
+      "title": "Presidente del Congreso recibe a estudiantes de la Gran Unidad Escolar San Carlos de Puno",
       "source": "Portal del Congreso",
       "date": "05 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-diethell-columbus-reconoce-los-76-anos-de-labor-de-la-liga-contra-el-cancer-en-el-peru/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibe-a-estudiantes-de-la-gran-unidad-escolar-san-carlos-de-puno/"
     }
   ],
   "events_override": {
@@ -3278,6 +3278,20 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/realizan-mesa-tecnica-sobre-atencion-estetica-en-el-marco-de-una-nueva-propuesta-normativa/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 941 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA ...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/941",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA CADENA PRODUCTIVA PECUARIA DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, POR SU IMPORTANCIA PARA EL DESARROLLO ECONÓMICO LOCAL, LA SEGURIDAD ALIMENTARIA, EL EMPLEO RURAL Y EL APROVECHAMIENTO SOSTENIBLE DE SUS RECURSOS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00941-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -3431,6 +3445,34 @@
         "grupo": "Ahora Nación",
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación); Sonco Villanueva, Helard Bladimir (Ahora Nación)",
         "expediente": "00798-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 941 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA ...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/941",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA CADENA PRODUCTIVA PECUARIA DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, POR SU IMPORTANCIA PARA EL DESARROLLO ECONÓMICO LOCAL, LA SEGURIDAD ALIMENTARIA, EL EMPLEO RURAL Y EL APROVECHAMIENTO SOSTENIBLE DE SUS RECURSOS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00941-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 939 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE L...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/939",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, EN RECONOCIMIENTO DE SU IMPORTANCIA PARA LA IDENTIDAD CULTURAL Y LA ORGANIZACIÓN COMUNAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Marcelo Salazar, José Miguel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00939-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
@@ -3745,6 +3787,34 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-busca-fortalecer-defensa-de-los-derechos-de-menores-trabajadores/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 941 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA ...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/941",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA CADENA PRODUCTIVA PECUARIA DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, POR SU IMPORTANCIA PARA EL DESARROLLO ECONÓMICO LOCAL, LA SEGURIDAD ALIMENTARIA, EL EMPLEO RURAL Y EL APROVECHAMIENTO SOSTENIBLE DE SUS RECURSOS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00941-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 939 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE L...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/939",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, EN RECONOCIMIENTO DE SU IMPORTANCIA PARA LA IDENTIDAD CULTURAL Y LA ORGANIZACIÓN COMUNAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Marcelo Salazar, José Miguel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00939-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -4090,6 +4160,34 @@
         "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "00838-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 941 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA ...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/941",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA CADENA PRODUCTIVA PECUARIA DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, POR SU IMPORTANCIA PARA EL DESARROLLO ECONÓMICO LOCAL, LA SEGURIDAD ALIMENTARIA, EL EMPLEO RURAL Y EL APROVECHAMIENTO SOSTENIBLE DE SUS RECURSOS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00941-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 939 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE L...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/939",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, EN RECONOCIMIENTO DE SU IMPORTANCIA PARA LA IDENTIDAD CULTURAL Y LA ORGANIZACIÓN COMUNAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Marcelo Salazar, José Miguel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00939-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Helard Bladimir Sonco Villanueva": [
@@ -6929,6 +7027,34 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presentan-informe-de-vigilancia-ciudadana-para-una-vida-libre-de-violencia-de-genero-en-lima-metropolitana-2025/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 941 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA ...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/941",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL Y NECESIDAD PÚBLICA EL FORTALECIMIENTO, MODERNIZACIÓN E INDUSTRIALIZACIÓN SOSTENIBLE DE LA CADENA PRODUCTIVA PECUARIA DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, POR SU IMPORTANCIA PARA EL DESARROLLO ECONÓMICO LOCAL, LA SEGURIDAD ALIMENTARIA, EL EMPLEO RURAL Y EL APROVECHAMIENTO SOSTENIBLE DE SUS RECURSOS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00941-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 939 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE L...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/939",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, EN RECONOCIMIENTO DE SU IMPORTANCIA PARA LA IDENTIDAD CULTURAL Y LA ORGANIZACIÓN COMUNAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Marcelo Salazar, José Miguel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00939-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
     "Harvey Julio Colchado Huamani": [
@@ -7343,6 +7469,20 @@
         "grupo": "Ahora Nación",
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Marcelo Salazar, José Miguel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "00706-2026-2031-CD",
+        "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 939 (Pedidos de Declaración de necesidad pública o interes nacional): DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE L...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/939",
+        "pts": 3,
+        "sumilla": "DECLARAR DE INTERÉS NACIONAL LA PROTECCIÓN, SALVAGUARDIA Y PUESTA EN VALOR DEL SISTEMA DE AUTORIDADES TRADICIONALES DE LA COMUNIDAD CAMPESINA DE CARHUAPATA, UBICADA EN EL DISTRITO DE LIRCAY, PROVINCIA DE ANGARAES, DEPARTAMENTO DE HUANCAVELICA, EN RECONOCIMIENTO DE SU IMPORTANCIA PARA LA IDENTIDAD CULTURAL Y LA ORGANIZACIÓN COMUNAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Marcelo Salazar, José Miguel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "00939-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
       }
     ],
@@ -22391,6 +22531,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular)",
         "expediente": "00900-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 940 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA COMPAÑÍA DE BOMBEROS VOLUNTARIOS BELÉN N° 41, CON OCAS...",
+        "d": "06/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/940",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA COMPAÑÍA DE BOMBEROS VOLUNTARIOS BELÉN N° 41, CON OCASIÓN DE SU 71° ANIVERSARIO DE FUNDACIÓN, CONMEMORADO EL 31 DE OCTUBRE DE 2026; DESTACANDO SU INVALUABLE TRAYECTORIA DE SERVICIO A LA COMUNIDAD, ASÍ COMO LA VALENTÍA, VOCACIÓN, ENTREGA Y COMPROMISO DE SUS INTEGRANTES, QUIENES, A LO LARGO DE MÁS DE SIETE DÉCADAS, HAN CONTRIBUIDO A PROTEGER LA VIDA, LA INTEGRIDAD Y LA SEGURIDAD DE LA POBLACIÓN DEL DISTRITO DE BELÉN, LA PROVINCIA DE MAYNAS Y LA REGIÓN LORETO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular)",
+        "expediente": "00940-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
