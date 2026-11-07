@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Senadores de Renovación Popular exigen mejoras educativas y reactivación económica en el interior del país",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-renovacion-popular-exigen-mejoras-educativas-y-reactivacion-economica-en-el-interior-del-pais/"
+    },
+    {
+      "title": "Presidente del Congreso se reúne con PROINVERSIÓN para abordar sus principales líneas de acción",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-proinversion-para-abordar-sus-principales-lineas-de-accion/"
+    },
+    {
       "title": "Senadores del Partido del Buen Gobierno abordan temas de educación, seguridad y prevención de emergencias",
       "source": "Portal del Congreso",
       "date": "06 Nov 2026",
@@ -1625,21 +1637,15 @@
       "source": "Portal del Congreso",
       "date": "06 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-de-juntos-por-el-peru-constatan-deficiencias-en-infraestructura-y-salud-publica-al-interior-del-pais/"
-    },
-    {
-      "title": "Senadores culminan Semana de Representación con reuniones y actividades de fiscalización",
-      "source": "Portal del Congreso",
-      "date": "06 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-culminan-semana-de-representacion-con-reuniones-y-actividades-de-fiscalizacion/"
-    },
-    {
-      "title": "Presidente del Senado participa en clausura de la 60.ª Asamblea Anual de FELABAN",
-      "source": "Portal del Congreso",
-      "date": "06 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-participa-en-clausura-de-la-60-a-asamblea-anual-de-felaban/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente del Congreso se reúne con PROINVERSIÓN para abordar sus principales líneas de acción",
+      "source": "Portal del Congreso",
+      "date": "06 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-proinversion-para-abordar-sus-principales-lineas-de-accion/"
+    },
     {
       "title": "Diputados de Ahora Nación impulsaron acciones por el desarrollo comunal, la educación y la gestión pública",
       "source": "Portal del Congreso",
@@ -2861,6 +2867,14 @@
         "d": "05/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-angel-torres-la-clave-esta-en-prevenir-y-actuar-a-tiempo-ante-una-emergencia/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso se reúne con PROINVERSIÓN para abordar sus principales líneas de acción",
+        "d": "06/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-proinversion-para-abordar-sus-principales-lineas-de-accion/",
         "pts": 2
       }
     ],
@@ -18816,6 +18830,14 @@
         "autores": "(P)Paucara Paxi, Carmela (Fuerza Popular)",
         "expediente": "00943-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso se reúne con PROINVERSIÓN para abordar sus principales líneas de acción",
+        "d": "06/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-proinversion-para-abordar-sus-principales-lineas-de-accion/",
+        "pts": 2
       }
     ],
     "Gabriel Robertino Gonzales Delgado": [
@@ -21039,6 +21061,14 @@
         "d": "30/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/instalaron-la-liga-parlamentaria-de-amistad-peru-japon-y-eligieron-a-marco-pacheco-quispe-como-presidente/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso se reúne con PROINVERSIÓN para abordar sus principales líneas de acción",
+        "d": "06/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-proinversion-para-abordar-sus-principales-lineas-de-accion/",
         "pts": 2
       }
     ],
@@ -23492,6 +23522,14 @@
         "autores": "(P)Abensur Pinasco, Jaime Américo (Fuerza Popular)",
         "expediente": "00568-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso se reúne con PROINVERSIÓN para abordar sus principales líneas de acción",
+        "d": "06/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-proinversion-para-abordar-sus-principales-lineas-de-accion/",
+        "pts": 2
       }
     ],
     "Frank Krklec Torres": [
