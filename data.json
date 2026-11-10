@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Aprueban creación de grupo multipartidario para fiscalizar obras de salud paralizadas a nivel nacional",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-creacion-de-grupo-multipartidario-para-fiscalizar-obras-de-salud-paralizadas-a-nivel-nacional/"
+    },
+    {
+      "title": "Analizan el alarmante aumento de la violencia escolar en el Perú",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-el-alarmante-aumento-de-la-violencia-escolar-en-el-peru/"
+    },
+    {
+      "title": "No aprueban propuesta referida a modificaciones en inscripción en el Registro para el Control de Bienes Fiscalizados",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/no-aprueban-propuesta-referida-a-modificaciones-en-inscripcion-en-el-registro-para-el-control-de-bienes-fiscalizados/"
+    },
+    {
       "title": "Presidente del Senado respalda a Ayacucho como sede de los Juegos Sudamericanos de la Juventud 2030",
       "source": "Portal del Congreso",
       "date": "10 Nov 2026",
@@ -1613,74 +1631,44 @@
       "source": "Portal del Congreso",
       "date": "10 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-analizara-este-miercoles-autorizacion-de-viaje-presidencial-a-china-y-japon/"
-    },
-    {
-      "title": "Presidente del Congreso se reúne con presidenta del Senado de Chile para intercambiar experiencias sobre la bicameralidad",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-presidenta-del-senado-de-chile-para-intercambiar-experiencias-sobre-la-bicameralidad/"
-    },
-    {
-      "title": "Aprueban informe que respalda propuesta de Ley MAPE y amplían vigencia de grupos de trabajos",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-informe-que-respalda-propuesta-de-ley-mape-y-amplian-vigencia-de-grupos-de-trabajos/"
-    },
-    {
-      "title": "Debaten suspensión temporal del uso de productos químicos en la agricultura",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-suspension-temporal-del-uso-de-productos-quimicos-en-la-agricultura/"
-    },
-    {
-      "title": "Comisión de Constitución aprueba creación de cuatro nuevas ligas parlamentarias de amistad",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-creacion-de-cuatro-nuevas-ligas-parlamentarias-de-amistad/"
-    },
-    {
-      "title": "Presidente del Congreso se reúne con embajador de Chile para fortalecer agenda bilateral",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-embajador-de-chile-para-fortalecer-agenda-bilateral/"
     }
   ],
   "diputados_news": [
     {
-      "title": "Presidente del Senado respalda a Ayacucho como sede de los Juegos Sudamericanos de la Juventud 2030",
+      "title": "Comisión de Producción aprueba grupo de trabajo para potenciar la cadena de valor de la alpaca",
       "source": "Portal del Congreso",
       "date": "10 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-respalda-a-ayacucho-como-sede-de-los-juegos-sudamericanos-de-la-juventud-2030/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-grupo-de-trabajo-para-potenciar-la-cadena-de-valor-de-la-alpaca/"
+    },
+    {
+      "title": "Presidente de Cámara de Diputados recibió a embajador de Estados Unidos en el Perú",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-recibio-a-embajador-de-estados-unidos-en-el-peru/"
+    },
+    {
+      "title": "Analizan el alarmante aumento de la violencia escolar en el Perú",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-el-alarmante-aumento-de-la-violencia-escolar-en-el-peru/"
+    },
+    {
+      "title": "No aprueban propuesta referida a modificaciones en inscripción en el Registro para el Control de Bienes Fiscalizados",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/no-aprueban-propuesta-referida-a-modificaciones-en-inscripcion-en-el-registro-para-el-control-de-bienes-fiscalizados/"
+    },
+    {
+      "title": "Diputados expresan preocupación por medidas de prevención ante el fenómeno El Niño y avance de obras viales",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-expresan-preocupacion-por-medidas-de-prevencion-ante-el-fenomeno-el-nino-y-avance-de-obras-viales/"
     },
     {
       "title": "Comisión de Salud demanda al SIS soluciones para el acceso a medicamentos y el financiamiento de prestaciones",
       "source": "Portal del Congreso",
       "date": "10 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-demanda-al-sis-soluciones-para-el-acceso-a-medicamentos-y-el-financiamiento-de-prestaciones/"
-    },
-    {
-      "title": "Comisión de Ética aprueba informe que recomienda iniciar investigación contra diputado Víctor Piñán",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-informe-que-recomienda-iniciar-investigacion-contra-diputado-victor-pinan/"
-    },
-    {
-      "title": "Aprueban informe que respalda propuesta de Ley MAPE y amplían vigencia de grupos de trabajos",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-informe-que-respalda-propuesta-de-ley-mape-y-amplian-vigencia-de-grupos-de-trabajos/"
-    },
-    {
-      "title": "Debaten suspensión temporal del uso de productos químicos en la agricultura",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-suspension-temporal-del-uso-de-productos-quimicos-en-la-agricultura/"
-    },
-    {
-      "title": "Comisión de Constitución aprueba creación de cuatro nuevas ligas parlamentarias de amistad",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-creacion-de-cuatro-nuevas-ligas-parlamentarias-de-amistad/"
     }
   ],
   "events_override": {
@@ -2151,6 +2139,14 @@
         "d": "05/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-oscar-reto-supervisa-preparacion-de-albergues-en-piura-y-destaca-compromiso-del-ejercito-para-salvar-vidas-ante-el-nino/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente de Cámara de Diputados recibió a embajador de Estados Unidos en el Perú",
+        "d": "10/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-camara-de-diputados-recibio-a-embajador-de-estados-unidos-en-el-peru/",
         "pts": 2
       }
     ],
@@ -10454,6 +10450,20 @@
         "autores": "(P)Beteta Rubín, Karina Juliza (Fuerza Popular)",
         "expediente": "00904-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 985 (Mociones de Saludo): EXPRESAR SU MAS CÁLIDO SALUDO Y FELICITACIÓN A LA PROVINCIA DE AMBO Y DEPARTAMENTO DE HUÁNUCO, AL CONMEMORARSE ESTE 16 D...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/985",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MAS CÁLIDO SALUDO Y FELICITACIÓN A LA PROVINCIA DE AMBO Y DEPARTAMENTO DE HUÁNUCO, AL CONMEMORARSE ESTE 16 DE NOVIEMBRE DE 2026 EL 114° ANIVERSARIO DE HISTORIA Y TRADICIÓN, EXPRESANDO LOS MEJORES DESEOS PARA CONSOLIDAR SU RUMBO HACIA EL DESARROLLO ECONÓMICO, LA JUSTICIA SOCIAL Y LA PROSPERIDAD DE TODA SU POBLACIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Beteta Rubín, Karina Juliza (Fuerza Popular)",
+        "expediente": "00985-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Leo Miguel De Paz Lancho": [
@@ -17024,6 +17034,20 @@
         "autores": "(P)Astucuri Laura, Roger Miguel (Partido Cívico Obras)",
         "expediente": "00153-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 226 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL Y EFUSIVO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO DE SICAYA, PROVINCIA DE HUANCAYO, DE...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/226",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL Y EFUSIVO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO DE SICAYA, PROVINCIA DE HUANCAYO, DEPARTAMENTO DE JUNÍN, CON MOTIVO DE CONMEMORARSE, EL 16 DE NOVIEMBRE DE 2026, SU 162.º ANIVERSARIO DE CREACIÓN POLÍTICA, HACIENDO EXTENSIVO ESTE HOMENAJE A SUS AUTORIDADES, INSTITUCIONES, ORGANIZACIONES SOCIALES Y A TODA SU POBLACIÓN",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Astucuri Laura, Roger Miguel (Partido Cívico Obras)",
+        "expediente": "00226-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
     "Felix See Hung Chang Apuy": [
@@ -19582,6 +19606,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exigen-medidas-al-jefe-del-inpe-frente-a-crisis-carcelaria-obras-paralizadas-y-redes-de-comercio-ilegal-en-penales/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban creación de grupo multipartidario para fiscalizar obras de salud paralizadas a nivel nacional",
+        "d": "10/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-creacion-de-grupo-multipartidario-para-fiscalizar-obras-de-salud-paralizadas-a-nivel-nacional/",
+        "pts": 2
       }
     ],
     "Fernando Miguel Rospigliosi Capurro": [
@@ -20355,6 +20387,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Quezada Castro, Geanmarco Antonio (Fuerza Popular)",
         "expediente": "00585-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 983 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO, SINCERO Y JUBILOSO SALUDO AL NOBLE PUEBLO, INSTITUCIONES Y AUTORIDADES DE LA CIUDAD DE CHEPÉN, A...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/983",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CÁLIDO, SINCERO Y JUBILOSO SALUDO AL NOBLE PUEBLO, INSTITUCIONES Y AUTORIDADES DE LA CIUDAD DE CHEPÉN, AL CONMEMORARSE ESTE 11 DE NOVIEMBRE SU 112° ANIVERSARIO DE ELEVACIÓN A LA CATEGORÍA DE CIUDAD, AL AMPARO DE LA HISTÓRICA LEY N° 2006, Y POR LA CELEBRACIÓN DE SU 67° SEMANA TURÍSTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Quezada Castro, Geanmarco Antonio (Fuerza Popular)",
+        "expediente": "00983-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -22308,6 +22354,14 @@
         "autores": "(P)Palma Mendoza, José Marvin (Fuerza Popular)",
         "expediente": "00954-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Producción aprueba grupo de trabajo para potenciar la cadena de valor de la alpaca",
+        "d": "10/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-grupo-de-trabajo-para-potenciar-la-cadena-de-valor-de-la-alpaca/",
+        "pts": 2
       }
     ],
     "María Lourdes Pia Luisa Alcorta Suero": [
@@ -26365,6 +26419,34 @@
         "grupo": "Partido Cívico Obras",
         "autores": "(P)Yataco Torrealva, José Ricardo (Partido Cívico Obras)",
         "expediente": "00868-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 989 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE APATA, PROVINCIA DE JAUJA, REGIÓN JUNÍN, CON MOTIVO DE CONM...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/989",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE APATA, PROVINCIA DE JAUJA, REGIÓN JUNÍN, CON MOTIVO DE CONMEMORARSE EL 162.º ANIVERSARIO DE SU CREACIÓN POLÍTICA, ESTE 16 DE NOVIEMBRE.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Yataco Torrealva, José Ricardo (Partido Cívico Obras)",
+        "expediente": "00989-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 988 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO DE SAN JOSÉ DE LOS MOLINOS, PROVINCIA Y DEPARTA...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/988",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL DISTRITO DE SAN JOSÉ DE LOS MOLINOS, PROVINCIA Y DEPARTAMENTO DE ICA, CON OCASIÓN DE CONMEMORARSE EL 150.º ANIVERSARIO DE SU CREACIÓN POLÍTICA, EL 14 DE NOVIEMBRE DE 2026.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Yataco Torrealva, José Ricardo (Partido Cívico Obras)",
+        "expediente": "00988-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
