@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Senado respalda a Ayacucho como sede de los Juegos Sudamericanos de la Juventud 2030",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-respalda-a-ayacucho-como-sede-de-los-juegos-sudamericanos-de-la-juventud-2030/"
+    },
+    {
+      "title": "Comisión de Constitución del Senado evalúa proyectos para escindir comisiones ordinarias",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-evalua-proyectos-para-escindir-comisiones-ordinarias/"
+    },
+    {
+      "title": "Senado analizará este miércoles autorización de viaje presidencial a China y Japón",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-analizara-este-miercoles-autorizacion-de-viaje-presidencial-a-china-y-japon/"
+    },
+    {
       "title": "Presidente del Congreso se reúne con presidenta del Senado de Chile para intercambiar experiencias sobre la bicameralidad",
       "source": "Portal del Congreso",
       "date": "09 Nov 2026",
@@ -1625,21 +1643,21 @@
       "source": "Portal del Congreso",
       "date": "09 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-embajador-de-chile-para-fortalecer-agenda-bilateral/"
-    },
-    {
-      "title": "Crean grupo de trabajo para destrabar 2241 obras de salud que comprometen 73 mil millones de soles",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/crean-grupo-de-trabajo-para-destrabar-2241-obras-de-salud-que-comprometen-73-mil-millones-de-soles/"
-    },
-    {
-      "title": "Exponen situación del contrabando y plantean medidas para fortalecer su lucha",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/exponen-situacion-del-contrabando-y-plantean-medidas-para-fortalecer-su-lucha/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Presidente del Senado respalda a Ayacucho como sede de los Juegos Sudamericanos de la Juventud 2030",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-respalda-a-ayacucho-como-sede-de-los-juegos-sudamericanos-de-la-juventud-2030/"
+    },
+    {
+      "title": "Comisión de Salud demanda al SIS soluciones para el acceso a medicamentos y el financiamiento de prestaciones",
+      "source": "Portal del Congreso",
+      "date": "10 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-demanda-al-sis-soluciones-para-el-acceso-a-medicamentos-y-el-financiamiento-de-prestaciones/"
+    },
     {
       "title": "Comisión de Ética aprueba informe que recomienda iniciar investigación contra diputado Víctor Piñán",
       "source": "Portal del Congreso",
@@ -1663,30 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "09 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-creacion-de-cuatro-nuevas-ligas-parlamentarias-de-amistad/"
-    },
-    {
-      "title": "Se instala Liga Parlamentaria de Amistad Perú-Bielorrusia",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instala-liga-parlamentaria-de-amistad-peru-bielorrusia/"
-    },
-    {
-      "title": "Diputados expresan preocupación por potencial exploración de gas en el Parque Nacional Bahuaja Sonene",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-expresan-preocupacion-por-potencial-exploracion-de-gas-en-el-parque-nacional-bahuaja-sonene/"
-    },
-    {
-      "title": "Crean grupo de trabajo para destrabar 2241 obras de salud que comprometen 73 mil millones de soles",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/crean-grupo-de-trabajo-para-destrabar-2241-obras-de-salud-que-comprometen-73-mil-millones-de-soles/"
-    },
-    {
-      "title": "Exponen situación del contrabando y plantean medidas para fortalecer su lucha",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/exponen-situacion-del-contrabando-y-plantean-medidas-para-fortalecer-su-lucha/"
     }
   ],
   "events_override": {
@@ -2902,6 +2896,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-presidenta-del-senado-de-chile-para-intercambiar-experiencias-sobre-la-bicameralidad/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Senado respalda a Ayacucho como sede de los Juegos Sudamericanos de la Juventud 2030",
+        "d": "10/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-respalda-a-ayacucho-como-sede-de-los-juegos-sudamericanos-de-la-juventud-2030/",
+        "pts": 2
       }
     ],
     "Mady Verónica Yonz Núñez": [
@@ -3522,6 +3524,20 @@
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "00948-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 980 (Pedidos para que el pleno se pronuncie sobre interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “ESTABLECER UN HUB TECNOLÓGICO ESPACIAL EN PUCUSANA” PARA UN MAYOR D...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/980",
+        "pts": 3,
+        "sumilla": "DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “ESTABLECER UN HUB TECNOLÓGICO ESPACIAL EN PUCUSANA” PARA UN MAYOR DESARROLLO CIENTÍFICO Y TECNOLÓGICO DEL ESTADO PERUANO EN EL ÁMBITO ESPACIAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Manrique Olivera, Bernardino Jair (Ahora Nación); Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación)",
+        "expediente": "00980-2026-2031-CD",
+        "subtipo": "Pedidos para que el pleno se pronuncie sobre interes nacional"
       }
     ],
     "Angel Renato Meneses Crispin": [
@@ -3877,6 +3893,20 @@
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "00948-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 980 (Pedidos para que el pleno se pronuncie sobre interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “ESTABLECER UN HUB TECNOLÓGICO ESPACIAL EN PUCUSANA” PARA UN MAYOR D...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/980",
+        "pts": 3,
+        "sumilla": "DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “ESTABLECER UN HUB TECNOLÓGICO ESPACIAL EN PUCUSANA” PARA UN MAYOR DESARROLLO CIENTÍFICO Y TECNOLÓGICO DEL ESTADO PERUANO EN EL ÁMBITO ESPACIAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Manrique Olivera, Bernardino Jair (Ahora Nación); Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación)",
+        "expediente": "00980-2026-2031-CD",
+        "subtipo": "Pedidos para que el pleno se pronuncie sobre interes nacional"
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -5696,6 +5726,20 @@
         "autores": "(P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); Albañil Carmona, Henry Antonio (Partido Cívico Obras); Cabrera Nieto, Juan César (Partido Cívico Obras); Camargo Porta, Raúl Jesús (Partido Cívico Obras); Eusebio Padilla, Arturo César (Partido Cívico Obras); Hancco Hancco, Dina Irene (Partido Cívico Obras); López Letona, Heber (Partido Cívico Obras); Masco Cáceres, Luis Aurelio (Partido Cívico Obras); Medina Stein, Andrea Dayna (Partido Cívico Obras); Peralta Jorpa, Máximo (Partido Cívico Obras); Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); Yataco Torrealva, José Ricardo (Partido Cívico Obras)",
         "expediente": "00808-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 977 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL DISTRITO DE MARANURA,...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/977",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL DISTRITO DE MARANURA, PROVINCIA DE LA CONVENCIÓN, DEPARTAMENTO DEL CUSCO, CON MOTIVO DEL SEXAGÉSIMO SEXTO ANIVERSARIO DE SU CREACIÓN POLÍTICA, QUE SE CONMEMORA EL 15 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE SALUDO A SU ALCALDE, A SU CONCEJO MUNICIPAL Y, POR SU INTERMEDIO, A TODOS SUS POBLADORES.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)López Letona, Heber (Partido Cívico Obras)",
+        "expediente": "00977-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Luis Aurelio Masco Cáceres": [
@@ -6260,6 +6304,20 @@
         "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/967",
         "pts": 3,
         "sumilla": "EXPRESAR EL MÁS EFUSIVO SALUDO Y ELICITACIÓN A LAS AUTORIDADES LOCALES, LÍDERES COMUNALES Y A TODA LA POBLACIÓN DEL DISTRITO DE CONAYCA, AL CONMEMORARSE ESTE 12 DE NOVIEMBRE SU DUCENTÉSIMO TERCERO ANIVERSARIO DE CREACIÓN POLÍTICA INICIAL COMO PUEBLO, RINDIENDO UN MERECIDO HOMENAJE A LA NOBLEZA, LA TENACIDAD Y LA VITALIDAD CULTURAL DE LOS CIUDADANOS DE CONAYCA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Peralta Jorpa, Máximo (Partido Cívico Obras)",
+        "expediente": "00967-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 967 (Mociones de Saludo): EXPRESAR EL MÁS EFUSIVO SALUDO Y FELICITACIÓN A LAS AUTORIDADES LOCALES, LÍDERES COMUNALES Y A TODA LA POBLACIÓN DEL DIS...",
+        "d": "09/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/967",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS EFUSIVO SALUDO Y FELICITACIÓN A LAS AUTORIDADES LOCALES, LÍDERES COMUNALES Y A TODA LA POBLACIÓN DEL DISTRITO DE CONAYCA, AL CONMEMORARSE ESTE 12 DE NOVIEMBRE SU DUCENTÉSIMO TERCERO ANIVERSARIO DE CREACIÓN POLÍTICA INICIAL COMO PUEBLO, RINDIENDO UN MERECIDO HOMENAJE A LA NOBLEZA, LA TENACIDAD Y LA VITALIDAD CULTURAL DE LOS CIUDADANOS DE CONAYCA.",
         "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
         "grupo": "Partido Cívico Obras",
         "autores": "(P)Peralta Jorpa, Máximo (Partido Cívico Obras)",
@@ -7293,6 +7351,20 @@
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "00948-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 980 (Pedidos para que el pleno se pronuncie sobre interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “ESTABLECER UN HUB TECNOLÓGICO ESPACIAL EN PUCUSANA” PARA UN MAYOR D...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/980",
+        "pts": 3,
+        "sumilla": "DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “ESTABLECER UN HUB TECNOLÓGICO ESPACIAL EN PUCUSANA” PARA UN MAYOR DESARROLLO CIENTÍFICO Y TECNOLÓGICO DEL ESTADO PERUANO EN EL ÁMBITO ESPACIAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Manrique Olivera, Bernardino Jair (Ahora Nación); Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación)",
+        "expediente": "00980-2026-2031-CD",
+        "subtipo": "Pedidos para que el pleno se pronuncie sobre interes nacional"
       }
     ],
     "Harvey Julio Colchado Huamani": [
@@ -7448,6 +7520,20 @@
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "00948-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 980 (Pedidos para que el pleno se pronuncie sobre interes nacional): DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “ESTABLECER UN HUB TECNOLÓGICO ESPACIAL EN PUCUSANA” PARA UN MAYOR D...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/980",
+        "pts": 3,
+        "sumilla": "DECLARAR DE NECESIDAD PÚBLICA Y DE INTERÉS NACIONAL “ESTABLECER UN HUB TECNOLÓGICO ESPACIAL EN PUCUSANA” PARA UN MAYOR DESARROLLO CIENTÍFICO Y TECNOLÓGICO DEL ESTADO PERUANO EN EL ÁMBITO ESPACIAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Manrique Olivera, Bernardino Jair (Ahora Nación); Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación)",
+        "expediente": "00980-2026-2031-CD",
+        "subtipo": "Pedidos para que el pleno se pronuncie sobre interes nacional"
       }
     ],
     "José Miguel Marcelo Salazar": [
@@ -13400,6 +13486,20 @@
         "autores": "(P)Márquez Huanca, Analí (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú)",
         "expediente": "00932-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 981 (Conformación de Comisiones de Investigación): DE CONFORMIDAD AL ARTÍCULO 97° DE LA CONSTITUCIÓN POLÍTICA DEL PERÚ, POR EL PLAZO DE 180 DÍAS, CREAR LA COMISIÓN INVESTI...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/981",
+        "pts": 3,
+        "sumilla": "DE CONFORMIDAD AL ARTÍCULO 97° DE LA CONSTITUCIÓN POLÍTICA DEL PERÚ, POR EL PLAZO DE 180 DÍAS, CREAR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA ENCARGADA DE INVESTIGAR LA INTERVENCIÓN DE LA PRESUNTA ORGANIZACIÓN CRIMINAL DIRIGIDA POR FERNANDO CERIMEDO EN LAS ELECCIONES PRESIDENCIALES 2026 DE LA REPÚBLICA DEL PERÚ.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Paredes Navarro, Yenifer Noelia (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú)",
+        "expediente": "00981-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones de Investigación"
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -14978,6 +15078,20 @@
         "autores": "(P)Paredes Navarro, Yenifer Noelia (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú)",
         "expediente": "00923-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 981 (Conformación de Comisiones de Investigación): DE CONFORMIDAD AL ARTÍCULO 97° DE LA CONSTITUCIÓN POLÍTICA DEL PERÚ, POR EL PLAZO DE 180 DÍAS, CREAR LA COMISIÓN INVESTI...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/981",
+        "pts": 3,
+        "sumilla": "DE CONFORMIDAD AL ARTÍCULO 97° DE LA CONSTITUCIÓN POLÍTICA DEL PERÚ, POR EL PLAZO DE 180 DÍAS, CREAR LA COMISIÓN INVESTIGADORA MULTIPARTIDARIA ENCARGADA DE INVESTIGAR LA INTERVENCIÓN DE LA PRESUNTA ORGANIZACIÓN CRIMINAL DIRIGIDA POR FERNANDO CERIMEDO EN LAS ELECCIONES PRESIDENCIALES 2026 DE LA REPÚBLICA DEL PERÚ.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Paredes Navarro, Yenifer Noelia (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú)",
+        "expediente": "00981-2026-2031-CD",
+        "subtipo": "Conformación de Comisiones de Investigación"
       }
     ],
     "Pilar Sulca Castillo": [
@@ -19627,6 +19741,14 @@
         "d": "10/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-prosigue-analisis-de-delegacion-de-facultades-legislativas-al-poder-ejecutivo/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Constitución del Senado evalúa proyectos para escindir comisiones ordinarias",
+        "d": "10/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-evalua-proyectos-para-escindir-comisiones-ordinarias/",
         "pts": 2
       }
     ],
@@ -24960,6 +25082,20 @@
         "autores": "(P)Mendoza Bernedo, Liz Huli (Fuerza Popular)",
         "expediente": "00780-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 978 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN A SU MAJESTAD FELIPE, REY DE LOS BELGAS, CON MOTIVO DE CELEBRARSE, EL 15 DE NO...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/978",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN A SU MAJESTAD FELIPE, REY DE LOS BELGAS, CON MOTIVO DE CELEBRARSE, EL 15 DE NOVIEMBRE DE 2026, EL DÍA DEL REY DEL REINO DE BÉLGICA, DESEANDO EL BIENESTAR, LA PAZ Y LA PROSPERIDAD DEL REINO DE BÉLGICA Y EL FORTALECIMIENTO DE LAS RELACIONES DE AMISTAD Y COOPERACIÓN CON NUESTRA NACIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Mendoza Bernedo, Liz Huli (Fuerza Popular)",
+        "expediente": "00978-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Diego Alonso Fernando Bazán Calderón": [
@@ -25683,6 +25819,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Salas Rivera, Alexander (Fuerza Popular)",
         "expediente": "00933-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 979 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA COMUNIDAD DE MADRES CARMELITAS DESCALZAS DE SAN JOSÉ DE CAÑETE, CON MOT...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/979",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA COMUNIDAD DE MADRES CARMELITAS DESCALZAS DE SAN JOSÉ DE CAÑETE, CON MOTIVO DE CONMEMORARSE EL 50 ANIVERSARIO DE SU LLEGADA A LA PROVINCIA DE CAÑETE, EL 10 DE NOVIEMBRE DE 2026.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Salas Rivera, Alexander (Fuerza Popular)",
+        "expediente": "00979-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -26884,6 +27034,32 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/leticia-leiva-baylon-fue-elegida-presidenta-de-la-liga-parlamentaria-de-amistad-peru-estados-unidos/",
         "pts": 2
+      }
+    ],
+    "Freshman Buitron Martínez": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Senado respalda a Ayacucho como sede de los Juegos Sudamericanos de la Juventud 2030",
+        "d": "10/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-respalda-a-ayacucho-como-sede-de-los-juegos-sudamericanos-de-la-juventud-2030/",
+        "pts": 2
+      }
+    ],
+    "Absalón Vásquez Villanueva": [
+      {
+        "t": "📌",
+        "a": "Moción N° 225 (MOCIÓN DE SALUDO): EXPRESAR UN CORDIAL Y RESPETUOSO SALUDO A SU SANTIDAD EL PAPA LEÓN XIV, CON OCASIÓN DE LA VISITA APOSTÓLICA PROGRAMADA A...",
+        "d": "10/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/225",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN CORDIAL Y RESPETUOSO SALUDO A SU SANTIDAD EL PAPA LEÓN XIV, CON OCASIÓN DE LA VISITA APOSTÓLICA PROGRAMADA AL PERÚ DEL 11 AL 16 DE NOVIEMBRE DE 2026, Y RECONOCER SU ESTRECHA VINCULACIÓN HISTÓRICA Y PASTORAL CON NUESTRO PAÍS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Renovación Popular",
+        "autores": "(P)Vásquez Villanueva, Absalón (Renovación Popular)",
+        "expediente": "00225-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
       }
     ]
   },
