@@ -1597,10 +1597,28 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso se reúne con presidenta del Senado de Chile para intercambiar experiencias sobre la bicameralidad",
+      "source": "Portal del Congreso",
+      "date": "09 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-presidenta-del-senado-de-chile-para-intercambiar-experiencias-sobre-la-bicameralidad/"
+    },
+    {
+      "title": "Aprueban informe que respalda propuesta de Ley MAPE y amplían vigencia de grupos de trabajos",
+      "source": "Portal del Congreso",
+      "date": "09 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-informe-que-respalda-propuesta-de-ley-mape-y-amplian-vigencia-de-grupos-de-trabajos/"
+    },
+    {
       "title": "Debaten suspensión temporal del uso de productos químicos en la agricultura",
       "source": "Portal del Congreso",
       "date": "09 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-suspension-temporal-del-uso-de-productos-quimicos-en-la-agricultura/"
+    },
+    {
+      "title": "Comisión de Constitución aprueba creación de cuatro nuevas ligas parlamentarias de amistad",
+      "source": "Portal del Congreso",
+      "date": "09 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-aprueba-creacion-de-cuatro-nuevas-ligas-parlamentarias-de-amistad/"
     },
     {
       "title": "Presidente del Congreso se reúne con embajador de Chile para fortalecer agenda bilateral",
@@ -1619,21 +1637,27 @@
       "source": "Portal del Congreso",
       "date": "09 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/exponen-situacion-del-contrabando-y-plantean-medidas-para-fortalecer-su-lucha/"
-    },
-    {
-      "title": "Comisión de Defensa del Consumidor citará a autoridades por deficiencias del servicio de agua en Huánuco",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-citara-a-autoridades-por-deficiencias-del-servicio-de-agua-en-huanuco/"
-    },
-    {
-      "title": "Mesa técnica buscar fortalecer las leyes contra el bullying y ciberbullying",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-tecnica-buscar-fortalecer-las-leyes-contra-el-bullying-y-ciberbullying/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Ética aprueba informe que recomienda iniciar investigación contra diputado Víctor Piñán",
+      "source": "Portal del Congreso",
+      "date": "09 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-informe-que-recomienda-iniciar-investigacion-contra-diputado-victor-pinan/"
+    },
+    {
+      "title": "Aprueban informe que respalda propuesta de Ley MAPE y amplían vigencia de grupos de trabajos",
+      "source": "Portal del Congreso",
+      "date": "09 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-informe-que-respalda-propuesta-de-ley-mape-y-amplian-vigencia-de-grupos-de-trabajos/"
+    },
+    {
+      "title": "Debaten suspensión temporal del uso de productos químicos en la agricultura",
+      "source": "Portal del Congreso",
+      "date": "09 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-suspension-temporal-del-uso-de-productos-quimicos-en-la-agricultura/"
+    },
     {
       "title": "Comisión de Constitución aprueba creación de cuatro nuevas ligas parlamentarias de amistad",
       "source": "Portal del Congreso",
@@ -1663,24 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "09 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/exponen-situacion-del-contrabando-y-plantean-medidas-para-fortalecer-su-lucha/"
-    },
-    {
-      "title": "Comisión de Defensa del Consumidor citará a autoridades por deficiencias del servicio de agua en Huánuco",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-citara-a-autoridades-por-deficiencias-del-servicio-de-agua-en-huanuco/"
-    },
-    {
-      "title": "Mesa técnica buscar fortalecer las leyes contra el bullying y ciberbullying",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/mesa-tecnica-buscar-fortalecer-las-leyes-contra-el-bullying-y-ciberbullying/"
-    },
-    {
-      "title": "Cámara de Diputados realizará Pleno temático sobre acciones contra el FEN y la inseguridad ciudadana",
-      "source": "Portal del Congreso",
-      "date": "09 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/camara-de-diputados-realizara-pleno-tematico-sobre-acciones-contra-el-fen-y-la-inseguridad-ciudadana/"
     }
   ],
   "events_override": {
@@ -2887,6 +2893,14 @@
         "d": "06/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-proinversion-para-abordar-sus-principales-lineas-de-accion/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso se reúne con presidenta del Senado de Chile para intercambiar experiencias sobre la bicameralidad",
+        "d": "09/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reune-con-presidenta-del-senado-de-chile-para-intercambiar-experiencias-sobre-la-bicameralidad/",
         "pts": 2
       }
     ],
@@ -6882,6 +6896,14 @@
         "autores": "(P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras)",
         "expediente": "00953-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética aprueba informe que recomienda iniciar investigación contra diputado Víctor Piñán",
+        "d": "09/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-aprueba-informe-que-recomienda-iniciar-investigacion-contra-diputado-victor-pinan/",
+        "pts": 2
       }
     ],
     "Demetrio Flavio Valqui Calderón": [
