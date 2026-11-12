@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso participó en la recepción del papa León XIV en Grupo Aéreo N.° 8",
+      "source": "Portal del Congreso",
+      "date": "11 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-recepcion-del-papa-leon-xiv-en-grupo-aereo-n-8/"
+    },
+    {
       "title": "Aprueban acuerdo que crea la Comisión Especial de Pueblos Indígenas u Originarios, Comunidades Campesinas y Nativas y Pueblo Afroperuano",
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
@@ -1631,12 +1637,6 @@
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autoriza-viaje-de-la-presidenta-a-china-y-japon/"
-    },
-    {
-      "title": "Debaten aumento de cuota del Perú en el FMI tras sustentación del BCRP",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-aumento-de-cuota-del-peru-en-el-fmi-tras-sustentacion-del-bcrp/"
     }
   ],
   "diputados_news": [
@@ -1663,12 +1663,6 @@
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsa-acercamiento-parlamentario-entre-peru-y-cuba-para-fortalecer-la-cooperacion-en-salud-y-educacion/"
-    },
-    {
-      "title": "Debaten aumento de cuota del Perú en el FMI tras sustentación del BCRP",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-aumento-de-cuota-del-peru-en-el-fmi-tras-sustentacion-del-bcrp/"
     }
   ],
   "events_override": {
@@ -2907,6 +2901,14 @@
         "d": "11/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-acuerdo-que-crea-la-comision-especial-de-pueblos-indigenas-u-originarios-comunidades-campesinas-y-nativas-y-pueblo-afroperuano/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en la recepción del papa León XIV en Grupo Aéreo N.° 8",
+        "d": "11/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-recepcion-del-papa-leon-xiv-en-grupo-aereo-n-8/",
         "pts": 2
       }
     ],
