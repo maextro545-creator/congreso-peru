@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Aprueban acuerdo que crea la Comisión Especial de Pueblos Indígenas u Originarios, Comunidades Campesinas y Nativas y Pueblo Afroperuano",
+      "source": "Portal del Congreso",
+      "date": "11 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-acuerdo-que-crea-la-comision-especial-de-pueblos-indigenas-u-originarios-comunidades-campesinas-y-nativas-y-pueblo-afroperuano/"
+    },
+    {
       "title": "Senado aprueba nómina de la Comisión Especial de Seguimiento del fenómeno El Niño",
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
@@ -1631,15 +1637,15 @@
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-aumento-de-cuota-del-peru-en-el-fmi-tras-sustentacion-del-bcrp/"
-    },
-    {
-      "title": "Aprueban modificar el Decreto Legislativo 1373 para fortalecer garantías en extinción de dominio",
-      "source": "Portal del Congreso",
-      "date": "10 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-modificar-el-decreto-legislativo-1373-para-fortalecer-garantias-en-extincion-de-dominio/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Proponen evaluar aeropuerto de mayor alcance en Amazonas",
+      "source": "Portal del Congreso",
+      "date": "11 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-evaluar-aeropuerto-de-mayor-alcance-en-amazonas/"
+    },
     {
       "title": "Diputados solicitan a contralor general mayor fiscalización ante obras paralizadas a nivel nacional",
       "source": "Portal del Congreso",
@@ -1663,18 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-aumento-de-cuota-del-peru-en-el-fmi-tras-sustentacion-del-bcrp/"
-    },
-    {
-      "title": "Aprueban modificar el Decreto Legislativo 1373 para fortalecer garantías en extinción de dominio",
-      "source": "Portal del Congreso",
-      "date": "10 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-modificar-el-decreto-legislativo-1373-para-fortalecer-garantias-en-extincion-de-dominio/"
-    },
-    {
-      "title": "Pleno otorga 15 días hábiles a la Comisión de Acusaciones Constitucionales para presentar informe final sobre denuncia contra excongresista Magaly Ruiz",
-      "source": "Portal del Congreso",
-      "date": "10 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-otorga-15-dias-habiles-a-la-comision-de-acusaciones-constitucionales-para-presentar-informe-final-sobre-denuncia-contra-excongresista-magaly-ruiz/"
     }
   ],
   "events_override": {
@@ -2905,6 +2899,14 @@
         "d": "10/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-respalda-a-ayacucho-como-sede-de-los-juegos-sudamericanos-de-la-juventud-2030/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban acuerdo que crea la Comisión Especial de Pueblos Indígenas u Originarios, Comunidades Campesinas y Nativas y Pueblo Afroperuano",
+        "d": "11/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-acuerdo-que-crea-la-comision-especial-de-pueblos-indigenas-u-originarios-comunidades-campesinas-y-nativas-y-pueblo-afroperuano/",
         "pts": 2
       }
     ],
@@ -27240,6 +27242,16 @@
         "autores": "(P)Vásquez Villanueva, Absalón (Renovación Popular)",
         "expediente": "00225-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      }
+    ],
+    "Royser Castro Grandez": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Proponen evaluar aeropuerto de mayor alcance en Amazonas",
+        "d": "11/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-evaluar-aeropuerto-de-mayor-alcance-en-amazonas/",
+        "pts": 2
       }
     ]
   },
