@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Senadores exigen resultados en investigaciones y mayor control interno a fiscal de la nación",
+      "source": "Portal del Congreso",
+      "date": "12 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exigen-resultados-en-investigaciones-y-mayor-control-interno-a-fiscal-de-la-nacion/"
+    },
+    {
+      "title": "Desde el martes 17, Pleno del Congreso debatirá los dictámenes referidos al Presupuesto 2027",
+      "source": "Portal del Congreso",
+      "date": "12 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/desde-el-martes-17-pleno-del-congreso-debatira-los-dictamenes-referidos-al-presupuesto-2027/"
+    },
+    {
       "title": "Presidente del Congreso participó en la recepción del papa León XIV en Grupo Aéreo N.° 8",
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
@@ -1631,15 +1643,15 @@
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-la-comision-de-energia-y-minas-desde-audiencia-publica-en-trujillo-en-dos-semanas-tendremos-el-dictamen-de-la-nueva-ley-mape/"
-    },
-    {
-      "title": "Senado autoriza viaje de la presidenta a China y Japón",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autoriza-viaje-de-la-presidenta-a-china-y-japon/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Desde el martes 17, Pleno del Congreso debatirá los dictámenes referidos al Presupuesto 2027",
+      "source": "Portal del Congreso",
+      "date": "12 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/desde-el-martes-17-pleno-del-congreso-debatira-los-dictamenes-referidos-al-presupuesto-2027/"
+    },
     {
       "title": "Proponen evaluar aeropuerto de mayor alcance en Amazonas",
       "source": "Portal del Congreso",
@@ -1657,12 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-la-comision-de-energia-y-minas-desde-audiencia-publica-en-trujillo-en-dos-semanas-tendremos-el-dictamen-de-la-nueva-ley-mape/"
-    },
-    {
-      "title": "Presidente de la Cámara de Diputados impulsa acercamiento parlamentario entre Perú y Cuba para fortalecer la cooperación en salud y educación",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-de-la-camara-de-diputados-impulsa-acercamiento-parlamentario-entre-peru-y-cuba-para-fortalecer-la-cooperacion-en-salud-y-educacion/"
     }
   ],
   "events_override": {
@@ -3334,6 +3340,20 @@
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "00941-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1015 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL HOSPITAL NACIONAL CARLOS ALBERTO SEGUÍN ESCOBEDO, DE LA...",
+        "d": "12/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1015",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, RECONOCIMIENTO Y FELICITACIÓN AL HOSPITAL NACIONAL CARLOS ALBERTO SEGUÍN ESCOBEDO, DE LA CIUDAD DE AREQUIPA, AL CONMEMORARSE ESTE 26 DE NOVIEMBRE, EL ANIVERSARIO DE SU CREACIÓN COMO HOSPITAL NACIONAL, MEDIANTE RESOLUCIÓN DE DIRECCIÓN EJECUTIVA N.° 2057-IPSS, DE FECHA 26 DE NOVIEMBRE DE 1991.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación)",
+        "expediente": "01015-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -4300,6 +4320,20 @@
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Holguín Loaiza, César Augusto (Ahora Nación); Huilca Flores, Indira Isabel (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación); Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "00948-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1012 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO D...",
+        "d": "12/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1012",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO DE HUAYUCACHI, DE LA PROVINCIA DE HUANCAYO, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 10 DE NOVIEMBRE SU CENTÉSIMO TRIGÉSIMO ANIVERSARIO DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01012-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Helard Bladimir Sonco Villanueva": [
@@ -4844,6 +4878,20 @@
         "grupo": "Partido Cívico Obras",
         "autores": "(P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras)",
         "expediente": "00991-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1014 (Mociones de Saludo): EXPRESAR SU SALUDO INSTITUCIONAL Y SOLIDARIDAD CON LAS MUJERES DEL PERÚ Y DEL MUNDO, CON OCASIÓN DE CONMEMORARSE EL 25 D...",
+        "d": "12/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1014",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO INSTITUCIONAL Y SOLIDARIDAD CON LAS MUJERES DEL PERÚ Y DEL MUNDO, CON OCASIÓN DE CONMEMORARSE EL 25 DE NOVIEMBRE DE 2026 EL DÍA INTERNACIONAL DE LA ELIMINACIÓN DE LA VIOLENCIA CONTRA LA MUJER, REAFIRMANDO SU DERECHO A UNA VIDA LIBRE DE VIOLENCIA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras)",
+        "expediente": "01014-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -21004,6 +21052,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-del-senado-fortalece-la-fiscalizacion-frente-a-la-inseguridad-en-region-la-libertad/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senadores exigen resultados en investigaciones y mayor control interno a fiscal de la nación",
+        "d": "12/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-exigen-resultados-en-investigaciones-y-mayor-control-interno-a-fiscal-de-la-nacion/",
+        "pts": 2
       }
     ],
     "Susana Flor de María Matute Charun": [
@@ -21316,6 +21372,48 @@
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "00899-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1013 (Mociones de Saludo): EL PLENO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA, EXPRESA SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENT...",
+        "d": "12/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1013",
+        "pts": 3,
+        "sumilla": "EL PLENO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA, EXPRESA SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL INSTITUTO DE EDUCACIÓN SUPERIOR TECNOLÓGICO PÚBLICO \"CATALINA BUENDÍA DE PECHO\", DE LA PROVINCIA Y REGIÓN ICA, CON MOTIVO DE CONMEMORAR ESTE 15 DE NOVIEMBRE DE 2026, SU 47º ANIVERSARIO DE VIDA INSTITUCIONAL, DESTACANDO SU NOBLE LABOR ACADÉMICA Y SU VALIOSO APORTE AL DESARROLLO HUMANO Y PROFESIONAL DE LA REGIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno)",
+        "expediente": "01013-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1008 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SAN JOSÉ DE LOS MOLINOS, PROVINCIA Y REGIÓN ICA...",
+        "d": "12/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1008",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SAN JOSÉ DE LOS MOLINOS, PROVINCIA Y REGIÓN ICA, CON MOTIVO DE CONMEMORARSE EL 150° ANIVERSARIO DE SU CREACIÓN POLÍTICA, DESTACANDO SU IDENTIDAD, VOCACIÓN PRODUCTIVA Y APORTE AL PROGRESO REGIONAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno)",
+        "expediente": "01008-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1007 (Mociones de Saludo): EL PLENO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA, EXPRESA SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENT...",
+        "d": "12/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1007",
+        "pts": 3,
+        "sumilla": "EL PLENO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA, EXPRESA SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA INSTITUCIÓN EDUCATIVA Nº22333, GRAL. JUAN JOSÉ SALAS BERNALES, DEL DISTRITO DE SALAS – GUADALUPE, PROVINCIA Y REGIÓN DE ICA, CON MOTIVO DE CONMEMORARSE ESTE 13 DE NOVIEMBRE DE 2026, SU 61º ANIVERSARIO DE VIDA INSTITUCIONAL, DESTACANDO SU NOBLE LABOR EDUCATIVA Y APORTE AL DESARROLLO EDUCATIVO Y HUMANO DE LA REGIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno)",
+        "expediente": "01007-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Nora Bonifaz Carmona": [
