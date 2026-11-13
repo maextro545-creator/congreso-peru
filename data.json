@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Comunicado",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comunicado-31/"
+    },
+    {
+      "title": "En mesa de trabajo analizan operatividad del aeropuerto de Jaén",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/en-mesa-de-trabajo-analizan-operatividad-del-aeropuerto-de-jaen/"
+    },
+    {
       "title": "Miguel Torres anuncia ahorro de 450 millones en el presupuesto del Congreso para el 2027",
       "source": "Portal del Congreso",
       "date": "13 Nov 2026",
@@ -1643,21 +1655,15 @@
       "source": "Portal del Congreso",
       "date": "12 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/desde-el-martes-17-pleno-del-congreso-debatira-los-dictamenes-referidos-al-presupuesto-2027/"
-    },
-    {
-      "title": "Presidente del Congreso participó en la recepción del papa León XIV en Grupo Aéreo N.° 8",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-recepcion-del-papa-leon-xiv-en-grupo-aereo-n-8/"
-    },
-    {
-      "title": "Aprueban acuerdo que crea la Comisión Especial de Pueblos Indígenas u Originarios, Comunidades Campesinas y Nativas y Pueblo Afroperuano",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-acuerdo-que-crea-la-comision-especial-de-pueblos-indigenas-u-originarios-comunidades-campesinas-y-nativas-y-pueblo-afroperuano/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comunicado",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comunicado-31/"
+    },
     {
       "title": "Instalan grupo de trabajo para el fortalecimiento de la formación profesional policial",
       "source": "Portal del Congreso",
@@ -4355,6 +4361,48 @@
         "grupo": "Ahora Nación",
         "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "01012-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1030 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO D...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1030",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO DE APATA, DE LA PROVINCIA DE JAUJA, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 16 DE NOVIEMBRE SU CENTÉSIMO SEXAGÉSIMO SEGUNDO ANIVERSARIODE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01030-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1029 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, A LA PROVINCI...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1029",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, A LA PROVINCIA DE HUANCAYO, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 16 DE NOVIEMBRE SU CENTÉSIMO SEXAGÉSIMO SEGUNDO ANIVERSARIO DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01029-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1028 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO D...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1028",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO DE AHUAC, DE LA PROVINCIA DE CHUPACA, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 14 DE NOVIEMBRE SU CENTÉSIMO VIGÉSIMO PRIMER ANIVERSARIO DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01028-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -9343,6 +9391,76 @@
         "grupo": "Juntos por el Perú",
         "autores": "(P)Pérez Mallqui, Julián Luis (Juntos por el Perú)",
         "expediente": "00880-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1031 (Mociones de Saludo): EXPRESAR EL MAS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE SANTA ROSA, PROVINCIA DE LA MAR, DEPARTAMENTO DE AYACUCHO, ...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1031",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MAS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE SANTA ROSA, PROVINCIA DE LA MAR, DEPARTAMENTO DE AYACUCHO, CON MOTIVO DE CONMEMORARSE, EL 19 DE NOVIEMBRE DE 2026, SU 34.° ANIVERSARIO DE CREACIÓN POLÍTICA, EN RECONOCIMIENTO A SU HISTORIA, IDENTIDAD, CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN Y SU FIRME DEFENSA DE LA PAZ FRENTE A LA VIOLENCIA SUBVERSIVA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Pérez Mallqui, Julián Luis (Juntos por el Perú)",
+        "expediente": "01031-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1027 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE INKAWASI, PROVINCIA DE LA CONVENCIÓN, DEPARTAMENTO DE CUSCO...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1027",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE INKAWASI, PROVINCIA DE LA CONVENCIÓN, DEPARTAMENTO DE CUSCO, CON MOTIVO DE CONMEMORARSE, EL 19 DE NOVIEMBRE DE 2026, SU 12º ANIVERSARIO DE CREACIÓN POLÍTICA, EN RECONOCIMIENTO A SU TRAYECTORIA, IDENTIDAD Y CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN Y DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Pérez Mallqui, Julián Luis (Juntos por el Perú)",
+        "expediente": "01027-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1025 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE APATA, PROVINCIA DE JAUJA, DEPARTAMENTO DE JUNÍN, CON MOTIV...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1025",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE APATA, PROVINCIA DE JAUJA, DEPARTAMENTO DE JUNÍN, CON MOTIVO DE CONMEMORARSE, EL 16 DE NOVIEMBRE DE 2026, SU 162º ANIVERSARIO DE CREACIÓN POLÍTICA, EN RECONOCIMIENTO A SU HISTORIA, IDENTIDAD CULTURAL Y CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN JUNÍN Y DELPAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Pérez Mallqui, Julián Luis (Juntos por el Perú)",
+        "expediente": "01025-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1024 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE VILCABAMBA, PROVINCIA DE LA CONVENCIÓN, DEPARTAMENTO DE CUS...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1024",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE VILCABAMBA, PROVINCIA DE LA CONVENCIÓN, DEPARTAMENTO DE CUSCO, CON MOTIVO DE CONMEMORARSE, EL 16 DE NOVIEMBRE DE 2026, SU 134° ANIVERSARIO DE CREACIÓN POLÍTICA, EN RECONOCIMIENTO A SU HISTORIA, RIQUEZA ARQUEOLÓGICA, IDENTIDAD CULTURAL Y CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN Y DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Pérez Mallqui, Julián Luis (Juntos por el Perú)",
+        "expediente": "01024-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1022 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE ESPINAR, DEPARTAMENTO DE CUSCO, CON MOTIVO DE CONMEMORAR...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1022",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE ESPINAR, DEPARTAMENTO DE CUSCO, CON MOTIVO DE CONMEMORARSE, EL 17 DE NOVIEMBRE DE 2026, SU 109.º ANIVERSARIO DE CREACIÓN POLÍTICA, EN RECONOCIMIENTO A SU HISTORIA, IDENTIDAD CULTURAL Y CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN Y DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Pérez Mallqui, Julián Luis (Juntos por el Perú)",
+        "expediente": "01022-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -14482,6 +14600,20 @@
         "autores": "(P)Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno); (P)Llaque Linares, Nora María (Partido del Buen Gobierno)",
         "expediente": "01017-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1023 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SICAYA, PROVINCIA DE HUANCAYO, DEPARTAMENTO ...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1023",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE SICAYA, PROVINCIA DE HUANCAYO, DEPARTAMENTO DE JUNÍN, CON MOTIVO DE CONMEMORARSE, ESTE 16 DE NOVIEMBRE, SU 162.º ANIVERSARIO DE CREACIÓN POLÍTICA, DESTACANDO SU TRAYECTORIA HISTÓRICA, IDENTIDAD CULTURAL Y CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN JUNÍN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno)",
+        "expediente": "01023-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Edwin Espinoza Huillca": [
@@ -18309,6 +18441,20 @@
         "grupo": "Juntos por el Perú",
         "autores": "(P)Condori Flores, Remigio (Juntos por el Perú)",
         "expediente": "00910-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1026 (Mociones de Saludo): EXPRESAR SU MÁS EMOTIVO SALUDO, FELICITACIÓN Y UN JUSTO RECONOCIMIENTO A LA PROVINCIA YUNGUYO DEL DEPARTAMENTO DE PUNO, ...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1026",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS EMOTIVO SALUDO, FELICITACIÓN Y UN JUSTO RECONOCIMIENTO A LA PROVINCIA YUNGUYO DEL DEPARTAMENTO DE PUNO, AL CONMEMORARSE SU CUADRAGÉSIMO SEGUNDO ANIVERSARIO (42°), ANIVERSARIO DE ELEVACIÓN A CATEGORÍA DE PROVINCIA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Condori Flores, Remigio (Juntos por el Perú)",
+        "expediente": "01026-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -22170,6 +22316,20 @@
         "autores": "(P)Andrade Salguero de Alvarez, Gladys Griselda (Fuerza Popular)",
         "expediente": "00897-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1021 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO, AFECTUOSO Y EFUSIVO SALUDO A LAS AUTORIDADES Y A TODA LA POBLACIÓN DEL DISTRITO DE AUCALLAMA, PR...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1021",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CÁLIDO, AFECTUOSO Y EFUSIVO SALUDO A LAS AUTORIDADES Y A TODA LA POBLACIÓN DEL DISTRITO DE AUCALLAMA, PROVINCIA DE HUARAL, DEPARTAMENTO DE LIMA, CON OCASIÓN DE CONMEMORARSE, EL 29 DE NOVIEMBRE DE 2026, EL 86.º ANIVERSARIO DE SU RESTABLECIMIENTO A LA CATEGORÍA DE DISTRITO, RECONOCIENDO SU HISTORIA, IDENTIDAD CULTURAL Y VOCACIÓN DE PROGRESO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Andrade Salguero de Alvarez, Gladys Griselda (Fuerza Popular)",
+        "expediente": "01021-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Gustavo Alexander Segura Figueroa": [
@@ -24752,6 +24912,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-segundo-tapia-promueve-mesa-de-trabajo-para-viabilizar-continuidad-del-proyecto-del-hospital-arzobispo-loayza/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: En mesa de trabajo analizan operatividad del aeropuerto de Jaén",
+        "d": "13/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/en-mesa-de-trabajo-analizan-operatividad-del-aeropuerto-de-jaen/",
+        "pts": 2
       }
     ],
     "Cecilia Isabel Chacón De Vettori": [
@@ -27273,6 +27441,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Jiménez Heredia, David Julio (Fuerza Popular)",
         "expediente": "00221-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 231 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL Y AFECTUOSO SALUDO Y FELICITACIÓN AL DISTRITO DE SICAYA, UBICADO EN LA PROVINCIA DE HUANCAYO, DE...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/231",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL Y AFECTUOSO SALUDO Y FELICITACIÓN AL DISTRITO DE SICAYA, UBICADO EN LA PROVINCIA DE HUANCAYO, DEPARTAMENTO DE JUNÍN, CON MOTIVO DE CONMEMORARSE EL CLXII ANIVERSARIO DE SU CREACIÓN POLÍTICA, FECHA TRASCENDENTAL QUE CONSTITUYE UNA OPORTUNIDAD PARA RECORDAR SU HISTORIA, RECONOCER SU IDENTIDAD CULTURAL Y RENDIR HOMENAJE A LAS GENERACIONES DE HOMBRES Y MUJERES QUE, CON ESFUERZO, TRABAJO Y PERSEVERANCIA, HAN CONTRIBUIDO AL DESARROLLO Y ENGRANDECIMIENTO DE ESTE HISTÓRICO DISTRITO",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Jiménez Heredia, David Julio (Fuerza Popular)",
+        "expediente": "00231-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
