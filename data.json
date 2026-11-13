@@ -1597,6 +1597,42 @@
   },
   "senado_news": [
     {
+      "title": "Miguel Torres anuncia ahorro de 450 millones en el presupuesto del Congreso para el 2027",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-anuncia-ahorro-de-450-millones-en-el-presupuesto-del-congreso-para-el-2027/"
+    },
+    {
+      "title": "Presidente del Congreso participó en la “II Cumbre de Cristianos Políticos”, que congregó a más de 200 personas",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-ii-cumbre-de-cristianos-politicos-que-congrego-a-mas-de-200-personas/"
+    },
+    {
+      "title": "Presidente del Senado motiva a jóvenes universitarios a participar en política y explica el regreso de la bicameralidad",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-motiva-a-jovenes-universitarios-a-participar-en-politica-y-explica-el-regreso-de-la-bicameralidad/"
+    },
+    {
+      "title": "Presidente del Congreso reconoce a destacados excadetes del Colegio Militar “Leoncio Prado”",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-reconoce-a-destacados-excadetes-del-colegio-militar-leoncio-prado/"
+    },
+    {
+      "title": "Instalan grupo de trabajo para el fortalecimiento de la formación profesional policial",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/instalan-grupo-de-trabajo-para-el-fortalecimiento-de-la-formacion-profesional-policial/"
+    },
+    {
+      "title": "Aprueban plan de trabajo y asumen compromiso para apoyar al Estado en mejorar la salud y futuro de niños con anemia",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-plan-de-trabajo-y-asumen-compromiso-para-apoyar-al-estado-en-mejorar-la-salud-y-futuro-de-ninos-con-anemia/"
+    },
+    {
       "title": "Senadores exigen resultados en investigaciones y mayor control interno a fiscal de la nación",
       "source": "Portal del Congreso",
       "date": "12 Nov 2026",
@@ -1619,56 +1655,26 @@
       "source": "Portal del Congreso",
       "date": "11 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-acuerdo-que-crea-la-comision-especial-de-pueblos-indigenas-u-originarios-comunidades-campesinas-y-nativas-y-pueblo-afroperuano/"
-    },
-    {
-      "title": "Senado aprueba nómina de la Comisión Especial de Seguimiento del fenómeno El Niño",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-nomina-de-la-comision-especial-de-seguimiento-del-fenomeno-el-nino/"
-    },
-    {
-      "title": "Senado autoriza ingreso de personal militar extranjero al territorio peruano",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autoriza-ingreso-de-personal-militar-extranjero-al-territorio-peruano/"
-    },
-    {
-      "title": "Senado autorizó prórroga de estado de emergencia en distritos de Pisco y San Andrés",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autorizo-prorroga-de-estado-de-emergencia-en-distritos-de-pisco-y-san-andres/"
-    },
-    {
-      "title": "Presidenta de la Comisión de Energía y Minas desde audiencia pública en Trujillo: “En dos semanas tendremos el dictamen de la nueva Ley MAPE”",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-la-comision-de-energia-y-minas-desde-audiencia-publica-en-trujillo-en-dos-semanas-tendremos-el-dictamen-de-la-nueva-ley-mape/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Instalan grupo de trabajo para el fortalecimiento de la formación profesional policial",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/instalan-grupo-de-trabajo-para-el-fortalecimiento-de-la-formacion-profesional-policial/"
+    },
+    {
+      "title": "Aprueban plan de trabajo y asumen compromiso para apoyar al Estado en mejorar la salud y futuro de niños con anemia",
+      "source": "Portal del Congreso",
+      "date": "13 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-plan-de-trabajo-y-asumen-compromiso-para-apoyar-al-estado-en-mejorar-la-salud-y-futuro-de-ninos-con-anemia/"
+    },
     {
       "title": "Desde el martes 17, Pleno del Congreso debatirá los dictámenes referidos al Presupuesto 2027",
       "source": "Portal del Congreso",
       "date": "12 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/desde-el-martes-17-pleno-del-congreso-debatira-los-dictamenes-referidos-al-presupuesto-2027/"
-    },
-    {
-      "title": "Proponen evaluar aeropuerto de mayor alcance en Amazonas",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/proponen-evaluar-aeropuerto-de-mayor-alcance-en-amazonas/"
-    },
-    {
-      "title": "Diputados solicitan a contralor general mayor fiscalización ante obras paralizadas a nivel nacional",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-solicitan-a-contralor-general-mayor-fiscalizacion-ante-obras-paralizadas-a-nivel-nacional/"
-    },
-    {
-      "title": "Presidenta de la Comisión de Energía y Minas desde audiencia pública en Trujillo: “En dos semanas tendremos el dictamen de la nueva Ley MAPE”",
-      "source": "Portal del Congreso",
-      "date": "11 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidenta-de-la-comision-de-energia-y-minas-desde-audiencia-publica-en-trujillo-en-dos-semanas-tendremos-el-dictamen-de-la-nueva-ley-mape/"
     }
   ],
   "events_override": {
@@ -2915,6 +2921,22 @@
         "d": "11/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-recepcion-del-papa-leon-xiv-en-grupo-aereo-n-8/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Miguel Torres anuncia ahorro de 450 millones en el presupuesto del Congreso para el 2027",
+        "d": "13/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-anuncia-ahorro-de-450-millones-en-el-presupuesto-del-congreso-para-el-2027/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso participó en la “II Cumbre de Cristianos Políticos”, que congregó a más de 200 personas",
+        "d": "13/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-participo-en-la-ii-cumbre-de-cristianos-politicos-que-congrego-a-mas-de-200-personas/",
         "pts": 2
       }
     ],
@@ -14432,6 +14454,34 @@
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "00765-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1018 (Mociones de Saludo): EXPRESAR EL SALUDO Y RECONOCIMIENTO A LA ESCUELA DE EDUCACIÓN SUPERIOR PEDAGÓGICA PÚBLICA MONTERRICO, POR SUS 150 AÑOS D...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1018",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL SALUDO Y RECONOCIMIENTO A LA ESCUELA DE EDUCACIÓN SUPERIOR PEDAGÓGICA PÚBLICA MONTERRICO, POR SUS 150 AÑOS DE VIDA INSTITUCIONAL, PUESTOS AL SERVICIO DE LA EDUCACIÓN Y FORMACIÓN DE LAS NUEVAS GENERACIONES DE PROFESIONALES DE LA EDUCACIÓN EN NUESTRO PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno)",
+        "expediente": "01018-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1017 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE APATA, PROVINCIA DE JAUJA, DEPARTAMENTO DE JUNÍ...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1017",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE APATA, PROVINCIA DE JAUJA, DEPARTAMENTO DE JUNÍN, CON MOTIVO DE CONMEMORARSE, ESTE 16 DE NOVIEMBRE, EL 162.º ANIVERSARIO DE SU CREACIÓN POLÍTICA, DESTACANDO SU TRAYECTORIA HISTÓRICA, IDENTIDAD CULTURAL Y CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN JUNÍN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno); (P)Llaque Linares, Nora María (Partido del Buen Gobierno)",
+        "expediente": "01017-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Edwin Espinoza Huillca": [
@@ -14688,6 +14738,20 @@
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "00899-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1019 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO Y JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS A LA MUNICIPALIDAD DISTRI...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1019",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO Y JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS A LA MUNICIPALIDAD DISTRITAL DE CARMEN DE LA LEGUA-REYNOSO Y, POR SU INTERMEDIO, A LOS REGIDORES Y FUNCIONARIOS MUNICIPALES, ASÍ COMO A TODOS LOS VECINOS DEL DISTRITO, AL CONMEMORARSE ESTE 5 DE DICIEMBRE EL 62.º ANIVERSARIO DE CREACIÓN POLÍTICA DEL DISTRITO DE CARMEN DE LA LEGUA-REYNOSO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)García Huby, Fernando Alberto (Partido del Buen Gobierno)",
+        "expediente": "01019-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Edgar Dember Gonzales Polar": [
@@ -14819,6 +14883,20 @@
         "grupo": "Partido del Buen Gobierno",
         "autores": "(P)Llaque Linares, Nora María (Partido del Buen Gobierno)",
         "expediente": "00716-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1017 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE APATA, PROVINCIA DE JAUJA, DEPARTAMENTO DE JUNÍ...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1017",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE APATA, PROVINCIA DE JAUJA, DEPARTAMENTO DE JUNÍN, CON MOTIVO DE CONMEMORARSE, ESTE 16 DE NOVIEMBRE, EL 162.º ANIVERSARIO DE SU CREACIÓN POLÍTICA, DESTACANDO SU TRAYECTORIA HISTÓRICA, IDENTIDAD CULTURAL Y CONTRIBUCIÓN AL DESARROLLO DE LA REGIÓN JUNÍN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno); (P)Llaque Linares, Nora María (Partido del Buen Gobierno)",
+        "expediente": "01017-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -26060,6 +26138,20 @@
         "autores": "(P)Salas Rivera, Alexander (Fuerza Popular)",
         "expediente": "00979-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1016 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA ASOCIACIÓN EMPRESARIAL PARA EL DESARROLLO SOSTENIBLE DE LUNAHUANÁ – AED...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1016",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU CORDIAL SALUDO Y RECONOCIMIENTO A LA ASOCIACIÓN EMPRESARIAL PARA EL DESARROLLO SOSTENIBLE DE LUNAHUANÁ – AEDES, CON MOTIVO DE LA REALIZACIÓN DEL I CONCURSO REGIONAL DE VINOS Y LA FERIA DE VINOS PERUANOS, A DESARROLLARSE EL 14 DE NOVIEMBRE DE 2026, EN EL DISTRITO DE LUNAHUANÁ, PROVINCIA DE CAÑETE, REGIÓN LIMA, DESTACANDO ESTA IMPORTANTE INICIATIVA POR SU CONTRIBUCIÓN A LA PROMOCIÓN DE LA ACTIVIDAD VITIVINÍCOLA, EL FORTALECIMIENTO DE LA IDENTIDAD CULTURAL, EL IMPULSO DEL TURISMO Y LA DINAMIZACIÓN DE LA ECONOMÍA LOCAL, EN BENEFICIO DE LA COMUNIDAD.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Salas Rivera, Alexander (Fuerza Popular)",
+        "expediente": "01016-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Romina Alejandra Uribe Saenz": [
@@ -27096,6 +27188,20 @@
         "autores": "(P)Flores Suarez, Juver Nilson (Partido del Buen Gobierno); (P)Figallo Rivadeneyra, Flavio Felipe (Partido del Buen Gobierno); (P)Gavidia Rodríguez, Jorge Octavio (Partido del Buen Gobierno); (P)Bonifaz Carmona, Nora (Partido del Buen Gobierno); (P)Matute Charún, Susana Flor de María (Partido del Buen Gobierno); (P)Caballero León, Carlos David (Partido del Buen Gobierno)",
         "expediente": "00109-2026-2031-S",
         "subtipo": "DE INTERÉS NACIONAL"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 230 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE PARAMONGA, PROVINCIA DE BARRANCA, DEPARTAMENTO DE LIMA, CON...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/230",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE PARAMONGA, PROVINCIA DE BARRANCA, DEPARTAMENTO DE LIMA, CON MOTIVO DE CONMEMORARSE, EL 23 DE NOVIEMBRE DE 2026, EL 50.º ANIVERSARIO DE SU CREACIÓN POLÍTICA",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Gavidia Rodríguez, Jorge Octavio (Partido del Buen Gobierno)",
+        "expediente": "00230-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
     "David Julio Jiménez Heredia": [
