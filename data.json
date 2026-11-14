@@ -8356,6 +8356,20 @@
         "autores": "(P)Verano Saravia, Wilfredo (Juntos por el Perú); Andrés Luján, Serafín (Juntos por el Perú); Armacanqui Morales, Saúl Andrés (Juntos por el Perú); Castillo Terrones, José Mercedes (Juntos por el Perú); Chipana Chipana, Jose Moises (Juntos por el Perú); Cutipa Ccama, Víctor Raúl (Juntos por el Perú); Maraví Olarte, Iber Antenor (Juntos por el Perú); Morales Ramírez, Edyson Humberto (Juntos por el Perú); Quito Sarmiento, Bernardo Jaime (Juntos por el Perú); Ramos Huillcas, Andrés Avelino (Juntos por el Perú)",
         "expediente": "00186-2026-2031-S",
         "subtipo": "DE INTERÉS NACIONAL"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 234 (Pedido de invitación al Consejo de Ministros o a los ministros en forma individual para informar): INVITAR AL SEÑOR MINISTRO DE ENERGÍA Y MINAS PARA QUE CONCURRA A UNA SESIÓN DEL PLENO DEL SENADO, A EFECTOS DE QUE INFOR...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/234",
+        "pts": 3,
+        "sumilla": "INVITAR AL SEÑOR MINISTRO DE ENERGÍA Y MINAS PARA QUE CONCURRA A UNA SESIÓN DEL PLENO DEL SENADO, A EFECTOS DE QUE INFORME, EXPLIQUE Y SUSTENTE DOCUMENTADAMENTE SOBRE LA PROPUESTA DE NOVENA ADENDA AL CONTRATO BOOT DE CONCESIÓN DE DISTRIBUCIÓN DE GAS NATURAL POR RED DE DUCTOS EN EL DEPARTAMENTO DE LIMA Y LA PROVINCIA CONSTITUCIONAL DEL CALLAO, PRESENTADA POR LA EMPRESA GAS NATURAL DE LIMA Y CALLAO S.A. (CÁLIDDA); DE IGUAL MANERA SOBRE LAS CONDICIONES TÉCNICAS, ECONÓMICAS, FINANCIERAS, REGULATORIAS Y CONTRACTUALES QUE PERMITIRÍAN EXTENDER LA MASIFICACIÓN DEL GAS NATURAL HACIA LAS REGIONES DE CUSCO, JUNÍN, AYACUCHO, APURÍMAC, UCAYALI, HUANCAVELICA Y PUNO",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Armacanqui Morales, Saúl Andrés (Juntos por el Perú)",
+        "expediente": "00234-2026-2031-S",
+        "subtipo": "Pedido de invitación al Consejo de Ministros o a los ministros en forma individual para informar"
       }
     ],
     "Víctor Raúl Cutipa Ccama": [
@@ -17271,6 +17285,34 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Schaefer Cuculiza, Karla Melissa (Fuerza Popular)",
         "expediente": "00212-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 233 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA CONFEDERACIÓN NACIONAL DE COMERCIANTES (CONACO), CON ...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/233",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA CONFEDERACIÓN NACIONAL DE COMERCIANTES (CONACO), CON MOTIVO DE CONMEMORARSE EL 81.º ANIVERSARIO DE SU FUNDACIÓN INSTITUCIONAL, DESTACANDO SUS 81 AÑOS DE TRAYECTORIA Y COMPROMISO CON LA REPRESENTACIÓN Y DEFENSA DE LOS COMERCIANTES, EMPRENDEDORES Y EMPRESARIOS DEL PERÚ",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Schaefer Cuculiza, Karla Melissa (Fuerza Popular)",
+        "expediente": "00233-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 232 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA ASOCIACIÓN CIVIL ADAPTA AUTISMO, REPRESENTADA POR LA SEÑORA RUTH ...",
+        "d": "13/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/232",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA ASOCIACIÓN CIVIL ADAPTA AUTISMO, REPRESENTADA POR LA SEÑORA RUTH ELIZABETH SALINAS TEJADA, POR SU TRAYECTORIA, COMPROMISO Y PERMANENTE LABOR EN LA DEFENSA Y PROMOCIÓN DE LOS DERECHOS DE LAS PERSONAS AUTISTAS Y SUS FAMILIAS, ASÍ COMO POR SU CONTRIBUCIÓN A LA SENSIBILIZACIÓN SOCIAL, LA INCLUSIÓN Y LA PROMOCIÓN DE POLÍTICAS PÚBLICAS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Schaefer Cuculiza, Karla Melissa (Fuerza Popular)",
+        "expediente": "00232-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
