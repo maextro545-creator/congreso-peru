@@ -1597,61 +1597,29 @@
   },
   "senado_news": [
     {
-      "title": "Ministros de Estado sustentaron pliegos presupuestales de sus sectores para el 2027",
+      "title": "Parlamentarios inician debate de los dictámenes de Presupuesto para el Año Fiscal 2027",
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-de-estado-sustentaron-pliegos-presupuestales-de-sus-sectores-para-el-2027/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-inician-debate-de-los-dictamenes-de-presupuesto-para-el-ano-fiscal-2027/"
     },
     {
-      "title": "Reprograman sesión para este viernes y realizarán sesión descentralizada en Piura",
+      "title": "Titulares del sistema de justicia y organismos autónomos sustentan ante el Congreso sus presupuestos para el 2027",
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-sesion-para-este-viernes-y-realizaran-sesion-descentralizada-en-piura/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-del-sistema-de-justicia-y-organismos-autonomos-sustentan-ante-el-congreso-sus-presupuestos-para-el-2027/"
     },
     {
-      "title": "Empieza exposición de ministros de Estado sobre pliegos de egresos de sus sectores",
+      "title": "Presidente del Senado se reúne con AGAP para impulsar la competitividad del agro peruano en el mercado global",
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/empieza-exposicion-de-ministros-de-estado-sobre-pliegos-de-egresos-de-sus-sectores/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-senado-se-reune-con-agap-para-impulsar-la-competitividad-del-agro-peruano-en-el-mercado-global/"
     },
     {
-      "title": "Presidente del Congreso destaca donaciones para el C5 y reducción histórica del presupuesto institucional",
+      "title": "Comisión de Modernización aprueba predictamen de archivo sobre adscripción del INDECI",
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-donaciones-para-el-c5-y-reduccion-historica-del-presupuesto-institucional/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-aprueba-predictamen-de-archivo-sobre-adscripcion-del-indeci/"
     },
-    {
-      "title": "Liga Parlamentaria Perú–Países Bajos aprueba por unanimidad su Plan de Trabajo 2026-2031 y prioriza la adhesión del Perú a la OCDE",
-      "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-paises-bajos-aprueba-por-unanimidad-su-plan-de-trabajo-2026-2031-y-prioriza-la-adhesion-del-peru-a-la-ocde/"
-    },
-    {
-      "title": "Congreso ratifica su presupuesto de S/1405.4 millones para el 2027 con amplio respaldo bicameral",
-      "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ratifica-su-presupuesto-de-s-1405-4-millones-para-el-2027-con-amplio-respaldo-bicameral/"
-    },
-    {
-      "title": "Poder Ejecutivo expresó su conformidad con las leyes de presupuesto del sector público para el 2027 ante el Pleno del Congreso",
-      "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/poder-ejecutivo-expreso-su-conformidad-con-las-leyes-de-presupuesto-del-sector-publico-para-el-2027-ante-el-pleno-del-congreso/"
-    },
-    {
-      "title": "Sustentan dictamen de Ley de Endeudamiento Público para el Año Fiscal 2027",
-      "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/sustentan-dictamen-de-ley-de-endeudamiento-publico-para-el-ano-fiscal-2027/"
-    },
-    {
-      "title": "Sustentan dictamen de proyecto de ley de presupuesto 2027 que asciende a más de S/266 mil millones",
-      "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/sustentan-dictamen-de-proyecto-de-ley-de-presupuesto-2027-que-asciende-a-mas-de-s-266-mil-millones/"
-    }
-  ],
-  "diputados_news": [
     {
       "title": "Ministros de Estado sustentaron pliegos presupuestales de sus sectores para el 2027",
       "source": "Portal del Congreso",
@@ -1677,34 +1645,60 @@
       "url": "https://comunicaciones.congreso.gob.pe/noticias/empieza-exposicion-de-ministros-de-estado-sobre-pliegos-de-egresos-de-sus-sectores/"
     },
     {
-      "title": "Liga Parlamentaria Perú–Países Bajos aprueba por unanimidad su Plan de Trabajo 2026-2031 y prioriza la adhesión del Perú a la OCDE",
+      "title": "Presidente del Congreso destaca donaciones para el C5 y reducción histórica del presupuesto institucional",
       "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-paises-bajos-aprueba-por-unanimidad-su-plan-de-trabajo-2026-2031-y-prioriza-la-adhesion-del-peru-a-la-ocde/"
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-donaciones-para-el-c5-y-reduccion-historica-del-presupuesto-institucional/"
+    }
+  ],
+  "diputados_news": [
+    {
+      "title": "Parlamentarios inician debate de los dictámenes de Presupuesto para el Año Fiscal 2027",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-inician-debate-de-los-dictamenes-de-presupuesto-para-el-ano-fiscal-2027/"
     },
     {
-      "title": "Congreso ratifica su presupuesto de S/1405.4 millones para el 2027 con amplio respaldo bicameral",
+      "title": "Aprueban dictámenes que favorecen a trabajadores y familiares en situaciones complejas de salud",
       "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-ratifica-su-presupuesto-de-s-1405-4-millones-para-el-2027-con-amplio-respaldo-bicameral/"
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-que-favorecen-a-trabajadores-y-familiares-en-situaciones-complejas-de-salud/"
     },
     {
-      "title": "Poder Ejecutivo expresó su conformidad con las leyes de presupuesto del sector público para el 2027 ante el Pleno del Congreso",
+      "title": "Titulares del sistema de justicia y organismos autónomos sustentan ante el Congreso sus presupuestos para el 2027",
       "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/poder-ejecutivo-expreso-su-conformidad-con-las-leyes-de-presupuesto-del-sector-publico-para-el-2027-ante-el-pleno-del-congreso/"
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/titulares-del-sistema-de-justicia-y-organismos-autonomos-sustentan-ante-el-congreso-sus-presupuestos-para-el-2027/"
     },
     {
-      "title": "Sustentan dictamen de Ley de Endeudamiento Público para el Año Fiscal 2027",
+      "title": "Comisión de Modernización aprueba predictamen de archivo sobre adscripción del INDECI",
       "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/sustentan-dictamen-de-ley-de-endeudamiento-publico-para-el-ano-fiscal-2027/"
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-modernizacion-aprueba-predictamen-de-archivo-sobre-adscripcion-del-indeci/"
     },
     {
-      "title": "Sustentan dictamen de proyecto de ley de presupuesto 2027 que asciende a más de S/266 mil millones",
+      "title": "Ministros de Estado sustentaron pliegos presupuestales de sus sectores para el 2027",
       "source": "Portal del Congreso",
-      "date": "17 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/sustentan-dictamen-de-proyecto-de-ley-de-presupuesto-2027-que-asciende-a-mas-de-s-266-mil-millones/"
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-de-estado-sustentaron-pliegos-presupuestales-de-sus-sectores-para-el-2027/"
+    },
+    {
+      "title": "Organizan mesa técnica sobre defensores de los derechos humanos",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-mesa-tecnica-sobre-defensores-de-los-derechos-humanos/"
+    },
+    {
+      "title": "Reprograman sesión para este viernes y realizarán sesión descentralizada en Piura",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-sesion-para-este-viernes-y-realizaran-sesion-descentralizada-en-piura/"
+    },
+    {
+      "title": "Empieza exposición de ministros de Estado sobre pliegos de egresos de sus sectores",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/empieza-exposicion-de-ministros-de-estado-sobre-pliegos-de-egresos-de-sus-sectores/"
     }
   ],
   "events_override": {
@@ -4173,6 +4167,48 @@
         "grupo": "Ahora Nación",
         "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "01054-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1087 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO D...",
+        "d": "18/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1087",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO DE QUICHUAY, DE LA PROVINCIA DE HUANCAYO, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 24 DE NOVIEMBRE SU SEPTUAGÉSIMO PRIMER ANIVERSARIO DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01087-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1083 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, A LA PROVINCI...",
+        "d": "18/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1083",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, A LA PROVINCIA DE HUANCAYO, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 20 DE NOVIEMBRE DUCENTÉSIMO SEXTO ANIVERSARIO DE LA JURA Y PROCLAMA DE LA INDEPENDENCIA DEL PERÚ EN HUANCAYO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01083-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1082 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO D...",
+        "d": "18/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1082",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO DE POMACANCHA, DE LA PROVINCIA DE JAUJA, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 20 DE NOVIEMBRE SU SEXAGÉSIMO QUINTO ANIVERSARIO DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01082-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -18220,6 +18256,14 @@
         "autores": "(P)Castillo Rivas, Eduardo Enrique (Fuerza Popular)",
         "expediente": "00832-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban dictámenes que favorecen a trabajadores y familiares en situaciones complejas de salud",
+        "d": "18/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-que-favorecen-a-trabajadores-y-familiares-en-situaciones-complejas-de-salud/",
+        "pts": 2
       }
     ],
     "Gloria Charito Hirache Pizarro": [
@@ -21456,6 +21500,48 @@
         "autores": "(P)Aranda Vásquez, Christian (Renovación Popular); (P)Yonz Nuñez, Mady Verónica (Renovación Popular); (P)Yalta Sotelo, Carlos Alberto (Renovación Popular); (P)Baella Malca, José Isidro (Renovación Popular); (P)Martínez Paitan, Paola Isabel (Renovación Popular); (P)Krklec Torres, Frank (Renovación Popular); (P)Segura Figueroa, Gustavo Alexander (Renovación Popular); (P)Chang Apuy, Félix See Hung (Renovación Popular); (P)Zeballos Aponte, Jorge Arturo (Renovación Popular); (P)Bravo Quispe, Aldo Antonio (Renovación Popular); (P)Rocha Gallegos, Roxana María (Renovación Popular); (P)Yarrow Lumbreras, Norma Martina (Renovación Popular); (P)Cipriani Thorne, Javier José María (Renovación Popular); (P)De Paz Lancho, Leo Miguel (Renovación Popular)",
         "expediente": "00837-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1086 (Mociones de Saludo): EXPRESAR EL MÁS FERVIENTE SALUDO, RECONOCIMIENTO Y FELICITACIÓN INSTITUCIONAL AL ARMA DE INFANTERÍA DEL EJÉRCITO DEL PER...",
+        "d": "18/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1086",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS FERVIENTE SALUDO, RECONOCIMIENTO Y FELICITACIÓN INSTITUCIONAL AL ARMA DE INFANTERÍA DEL EJÉRCITO DEL PERÚ, EN LA PERSONA DE SUS SEÑORES OFICIALES, TÉCNICOS, SUBOFICIALES, PERSONAL DE TROPA Y LICENCIADOS, CON MOTIVO DE CONMEMORARSE EL 27 DE NOVIEMBRE SU DÍA INSTITUCIONAL Y UN ANIVERSARIO MÁS DE LA GLORIOSA BATALLA DE TARAPACÁ.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Renovación Popular",
+        "autores": "(P)Segura Figueroa, Gustavo Alexander (Renovación Popular)",
+        "expediente": "01086-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1085 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO Y FERVIENTE SALUDO Y RECONOCIMIENTO INSTITUCIONAL A LA POLICÍA NACIONAL DEL PERÚ, AL CONMEMORARSE...",
+        "d": "18/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1085",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CÁLIDO Y FERVIENTE SALUDO Y RECONOCIMIENTO INSTITUCIONAL A LA POLICÍA NACIONAL DEL PERÚ, AL CONMEMORARSE ESTE 6 DE DICIEMBRE DE 2026 SU 38.º ANIVERSARIO DE CREACIÓN, DESTACANDO SU ROL FUNDAMENTAL EN LA DEFENSA DE LA LEGALIDAD, EL ORDEN INTERNO Y LA PROTECCIÓN DE LA CIUDADANÍA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Renovación Popular",
+        "autores": "(P)Segura Figueroa, Gustavo Alexander (Renovación Popular)",
+        "expediente": "01085-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1084 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y FERVIENTE SALUDO Y FELICITACIÓN AL EJÉRCITO DEL PERÚ, EN LA PERSONA DE SU COMANDANTE GENERAL Y ...",
+        "d": "18/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1084",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y FERVIENTE SALUDO Y FELICITACIÓN AL EJÉRCITO DEL PERÚ, EN LA PERSONA DE SU COMANDANTE GENERAL Y POR SU INTERMEDIO A TODOS LOS OFICIALES, TÉCNICOS, SUBOFICIALES, PERSONAL DE TROPA Y PERSONAL CIVIL QUE INTEGRAN ESTA GLORIOSA INSTITUCIÓN, AL CONMEMORARSE ESTE 9 DE DICIEMBRE EL DÍA DEL EJÉRCITO DEL PERÚ Y EL 202° ANIVERSARIO DE LA BATALLA DE AYACUCHO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Renovación Popular",
+        "autores": "(P)Segura Figueroa, Gustavo Alexander (Renovación Popular)",
+        "expediente": "01084-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Jeenny Cristina Samanez Gonzales Vigil": [
