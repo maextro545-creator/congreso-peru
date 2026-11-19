@@ -1597,10 +1597,28 @@
   },
   "senado_news": [
     {
+      "title": "Congreso, Minsa y OPS articulan agenda por vacunas, medicamentos oncológicos y transformación digital",
+      "source": "Portal del Congreso",
+      "date": "19 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-minsa-y-ops-articulan-agenda-por-vacunas-medicamentos-oncologicos-y-transformacion-digital/"
+    },
+    {
+      "title": "Reinició debate parlamentario sobre dictamen de presupuesto del sector público 2027",
+      "source": "Portal del Congreso",
+      "date": "19 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reinicio-debate-parlamentario-sobre-dictamen-de-presupuesto-del-sector-publico-2027/"
+    },
+    {
       "title": "Comisión de Inclusión Social impulsa estrategia «Florece Mujer» para fortalecer la autonomía económica de mujeres víctimas de violencia",
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-impulsa-estrategia-florece-mujer-para-fortalecer-la-autonomia-economica-de-mujeres-victimas-de-violencia/"
+    },
+    {
+      "title": "Grupo de trabajo aprueba plan para fortalecer la prevención y reducción de la anemia en Loreto",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-aprueba-plan-para-fortalecer-la-prevencion-y-reduccion-de-la-anemia-en-loreto/"
     },
     {
       "title": "Parlamentarios inician debate de los dictámenes de Presupuesto para el Año Fiscal 2027",
@@ -1637,21 +1655,15 @@
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-de-estado-sustentaron-pliegos-presupuestales-de-sus-sectores-para-el-2027/"
-    },
-    {
-      "title": "Organizan mesa técnica sobre defensores de los derechos humanos",
-      "source": "Portal del Congreso",
-      "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-mesa-tecnica-sobre-defensores-de-los-derechos-humanos/"
-    },
-    {
-      "title": "Reprograman sesión para este viernes y realizarán sesión descentralizada en Piura",
-      "source": "Portal del Congreso",
-      "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-sesion-para-este-viernes-y-realizaran-sesion-descentralizada-en-piura/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Reinició debate parlamentario sobre dictamen de presupuesto del sector público 2027",
+      "source": "Portal del Congreso",
+      "date": "19 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/reinicio-debate-parlamentario-sobre-dictamen-de-presupuesto-del-sector-publico-2027/"
+    },
     {
       "title": "Comisión de Inclusión Social impulsa estrategia «Florece Mujer» para fortalecer la autonomía económica de mujeres víctimas de violencia",
       "source": "Portal del Congreso",
@@ -1693,18 +1705,6 @@
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/ministros-de-estado-sustentaron-pliegos-presupuestales-de-sus-sectores-para-el-2027/"
-    },
-    {
-      "title": "Organizan mesa técnica sobre defensores de los derechos humanos",
-      "source": "Portal del Congreso",
-      "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-mesa-tecnica-sobre-defensores-de-los-derechos-humanos/"
-    },
-    {
-      "title": "Reprograman sesión para este viernes y realizarán sesión descentralizada en Piura",
-      "source": "Portal del Congreso",
-      "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-sesion-para-este-viernes-y-realizaran-sesion-descentralizada-en-piura/"
     }
   ],
   "events_override": {
@@ -2833,6 +2833,14 @@
         "d": "28/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-medidas-de-eficiencia-y-ahorro-adoptadas-con-la-camara-de-diputados/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Congreso, Minsa y OPS articulan agenda por vacunas, medicamentos oncológicos y transformación digital",
+        "d": "19/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-minsa-y-ops-articulan-agenda-por-vacunas-medicamentos-oncologicos-y-transformacion-digital/",
         "pts": 2
       }
     ],
@@ -4215,6 +4223,20 @@
         "grupo": "Ahora Nación",
         "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "01082-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1097 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, A LA INSTITUC...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1097",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, A LA INSTITUCIÓN EDUCATIVA SANTA ISABEL DE HUANCAYO, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 19 DE NOVIEMBRE SU CENTÉSIMO SEPTUAGÉSIMO CUARTO ANIVERSARIO DE CREACIÓN INSTITUCIONAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01097-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -18118,6 +18140,34 @@
         "autores": "(P)Barbarán Reyes, Rosangella Andrea (Fuerza Popular)",
         "expediente": "00826-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1101 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN AL DEPARTAMENTO DE AMAZONAS, AL CELEBRAR SU 194° ANIVERSARIO DE CREACIÓN POLÍTICA, REC...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1101",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO Y FELICITACIÓN AL DEPARTAMENTO DE AMAZONAS, AL CELEBRAR SU 194° ANIVERSARIO DE CREACIÓN POLÍTICA, RECONOCIENDO SU INVALUABLE PATRIMONIO HISTÓRICO, CULTURAL Y NATURAL, ASÍ COMO EL ESFUERZO Y COMPROMISO DE SU NOBLE POBLACIÓN COMO MOTOR FUNDAMENTAL EN EL DESARROLLO DE LA AMAZONÍA Y DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Barbarán Reyes, Rosangella Andrea (Fuerza Popular)",
+        "expediente": "01101-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1100 (Mociones de Saludo): EXPRESAR SU SALUDO Y FELICITACIÓN AL DEPARTAMENTO DE MOQUEGUA, AL CELEBRAR EL 485.° ANIVERSARIO DE FUNDACIÓN ESPAÑOLA DE...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1100",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO Y FELICITACIÓN AL DEPARTAMENTO DE MOQUEGUA, AL CELEBRAR EL 485.° ANIVERSARIO DE FUNDACIÓN ESPAÑOLA DE SU CIUDAD CAPITAL, RECONOCIENDO SU GLORIOSO LEGADO HISTÓRICO, SU LIDERAZGO EDUCATIVO Y EL ESFUERZO CONSTANTE DE SU NOBLE POBLACIÓN COMO MOTOR FUNDAMENTAL PARA EL DESARROLLO DEL SUR Y DEL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Barbarán Reyes, Rosangella Andrea (Fuerza Popular)",
+        "expediente": "01100-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Eduardo Enrique Castillo Rivas": [
@@ -19991,6 +20041,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Quezada Castro, Geanmarco Antonio (Fuerza Popular)",
         "expediente": "00585-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1098 (Mociones de Saludo): EXPRESAR EL MÁS EFUSIVO SALUDO Y RECONOCIMIENTO A LA LIGA DEPORTIVA DISTRITAL DE FÚTBOL DE TRUJILLO AL CONMEMORAR, EL 20...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1098",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS EFUSIVO SALUDO Y RECONOCIMIENTO A LA LIGA DEPORTIVA DISTRITAL DE FÚTBOL DE TRUJILLO AL CONMEMORAR, EL 20 DE NOVIEMBRE DE 2026, SU CENTÉSIMO SEGUNDO ANIVERSARIO DE FUNDACIÓN INSTITUCIONAL, HACIENDO EXTENSIVAS LAS FELICITACIONES A SU JUNTA DIRECTIVA, A SUS CLUBES AFILIADOS Y ATODA LA COMUNIDAD DEPORTIVA QUE LACONFORMA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Quezada Castro, Geanmarco Antonio (Fuerza Popular)",
+        "expediente": "01098-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -26338,6 +26402,62 @@
         "autores": "(P)Chacón Trujillo, Nilza Merly (Fuerza Popular)",
         "expediente": "00171-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 249 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL FELICITACIÓN AL DISTRITO DE ANTA, PROVINCIA DE CARHUAZ, REGIÓN ÁNCASH, CON M...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/249",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL FELICITACIÓN AL DISTRITO DE ANTA, PROVINCIA DE CARHUAZ, REGIÓN ÁNCASH, CON MOTIVO DE CONMEMORARSE SU 116.° ANIVERSARIO DE CREACIÓN POLÍTICA, ESTE 28 DE NOVIEMBRE, RECONOCIENDO SU IMPORTANTE TRAYECTORIA HISTÓRICA, RIQUEZA NATURAL Y CULTURAL, ASÍ COMO SU VALIOSO APORTE AL DESARROLLO DE LA REGIÓN",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Chacón Trujillo, Nilza Merly (Fuerza Popular)",
+        "expediente": "00249-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 247 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL FELICITACIÓN AL DISTRITO DE HUALLANCA, PROVINCIA DE BOLOGNESI, REGIÓN ÁNCASH...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/247",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL FELICITACIÓN AL DISTRITO DE HUALLANCA, PROVINCIA DE BOLOGNESI, REGIÓN ÁNCASH, CON MOTIVO DE CONMEMORARSE SU 187. ° ANIVERSARIO, ESTE 21 DE NOVIEMBRE, EN RECONOCIMIENTO A SU IMPORTANTE TRAYECTORIA HISTÓRICA, RIQUEZA CULTURAL, TRADICIONES Y VALIOSO APORTE AL DESARROLLO DE LA REGIÓN",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Chacón Trujillo, Nilza Merly (Fuerza Popular)",
+        "expediente": "00247-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 246 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL FELICITACIÓN AL DISTRITO DE LA PAMPA, PROVINCIA DE CORONGO, REGIÓN ÁNCASH, C...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/246",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL FELICITACIÓN AL DISTRITO DE LA PAMPA, PROVINCIA DE CORONGO, REGIÓN ÁNCASH, CON MOTIVO DE CONMEMORARSE SU 128.° ANIVERSARIO DE CREACIÓN POLÍTICA, ESTE 21 DE NOVIEMBRE, RECONOCIENDO SU IMPORTANTE TRAYECTORIA HISTÓRICA, RIQUEZA NATURAL Y PRODUCTIVA, ASÍ COMO SU VALIOSO APORTE AL DESARROLLO DE LA REGIÓN",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Chacón Trujillo, Nilza Merly (Fuerza Popular)",
+        "expediente": "00246-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 245 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL FELICITACIÓN AL DISTRITO DE LLAMA, PROVINCIA DE MARISCAL LUZURIAGA, REGIÓN Á...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/245",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO INSTITUCIONAL Y ESPECIAL FELICITACIÓN AL DISTRITO DE LLAMA, PROVINCIA DE MARISCAL LUZURIAGA, REGIÓN ÁNCASH, CON MOTIVO DE CONMEMORARSE SU 121.° ANIVERSARIO DE CREACIÓN POLÍTICA, ESTE 22 DE NOVIEMBRE, RECONOCIENDO SU IMPORTANTE TRAYECTORIA HISTÓRICA, RIQUEZA NATURAL Y CULTURAL, ASÍ COMO SU VALIOSO APORTE AL DESARROLLO DE LA REGIÓN",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Chacón Trujillo, Nilza Merly (Fuerza Popular)",
+        "expediente": "00245-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
     "César Manuel Revilla Villanueva": [
@@ -26424,6 +26544,38 @@
         "autores": "(P)Aguinaga Recuenco, Alejandro Aurelio (Fuerza Popular)",
         "expediente": "00244-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      }
+    ],
+    "Pier Paolo Figari Mendoza": [
+      {
+        "t": "📌",
+        "a": "Moción N° 1099 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA SUPERINTENDENCIA NACIONAL DE MIGRACIONES, CON MOTIVO DE CELEBRARSE EL...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1099",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA SUPERINTENDENCIA NACIONAL DE MIGRACIONES, CON MOTIVO DE CELEBRARSE EL 7 DE DICIEMBREDE 2026, EL DECIMOCUARTO ANIVERSARIODE SU CREACIÓN INSTITUCIONAL, RECONOCIENDO EL COMPROMISO Y SERVICIO PÚBLICO BRINDADO AL PAÍS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Figari Mendoza, Pier Paolo (Fuerza Popular)",
+        "expediente": "01099-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      }
+    ],
+    "Gilmer Trujillo Zegarra": [
+      {
+        "t": "📌",
+        "a": "Moción N° 1096 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE BOLÍVAR, DEPARTAMENTO DE LA LIBERTAD, CON MOTIVO DE CONM...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1096",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE BOLÍVAR, DEPARTAMENTO DE LA LIBERTAD, CON MOTIVO DE CONMEMORARSE, EL 20 DE NOVIEMBRE DE 2026, EL 110º ANIVERSARIO DE SU CREACIÓN POLÍTICA, RECONOCIENDO SU TRAYECTORIA HISTÓRICA, SU RIQUEZA CULTURAL Y EL ESFUERZO DE SU POBLACIÓN EN FAVOR DEL DESARROLLO PROVINCIAL Y REGIONAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Trujillo Zegarra, Gilmer (Fuerza Popular)",
+        "expediente": "01096-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ]
   },
