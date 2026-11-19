@@ -1597,10 +1597,22 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Inclusión Social impulsa estrategia «Florece Mujer» para fortalecer la autonomía económica de mujeres víctimas de violencia",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-impulsa-estrategia-florece-mujer-para-fortalecer-la-autonomia-economica-de-mujeres-victimas-de-violencia/"
+    },
+    {
       "title": "Parlamentarios inician debate de los dictámenes de Presupuesto para el Año Fiscal 2027",
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/parlamentarios-inician-debate-de-los-dictamenes-de-presupuesto-para-el-ano-fiscal-2027/"
+    },
+    {
+      "title": "Aprueban dictámenes que favorecen a trabajadores y familiares en situaciones complejas de salud",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamenes-que-favorecen-a-trabajadores-y-familiares-en-situaciones-complejas-de-salud/"
     },
     {
       "title": "Titulares del sistema de justicia y organismos autónomos sustentan ante el Congreso sus presupuestos para el 2027",
@@ -1637,21 +1649,21 @@
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-sesion-para-este-viernes-y-realizaran-sesion-descentralizada-en-piura/"
-    },
-    {
-      "title": "Empieza exposición de ministros de Estado sobre pliegos de egresos de sus sectores",
-      "source": "Portal del Congreso",
-      "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/empieza-exposicion-de-ministros-de-estado-sobre-pliegos-de-egresos-de-sus-sectores/"
-    },
-    {
-      "title": "Presidente del Congreso destaca donaciones para el C5 y reducción histórica del presupuesto institucional",
-      "source": "Portal del Congreso",
-      "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-destaca-donaciones-para-el-c5-y-reduccion-historica-del-presupuesto-institucional/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Inclusión Social impulsa estrategia «Florece Mujer» para fortalecer la autonomía económica de mujeres víctimas de violencia",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-inclusion-social-impulsa-estrategia-florece-mujer-para-fortalecer-la-autonomia-economica-de-mujeres-victimas-de-violencia/"
+    },
+    {
+      "title": "Grupo de trabajo aprueba plan para fortalecer la prevención y reducción de la anemia en Loreto",
+      "source": "Portal del Congreso",
+      "date": "18 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-aprueba-plan-para-fortalecer-la-prevencion-y-reduccion-de-la-anemia-en-loreto/"
+    },
     {
       "title": "Parlamentarios inician debate de los dictámenes de Presupuesto para el Año Fiscal 2027",
       "source": "Portal del Congreso",
@@ -1693,12 +1705,6 @@
       "source": "Portal del Congreso",
       "date": "18 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/reprograman-sesion-para-este-viernes-y-realizaran-sesion-descentralizada-en-piura/"
-    },
-    {
-      "title": "Empieza exposición de ministros de Estado sobre pliegos de egresos de sus sectores",
-      "source": "Portal del Congreso",
-      "date": "18 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/empieza-exposicion-de-ministros-de-estado-sobre-pliegos-de-egresos-de-sus-sectores/"
     }
   ],
   "events_override": {
@@ -4727,6 +4733,20 @@
         "autores": "(P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Albañil Carmona, Henry Antonio (Partido Cívico Obras); (P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)López Letona, Heber (Partido Cívico Obras); (P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Medina Stein, Andrea Dayna (Partido Cívico Obras); (P)Peralta Jorpa, Máximo (Partido Cívico Obras); (P)Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Manrique Olivera, Bernardino Jair (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Flores Valdizan, Marco Antonio (Juntos por el Perú); (P)Lavado Valdivia, Marino Teófilo (Juntos por el Perú); (P)Condori Flores, Remigio (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Chipana Condori, Graciela (Juntos por el Perú)",
         "expediente": "01070-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1095 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO, CORDIAL Y EFUSIVO SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA COMUNIDAD CAMPESINA DE COCHAS, DEL ...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1095",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO, CORDIAL Y EFUSIVO SALUDO, FELICITACIÓN Y RECONOCIMIENTO A LA COMUNIDAD CAMPESINA DE COCHAS, DEL DISTRITO DE COCHAS, PROVINCIA DE OCROS, DEPARTAMENTO DE ÁNCASH, CON MOTIVO DE CONMEMORARSE, EL 19 DE NOVIEMBRE DE 2026, EL 95.º ANIVERSARIO DE SU RECONOCIMIENTO OFICIAL, ACONTECIMIENTO DE ESPECIAL SIGNIFICADO HISTÓRICO E INSTITUCIONAL PARA SUS COMUNEROS Y PARA LA POBLACIÓN DE LA PROVINCIA DE OCROS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras)",
+        "expediente": "01095-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Juan César Cabrera Nieto": [
@@ -22580,6 +22600,14 @@
         "autores": "(P)Yuffra Lugo, Ana Luisa (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular)",
         "expediente": "00856-2026-2031-CD",
         "subtipo": "Pedidos para que el pleno se pronuncie sobre interes nacional"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Grupo de trabajo aprueba plan para fortalecer la prevención y reducción de la anemia en Loreto",
+        "d": "18/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/grupo-de-trabajo-aprueba-plan-para-fortalecer-la-prevencion-y-reduccion-de-la-anemia-en-loreto/",
+        "pts": 2
       }
     ],
     "Luis Arturo Alegría García": [
@@ -26379,6 +26407,22 @@
         "grupo": "Renovación Popular",
         "autores": "(P)Vásquez Villanueva, Absalón (Renovación Popular)",
         "expediente": "00225-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      }
+    ],
+    "Alejandro Aurelio Aguinaga Recuenco": [
+      {
+        "t": "📌",
+        "a": "Moción N° 244 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL Y AFECTUOSO SALUDO DE LA CÁMARA DE SENADORES A LA “PROCURADURÍA GENERAL DEL ESTADO” CON OCASIÓN ...",
+        "d": "19/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/244",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL Y AFECTUOSO SALUDO DE LA CÁMARA DE SENADORES A LA “PROCURADURÍA GENERAL DEL ESTADO” CON OCASIÓN DE CONMEMORARSE, EL 24 DE NOVIEMBRE DEL 2026, EL SÉPTIMO ANIVERSARIO DE SU PUESTA EN FUNCIONAMIENTO",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Aguinaga Recuenco, Alejandro Aurelio (Fuerza Popular)",
+        "expediente": "00244-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
       }
     ]
