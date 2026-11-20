@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Analizan sistema presupuestal y gestión financiera del Parlamento Andino",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-sistema-presupuestal-y-gestion-financiera-del-parlamento-andino/"
+    },
+    {
+      "title": "Realizarán segunda mesa de trabajo para atender brechas de educación intercultural bilingüe en Junín",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/realizaran-segunda-mesa-de-trabajo-para-atender-brechas-de-educacion-intercultural-bilingue-en-junin/"
+    },
+    {
       "title": "Presidente del Congreso se reunió con los 20 secigristas de derecho del Parlamento",
       "source": "Portal del Congreso",
       "date": "20 Nov 2026",
@@ -1613,27 +1625,21 @@
       "source": "Portal del Congreso",
       "date": "19 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-piden-reactivar-obras-y-cerrar-brechas-de-agua-y-saneamiento/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú-Corea del Sur cuenta con nuevo Comité Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "19 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-corea-del-sur-cuenta-con-nuevo-comite-ejecutivo/"
-    },
-    {
-      "title": "Advierten sobre riesgos de la inteligencia artificial y plantea fortalecer la ciberdefensa del país",
-      "source": "Portal del Congreso",
-      "date": "19 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/advierten-sobre-riesgos-de-la-inteligencia-artificial-y-plantea-fortalecer-la-ciberdefensa-del-pais/"
-    },
-    {
-      "title": "Comisión de Justicia del Senado se declara en sesión permanente para evaluar dos dictámenes",
-      "source": "Portal del Congreso",
-      "date": "19 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-se-declara-en-sesion-permanente-para-evaluar-dos-dictamenes/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Diputada Yuli Ambrosio organizó el XIV Fórum Nacional de Mujeres Emprendedoras 2026",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-yuli-ambrosio-organizo-el-xiv-forum-nacional-de-mujeres-emprendedoras-2026/"
+    },
+    {
+      "title": "Analizan sistema presupuestal y gestión financiera del Parlamento Andino",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-sistema-presupuestal-y-gestion-financiera-del-parlamento-andino/"
+    },
     {
       "title": "Definen temas para ser debatidos en el Pleno de Diputados del jueves 26",
       "source": "Portal del Congreso",
@@ -1663,18 +1669,6 @@
       "source": "Portal del Congreso",
       "date": "19 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-fijan-posicion-y-transmiten-necesidades-de-pobladores-en-debate-de-presupuesto-publico/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú-Corea del Sur cuenta con nuevo Comité Ejecutivo",
-      "source": "Portal del Congreso",
-      "date": "19 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-corea-del-sur-cuenta-con-nuevo-comite-ejecutivo/"
-    },
-    {
-      "title": "Advierten sobre riesgos de la inteligencia artificial y plantea fortalecer la ciberdefensa del país",
-      "source": "Portal del Congreso",
-      "date": "19 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/advierten-sobre-riesgos-de-la-inteligencia-artificial-y-plantea-fortalecer-la-ciberdefensa-del-pais/"
     }
   ],
   "events_override": {
@@ -18868,6 +18862,48 @@
         "autores": "(P)Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); Alayza Maccera, Rossana Herminia (Partido del Buen Gobierno); Benítez Barrionuevo, Jessica (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Uribe Sáenz, Romina Alejandra (Partido del Buen Gobierno); Aranda Vásquez, Christian (Renovación Popular); Baella Malca, José Isidro (Renovación Popular); Chang Apuy, Félix See Hung (Renovación Popular); Rocha Gallegos, Roxana María (Renovación Popular); Yarrow Lumbreras, Norma Martina (Renovación Popular); Yonz Nuñez, Mady Verónica (Renovación Popular); Albañil Carmona, Henry Antonio (Partido Cívico Obras); Cabrera Nieto, Juan César (Partido Cívico Obras); Masco Cáceres, Luis Aurelio (Partido Cívico Obras); Medina Stein, Andrea Dayna (Partido Cívico Obras); Avendaño Vilca, Giannina Iris (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú); Marcelo Salazar, José Miguel (Ahora Nación)",
         "expediente": "01105-2026-2031-CD",
         "subtipo": "Pedidos de Invitación a Consejo de Ministros o Ministros para informar ante pleno o comisiones"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1122 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1122",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE YURA, PROVINCIA Y DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL CENTÉSIMO QUINCUAGÉSIMO SEGUNDO ANIVERSARIO DE SU CREACIÓN POLÍTICA, Y HACERLO EXTENSIVO A LAS FAMILIAS DE SUS PUEBLOS TRADICIONALES, ANEXOS Y BARRIOS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "01122-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1118 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTR...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1118",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA POBLACIÓN DEL DISTRITO DE HUAYNACOTAS, PROVINCIA DE LA UNIÓN, DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL CENTÉSIMO SEPTUAGÉSIMO ANIVERSARIO DE SU CREACIÓN POLÍTICA, CUYA FECHA CENTRAL SE CELEBRA EL 29 DE NOVIEMBRE DE 2026, HACIENDO EXTENSIVO ESTE SALUDO A SUS CENTROS POBLADOS, COMUNIDADES Y FAMILIAS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "01118-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1117 (Mociones de Saludo): EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LACÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA LA POBLACIÓN DE LA CIUDAD...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1117",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CORDIAL SALUDO INSTITUCIONAL DE LACÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA LA POBLACIÓN DE LA CIUDAD DE CHUQUIBAMBA, CAPITAL DE LA PROVINCIA DE CONDESUYOS, DEPARTAMENTO DE AREQUIPA, CON MOTIVO DEL CUADRAGÉSIMO OCTAVO ANIVERSARIO DE SU INSTAURACIÓN CÍVICA, QUE SE CONMEMORA EL 7 DE DICIEMBRE DE 2026, Y HACER EXTENSIVO ESTE SALUDO A SUS AUTORIDADES, INSTITUCIONES, ORGANIZACIONES Y FAMILIAS.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno)",
+        "expediente": "01117-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Carmela Paucara Paxi": [
@@ -20024,6 +20060,14 @@
         "autores": "(P)Robles Araujo, Silvana Emperatriz (Juntos por el Perú)",
         "expediente": "00141-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Realizarán segunda mesa de trabajo para atender brechas de educación intercultural bilingüe en Junín",
+        "d": "20/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/realizaran-segunda-mesa-de-trabajo-para-atender-brechas-de-educacion-intercultural-bilingue-en-junin/",
+        "pts": 2
       }
     ],
     "Francisco Javier Gatica Vega": [
@@ -26130,6 +26174,20 @@
         "autores": "(P)Yataco Torrealva, José Ricardo (Partido Cívico Obras)",
         "expediente": "01080-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1124 (Mociones de Saludo): CONMEMORAR EL 25 DE NOVIEMBRE, DÍA INTERNACIONAL DE LA ELIMINACIÓN DE LA VIOLENCIA CONTRA LA MUJER, RINDIENDO HOMENAJE A...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1124",
+        "pts": 3,
+        "sumilla": "CONMEMORAR EL 25 DE NOVIEMBRE, DÍA INTERNACIONAL DE LA ELIMINACIÓN DE LA VIOLENCIA CONTRA LA MUJER, RINDIENDO HOMENAJE A LA MEMORIA HISTÓRICA DE LAS HERMANAS MIRABAL Y RECONOCIENDO LA VALENTÍA Y APORTE DE TODAS LAS MUJERES PERUANAS EN LA CONSTRUCCIÓN DE UNA SOCIEDAD JUSTA Y LIBRE DE VIOLENCIA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Yataco Torrealva, José Ricardo (Partido Cívico Obras)",
+        "expediente": "01124-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Ana Bertha Patiño Urco": [
@@ -26976,6 +27034,16 @@
         "autores": "(P)Trujillo Zegarra, Gilmer (Fuerza Popular)",
         "expediente": "01096-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      }
+    ],
+    "Yuli Liliana Ambrosio Dominguez": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputada Yuli Ambrosio organizó el XIV Fórum Nacional de Mujeres Emprendedoras 2026",
+        "d": "20/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-yuli-ambrosio-organizo-el-xiv-forum-nacional-de-mujeres-emprendedoras-2026/",
+        "pts": 2
       }
     ]
   },
