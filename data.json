@@ -1597,6 +1597,24 @@
   },
   "senado_news": [
     {
+      "title": "Pleno del Congreso aprueba la Ley de Presupuesto del Sector Público para el Año Fiscal 2027",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-la-ley-de-presupuesto-del-sector-publico-para-el-ano-fiscal-2027/"
+    },
+    {
+      "title": "Pleno del Congreso aprueba dictamen de Ley de Equilibrio Financiero para el Año Fiscal 2027",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-dictamen-de-ley-de-equilibrio-financiero-para-el-ano-fiscal-2027/"
+    },
+    {
+      "title": "Aprueban dictamen de Ley de Endeudamiento Público para el Año Fiscal 2027",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-de-ley-de-endeudamiento-publico-para-el-ano-fiscal-2027/"
+    },
+    {
       "title": "Analizan sistema presupuestal y gestión financiera del Parlamento Andino",
       "source": "Portal del Congreso",
       "date": "20 Nov 2026",
@@ -1619,15 +1637,27 @@
       "source": "Portal del Congreso",
       "date": "20 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-aprueba-dictamen-que-actualiza-la-priorizacion-de-obras-por-impuestos/"
-    },
-    {
-      "title": "Senadores piden reactivar obras y cerrar brechas de agua y saneamiento",
-      "source": "Portal del Congreso",
-      "date": "19 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senadores-piden-reactivar-obras-y-cerrar-brechas-de-agua-y-saneamiento/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Pleno del Congreso aprueba la Ley de Presupuesto del Sector Público para el Año Fiscal 2027",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-la-ley-de-presupuesto-del-sector-publico-para-el-ano-fiscal-2027/"
+    },
+    {
+      "title": "Pleno del Congreso aprueba dictamen de Ley de Equilibrio Financiero para el Año Fiscal 2027",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-congreso-aprueba-dictamen-de-ley-de-equilibrio-financiero-para-el-ano-fiscal-2027/"
+    },
+    {
+      "title": "Aprueban dictamen de Ley de Endeudamiento Público para el Año Fiscal 2027",
+      "source": "Portal del Congreso",
+      "date": "20 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-de-ley-de-endeudamiento-publico-para-el-ano-fiscal-2027/"
+    },
     {
       "title": "Diputada Yuli Ambrosio organizó el XIV Fórum Nacional de Mujeres Emprendedoras 2026",
       "source": "Portal del Congreso",
@@ -1657,18 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "20 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-aprueba-dictamen-que-actualiza-la-priorizacion-de-obras-por-impuestos/"
-    },
-    {
-      "title": "Diputado Jaime Abensur se reúne con gobernador electo de Ucayali para coordinar agenda de trabajo conjunta",
-      "source": "Portal del Congreso",
-      "date": "20 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-jaime-abensur-se-reune-con-gobernador-electo-de-ucayali-para-coordinar-agenda-de-trabajo-conjunta/"
-    },
-    {
-      "title": "Diputados fijan posición y transmiten necesidades de pobladores en debate de presupuesto público",
-      "source": "Portal del Congreso",
-      "date": "19 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-fijan-posicion-y-transmiten-necesidades-de-pobladores-en-debate-de-presupuesto-publico/"
     }
   ],
   "events_override": {
@@ -3252,6 +3270,20 @@
         "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación)",
         "expediente": "01112-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -3781,6 +3813,20 @@
         "autores": "(P)Buitrón Martínez, Freshman (Ahora Nación); Arminta Valencia, Marleny Bibiana (Ahora Nación); Colchado Huamani, Harvey Julio (Ahora Nación); Manrique Olivera, Bernardino Jair (Ahora Nación); Marcelo Salazar, José Miguel (Ahora Nación); Meneses Crispin, Ángel Renato (Ahora Nación)",
         "expediente": "01042-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Cesar Augusto Muedas Balbiese": [
@@ -4224,6 +4270,20 @@
         "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
         "expediente": "01097-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Helard Bladimir Sonco Villanueva": [
@@ -4541,6 +4601,20 @@
         "grupo": "Multipartidario",
         "autores": "(P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Albañil Carmona, Henry Antonio (Partido Cívico Obras); (P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)López Letona, Heber (Partido Cívico Obras); (P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Medina Stein, Andrea Dayna (Partido Cívico Obras); (P)Peralta Jorpa, Máximo (Partido Cívico Obras); (P)Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Manrique Olivera, Bernardino Jair (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Flores Valdizan, Marco Antonio (Juntos por el Perú); (P)Lavado Valdivia, Marino Teófilo (Juntos por el Perú); (P)Condori Flores, Remigio (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Chipana Condori, Graciela (Juntos por el Perú)",
         "expediente": "01070-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
@@ -4924,6 +4998,20 @@
         "autores": "(P)Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); Alayza Maccera, Rossana Herminia (Partido del Buen Gobierno); Benítez Barrionuevo, Jessica (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Uribe Sáenz, Romina Alejandra (Partido del Buen Gobierno); Aranda Vásquez, Christian (Renovación Popular); Baella Malca, José Isidro (Renovación Popular); Chang Apuy, Félix See Hung (Renovación Popular); Rocha Gallegos, Roxana María (Renovación Popular); Yarrow Lumbreras, Norma Martina (Renovación Popular); Yonz Nuñez, Mady Verónica (Renovación Popular); Albañil Carmona, Henry Antonio (Partido Cívico Obras); Cabrera Nieto, Juan César (Partido Cívico Obras); Masco Cáceres, Luis Aurelio (Partido Cívico Obras); Medina Stein, Andrea Dayna (Partido Cívico Obras); Avendaño Vilca, Giannina Iris (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú); Marcelo Salazar, José Miguel (Ahora Nación)",
         "expediente": "01105-2026-2031-CD",
         "subtipo": "Pedidos de Invitación a Consejo de Ministros o Ministros para informar ante pleno o comisiones"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Raúl Jesús Camargo Porta": [
@@ -5571,6 +5659,20 @@
         "autores": "(P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Albañil Carmona, Henry Antonio (Partido Cívico Obras); (P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)López Letona, Heber (Partido Cívico Obras); (P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Medina Stein, Andrea Dayna (Partido Cívico Obras); (P)Peralta Jorpa, Máximo (Partido Cívico Obras); (P)Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Manrique Olivera, Bernardino Jair (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Flores Valdizan, Marco Antonio (Juntos por el Perú); (P)Lavado Valdivia, Marino Teófilo (Juntos por el Perú); (P)Condori Flores, Remigio (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Chipana Condori, Graciela (Juntos por el Perú)",
         "expediente": "01070-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Heber López Letona": [
@@ -5991,6 +6093,20 @@
         "autores": "(P)Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); Alayza Maccera, Rossana Herminia (Partido del Buen Gobierno); Benítez Barrionuevo, Jessica (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Uribe Sáenz, Romina Alejandra (Partido del Buen Gobierno); Aranda Vásquez, Christian (Renovación Popular); Baella Malca, José Isidro (Renovación Popular); Chang Apuy, Félix See Hung (Renovación Popular); Rocha Gallegos, Roxana María (Renovación Popular); Yarrow Lumbreras, Norma Martina (Renovación Popular); Yonz Nuñez, Mady Verónica (Renovación Popular); Albañil Carmona, Henry Antonio (Partido Cívico Obras); Cabrera Nieto, Juan César (Partido Cívico Obras); Masco Cáceres, Luis Aurelio (Partido Cívico Obras); Medina Stein, Andrea Dayna (Partido Cívico Obras); Avendaño Vilca, Giannina Iris (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú); Marcelo Salazar, José Miguel (Ahora Nación)",
         "expediente": "01105-2026-2031-CD",
         "subtipo": "Pedidos de Invitación a Consejo de Ministros o Ministros para informar ante pleno o comisiones"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Andrea Dayna Medina Stein": [
@@ -7137,6 +7253,20 @@
         "autores": "(P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Albañil Carmona, Henry Antonio (Partido Cívico Obras); (P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)López Letona, Heber (Partido Cívico Obras); (P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Medina Stein, Andrea Dayna (Partido Cívico Obras); (P)Peralta Jorpa, Máximo (Partido Cívico Obras); (P)Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Manrique Olivera, Bernardino Jair (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Flores Valdizan, Marco Antonio (Juntos por el Perú); (P)Lavado Valdivia, Marino Teófilo (Juntos por el Perú); (P)Condori Flores, Remigio (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Chipana Condori, Graciela (Juntos por el Perú)",
         "expediente": "01070-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Indira Isabel Huilca Flores": [
@@ -7376,6 +7506,20 @@
         "grupo": "Multipartidario",
         "autores": "(P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Albañil Carmona, Henry Antonio (Partido Cívico Obras); (P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)López Letona, Heber (Partido Cívico Obras); (P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Medina Stein, Andrea Dayna (Partido Cívico Obras); (P)Peralta Jorpa, Máximo (Partido Cívico Obras); (P)Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Manrique Olivera, Bernardino Jair (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Flores Valdizan, Marco Antonio (Juntos por el Perú); (P)Lavado Valdivia, Marino Teófilo (Juntos por el Perú); (P)Condori Flores, Remigio (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Chipana Condori, Graciela (Juntos por el Perú)",
         "expediente": "01070-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
@@ -7848,6 +7992,20 @@
         "autores": "(P)Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); Alayza Maccera, Rossana Herminia (Partido del Buen Gobierno); Benítez Barrionuevo, Jessica (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Uribe Sáenz, Romina Alejandra (Partido del Buen Gobierno); Aranda Vásquez, Christian (Renovación Popular); Baella Malca, José Isidro (Renovación Popular); Chang Apuy, Félix See Hung (Renovación Popular); Rocha Gallegos, Roxana María (Renovación Popular); Yarrow Lumbreras, Norma Martina (Renovación Popular); Yonz Nuñez, Mady Verónica (Renovación Popular); Albañil Carmona, Henry Antonio (Partido Cívico Obras); Cabrera Nieto, Juan César (Partido Cívico Obras); Masco Cáceres, Luis Aurelio (Partido Cívico Obras); Medina Stein, Andrea Dayna (Partido Cívico Obras); Avendaño Vilca, Giannina Iris (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú); Marcelo Salazar, José Miguel (Ahora Nación)",
         "expediente": "01105-2026-2031-CD",
         "subtipo": "Pedidos de Invitación a Consejo de Ministros o Ministros para informar ante pleno o comisiones"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -9926,6 +10084,20 @@
         "autores": "(P)Tito Rojas, César Hugo (Juntos por el Perú)",
         "expediente": "01068-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Roxana María Rocha Gallegos": [
@@ -11026,6 +11198,34 @@
         "autores": "(P)De Paz Lancho, Leo Miguel (Renovación Popular)",
         "expediente": "01055-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1127 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA CIUD...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1127",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA CIUDAD DE QUILLABAMBA Y A SU PUEBLO, CON MOTIVO DE CONMEMORAR, EL DOMINGO 29 DE NOVIEMBRE DE 2026, EL 108. ° ANIVERSARIO DE SU ELEVACIÓN A LA CATEGORÍA DE VILLA Y CAPITAL DE LA PROVINCIA DE LA CONVENCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Renovación Popular",
+        "autores": "(P)De Paz Lancho, Leo Miguel (Renovación Popular)",
+        "expediente": "01127-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1126 (Mociones de Saludo): EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA UNIV...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1126",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL SALUDO, LA FELICITACIÓN Y EL RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A LA UNIVERSIDAD NACIONAL DE CAÑETE (UNDC), CON MOTIVO DE CELEBRAR SU 17. ° ANIVERSARIO DE CREACIÓN INSTITUCIONAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Renovación Popular",
+        "autores": "(P)De Paz Lancho, Leo Miguel (Renovación Popular)",
+        "expediente": "01126-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Azucena Isla Rojas": [
@@ -11562,6 +11762,20 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/organizan-mesa-tecnica-sobre-defensores-de-los-derechos-humanos/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Olver Peña Córdova": [
@@ -11852,6 +12066,20 @@
         "autores": "(P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); Medina Stein, Andrea Dayna (Partido Cívico Obras); Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); Bravo Quispe, Aldo Antonio (Renovación Popular); Yonz Nuñez, Mady Verónica (Renovación Popular); Peña Córdova, Olver (Juntos por el Perú)",
         "expediente": "00818-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Daniel Jefferson Varas Seguin": [
@@ -12846,6 +13074,20 @@
         "autores": "(P)Pérez Alccahuaman, Jesús (Juntos por el Perú); Holguín Aguirre, James Arturo (Juntos por el Perú); Palomino Casavilca, Catherin Norma (Juntos por el Perú); Peña Córdova, Olver (Juntos por el Perú); Pérez Mallqui, Julián Luis (Juntos por el Perú); Tapullima Insapillo, Jacqueline Viviana (Juntos por el Perú); Tito Rojas, César Hugo (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú); Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); Piñán Mamani, Víctor Eduardo (Partido Cívico Obras)",
         "expediente": "00830-2026-2031-CD",
         "subtipo": "Conformación de Comisiones Especiales"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Ernesto Alonso Zunini Yerren": [
@@ -17798,6 +18040,20 @@
         "autores": "(P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Albañil Carmona, Henry Antonio (Partido Cívico Obras); (P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)López Letona, Heber (Partido Cívico Obras); (P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Medina Stein, Andrea Dayna (Partido Cívico Obras); (P)Peralta Jorpa, Máximo (Partido Cívico Obras); (P)Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Manrique Olivera, Bernardino Jair (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Flores Valdizan, Marco Antonio (Juntos por el Perú); (P)Lavado Valdivia, Marino Teófilo (Juntos por el Perú); (P)Condori Flores, Remigio (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Chipana Condori, Graciela (Juntos por el Perú)",
         "expediente": "01070-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
     "Alejandro José Manay Pillaca": [
@@ -22077,6 +22333,20 @@
         "grupo": "Multipartidario",
         "autores": "(P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Albañil Carmona, Henry Antonio (Partido Cívico Obras); (P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)López Letona, Heber (Partido Cívico Obras); (P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Medina Stein, Andrea Dayna (Partido Cívico Obras); (P)Peralta Jorpa, Máximo (Partido Cívico Obras); (P)Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Manrique Olivera, Bernardino Jair (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Flores Valdizan, Marco Antonio (Juntos por el Perú); (P)Lavado Valdivia, Marino Teófilo (Juntos por el Perú); (P)Condori Flores, Remigio (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Chipana Condori, Graciela (Juntos por el Perú)",
         "expediente": "01070-2026-2031-CD",
+        "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1125 (Pedidos de Interpelación al Consejo de Ministros o Ministros): INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PL...",
+        "d": "20/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1125",
+        "pts": 3,
+        "sumilla": "INTERPELAR AL MINISTRO DE RELACIONES EXTERIORES, SEÑOR ALFONSO CARLOS ESPÁ Y GARCÉS-ALVEAR, PARA QUE CONCURRA ANTE EL PLENO DE LA CÁMARA DE DIPUTADOS Y ABSUELVA EL PLIEGO INTERPELATORIO DE CUARENTA Y OCHO PREGUNTAS QUE SE ADJUNTA Y FORMA PARTE INTEGRANTE DE LA PRESENTE MOCIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
+        "expediente": "01125-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
       }
     ],
