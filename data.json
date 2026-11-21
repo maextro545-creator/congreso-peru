@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso recibió a más de 150 estudiantes de Derecho y reafirma su compromiso con la juventud",
+      "source": "Portal del Congreso",
+      "date": "21 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-a-mas-de-150-estudiantes-de-derecho-y-reafirma-su-compromiso-con-la-juventud/"
+    },
+    {
       "title": "Pleno del Congreso aprueba la Ley de Presupuesto del Sector Público para el Año Fiscal 2027",
       "source": "Portal del Congreso",
       "date": "20 Nov 2026",
@@ -1631,12 +1637,6 @@
       "source": "Portal del Congreso",
       "date": "20 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-se-reunio-con-los-20-secigristas-de-derecho-del-parlamento/"
-    },
-    {
-      "title": "Comisión de Economía aprueba dictamen que actualiza la priorización de Obras por Impuestos",
-      "source": "Portal del Congreso",
-      "date": "20 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-aprueba-dictamen-que-actualiza-la-priorizacion-de-obras-por-impuestos/"
     }
   ],
   "diputados_news": [
@@ -1681,12 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "20 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-eduardo-castillo-reconoce-trayectoria-y-legado-de-las-hermanas-carmelitas-de-la-caridad/"
-    },
-    {
-      "title": "Comisión de Economía aprueba dictamen que actualiza la priorización de Obras por Impuestos",
-      "source": "Portal del Congreso",
-      "date": "20 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-economia-aprueba-dictamen-que-actualiza-la-priorizacion-de-obras-por-impuestos/"
     }
   ],
   "events_override": {
@@ -2831,6 +2825,14 @@
         "d": "19/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/congreso-minsa-y-ops-articulan-agenda-por-vacunas-medicamentos-oncologicos-y-transformacion-digital/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso recibió a más de 150 estudiantes de Derecho y reafirma su compromiso con la juventud",
+        "d": "21/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-a-mas-de-150-estudiantes-de-derecho-y-reafirma-su-compromiso-con-la-juventud/",
         "pts": 2
       }
     ],
