@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Justicia del Senado reúne a expertos para evaluar alcances de reforma sobre extinción de dominio",
+      "source": "Portal del Congreso",
+      "date": "23 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-reune-a-expertos-para-evaluar-alcances-de-reforma-sobre-extincion-de-dominio/"
+    },
+    {
       "title": "Aprueba dictamen que incentiva donaciones de bienes y servicios ante desastres naturales",
       "source": "Portal del Congreso",
       "date": "23 Nov 2026",
@@ -1619,21 +1625,21 @@
       "source": "Portal del Congreso",
       "date": "23 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-aprueba-dictamen-para-transparentar-precios-de-productos-farmaceuticos-en-clinicas-privadas/"
-    },
-    {
-      "title": "Presidente del Congreso visita la Sunarp para conocer avances en innovación y transformación digital",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-visita-la-sunarp-para-conocer-avances-en-innovacion-y-transformacion-digital/"
-    },
-    {
-      "title": "Presidente del Congreso recibió a más de 150 estudiantes de Derecho y reafirma su compromiso con la juventud",
-      "source": "Portal del Congreso",
-      "date": "21 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-a-mas-de-150-estudiantes-de-derecho-y-reafirma-su-compromiso-con-la-juventud/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Debaten dictamen para fortalecer la atención domiciliaria de personas con discapacidad severa",
+      "source": "Portal del Congreso",
+      "date": "23 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-dictamen-para-fortalecer-la-atencion-domiciliaria-de-personas-con-discapacidad-severa/"
+    },
+    {
+      "title": "Aprueba dictamen que incentiva donaciones de bienes y servicios ante desastres naturales",
+      "source": "Portal del Congreso",
+      "date": "23 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-dictamen-que-incentiva-donaciones-de-bienes-y-servicios-ante-desastres-naturales/"
+    },
     {
       "title": "Comisión de Constitución y Reglamento de la Cámara de Diputados aprobó la creación de 4 nuevas ligas parlamentarias de amistad",
       "source": "Portal del Congreso",
@@ -21330,6 +21336,14 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-y-derechos-humanos-del-senado-fortalece-la-fiscalizacion-frente-a-la-inseguridad-en-region-la-libertad/",
         "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Justicia del Senado reúne a expertos para evaluar alcances de reforma sobre extinción de dominio",
+        "d": "23/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-reune-a-expertos-para-evaluar-alcances-de-reforma-sobre-extincion-de-dominio/",
+        "pts": 2
       }
     ],
     "Susana Flor de María Matute Charun": [
@@ -24524,6 +24538,14 @@
         "autores": "(P)Meza Rivera, Flor de Jesús (Fuerza Popular); Beteta Rubín, Karina Juliza (Fuerza Popular); Chacón De Vettori, Cecilia Isabel (Fuerza Popular); Dodero Jovich, Pierangeli Daniela (Fuerza Popular); Domínguez Herrera, Carlos Alberto (Fuerza Popular); Pinasco Montenegro, Nary Benvinda (Fuerza Popular); Yuffra Lugo, Ana Luisa (Fuerza Popular); Rocha Gallegos, Roxana María (Renovación Popular)",
         "expediente": "00704-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Debaten dictamen para fortalecer la atención domiciliaria de personas con discapacidad severa",
+        "d": "23/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-dictamen-para-fortalecer-la-atencion-domiciliaria-de-personas-con-discapacidad-severa/",
+        "pts": 2
       }
     ],
     "Miguel Felix Huamán Cornejo": [
