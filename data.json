@@ -1597,90 +1597,84 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Desarrollo Agrario elige nuevo vicepresidente y amplía plazo de grupo de trabajo sobre Chinecas",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-elige-nuevo-vicepresidente-y-amplia-plazo-de-grupo-de-trabajo-sobre-chinecas/"
+    },
+    {
+      "title": "Comisión de Infraestructura evalúa redirigir recursos de Sedapal a obras de agua y alcantarillado",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-evalua-redirigir-recursos-de-sedapal-a-obras-de-agua-y-alcantarillado/"
+    },
+    {
+      "title": "Presidente del Congreso inaugura “Feria de Voluntariado 2026” y destaca el apoyo de quienes hacen de la solidaridad su mayor contribución",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inaugura-feria-de-voluntariado-2026-y-destaca-el-apoyo-de-quienes-hacen-de-la-solidaridad-su-mayor-contribucion/"
+    },
+    {
+      "title": "Comisión de Constitución del Senado cita al canciller Carlos Espá para este 1 de diciembre",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-cita-al-canciller-carlos-espa-para-este-1-de-diciembre/"
+    },
+    {
       "title": "Comisión de Justicia del Senado reúne a expertos para evaluar alcances de reforma sobre extinción de dominio",
       "source": "Portal del Congreso",
       "date": "23 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-reune-a-expertos-para-evaluar-alcances-de-reforma-sobre-extincion-de-dominio/"
     },
     {
-      "title": "Aprueba dictamen que incentiva donaciones de bienes y servicios ante desastres naturales",
+      "title": "Debaten dictamen para fortalecer la atención domiciliaria de personas con discapacidad severa",
       "source": "Portal del Congreso",
       "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-dictamen-que-incentiva-donaciones-de-bienes-y-servicios-ante-desastres-naturales/"
-    },
-    {
-      "title": "Comisión Especial del Fenómeno El Niño anuncia sesiones descentralizadas en Piura y Ayacucho",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-especial-del-fenomeno-el-nino-anuncia-sesiones-descentralizadas-en-piura-y-ayacucho/"
-    },
-    {
-      "title": "Aprueban dictamen que propone derogar la ley del Colegio Profesional del Artista del Perú",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-propone-derogar-la-ley-del-colegio-profesional-del-artista-del-peru/"
-    },
-    {
-      "title": "Comisión de Defensa del Consumidor aprueba dictamen para transparentar precios de productos farmacéuticos en clínicas privadas",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-aprueba-dictamen-para-transparentar-precios-de-productos-farmaceuticos-en-clinicas-privadas/"
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-dictamen-para-fortalecer-la-atencion-domiciliaria-de-personas-con-discapacidad-severa/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Comisión de Producción aprueba dictamen para promover compras estatales de productos hidrobiológicos nacionales",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-dictamen-para-promover-compras-estatales-de-productos-hidrobiologicos-nacionales/"
+    },
+    {
+      "title": "Diputado Leo De Paz rindió homenaje y reconoció a miembros de las Fuerzas Armadas y la Policía Nacional",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-leo-de-paz-rindio-homenaje-y-reconocio-a-miembros-de-las-fuerzas-armadas-y-la-policia-nacional/"
+    },
+    {
+      "title": "Comisión de Desarrollo Agrario elige nuevo vicepresidente y amplía plazo de grupo de trabajo sobre Chinecas",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-elige-nuevo-vicepresidente-y-amplia-plazo-de-grupo-de-trabajo-sobre-chinecas/"
+    },
+    {
+      "title": "Comisión de Infraestructura evalúa redirigir recursos de Sedapal a obras de agua y alcantarillado",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-evalua-redirigir-recursos-de-sedapal-a-obras-de-agua-y-alcantarillado/"
+    },
+    {
+      "title": "Comisión de Salud exige esclarecer compra de suero fisiológico por más de S/31 millones",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-exige-esclarecer-compra-de-suero-fisiologico-por-mas-de-s-31-millones/"
+    },
+    {
+      "title": "Comisión de Energía y Minas evalúa adenda que ampliaría a otras regiones distribución de gas natural",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-evalua-adenda-que-ampliaria-a-otras-regiones-distribucion-de-gas-natural/"
+    },
     {
       "title": "Debaten dictamen para fortalecer la atención domiciliaria de personas con discapacidad severa",
       "source": "Portal del Congreso",
       "date": "23 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-dictamen-para-fortalecer-la-atencion-domiciliaria-de-personas-con-discapacidad-severa/"
-    },
-    {
-      "title": "Aprueba dictamen que incentiva donaciones de bienes y servicios ante desastres naturales",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueba-dictamen-que-incentiva-donaciones-de-bienes-y-servicios-ante-desastres-naturales/"
-    },
-    {
-      "title": "Comisión de Constitución y Reglamento de la Cámara de Diputados aprobó la creación de 4 nuevas ligas parlamentarias de amistad",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-y-reglamento-de-la-camara-de-diputados-aprobo-la-creacion-de-4-nuevas-ligas-parlamentarias-de-amistad/"
-    },
-    {
-      "title": "Diputados escuchan demandas sociales para mejorar la electrificación rural",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-escuchan-demandas-sociales-para-mejorar-la-electrificacion-rural/"
-    },
-    {
-      "title": "Diputado Christian Aranda impulsa mejoras en la gestión del agua y la infraestructura de riego",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-christian-aranda-impulsa-mejoras-en-la-gestion-del-agua-y-la-infraestructura-de-riego/"
-    },
-    {
-      "title": "Diputados aprueban propuesta de Ley para fortalecer la prevención y gestión integral de incendios forestales",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputados-aprueban-propuesta-de-ley-para-fortalecer-la-prevencion-y-gestion-integral-de-incendios-forestales/"
-    },
-    {
-      "title": "Comisión Especial del Fenómeno El Niño anuncia sesiones descentralizadas en Piura y Ayacucho",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-especial-del-fenomeno-el-nino-anuncia-sesiones-descentralizadas-en-piura-y-ayacucho/"
-    },
-    {
-      "title": "Aprueban dictamen que propone derogar la ley del Colegio Profesional del Artista del Perú",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-propone-derogar-la-ley-del-colegio-profesional-del-artista-del-peru/"
-    },
-    {
-      "title": "Comisión de Defensa del Consumidor aprueba dictamen para transparentar precios de productos farmacéuticos en clínicas privadas",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-defensa-del-consumidor-aprueba-dictamen-para-transparentar-precios-de-productos-farmaceuticos-en-clinicas-privadas/"
     }
   ],
   "events_override": {
@@ -2833,6 +2827,14 @@
         "d": "21/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibio-a-mas-de-150-estudiantes-de-derecho-y-reafirma-su-compromiso-con-la-juventud/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso inaugura “Feria de Voluntariado 2026” y destaca el apoyo de quienes hacen de la solidaridad su mayor contribución",
+        "d": "24/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inaugura-feria-de-voluntariado-2026-y-destaca-el-apoyo-de-quienes-hacen-de-la-solidaridad-su-mayor-contribucion/",
         "pts": 2
       }
     ],
@@ -6524,6 +6526,20 @@
         "grupo": "Partido Cívico Obras",
         "autores": "(P)Peralta Jorpa, Máximo (Partido Cívico Obras)",
         "expediente": "01043-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1142 (Mociones de Saludo): EXTENDER EL MÁS EFUSIVO Y CORDIAL SALUDO Y FELICITACIÓN A LAS AUTORIDADES LOCALES, A LA COMUNIDAD RURAL Y A TODOS LOS CI...",
+        "d": "24/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1142",
+        "pts": 3,
+        "sumilla": "EXTENDER EL MÁS EFUSIVO Y CORDIAL SALUDO Y FELICITACIÓN A LAS AUTORIDADES LOCALES, A LA COMUNIDAD RURAL Y A TODOS LOS CIUDADANOS DEL DISTRITO DE QUICHUAY, EN LA PROVINCIA DE HUANCAYO, CON MOTIVO DE SU 71° ANIVERSARIO DE SU CREACIÓN POLÍTICA; RECONOCIENDO SU INVALUABLE CONTRIBUCIÓN A LA HISTORIA, AL LEGADO HEROICO DE LA CAMPAÑA DE LA BREÑA Y A LA RIQUEZA CULTURAL DE LA SIERRA CENTRAL DEL PERÚ.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Peralta Jorpa, Máximo (Partido Cívico Obras)",
+        "expediente": "01142-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -10728,6 +10744,20 @@
         "autores": "(P)Beteta Rubín, Karina Juliza (Fuerza Popular)",
         "expediente": "01063-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1140 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DISTRITO DE MOLINO, PROVINCIA DE PACHITEA, DEPARTAMENTO DE HUÁNUCO, AL C...",
+        "d": "24/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1140",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN AL DISTRITO DE MOLINO, PROVINCIA DE PACHITEA, DEPARTAMENTO DE HUÁNUCO, AL CONMEMORARSE ESTE 29 DE NOVIEMBRE DE 2026 EL 108° ANIVERSARIO DE SU CREACIÓN POLÍTICA, EXPRESANDO LOS MEJORES DESEOS PARA CONSOLIDAR SU RUMBO HACIA EL DESARROLLO ECONÓMICO, LA JUSTICIA SOCIAL Y LA PROSPERIDAD DE TODA SU POBLACIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Beteta Rubín, Karina Juliza (Fuerza Popular)",
+        "expediente": "01140-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Leo Miguel De Paz Lancho": [
@@ -11284,6 +11314,14 @@
         "autores": "(P)De Paz Lancho, Leo Miguel (Renovación Popular)",
         "expediente": "01138-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Diputado Leo De Paz rindió homenaje y reconoció a miembros de las Fuerzas Armadas y la Policía Nacional",
+        "d": "24/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-leo-de-paz-rindio-homenaje-y-reconocio-a-miembros-de-las-fuerzas-armadas-y-la-policia-nacional/",
+        "pts": 2
       }
     ],
     "Azucena Isla Rojas": [
@@ -15024,6 +15062,20 @@
         "autores": "(P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Albañil Carmona, Henry Antonio (Partido Cívico Obras); (P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)López Letona, Heber (Partido Cívico Obras); (P)Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Medina Stein, Andrea Dayna (Partido Cívico Obras); (P)Peralta Jorpa, Máximo (Partido Cívico Obras); (P)Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Manrique Olivera, Bernardino Jair (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Flores Valdizan, Marco Antonio (Juntos por el Perú); (P)Lavado Valdivia, Marino Teófilo (Juntos por el Perú); (P)Condori Flores, Remigio (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Chipana Condori, Graciela (Juntos por el Perú)",
         "expediente": "01070-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1141 (Mociones de Saludo): EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA INSTITUCIÓN EDUCATIVA N.º 40043 «NUESTRA SEÑORA DE LA MEDALLA MILAGRO...",
+        "d": "24/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1141",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL SALUDO Y FELICITACIÓN A LA INSTITUCIÓN EDUCATIVA N.º 40043 «NUESTRA SEÑORA DE LA MEDALLA MILAGROSA», DEL DISTRITO DE JACOBO HUNTER, PROVINCIA Y DEPARTAMENTO DE AREQUIPA, CON OCASIÓN DE CELEBRAR EL DÍA DE LA INTEGRACIÓN MEDALLINA Y SUS 65 AÑOS DE VIDA INSTITUCIONAL, Y DESEARLE LOS MAYORES ÉXITOS EN SU LABOR FORMATIVA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno)",
+        "expediente": "01141-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Nora María Llaque Linares": [
@@ -17345,6 +17397,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Schaefer Cuculiza, Karla Melissa (Fuerza Popular)",
         "expediente": "00207-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 261 (MOCIÓN DE SALUDO): EXPRESAR SU SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA ORGANIZACIÓN DE LA SOCIEDAD CIVIL TOUCH THE WORLD, PRESIDIDA POR ...",
+        "d": "24/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/261",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO, RECONOCIMIENTO Y FELICITACIÓN A LA ORGANIZACIÓN DE LA SOCIEDAD CIVIL TOUCH THE WORLD, PRESIDIDA POR LA SEÑORA MARILÚ LUZMILA ARROYO CASAMAYOR, POR SU TRAYECTORIA Y COMPROMISO CON LA DEFENSA Y PROMOCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD, ESPECIALMENTE DE LAS PERSONAS AUTISTAS Y SUS FAMILIAS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Schaefer Cuculiza, Karla Melissa (Fuerza Popular)",
+        "expediente": "00261-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
@@ -22646,6 +22712,14 @@
         "autores": "(P)Palma Mendoza, José Marvin (Fuerza Popular)",
         "expediente": "01104-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Producción aprueba dictamen para promover compras estatales de productos hidrobiológicos nacionales",
+        "d": "24/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-dictamen-para-promover-compras-estatales-de-productos-hidrobiologicos-nacionales/",
+        "pts": 2
       }
     ],
     "María Lourdes Pia Luisa Alcorta Suero": [
@@ -24092,6 +24166,20 @@
         "autores": "(P)Alvarón De la Cruz, Édgar Adrián (Partido Cívico Obras); (P)Eusebio Padilla, Arturo César (Partido Cívico Obras); (P)Benítez Barrionuevo, Jessica (Partido del Buen Gobierno); (P)García Huby, Fernando Alberto (Partido del Buen Gobierno); (P)Gonzales Polar, Édgar Dember (Partido del Buen Gobierno); (P)Castillo Rivas, Eduardo Enrique (Fuerza Popular); (P)Castro Cruz, Javier Alejandro (Fuerza Popular); (P)Castro Grández, Royser (Fuerza Popular); (P)Quezada Castro, Geanmarco Antonio (Fuerza Popular); (P)Valqui Ordoñez, Jhonn Brayam (Fuerza Popular); (P)Zegarra Sánchez, Carlos Alberto (Fuerza Popular); (P)Chang Apuy, Félix See Hung (Renovación Popular); (P)Yalta Sotelo, Carlos Alberto (Renovación Popular); (P)Guevara Ramírez, Jessica Roxana (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Tapullima Insapillo, Jacqueline Viviana (Juntos por el Perú)",
         "expediente": "00522-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1143 (Mociones de Saludo): EXPRESAR EL CALUROSO SALUDO Y FELICITACIÓN DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL DEPARTAMENTO DE PAS...",
+        "d": "24/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1143",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL CALUROSO SALUDO Y FELICITACIÓN DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL DEPARTAMENTO DE PASCO, CON OCASIÓN DE CONMEMORARSE EL 27 DE NOVIEMBRE DE 2026 EL 82.º ANIVERSARIO DE SU CREACIÓN POLÍTICA, RECONOCIENDO SU IMPORTANCIA HISTÓRICA, CULTURAL, ECONÓMICA Y SOCIAL PARA EL DESARROLLO DEL PERÚ.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Valqui Ordoñez, Jhonn Brayam (Fuerza Popular)",
+        "expediente": "01143-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Estanislao Edgar Mancha Pineda": [
@@ -24235,6 +24323,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Noriega Reátegui, Víctor Manuel (Fuerza Popular)",
         "expediente": "00236-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 260 (MOCIÓN DE SALUDO): EXPRESAR UN AFECTUOSO SALUDO Y FELICITACIÓN A LA PROVINCIA DE HUALLAGA, DEPARTAMENTO DE SAN MARTÍN, CON MOTIVO DE SU 150...",
+        "d": "24/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/260",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN AFECTUOSO SALUDO Y FELICITACIÓN A LA PROVINCIA DE HUALLAGA, DEPARTAMENTO DE SAN MARTÍN, CON MOTIVO DE SU 150.º ANIVERSARIO, Y RENDIR HOMENAJE A LAS GENERACIONES QUE HAN HECHO DE ESTA PROVINCIA SU HOGAR Y HAN CONTRIBUIDO A SU DESARROLLO",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Noriega Reátegui, Víctor Manuel (Fuerza Popular)",
+        "expediente": "00260-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
@@ -24739,6 +24841,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Miyashiro Arashiro, Marco Enrique (Fuerza Popular)",
         "expediente": "00250-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 259 (MOCIÓN DE SALUDO): EXPRESAR EL MÁS CORDIAL Y PATRIÓTICO SALUDO A LA LEGIÓN DE INFANTERÍA DEL PERÚ Y A LA BENEMÉRITA SOCIEDAD FUNDADORES DE ...",
+        "d": "24/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/259",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CORDIAL Y PATRIÓTICO SALUDO A LA LEGIÓN DE INFANTERÍA DEL PERÚ Y A LA BENEMÉRITA SOCIEDAD FUNDADORES DE LA INDEPENDENCIA VENCEDORES EL 2 DE MAYO DE 1866 Y DEFENSORES CALIFICADOS DE LA PATRIA, AL CONMEMORARSE EL 147.º ANIVERSARIO DE LA HEROICA BATALLA DE TARAPACÁ, EL 27 DE NOVIEMBRE DE 2026",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Miyashiro Arashiro, Marco Enrique (Fuerza Popular)",
+        "expediente": "00259-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
