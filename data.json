@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Aprueban medidas para promover la idoneidad de funcionarios y directivos responsables de la gestión del riesgo de desastres",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-medidas-para-promover-la-idoneidad-de-funcionarios-y-directivos-responsables-de-la-gestion-del-riesgo-de-desastres/"
+    },
+    {
+      "title": "Comisión de Producción aprueba dictamen para promover compras estatales de productos hidrobiológicos nacionales",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-dictamen-para-promover-compras-estatales-de-productos-hidrobiologicos-nacionales/"
+    },
+    {
       "title": "Comisión de Desarrollo Agrario elige nuevo vicepresidente y amplía plazo de grupo de trabajo sobre Chinecas",
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
@@ -1619,21 +1631,27 @@
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-cita-al-canciller-carlos-espa-para-este-1-de-diciembre/"
-    },
-    {
-      "title": "Comisión de Justicia del Senado reúne a expertos para evaluar alcances de reforma sobre extinción de dominio",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-reune-a-expertos-para-evaluar-alcances-de-reforma-sobre-extincion-de-dominio/"
-    },
-    {
-      "title": "Debaten dictamen para fortalecer la atención domiciliaria de personas con discapacidad severa",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-dictamen-para-fortalecer-la-atencion-domiciliaria-de-personas-con-discapacidad-severa/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Aprueban dictamen que promueve investigación astronómica y evalúa potencial de La Libertad para albergar un observatorio",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-promueve-investigacion-astronomica-y-evalua-potencial-de-la-libertad-para-albergar-un-observatorio/"
+    },
+    {
+      "title": "Comisión de Justicia aprueba dictámenes para regular obligaciones alimentarias y tipificar nuevos delitos",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-para-regular-obligaciones-alimentarias-y-tipificar-nuevos-delitos/"
+    },
+    {
+      "title": "Aprueban medidas para promover la idoneidad de funcionarios y directivos responsables de la gestión del riesgo de desastres",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-medidas-para-promover-la-idoneidad-de-funcionarios-y-directivos-responsables-de-la-gestion-del-riesgo-de-desastres/"
+    },
     {
       "title": "Comisión de Producción aprueba dictamen para promover compras estatales de productos hidrobiológicos nacionales",
       "source": "Portal del Congreso",
@@ -1663,18 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-exige-esclarecer-compra-de-suero-fisiologico-por-mas-de-s-31-millones/"
-    },
-    {
-      "title": "Comisión de Energía y Minas evalúa adenda que ampliaría a otras regiones distribución de gas natural",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-energia-y-minas-evalua-adenda-que-ampliaria-a-otras-regiones-distribucion-de-gas-natural/"
-    },
-    {
-      "title": "Debaten dictamen para fortalecer la atención domiciliaria de personas con discapacidad severa",
-      "source": "Portal del Congreso",
-      "date": "23 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/debaten-dictamen-para-fortalecer-la-atencion-domiciliaria-de-personas-con-discapacidad-severa/"
     }
   ],
   "events_override": {
@@ -11872,6 +11878,14 @@
         "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
         "expediente": "01125-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Justicia aprueba dictámenes para regular obligaciones alimentarias y tipificar nuevos delitos",
+        "d": "24/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-para-regular-obligaciones-alimentarias-y-tipificar-nuevos-delitos/",
+        "pts": 2
       }
     ],
     "Olver Peña Córdova": [
@@ -23789,6 +23803,14 @@
         "d": "21/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-ciencia-de-la-camara-de-diputados-aprueba-realizar-audiencia-publica-en-quilca-arequipa/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban dictamen que promueve investigación astronómica y evalúa potencial de La Libertad para albergar un observatorio",
+        "d": "24/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-promueve-investigacion-astronomica-y-evalua-potencial-de-la-libertad-para-albergar-un-observatorio/",
         "pts": 2
       }
     ],
