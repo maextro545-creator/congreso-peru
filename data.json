@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Aprueban dictamen que aumenta cuota del Perú en el FMI para fortalecer respaldo financiero ante emergencias",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-aumenta-cuota-del-peru-en-el-fmi-para-fortalecer-respaldo-financiero-ante-emergencias/"
+    },
+    {
       "title": "Liga Parlamentaria de Amistad Perú – Turquía aprobó su plan de trabajo y se reunirá con la embajadora de dicho país",
       "source": "Portal del Congreso",
       "date": "25 Nov 2026",
@@ -1625,15 +1631,15 @@
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-aprueba-archivar-denuncia-contra-la-senadora-ruth-luque/"
-    },
-    {
-      "title": "Citan al ministro de Salud y a la jefa de Cenares por distribución de suero fisiológico defectuoso",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/citan-al-ministro-de-salud-y-a-la-jefa-de-cenares-por-distribucion-de-suero-fisiologico-defectuoso/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Liga parlamentaria Perú- Francia aprueba su plan de trabajo",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-francia-aprueba-su-plan-de-trabajo/"
+    },
     {
       "title": "Aprueban dictamen para ampliar apoyo regional y municipal a la Policía Nacional",
       "source": "Portal del Congreso",
@@ -1669,12 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-otero-propone-en-cade-construir-una-vision-de-pais-para-el-proximo-siglo/"
-    },
-    {
-      "title": "Citan al ministro de Salud y a la jefa de Cenares por distribución de suero fisiológico defectuoso",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/citan-al-ministro-de-salud-y-a-la-jefa-de-cenares-por-distribucion-de-suero-fisiologico-defectuoso/"
     }
   ],
   "events_override": {
@@ -27028,6 +27028,20 @@
         "autores": "(P)Patiño Urco, Ana Bertha (Fuerza Popular)",
         "expediente": "01036-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1147 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE QUICHUAY, PROVINCIA DE HUANCAYO, DEPARTAMENTO JUNÍN, CON MOTIVO...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1147",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE QUICHUAY, PROVINCIA DE HUANCAYO, DEPARTAMENTO JUNÍN, CON MOTIVO DE CONMEMORARSE EL 24 DE NOVIEMBRE DE 2026 EL 71º ANIVERSARIO DE SU CREACIÓN POLÍTICA, RECONOCIÉNDOSE SU HISTORIA, RIQUEZA NATURAL Y CULTURAL Y PRODUCCIÓN AGRÍCOLA Y GANADERA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Patiño Urco, Ana Bertha (Fuerza Popular)",
+        "expediente": "01147-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "César Augusto Astudillo Salcedo": [
@@ -27819,6 +27833,16 @@
         "d": "20/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/diputada-yuli-ambrosio-organizo-el-xiv-forum-nacional-de-mujeres-emprendedoras-2026/",
+        "pts": 2
+      }
+    ],
+    "Jessica Sadith Pérez Quispe": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Liga parlamentaria Perú- Francia aprueba su plan de trabajo",
+        "d": "25/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-francia-aprueba-su-plan-de-trabajo/",
         "pts": 2
       }
     ]
