@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Comisión de Ética del Senado aprueba archivar denuncia contra la senadora Ruth Luque",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-aprueba-archivar-denuncia-contra-la-senadora-ruth-luque/"
+    },
+    {
+      "title": "Citan al ministro de Salud y a la jefa de Cenares por distribución de suero fisiológico defectuoso",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/citan-al-ministro-de-salud-y-a-la-jefa-de-cenares-por-distribucion-de-suero-fisiologico-defectuoso/"
+    },
+    {
+      "title": "Aprueban dictamen que promueve investigación astronómica y evalúa potencial de La Libertad para albergar un observatorio",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-promueve-investigacion-astronomica-y-evalua-potencial-de-la-libertad-para-albergar-un-observatorio/"
+    },
+    {
+      "title": "Comisión de Justicia aprueba dictámenes para regular obligaciones alimentarias y tipificar nuevos delitos",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-para-regular-obligaciones-alimentarias-y-tipificar-nuevos-delitos/"
+    },
+    {
       "title": "Aprueban medidas para promover la idoneidad de funcionarios y directivos responsables de la gestión del riesgo de desastres",
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
@@ -1619,21 +1643,21 @@
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-evalua-redirigir-recursos-de-sedapal-a-obras-de-agua-y-alcantarillado/"
-    },
-    {
-      "title": "Presidente del Congreso inaugura “Feria de Voluntariado 2026” y destaca el apoyo de quienes hacen de la solidaridad su mayor contribución",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-inaugura-feria-de-voluntariado-2026-y-destaca-el-apoyo-de-quienes-hacen-de-la-solidaridad-su-mayor-contribucion/"
-    },
-    {
-      "title": "Comisión de Constitución del Senado cita al canciller Carlos Espá para este 1 de diciembre",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-del-senado-cita-al-canciller-carlos-espa-para-este-1-de-diciembre/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Oscar Reto Otero propone en CADE construir una visión de país para el próximo siglo",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-otero-propone-en-cade-construir-una-vision-de-pais-para-el-proximo-siglo/"
+    },
+    {
+      "title": "Citan al ministro de Salud y a la jefa de Cenares por distribución de suero fisiológico defectuoso",
+      "source": "Portal del Congreso",
+      "date": "24 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/citan-al-ministro-de-salud-y-a-la-jefa-de-cenares-por-distribucion-de-suero-fisiologico-defectuoso/"
+    },
     {
       "title": "Aprueban dictamen que promueve investigación astronómica y evalúa potencial de La Libertad para albergar un observatorio",
       "source": "Portal del Congreso",
@@ -1675,12 +1699,6 @@
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-evalua-redirigir-recursos-de-sedapal-a-obras-de-agua-y-alcantarillado/"
-    },
-    {
-      "title": "Comisión de Salud exige esclarecer compra de suero fisiológico por más de S/31 millones",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-salud-exige-esclarecer-compra-de-suero-fisiologico-por-mas-de-s-31-millones/"
     }
   ],
   "events_override": {
@@ -2113,6 +2131,14 @@
         "d": "20/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/definen-temas-para-ser-debatidos-en-el-pleno-de-diputados-del-jueves-26/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Oscar Reto Otero propone en CADE construir una visión de país para el próximo siglo",
+        "d": "24/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/oscar-reto-otero-propone-en-cade-construir-una-vision-de-pais-para-el-proximo-siglo/",
         "pts": 2
       }
     ],
@@ -8951,6 +8977,14 @@
         "d": "06/10/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-declara-improcedente-denuncia-presentada-contra-ruth-luque/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética del Senado aprueba archivar denuncia contra la senadora Ruth Luque",
+        "d": "24/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-aprueba-archivar-denuncia-contra-la-senadora-ruth-luque/",
         "pts": 2
       }
     ],
@@ -15892,6 +15926,20 @@
         "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
         "expediente": "00620-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1145 (Mociones de Saludo): EN UN GESTO DEMOCRÁTICO, EXPRESAR SU SALUDO CORDIAL Y FELICITAR AL FLAMANTE GOBERNADOR REGIONAL DE LA REGIÓN AYACUCHO, I...",
+        "d": "24/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1145",
+        "pts": 3,
+        "sumilla": "EN UN GESTO DEMOCRÁTICO, EXPRESAR SU SALUDO CORDIAL Y FELICITAR AL FLAMANTE GOBERNADOR REGIONAL DE LA REGIÓN AYACUCHO, INGENIERO PABEL NÉSTOR BELLIDO MIRANDA, AUGURÁNDOLE ÉXITOS Y PARABIENES EN SU GESTIÓN AL MANDO DEL GORE AYACUCHO, EXTENDIÉNDOLE LA MANO COMO SÍMBOLO DE VOLUNTAD POLÍTICA PARA DESARROLLAR UN TRABAJO MANCOMUNADO DONDE SOLO GANE AYACUCHO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01145-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Carlos Alberto Yalta Sotelo": [
@@ -20368,6 +20416,14 @@
         "autores": "(P)Ramos Huillcas, Andrés Avelino (Juntos por el Perú)",
         "expediente": "00203-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Comisión de Ética del Senado aprueba archivar denuncia contra la senadora Ruth Luque",
+        "d": "24/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-etica-del-senado-aprueba-archivar-denuncia-contra-la-senadora-ruth-luque/",
+        "pts": 2
       }
     ],
     "Silvana Emperatriz Robles Araujo": [
