@@ -1597,6 +1597,30 @@
   },
   "senado_news": [
     {
+      "title": "Liga Parlamentaria de Amistad Perú – Turquía aprobó su plan de trabajo y se reunirá con la embajadora de dicho país",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-turquia-aprobo-su-plan-de-trabajo-y-se-reunira-con-la-embajadora-de-dicho-pais/"
+    },
+    {
+      "title": "Comisión de Justicia del Senado evalúa plazos diferenciados para suspender la prescripción penal",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-evalua-plazos-diferenciados-para-suspender-la-prescripcion-penal/"
+    },
+    {
+      "title": "Pleno del Senado verá este viernes 27 solicitud de viaje presidencial a Barranquilla, Colombia",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-vera-este-viernes-27-solicitud-de-viaje-presidencial-a-barranquilla-colombia/"
+    },
+    {
+      "title": "Admiten denuncias constitucionales contra Dina Boluarte y exmiembros de la JNJ",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-denuncias-constitucionales-contra-dina-boluarte-y-exmiembros-de-la-jnj/"
+    },
+    {
       "title": "Comisión de Ética del Senado aprueba archivar denuncia contra la senadora Ruth Luque",
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
@@ -1607,45 +1631,39 @@
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/citan-al-ministro-de-salud-y-a-la-jefa-de-cenares-por-distribucion-de-suero-fisiologico-defectuoso/"
-    },
-    {
-      "title": "Aprueban dictamen que promueve investigación astronómica y evalúa potencial de La Libertad para albergar un observatorio",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-promueve-investigacion-astronomica-y-evalua-potencial-de-la-libertad-para-albergar-un-observatorio/"
-    },
-    {
-      "title": "Comisión de Justicia aprueba dictámenes para regular obligaciones alimentarias y tipificar nuevos delitos",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-para-regular-obligaciones-alimentarias-y-tipificar-nuevos-delitos/"
-    },
-    {
-      "title": "Aprueban medidas para promover la idoneidad de funcionarios y directivos responsables de la gestión del riesgo de desastres",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-medidas-para-promover-la-idoneidad-de-funcionarios-y-directivos-responsables-de-la-gestion-del-riesgo-de-desastres/"
-    },
-    {
-      "title": "Comisión de Producción aprueba dictamen para promover compras estatales de productos hidrobiológicos nacionales",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-dictamen-para-promover-compras-estatales-de-productos-hidrobiologicos-nacionales/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario elige nuevo vicepresidente y amplía plazo de grupo de trabajo sobre Chinecas",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-elige-nuevo-vicepresidente-y-amplia-plazo-de-grupo-de-trabajo-sobre-chinecas/"
-    },
-    {
-      "title": "Comisión de Infraestructura evalúa redirigir recursos de Sedapal a obras de agua y alcantarillado",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-evalua-redirigir-recursos-de-sedapal-a-obras-de-agua-y-alcantarillado/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Aprueban dictamen para ampliar apoyo regional y municipal a la Policía Nacional",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-para-ampliar-apoyo-regional-y-municipal-a-la-policia-nacional/"
+    },
+    {
+      "title": "Aprueban dictamen que aumenta cuota del Perú en el FMI para fortalecer respaldo financiero ante emergencias",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-aumenta-cuota-del-peru-en-el-fmi-para-fortalecer-respaldo-financiero-ante-emergencias/"
+    },
+    {
+      "title": "Liga Parlamentaria de Amistad Perú – Turquía aprobó su plan de trabajo y se reunirá con la embajadora de dicho país",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-turquia-aprobo-su-plan-de-trabajo-y-se-reunira-con-la-embajadora-de-dicho-pais/"
+    },
+    {
+      "title": "Admiten denuncias constitucionales contra Dina Boluarte y exmiembros de la JNJ",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/admiten-denuncias-constitucionales-contra-dina-boluarte-y-exmiembros-de-la-jnj/"
+    },
+    {
+      "title": "Pleno de la Cámara de Diputados sesionará este jueves 26",
+      "source": "Portal del Congreso",
+      "date": "25 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-sesionara-este-jueves-26/"
+    },
     {
       "title": "Oscar Reto Otero propone en CADE construir una visión de país para el próximo siglo",
       "source": "Portal del Congreso",
@@ -1657,48 +1675,6 @@
       "source": "Portal del Congreso",
       "date": "24 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/citan-al-ministro-de-salud-y-a-la-jefa-de-cenares-por-distribucion-de-suero-fisiologico-defectuoso/"
-    },
-    {
-      "title": "Aprueban dictamen que promueve investigación astronómica y evalúa potencial de La Libertad para albergar un observatorio",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-promueve-investigacion-astronomica-y-evalua-potencial-de-la-libertad-para-albergar-un-observatorio/"
-    },
-    {
-      "title": "Comisión de Justicia aprueba dictámenes para regular obligaciones alimentarias y tipificar nuevos delitos",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-aprueba-dictamenes-para-regular-obligaciones-alimentarias-y-tipificar-nuevos-delitos/"
-    },
-    {
-      "title": "Aprueban medidas para promover la idoneidad de funcionarios y directivos responsables de la gestión del riesgo de desastres",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-medidas-para-promover-la-idoneidad-de-funcionarios-y-directivos-responsables-de-la-gestion-del-riesgo-de-desastres/"
-    },
-    {
-      "title": "Comisión de Producción aprueba dictamen para promover compras estatales de productos hidrobiológicos nacionales",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-produccion-aprueba-dictamen-para-promover-compras-estatales-de-productos-hidrobiologicos-nacionales/"
-    },
-    {
-      "title": "Diputado Leo De Paz rindió homenaje y reconoció a miembros de las Fuerzas Armadas y la Policía Nacional",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/diputado-leo-de-paz-rindio-homenaje-y-reconocio-a-miembros-de-las-fuerzas-armadas-y-la-policia-nacional/"
-    },
-    {
-      "title": "Comisión de Desarrollo Agrario elige nuevo vicepresidente y amplía plazo de grupo de trabajo sobre Chinecas",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-desarrollo-agrario-elige-nuevo-vicepresidente-y-amplia-plazo-de-grupo-de-trabajo-sobre-chinecas/"
-    },
-    {
-      "title": "Comisión de Infraestructura evalúa redirigir recursos de Sedapal a obras de agua y alcantarillado",
-      "source": "Portal del Congreso",
-      "date": "24 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-infraestructura-evalua-redirigir-recursos-de-sedapal-a-obras-de-agua-y-alcantarillado/"
     }
   ],
   "events_override": {
@@ -5343,6 +5319,20 @@
         "autores": "(P)Camargo Porta, Raúl Jesús (Partido Cívico Obras)",
         "expediente": "01046-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1150 (Mociones de Saludo): EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1150",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL 15 DE NOVIEMBRE EL 38.º ANIVERSARIO DE SU DECLARACIÓN DE INDEPENDENCIA Y POR CELEBRARSE EL 29 DE NOVIEMBRE EL DÍA INTERNACIONAL DE SOLIDARIDAD CON EL PUEBLO PALESTINO, ESTABLECIDO MEDIANTE LA RESOLUCIÓN 32/40 B, APROBADA POR LA ASAMBLEA GENERAL DE LAS NACIONES UNIDAS EN 1977.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Márquez Huanca, Analí (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Avendaño Vilca, Giannina Iris (Juntos por el Perú); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Cahuaza Mitivire, Oswar Elbis (Juntos por el Perú); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Molina Soto, Nathaly Milagros (Partido del Buen Gobierno)",
+        "expediente": "01150-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Arturo César Eusebio Padilla": [
@@ -7585,6 +7575,20 @@
         "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
         "expediente": "01125-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1150 (Mociones de Saludo): EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1150",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL 15 DE NOVIEMBRE EL 38.º ANIVERSARIO DE SU DECLARACIÓN DE INDEPENDENCIA Y POR CELEBRARSE EL 29 DE NOVIEMBRE EL DÍA INTERNACIONAL DE SOLIDARIDAD CON EL PUEBLO PALESTINO, ESTABLECIDO MEDIANTE LA RESOLUCIÓN 32/40 B, APROBADA POR LA ASAMBLEA GENERAL DE LAS NACIONES UNIDAS EN 1977.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Márquez Huanca, Analí (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Avendaño Vilca, Giannina Iris (Juntos por el Perú); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Cahuaza Mitivire, Oswar Elbis (Juntos por el Perú); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Molina Soto, Nathaly Milagros (Partido del Buen Gobierno)",
+        "expediente": "01150-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Harvey Julio Colchado Huamani": [
@@ -8070,6 +8074,14 @@
         "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
         "expediente": "01125-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban dictamen que aumenta cuota del Perú en el FMI para fortalecer respaldo financiero ante emergencias",
+        "d": "25/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-aumenta-cuota-del-peru-en-el-fmi-para-fortalecer-respaldo-financiero-ante-emergencias/",
+        "pts": 2
       }
     ],
     "José Mercedes Castillo Terrones": [
@@ -12968,6 +12980,20 @@
         "autores": "(P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú)",
         "expediente": "01110-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1150 (Mociones de Saludo): EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1150",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL 15 DE NOVIEMBRE EL 38.º ANIVERSARIO DE SU DECLARACIÓN DE INDEPENDENCIA Y POR CELEBRARSE EL 29 DE NOVIEMBRE EL DÍA INTERNACIONAL DE SOLIDARIDAD CON EL PUEBLO PALESTINO, ESTABLECIDO MEDIANTE LA RESOLUCIÓN 32/40 B, APROBADA POR LA ASAMBLEA GENERAL DE LAS NACIONES UNIDAS EN 1977.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Márquez Huanca, Analí (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Avendaño Vilca, Giannina Iris (Juntos por el Perú); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Cahuaza Mitivire, Oswar Elbis (Juntos por el Perú); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Molina Soto, Nathaly Milagros (Partido del Buen Gobierno)",
+        "expediente": "01150-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Jesús Pérez Alccahuaman": [
@@ -13910,6 +13936,20 @@
         "autores": "(P)Peña Córdova, Olver (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú); Albañil Carmona, Henry Antonio (Partido Cívico Obras); Piñán Mamani, Víctor Eduardo (Partido Cívico Obras); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno)",
         "expediente": "01139-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1149 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO A LAS PERSONAS CON DISCAPACIDAD DE NUESTRO PAÍS, A SUS FAMILIAS Y A SUS ORGANIZACION...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1149",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO Y RECONOCIMIENTO A LAS PERSONAS CON DISCAPACIDAD DE NUESTRO PAÍS, A SUS FAMILIAS Y A SUS ORGANIZACIONES, CON OCASIÓN DE CONMEMORARSE EL 3 DE DICIEMBRE DE 2026 EL DÍA INTERNACIONAL DE LAS PERSONAS CON DISCAPACIDAD; Y REAFIRMAR EL COMPROMISO DE LA CÁMARA DE DIPUTADOS CON LA VIGENCIA EFECTIVA DE SUS DERECHOS, LA ACCESIBILIDAD UNIVERSAL, LA INCLUSIÓN Y LA IGUALDAD DE OPORTUNIDADES.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Zunini Yerren, Ernesto Alonzo (Juntos por el Perú)",
+        "expediente": "01149-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Jessica Roxana Guevara Ramírez": [
@@ -14787,6 +14827,20 @@
         "grupo": "Partido del Buen Gobierno",
         "autores": "(P)Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno)",
         "expediente": "01073-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1147 (Mociones de Saludo): EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE QUICHUAY, PROVINCIA DE HUANCAYO, DEPARTAMENTO JUNÍN, CON MOTIVO...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1147",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN CORDIAL SALUDO Y FELICITACIÓN AL DISTRITO DE QUICHUAY, PROVINCIA DE HUANCAYO, DEPARTAMENTO JUNÍN, CON MOTIVO DE CONMEMORARSE EL 24 DE NOVIEMBRE DE 2026 EL 71º ANIVERSARIO DE SU CREACIÓN POLÍTICA, RECONOCIÉNDOSE SU HISTORIA, RIQUEZA NATURAL Y CULTURAL Y PRODUCCIÓN AGRÍCOLA Y GANADERA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido del Buen Gobierno",
+        "autores": "(P)Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno)",
+        "expediente": "01147-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -16726,6 +16780,20 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-constitucion-y-reglamento-de-la-camara-de-diputados-aprobo-la-creacion-de-4-nuevas-ligas-parlamentarias-de-amistad/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1150 (Mociones de Saludo): EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1150",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL 15 DE NOVIEMBRE EL 38.º ANIVERSARIO DE SU DECLARACIÓN DE INDEPENDENCIA Y POR CELEBRARSE EL 29 DE NOVIEMBRE EL DÍA INTERNACIONAL DE SOLIDARIDAD CON EL PUEBLO PALESTINO, ESTABLECIDO MEDIANTE LA RESOLUCIÓN 32/40 B, APROBADA POR LA ASAMBLEA GENERAL DE LAS NACIONES UNIDAS EN 1977.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Márquez Huanca, Analí (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Avendaño Vilca, Giannina Iris (Juntos por el Perú); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Cahuaza Mitivire, Oswar Elbis (Juntos por el Perú); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Molina Soto, Nathaly Milagros (Partido del Buen Gobierno)",
+        "expediente": "01150-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Marco Antonio Flores Valdizan": [
@@ -17910,6 +17978,20 @@
         "autores": "(P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); Cahuaza Mitivire, Oswar Elbis (Juntos por el Perú); Fernández González, Svieta Valia (Juntos por el Perú); Jibaja Ramos, Luis Ángel (Juntos por el Perú); Lavado Valdivia, Marino Teófilo (Juntos por el Perú); Manay Pillaca, Alejandro José (Juntos por el Perú); Paredes Navarro, Yenifer Noelia (Juntos por el Perú); Pérez Alccahuaman, Jesús (Juntos por el Perú); Perez Quispe, Jessica Sadith (Juntos por el Perú); Tito Rojas, César Hugo (Juntos por el Perú); Zunini Yerren, Ernesto Alonzo (Juntos por el Perú)",
         "expediente": "00652-2026-2031-CD",
         "subtipo": "Conformación de Comisiones de Investigación"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1150 (Mociones de Saludo): EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1150",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL 15 DE NOVIEMBRE EL 38.º ANIVERSARIO DE SU DECLARACIÓN DE INDEPENDENCIA Y POR CELEBRARSE EL 29 DE NOVIEMBRE EL DÍA INTERNACIONAL DE SOLIDARIDAD CON EL PUEBLO PALESTINO, ESTABLECIDO MEDIANTE LA RESOLUCIÓN 32/40 B, APROBADA POR LA ASAMBLEA GENERAL DE LAS NACIONES UNIDAS EN 1977.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Márquez Huanca, Analí (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Avendaño Vilca, Giannina Iris (Juntos por el Perú); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Cahuaza Mitivire, Oswar Elbis (Juntos por el Perú); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Molina Soto, Nathaly Milagros (Partido del Buen Gobierno)",
+        "expediente": "01150-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Graciela Chipana Condori": [
@@ -21663,6 +21745,20 @@
         "grupo": "Partido del Buen Gobierno",
         "autores": "(P)Molina Soto, Nathaly Milagros (Partido del Buen Gobierno)",
         "expediente": "00356-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1150 (Mociones de Saludo): EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1150",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO AL ESTADO DE PALESTINA, A SU PUEBLO Y A LA COMUNIDAD PALESTINA EN EL PERÚ, POR HABERSE CONMEMORADO EL 15 DE NOVIEMBRE EL 38.º ANIVERSARIO DE SU DECLARACIÓN DE INDEPENDENCIA Y POR CELEBRARSE EL 29 DE NOVIEMBRE EL DÍA INTERNACIONAL DE SOLIDARIDAD CON EL PUEBLO PALESTINO, ESTABLECIDO MEDIANTE LA RESOLUCIÓN 32/40 B, APROBADA POR LA ASAMBLEA GENERAL DE LAS NACIONES UNIDAS EN 1977.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Multipartidario",
+        "autores": "(P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Márquez Huanca, Analí (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Avendaño Vilca, Giannina Iris (Juntos por el Perú); (P)Palomino Pacheco, Amalia Emilia (Juntos por el Perú); (P)Cahuaza Mitivire, Oswar Elbis (Juntos por el Perú); (P)Camargo Porta, Raúl Jesús (Partido Cívico Obras); (P)Molina Soto, Nathaly Milagros (Partido del Buen Gobierno)",
+        "expediente": "01150-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -26845,6 +26941,20 @@
         "grupo": "Partido Cívico Obras",
         "autores": "(P)Yataco Torrealva, José Ricardo (Partido Cívico Obras)",
         "expediente": "01135-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1148 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y EFUSIVO SALUDO Y FELICITACIÓN A TODA LA POBLACIÓN DEL DISTRITO DE LOS AQUIJES, PROVINCIA Y DEPA...",
+        "d": "25/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1148",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y EFUSIVO SALUDO Y FELICITACIÓN A TODA LA POBLACIÓN DEL DISTRITO DE LOS AQUIJES, PROVINCIA Y DEPARTAMENTO DE ICA, AL CONMEMORARSE ESTE 29 DE NOVIEMBRE DE 2026 EL CENTENARIO (100 AÑOS) DE SU CREACIÓN POLÍTICA, EN VIRTUD DE LA LEY N.º 5566.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Yataco Torrealva, José Ricardo (Partido Cívico Obras)",
+        "expediente": "01148-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
