@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Aprueban restituir por tres años el reintegro del IGV a las editoriales de libros",
+      "source": "Portal del Congreso",
+      "date": "26 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-restituir-por-tres-anos-el-reintegro-del-igv-a-las-editoriales-de-libros/"
+    },
+    {
       "title": "Presidente del Congreso en CADE Ejecutivos 2026: “Tenemos todavía un puente por terminar: el puente hacia el desarrollo”",
       "source": "Portal del Congreso",
       "date": "25 Nov 2026",
@@ -1631,27 +1637,21 @@
       "source": "Portal del Congreso",
       "date": "25 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-francia-aprueba-su-plan-de-trabajo/"
-    },
-    {
-      "title": "Aprueban dictamen para ampliar apoyo regional y municipal a la Policía Nacional",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-para-ampliar-apoyo-regional-y-municipal-a-la-policia-nacional/"
-    },
-    {
-      "title": "Aprueban dictamen que aumenta cuota del Perú en el FMI para fortalecer respaldo financiero ante emergencias",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-aumenta-cuota-del-peru-en-el-fmi-para-fortalecer-respaldo-financiero-ante-emergencias/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú – Turquía aprobó su plan de trabajo y se reunirá con la embajadora de dicho país",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-turquia-aprobo-su-plan-de-trabajo-y-se-reunira-con-la-embajadora-de-dicho-pais/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Pleno de la Cámara de Diputados acordó invitar al canciller Carlos Espá",
+      "source": "Portal del Congreso",
+      "date": "26 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-acordo-invitar-al-canciller-carlos-espa/"
+    },
+    {
+      "title": "Pleno de Diputados guardó un minuto de silencio por víctimas del dengue en el país",
+      "source": "Portal del Congreso",
+      "date": "26 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-diputados-guardo-un-minuto-de-silencio-por-victimas-del-dengue-en-el-pais/"
+    },
     {
       "title": "Comisión de Trabajo de la Cámara de Diputados aprueba dictamen para garantizar acceso al primer empleo",
       "source": "Portal del Congreso",
@@ -1687,24 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "25 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-francia-aprueba-su-plan-de-trabajo/"
-    },
-    {
-      "title": "Aprueban dictamen para ampliar apoyo regional y municipal a la Policía Nacional",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-para-ampliar-apoyo-regional-y-municipal-a-la-policia-nacional/"
-    },
-    {
-      "title": "Aprueban dictamen que aumenta cuota del Perú en el FMI para fortalecer respaldo financiero ante emergencias",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-que-aumenta-cuota-del-peru-en-el-fmi-para-fortalecer-respaldo-financiero-ante-emergencias/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú – Turquía aprobó su plan de trabajo y se reunirá con la embajadora de dicho país",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-turquia-aprobo-su-plan-de-trabajo-y-se-reunira-con-la-embajadora-de-dicho-pais/"
     }
   ],
   "events_override": {
@@ -3334,6 +3316,20 @@
         "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
         "expediente": "01125-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1163 (Mociones de Saludo): EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE YURA, DE LA PROVINCIA Y DEPARTAMENTO DE ARE...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1163",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO, FELICITACIÓN Y RECONOCIMIENTO AL DISTRITO DE YURA, DE LA PROVINCIA Y DEPARTAMENTO DE AREQUIPA, CON OCASIÓN DE CONMEMORARSE ESTE 08 DE DICIEMBRE EL 152.º ANIVERSARIO DE SU CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación)",
+        "expediente": "01163-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Bernardino Jair Manrique Olivera": [
@@ -4334,6 +4330,20 @@
         "autores": "(P)Arminta Valencia, Marleny Bibiana (Ahora Nación); (P)Holguín Loaiza, César Augusto (Ahora Nación); (P)Huilca Flores, Indira Isabel (Ahora Nación); (P)Marcelo Salazar, José Miguel (Ahora Nación); (P)Meneses Crispin, Ángel Renato (Ahora Nación); (P)Muedas Balbiese, César Augusto (Ahora Nación); (P)Sonco Villanueva, Helard Bladimir (Ahora Nación); (P)Chipana Condori, Graciela (Juntos por el Perú); (P)Fernández González, Svieta Valia (Juntos por el Perú); (P)Holguín Aguirre, James Arturo (Juntos por el Perú); (P)Palomino Casavilca, Catherin Norma (Juntos por el Perú); (P)Peña Córdova, Olver (Juntos por el Perú); (P)Pérez Alccahuaman, Jesús (Juntos por el Perú); (P)Perez Quispe, Jessica Sadith (Juntos por el Perú); (P)Poma Huamani, Haydee Celinda (Juntos por el Perú); (P)Tito Rojas, César Hugo (Juntos por el Perú); (P)Cabrera Nieto, Juan César (Partido Cívico Obras); (P)Hancco Hancco, Dina Irene (Partido Cívico Obras); (P)Masco Cáceres, Luis Aurelio (Partido Cívico Obras); (P)Valqui Calderón, Demetrio Flavio (Partido Cívico Obras); (P)Samanez Gonzales Vigil, Jeenny Cristina (Partido Cívico Obras)",
         "expediente": "01125-2026-2031-CD",
         "subtipo": "Pedidos de Interpelación al Consejo de Ministros o Ministros"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1169 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO D...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1169",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO Y SIGNIFICATIVO SALUDO, ASÍ COMO UN JUSTO RECONOCIMIENTO DE LA CÁMARA DE DIPUTADOS, AL DISTRITO DE CHACAPALPA, DE LA PROVINCIA DE YAULI, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 28 DE NOVIEMBRE SU CENTÉSIMO QUINCUAGÉSIMO ANIVERSARIO DE CREACIÓN POLÍTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Ahora Nación",
+        "autores": "(P)Muedas Balbiese, César Augusto (Ahora Nación)",
+        "expediente": "01169-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Helard Bladimir Sonco Villanueva": [
@@ -6600,6 +6610,48 @@
         "grupo": "Partido Cívico Obras",
         "autores": "(P)Peralta Jorpa, Máximo (Partido Cívico Obras)",
         "expediente": "01142-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1191 (Mociones de Saludo): EXPRESAR EL MÁS CÁLIDO Y FERVIENTE SALUDO INSTITUCIONAL AL DISTRITO DE HUASAHUASI, PROVINCIA DE TARMA, DEPARTAMENTO DE J...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1191",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS CÁLIDO Y FERVIENTE SALUDO INSTITUCIONAL AL DISTRITO DE HUASAHUASI, PROVINCIA DE TARMA, DEPARTAMENTO DE JUNÍN, AL CONMEMORARSE ESTE 28 DE NOVIEMBRE DE 2026 EL 114° ANIVERSARIO DE CREACIÓN POLÍTICA, HACIENDO VOTOS POR SU CONTINUO PROGRESO, BIENESTAR Y DESARROLLO INTEGRAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Peralta Jorpa, Máximo (Partido Cívico Obras)",
+        "expediente": "01191-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1175 (Mociones de Saludo): EXPRESAR EL MÁS FESTIVO SALUDO Y RECONOCIMIENTO INSTITUCIONAL AL EJÉRCITO DEL PERÚ Y, EN PARTICULAR, A TODOS LOS OFICIAL...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1175",
+        "pts": 3,
+        "sumilla": "EXPRESAR EL MÁS FESTIVO SALUDO Y RECONOCIMIENTO INSTITUCIONAL AL EJÉRCITO DEL PERÚ Y, EN PARTICULAR, A TODOS LOS OFICIALES, PERSONAL TÉCNICO, SUBOFICIALES Y PERSONAL DE TROPA DEL ARMA DE INFANTERÍA, AL CONMEMORARSE ESTE VIERNES 27 DE NOVIEMBRE, UN ANIVERSARIO MÁS DE LA BATALLA DE TARAPACÁ Y EL DÍA DEL MARISCAL ANDRÉS AVELINO CÁCERES.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Peralta Jorpa, Máximo (Partido Cívico Obras)",
+        "expediente": "01175-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1166 (Mociones de Saludo): EXTENDER EL MÁS EFUSIVO Y CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE JUNÍN Y AL DISTRITO DE ÓNDORES, AL CONMEMORARS...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1166",
+        "pts": 3,
+        "sumilla": "EXTENDER EL MÁS EFUSIVO Y CORDIAL SALUDO Y FELICITACIÓN A LA PROVINCIA DE JUNÍN Y AL DISTRITO DE ÓNDORES, AL CONMEMORARSE ESTE 27 DE NOVIEMBRE SU 82° ANIVERSARIO DE CREACIÓN POLÍTICA, RECONOCIENDO QUE AMBAS COMUNIDADES REALIZAN UNA VALIOSA CONTRIBUCIÓN AL DESARROLLO HISTÓRICO, ECONÓMICO, AMBIENTAL Y CULTURAL DEL PAÍS, DESTACÁNDOSE ÓNDORES POR SU PRODUCCIÓN SOSTENIBLE DE FIBRA DE VICUÑA Y POR LA PROMOCIÓN DE SU RIQUEZA NATURAL Y COMUNITARIA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Partido Cívico Obras",
+        "autores": "(P)Peralta Jorpa, Máximo (Partido Cívico Obras)",
+        "expediente": "01166-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -9668,6 +9720,20 @@
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/miguel-torres-visito-el-inen-y-reafirma-compromiso-del-congreso-con-la-lucha-contra-el-cancer-infantil/",
         "pts": 2
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1165 (Mociones de Saludo): EXPRESAR SU SALUDO Y RECONOCIMIENTO A LAS MUJERES DEL PAÍS, POR CONMEMORARSE ESTE 25 DE NOVIEMBRE 2026 EL DÍA INTERNACIO...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1165",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU SALUDO Y RECONOCIMIENTO A LAS MUJERES DEL PAÍS, POR CONMEMORARSE ESTE 25 DE NOVIEMBRE 2026 EL DÍA INTERNACIONAL DE LA ELIMINACIÓN DE LA VIOLENCIA CONTRA LA MUJER, HACEMOS VOTOS PARA QUE ELLAS CONTINÚEN EN LA LUCHA DE SUS DERECHOS A TRAVÉS DE SUS ORGANIZACIONES DE BASE SIGAN DESTACANDO EN EL DESARROLLO DEL PAÍS COMO LIDERESAS PARA EL CAMBIO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Dodero Jovich, Pierangeli Daniela (Fuerza Popular)",
+        "expediente": "01165-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "César Hugo Tito Rojas": [
@@ -10847,6 +10913,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Beteta Rubín, Karina Juliza (Fuerza Popular)",
         "expediente": "01140-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1164 (Mociones de Saludo): EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN A LA PROVINCIA DE PACHITEA CON SU CAPITAL, EL DISTRITO DE PANAO, ASÍ COMO A...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1164",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CÁLIDO SALUDO Y FELICITACIÓN A LA PROVINCIA DE PACHITEA CON SU CAPITAL, EL DISTRITO DE PANAO, ASÍ COMO A LOS DISTRITOS DE CHAGLLA, UMARI Y MOLINO, DEL DEPARTAMENTO DE HUÁNUCO, CON MOTIVO DE CONMEMORARSE ESTE 29 DE NOVIEMBRE DE 2026 SU 108° ANIVERSARIO DE CREACIÓN POLÍTICA, FORMULANDO LOS MEJORES DESEOS PARA CONSOLIDAR SU RUMBO HACIA EL DESARROLLO ECONÓMICO, LA JUSTICIA SOCIAL Y LA PROSPERIDAD DE TODA SU POBLACIÓN.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Beteta Rubín, Karina Juliza (Fuerza Popular)",
+        "expediente": "01164-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -16102,6 +16182,118 @@
         "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
         "expediente": "01145-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1162 (Mociones de Saludo): EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE LA MAR, ROMEL PEÑA ATAO AUGURÁNDOLE ÉXIT...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1162",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE LA MAR, ROMEL PEÑA ATAO AUGURÁNDOLE ÉXITOS Y PARABIENES EN SU GESTIÓN AL MANDO DE DICHA MUNICIPALIDAD PROVINCIAL. RECONOCIENDO SU AUTORIDAD, APERTURO LAS PUERTAS DE MI DESPACHO PARA SER UN ALIADO ESTRATÉGICO EN LA GESTIÓN DE DESARROLLO EN FAVOR DEL PUEBLO LAMARINO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01162-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1161 (Mociones de Saludo): EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE VÍCTOR FAJARDO, CASIANO RAMÍREZ HUAMÁN A...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1161",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE VÍCTOR FAJARDO, CASIANO RAMÍREZ HUAMÁN AUGURÁNDOLE ÉXITOS Y PARABIENES EN SU GESTIÓN AL MANDO DE DICHA MUNICIPALIDAD PROVINCIAL. RECONOCIENDO SU AUTORIDAD, APERTURO LAS PUERTAS DE MI DESPACHO PARA SER UN ALIADO ESTRATÉGICO EN LA GESTIÓN DE DESARROLLO EN FAVOR DEL PUEBLO SUCREÑO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01161-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1160 (Mociones de Saludo): EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE PARINACOCHAS, JOHON EDWARD HUACHACA AMAO...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1160",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE PARINACOCHAS, JOHON EDWARD HUACHACA AMAO AUGURÁNDOLE ÉXITOS Y PARABIENES EN SU GESTIÓN AL MANDO DE DICHA MUNICIPALIDAD PROVINCIAL. RECONOCIENDO SU AUTORIDAD, APERTURO LAS PUERTAS DE MI DESPACHO PARA SER UN ALIADO ESTRATÉGICO EN LA GESTIÓN DE DESARROLLO EN FAVOR DEL PUEBLO PARINACOCHANO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01160-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1159 (Mociones de Saludo): EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE SUCRE, YONY RAMOS FLORES AUGURÁNDOLE ÉXI...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1159",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE SUCRE, YONY RAMOS FLORES AUGURÁNDOLE ÉXITOS Y PARABIENES EN SU GESTIÓN AL MANDO DE DICHA MUNICIPALIDAD PROVINCIAL. RECONOCIENDO SU AUTORIDAD, APERTURO LAS PUERTAS DE MI DESPACHO PARA SER UN ALIADO ESTRATÉGICO EN LA GESTIÓN DE DESARROLLO EN FAVOR DEL PUEBLO SUCREÑO.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01159-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1158 (Mociones de Saludo): EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE HUANTA, OMAR SINCHITULLO RUIZ, AUGURÁNDO...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1158",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE HUANTA, OMAR SINCHITULLO RUIZ, AUGURÁNDOLE ÉXITOS Y PARABIENES EN SU GESTIÓN AL MANDO DEDICHA MUNICIPALIDAD PROVINCIAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01158-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1157 (Mociones de Saludo): EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE CANGALLO, ROTIER GÓMEZ HINOSTROZA, AUGUR...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1157",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE CANGALLO, ROTIER GÓMEZ HINOSTROZA, AUGURÁNDOLE ÉXITOS Y PARABIENES EN SU GESTIÓN AL MANDO DE DICHA MUNICIPALIDAD PROVINCIAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01157-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1156 (Mociones de Saludo): EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE HUAMANGA, CARLOS HERENCIA GALLEGOS, AUGU...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1156",
+        "pts": 3,
+        "sumilla": "EXPRESAR UN SALUDO CORDIAL Y ADEMÁS FELICITAR AL FLAMANTE ALCALDE PROVINCIAL DE HUAMANGA, CARLOS HERENCIA GALLEGOS, AUGURÁNDOLE ÉXITOS Y PARABIENES EN SU GESTIÓN AL MANDO DE DICHA MUNICIPALIDAD PROVINCIAL.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01156-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1155 (Mociones de Saludo): EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN A LA ESTUDIANTE DE LA ZONA RURAL, LUCERO NICOL BEJAR ARANGO, QUIEN CON ESFUERZ...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1155",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU CORDIAL SALUDO Y FELICITACIÓN A LA ESTUDIANTE DE LA ZONA RURAL, LUCERO NICOL BEJAR ARANGO, QUIEN CON ESFUERZO Y DEDICACIÓN HA DESTACADO, EN EL ÚLTIMO EXAMEN DE ADMISIÓN DE LA UNIVERSIDAD NACIONAL SAN CRISTOBAL DE HUAMANGA, ALCANZANDO EL PRIMER LUGAR EN LA CARRERA DE ARQUITECTURA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Sulca Castillo, Pilar (Juntos por el Perú)",
+        "expediente": "01155-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
       }
     ],
     "Carlos Alberto Yalta Sotelo": [
@@ -17650,6 +17842,20 @@
         "autores": "(P)Schaefer Cuculiza, Karla Melissa (Fuerza Popular)",
         "expediente": "00261-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 262 (MOCIÓN DE SALUDO): EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA FACULTAD DE INGENIERÍA DE MINAS DE LA UNIVERSIDAD NACIONAL DE PIURA, ...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/S/2026/262",
+        "pts": 3,
+        "sumilla": "EXPRESAR SU MÁS CORDIAL SALUDO Y FELICITACIÓN A LA FACULTAD DE INGENIERÍA DE MINAS DE LA UNIVERSIDAD NACIONAL DE PIURA, CON OCASIÓN DE CONMEMORARSE SUS 50 AÑOS DE VIDA INSTITUCIONAL, RECONOCIENDO SU IMPORTANTE TRAYECTORIA Y CONTRIBUCIÓN A LA FORMACIÓN DE PROFESIONALES Y AL DESARROLLO DE LA REGIÓN PIURA Y DEL PAÍS",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Schaefer Cuculiza, Karla Melissa (Fuerza Popular)",
+        "expediente": "00262-2026-2031-S",
+        "subtipo": "MOCIÓN DE SALUDO"
       }
     ],
     "Roger Miguel Astucuri Laura": [
@@ -18607,6 +18813,20 @@
         "grupo": "Juntos por el Perú",
         "autores": "(P)Manay Pillaca, Alejandro José (Juntos por el Perú)",
         "expediente": "01153-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1154 (Mociones de Saludo): EXPRESAR SALUDOS POR EL 82.° ANIVERSARIO DEL RECONOCIMIENTO COMO COMUNIDAD CAMPESINA DE QUISPILLACCTA, DISTRITO DE CHUSC...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1154",
+        "pts": 3,
+        "sumilla": "EXPRESAR SALUDOS POR EL 82.° ANIVERSARIO DEL RECONOCIMIENTO COMO COMUNIDAD CAMPESINA DE QUISPILLACCTA, DISTRITO DE CHUSCHI, PROVINCIA DE CANGALLO, DEPARTAMENTO DE AYACUCHO, QUE SE CONMEMORA EL 29 DE NOVIEMBRE DE 2026, A SUS AUTORIDADES COMUNALES, TRADICIONALES, COMUNEROS Y COMUNERAS DE SUS 14 LOCALIDADES.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Juntos por el Perú",
+        "autores": "(P)Manay Pillaca, Alejandro José (Juntos por el Perú)",
+        "expediente": "01154-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
@@ -21083,6 +21303,20 @@
         "grupo": "Fuerza Popular",
         "autores": "(P)Quezada Castro, Geanmarco Antonio (Fuerza Popular)",
         "expediente": "01098-2026-2031-CD",
+        "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📌",
+        "a": "Moción N° 1188 (Mociones de Saludo): TRANSMITIR EL MÁS EFUSIVO SALUDO, RECONOCIMIENTO Y FELICITACIÓN DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA A...",
+        "d": "26/11/2026",
+        "tipo": "Moción de Orden del Día",
+        "url": "https://wb2server.congreso.gob.pe/smociones-portal/#/expediente/D/2026/1188",
+        "pts": 3,
+        "sumilla": "TRANSMITIR EL MÁS EFUSIVO SALUDO, RECONOCIMIENTO Y FELICITACIÓN DE LA CÁMARA DE DIPUTADOS DEL CONGRESO DE LA REPÚBLICA AL PUEBLO Y AL GOBIERNO DE LA REPÚBLICA DE RUMANÍA, AL CONMEMORARSE ESTE 1 DE DICIEMBRE EL CENTÉSIMO OCTAVO ANIVERSARIO DE SU DÍA NACIONAL, RINDIENDO UN JUSTO HOMENAJE A SU HISTORIA, A SU CULTURA Y A SU VOCACIÓN DEMOCRÁTICA.",
+        "estado": "PARA SER VISTA POR LA JUNTA DE PORTAVOCES",
+        "grupo": "Fuerza Popular",
+        "autores": "(P)Quezada Castro, Geanmarco Antonio (Fuerza Popular)",
+        "expediente": "01188-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
       }
     ],
