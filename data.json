@@ -1597,6 +1597,18 @@
   },
   "senado_news": [
     {
+      "title": "Aprueban articular vigilancia en salud por contaminación con metales pesados",
+      "source": "Portal del Congreso",
+      "date": "26 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-articular-vigilancia-en-salud-por-contaminacion-con-metales-pesados/"
+    },
+    {
+      "title": "Senador Roger Astucuri presidirá Comisión especial de seguimiento, prevención y respuesta ante el FEN",
+      "source": "Portal del Congreso",
+      "date": "26 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-roger-astucuri-presidira-comision-especial-de-seguimiento-prevencion-y-respuesta-ante-el-fen/"
+    },
+    {
       "title": "Aprueban restituir por tres años el reintegro del IGV a las editoriales de libros",
       "source": "Portal del Congreso",
       "date": "26 Nov 2026",
@@ -1625,26 +1637,26 @@
       "source": "Portal del Congreso",
       "date": "25 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-para-incorporar-el-nombre-del-papa-leon-xiv-a-la-universidad-nacional-autonoma-de-chiclayo/"
-    },
-    {
-      "title": "Se instaló la Liga Parlamentaria de Amistad Perú–Marruecos",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instalo-la-liga-parlamentaria-de-amistad-peru-marruecos/"
-    },
-    {
-      "title": "Liga parlamentaria Perú- Francia aprueba su plan de trabajo",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-francia-aprueba-su-plan-de-trabajo/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Aprueban articular vigilancia en salud por contaminación con metales pesados",
+      "source": "Portal del Congreso",
+      "date": "26 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-articular-vigilancia-en-salud-por-contaminacion-con-metales-pesados/"
+    },
     {
       "title": "Pleno de la Cámara de Diputados acordó invitar al canciller Carlos Espá",
       "source": "Portal del Congreso",
       "date": "26 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-de-la-camara-de-diputados-acordo-invitar-al-canciller-carlos-espa/"
+    },
+    {
+      "title": "Aprueban restituir por tres años el reintegro del IGV a las editoriales de libros",
+      "source": "Portal del Congreso",
+      "date": "26 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-restituir-por-tres-anos-el-reintegro-del-igv-a-las-editoriales-de-libros/"
     },
     {
       "title": "Pleno de Diputados guardó un minuto de silencio por víctimas del dengue en el país",
@@ -1675,18 +1687,6 @@
       "source": "Portal del Congreso",
       "date": "25 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-dictamen-para-incorporar-el-nombre-del-papa-leon-xiv-a-la-universidad-nacional-autonoma-de-chiclayo/"
-    },
-    {
-      "title": "Se instaló la Liga Parlamentaria de Amistad Perú–Marruecos",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instalo-la-liga-parlamentaria-de-amistad-peru-marruecos/"
-    },
-    {
-      "title": "Liga parlamentaria Perú- Francia aprueba su plan de trabajo",
-      "source": "Portal del Congreso",
-      "date": "25 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-francia-aprueba-su-plan-de-trabajo/"
     }
   ],
   "events_override": {
@@ -17928,6 +17928,14 @@
         "autores": "(P)Astucuri Laura, Roger Miguel (Partido Cívico Obras)",
         "expediente": "00226-2026-2031-S",
         "subtipo": "MOCIÓN DE SALUDO"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Senador Roger Astucuri presidirá Comisión especial de seguimiento, prevención y respuesta ante el FEN",
+        "d": "26/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/senador-roger-astucuri-presidira-comision-especial-de-seguimiento-prevencion-y-respuesta-ante-el-fen/",
+        "pts": 2
       }
     ],
     "Felix See Hung Chang Apuy": [
@@ -28227,6 +28235,16 @@
         "d": "25/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-peru-francia-aprueba-su-plan-de-trabajo/",
+        "pts": 2
+      }
+    ],
+    "Haydee Celinda Poma Huamaní": [
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Aprueban articular vigilancia en salud por contaminación con metales pesados",
+        "d": "26/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-articular-vigilancia-en-salud-por-contaminacion-con-metales-pesados/",
         "pts": 2
       }
     ]
