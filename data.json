@@ -1597,10 +1597,34 @@
   },
   "senado_news": [
     {
+      "title": "Presidente del Congreso clausura el programa SECIGRA Derecho 2026 y entrega diplomas de honor a 20 estudiantes",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-clausura-el-programa-secigra-derecho-2026-y-entrega-diplomas-de-honor-a-20-estudiantes/"
+    },
+    {
+      "title": "Liga Parlamentaria de Amistad Perú-Costa Rica aprueba por unanimidad su Plan de Trabajo 2026-2031",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-costa-rica-aprueba-por-unanimidad-su-plan-de-trabajo-2026-2031/"
+    },
+    {
+      "title": "Liga Parlamentaria de Amistad Perú-Singapur aprueba por unanimidad su Plan de Trabajo 2026–2031",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-singapur-aprueba-por-unanimidad-su-plan-de-trabajo-2026-2031/"
+    },
+    {
       "title": "Presidente del Congreso recibe a 30 estudiantes de “Seeds for the Future 2026” y resalta el retorno de la bicameralidad",
       "source": "Portal del Congreso",
       "date": "27 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibe-a-30-estudiantes-de-seeds-for-the-future-2026-y-resalta-el-retorno-de-la-bicameralidad/"
+    },
+    {
+      "title": "Analizan impactos del cambio climático en la seguridad alimentaria y la salud",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/analizan-impactos-del-cambio-climatico-en-la-seguridad-alimentaria-y-la-salud/"
     },
     {
       "title": "Aprueban cambios al Código de Responsabilidad Penal de Adolescentes y agravan penas por extorsión en el transporte público",
@@ -1631,27 +1655,21 @@
       "source": "Portal del Congreso",
       "date": "27 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-dictamen-para-que-donaciones-ante-emergencias-se-apliquen-tambien-por-peligro-inminente/"
-    },
-    {
-      "title": "Comisión de Justicia del Senado acuerda consultar a Comisión de Constitución sobre el trámite urgente de iniciativas legislativas",
-      "source": "Portal del Congreso",
-      "date": "27 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-justicia-del-senado-acuerda-consultar-a-comision-de-constitucion-sobre-el-tramite-urgente-de-iniciativas-legislativas/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú-Japón aprobó su plan de trabajo para fortalecer la cooperación bilateral",
-      "source": "Portal del Congreso",
-      "date": "26 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-japon-aprobo-su-plan-de-trabajo-para-fortalecer-la-cooperacion-bilateral/"
-    },
-    {
-      "title": "Comisión de Procedimientos Especiales aprueba convocatoria y cronograma para selección de 6 magistrados del TC",
-      "source": "Portal del Congreso",
-      "date": "26 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-aprueba-convocatoria-y-cronograma-para-seleccion-de-6-magistrados-del-tc/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Liga Parlamentaria de Amistad Perú-Costa Rica aprueba por unanimidad su Plan de Trabajo 2026-2031",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-costa-rica-aprueba-por-unanimidad-su-plan-de-trabajo-2026-2031/"
+    },
+    {
+      "title": "Liga Parlamentaria de Amistad Perú-Singapur aprueba por unanimidad su Plan de Trabajo 2026–2031",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-singapur-aprueba-por-unanimidad-su-plan-de-trabajo-2026-2031/"
+    },
     {
       "title": "Analizan impactos del cambio climático en la seguridad alimentaria y la salud",
       "source": "Portal del Congreso",
@@ -1663,18 +1681,6 @@
       "source": "Portal del Congreso",
       "date": "27 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/aprueban-cambios-al-codigo-de-responsabilidad-penal-de-adolescentes-y-agravan-penas-por-extorsion-en-el-transporte-publico/"
-    },
-    {
-      "title": "Liga Parlamentaria de Amistad Perú-Japón aprobó su plan de trabajo para fortalecer la cooperación bilateral",
-      "source": "Portal del Congreso",
-      "date": "26 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-japon-aprobo-su-plan-de-trabajo-para-fortalecer-la-cooperacion-bilateral/"
-    },
-    {
-      "title": "Comisión de Procedimientos Especiales aprueba convocatoria y cronograma para selección de 6 magistrados del TC",
-      "source": "Portal del Congreso",
-      "date": "26 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/comision-de-procedimientos-especiales-aprueba-convocatoria-y-cronograma-para-seleccion-de-6-magistrados-del-tc/"
     }
   ],
   "events_override": {
@@ -2867,6 +2873,14 @@
         "d": "27/11/2026",
         "tipo": "Noticia Oficial",
         "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-recibe-a-30-estudiantes-de-seeds-for-the-future-2026-y-resalta-el-retorno-de-la-bicameralidad/",
+        "pts": 2
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Presidente del Congreso clausura el programa SECIGRA Derecho 2026 y entrega diplomas de honor a 20 estudiantes",
+        "d": "27/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/presidente-del-congreso-clausura-el-programa-secigra-derecho-2026-y-entrega-diplomas-de-honor-a-20-estudiantes/",
         "pts": 2
       }
     ],
