@@ -1597,6 +1597,12 @@
   },
   "senado_news": [
     {
+      "title": "Instalan y aprueban plan de trabajo de grupo que fiscalizará obras paralizadas de hospitales",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/instalan-y-aprueban-plan-de-trabajo-de-grupo-que-fiscalizara-obras-paralizadas-de-hospitales/"
+    },
+    {
       "title": "Presidente del Congreso clausura el programa SECIGRA Derecho 2026 y entrega diplomas de honor a 20 estudiantes",
       "source": "Portal del Congreso",
       "date": "27 Nov 2026",
@@ -1637,27 +1643,27 @@
       "source": "Portal del Congreso",
       "date": "27 Nov 2026",
       "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-autoriza-al-ejecutivo-prorroga-del-estado-de-emergencia-en-pataz-y-en-provincias-fronterizas-de-loreto/"
-    },
-    {
-      "title": "Pleno del Senado deroga ley de creación del Colegio Profesional de Artistas del Perú",
-      "source": "Portal del Congreso",
-      "date": "27 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-deroga-ley-de-creacion-del-colegio-profesional-de-artistas-del-peru/"
-    },
-    {
-      "title": "Pleno del Senado prorroga vigencia de exoneraciones contenidas en artículo 19 de Ley del Impuesto a la Renta",
-      "source": "Portal del Congreso",
-      "date": "27 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/pleno-del-senado-prorroga-vigencia-de-exoneraciones-contenidas-en-articulo-19-de-ley-del-impuesto-a-la-renta/"
-    },
-    {
-      "title": "Senado aprueba dictamen para que donaciones ante emergencias se apliquen también por peligro inminente",
-      "source": "Portal del Congreso",
-      "date": "27 Nov 2026",
-      "url": "https://comunicaciones.congreso.gob.pe/noticias/senado-aprueba-dictamen-para-que-donaciones-ante-emergencias-se-apliquen-tambien-por-peligro-inminente/"
     }
   ],
   "diputados_news": [
+    {
+      "title": "Se instala la Liga Parlamentaria de Amistad Perú-Grecia bajo la presidencia de Edwin Espinoza Huillca",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instala-la-liga-parlamentaria-de-amistad-peru-grecia-bajo-la-presidencia-de-edwin-espinoza-huillca/"
+    },
+    {
+      "title": "Liga Parlamentaria de Amistad Perú–Irlanda se instala y elige a Nora Llaque como presidenta",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-irlanda-se-instala-y-elige-a-nora-llaque-como-presidenta/"
+    },
+    {
+      "title": "Instalan y aprueban plan de trabajo de grupo que fiscalizará obras paralizadas de hospitales",
+      "source": "Portal del Congreso",
+      "date": "27 Nov 2026",
+      "url": "https://comunicaciones.congreso.gob.pe/noticias/instalan-y-aprueban-plan-de-trabajo-de-grupo-que-fiscalizara-obras-paralizadas-de-hospitales/"
+    },
     {
       "title": "Liga Parlamentaria de Amistad Perú-Costa Rica aprueba por unanimidad su Plan de Trabajo 2026-2031",
       "source": "Portal del Congreso",
@@ -15234,6 +15240,14 @@
         "autores": "(P)Prado Vallejos, Lila Marianela (Partido del Buen Gobierno); Duarte Patiño de Pezet, Carmen Georgina (Partido del Buen Gobierno); Espinoza Huillca, Edwin (Partido del Buen Gobierno); Fernandez de la Torre, Hilda Judit (Partido del Buen Gobierno); Fernandez Nina, Nery Rodolfo (Partido del Buen Gobierno); García Huby, Fernando Alberto (Partido del Buen Gobierno); Hirache Pizarro, Gloria Charito (Partido del Buen Gobierno); Huaman Cornejo, Miguel Félix (Partido del Buen Gobierno)",
         "expediente": "01151-2026-2031-CD",
         "subtipo": "Pedidos de Declaración de necesidad pública o interes nacional"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Se instala la Liga Parlamentaria de Amistad Perú-Grecia bajo la presidencia de Edwin Espinoza Huillca",
+        "d": "27/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/se-instala-la-liga-parlamentaria-de-amistad-peru-grecia-bajo-la-presidencia-de-edwin-espinoza-huillca/",
+        "pts": 2
       }
     ],
     "Hilda Judit Fernández de la Torre": [
@@ -15562,6 +15576,14 @@
         "autores": "(P)Llaque Linares, Nora María (Partido del Buen Gobierno)",
         "expediente": "00716-2026-2031-CD",
         "subtipo": "Mociones de Saludo"
+      },
+      {
+        "t": "📰",
+        "a": "Mención en noticia oficial: Liga Parlamentaria de Amistad Perú–Irlanda se instala y elige a Nora Llaque como presidenta",
+        "d": "27/11/2026",
+        "tipo": "Noticia Oficial",
+        "url": "https://comunicaciones.congreso.gob.pe/noticias/liga-parlamentaria-de-amistad-peru-irlanda-se-instala-y-elige-a-nora-llaque-como-presidenta/",
+        "pts": 2
       }
     ],
     "Milagros Karina Santana Vera": [
